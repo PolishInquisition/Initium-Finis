@@ -1,0 +1,19 @@
+name = "German Conquest of Como"
+
+1786.3.11 = {
+	add_attacker = GER
+	add_attacker = X03
+	add_attacker = X04
+	add_attacker = X05
+	add_attacker = X06
+	add_attacker = X07
+	add_defender = ITA
+	add_defender = SPA
+
+	war_goal = {
+		casus_belli = acquire_state
+		actor = GER
+		receiver = ITA
+		state_province_id = 726
+	}
+}

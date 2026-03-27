@@ -1,0 +1,9 @@
+owner=RAJ
+controller=RAJ
+add_core=DLH
+add_core=HND
+add_core=RAJ
+trade_goods = tea
+life_rating = 32
+terrain = woods
+fort = 1

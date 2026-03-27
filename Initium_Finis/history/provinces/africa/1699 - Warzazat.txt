@@ -1,0 +1,8 @@
+owner=X24
+controller=X24
+add_core=MOR
+add_core=X24
+trade_goods = fruit
+life_rating = 35
+terrain = desert
+fort = 1

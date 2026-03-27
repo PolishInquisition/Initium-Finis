@@ -1,0 +1,10 @@
+owner=JER
+controller=JER
+add_core=ADE
+add_core=ARA
+add_core=JER
+trade_goods = grain
+life_rating = 35
+terrain = mountain
+naval_base = 2
+fort = 1

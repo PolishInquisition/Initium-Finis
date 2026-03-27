@@ -1,0 +1,66 @@
+capital = 2137
+primary_culture = dummy
+culture = dongren
+culture = dynamic-italian-al_suryah_arabic-culture-num1
+culture = sonoran
+culture = zzz_religion_protestant
+religion = protestant
+government = absolute_monarchy
+plurality = 0
+nationalvalue = nv_order
+literacy = 0.438052
+
+civilized = yes
+
+# Social Reforms
+wage_reform = no_minimum_wage
+work_hours = no_work_hour_limit
+safety_regulations = no_safety
+health_care = no_health_care
+unemployment_subsidies = no_subsidies
+pensions = no_pensions
+school_reforms = no_schools
+
+# political reforms
+slavery=yes_slavery
+vote_franschise=landed_voting
+upper_house_composition=appointed
+voting_system=jefferson_method
+public_meetings=yes_meeting
+press_rights=state_press
+trade_unions=no_trade_unions
+political_parties=underground_parties
+
+ruling_party = MEX_reactionary
+upper_house = 
+{
+	fascist = 0
+	liberal = 10
+	conservative = 85
+	reactionary = 5
+	anarcho_liberal = 0
+	socialist = 0
+	communist = 0
+}
+
+# Starting Consciousness
+consciousness = 1.68093
+nonstate_consciousness= 0.0143719
+
+# Technologies
+basic_chemistry = 1
+bronze_muzzle_loaded_artillery = 1
+classicism_n_early_romanticism = 1
+flintlock_rifles = 1
+late_enlightenment_philosophy = 1
+mechanized_mining = 1
+no_standard = 1
+publishing_industry = 1
+water_wheel_power = 1
+prestige=0
+oob = "SON_OOB.txt"
+set_country_flag = post_colonial_country
+set_country_flag = postcol_1
+set_country_flag = religi
+set_country_flag = vic2_country_SON
+set_country_flag = eu4_country_SNA

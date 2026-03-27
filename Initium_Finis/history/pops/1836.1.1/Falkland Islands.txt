@@ -1,0 +1,53 @@
+2131 = {
+	soldiers=
+	{
+		culture = falklander
+		religion = catholic
+		size= 1
+	}
+
+	artisans=
+	{
+		culture = falklander
+		religion = catholic
+		size= 11
+	}
+
+	clergymen=
+	{
+		culture = falklander
+		religion = catholic
+		size= 1
+	}
+
+	aristocrats=
+	{
+		culture = falklander
+		religion = catholic
+		size= 1
+	}
+
+	farmers=
+	{
+		culture = falklander
+		religion = catholic
+		size= 61
+	}
+
+}
+2133 = {
+	artisans=
+	{
+		culture = platinean
+		religion = catholic
+		size= 1
+	}
+
+	farmers=
+	{
+		culture = platinean
+		religion = catholic
+		size= 12
+	}
+
+}

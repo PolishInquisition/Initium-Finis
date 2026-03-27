@@ -1,0 +1,7 @@
+owner=QIC
+controller=PER
+add_core=QIC
+trade_goods = fish
+life_rating = 35
+terrain = hills
+naval_base = 1

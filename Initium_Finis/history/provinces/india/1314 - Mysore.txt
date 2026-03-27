@@ -1,0 +1,8 @@
+owner=X25
+controller=X25
+add_core=HND
+add_core=MYS
+add_core=X25
+trade_goods = silk
+life_rating = 32
+terrain = hills

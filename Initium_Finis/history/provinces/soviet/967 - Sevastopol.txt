@@ -1,0 +1,8 @@
+owner=PLC
+controller=PLC
+add_core=FEO
+add_core=GRE
+add_core=PLC
+trade_goods = fish
+life_rating = 35
+terrain = mountain

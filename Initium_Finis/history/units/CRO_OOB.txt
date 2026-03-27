@@ -1,0 +1,18 @@
+#Sphere of Influence
+
+BUL = {
+	value = 0
+	level = 2
+}
+CRO = {
+	value = 0
+	level = 2
+}
+VEN = {
+	value = 0
+	level = 2
+}
+
+#Leaders
+
+#Armies

@@ -1,0 +1,10 @@
+owner=JIN
+controller=JIN
+add_core=JIN
+add_core=KHA
+add_core=KLK
+add_core=MGL
+trade_goods = coal
+life_rating = 32
+terrain = plains
+fort = 1

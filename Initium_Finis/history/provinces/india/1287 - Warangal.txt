@@ -1,0 +1,8 @@
+owner=BNG
+controller=BNG
+add_core=BNG
+add_core=GOC
+add_core=HND
+trade_goods = cotton
+life_rating = 32
+terrain = woods

@@ -1,0 +1,12 @@
+owner=LXA
+controller=LXA
+add_core=BUR
+add_core=IDO
+add_core=LXA
+add_core=MNI
+add_core=MPA
+add_core=SHA
+trade_goods = opium
+life_rating = 35
+terrain = mountain
+fort = 1

@@ -1,0 +1,1502 @@
+1181 = {
+	soldiers=
+	{
+		culture = tatar
+		religion = mahayana
+		size= 1033
+	}
+
+	artisans=
+	{
+		culture = tatar
+		religion = mahayana
+		size= 910
+	}
+
+	clergymen=
+	{
+		culture = tatar
+		religion = mahayana
+		size= 66
+	}
+
+	bureaucrats=
+	{
+		culture = tatar
+		religion = mahayana
+		size= 19
+	}
+
+	officers=
+	{
+		culture = tatar
+		religion = mahayana
+		size= 16
+	}
+
+	aristocrats=
+	{
+		culture = tatar
+		religion = mahayana
+		size= 170
+	}
+
+	farmers=
+	{
+		culture = tatar
+		religion = mahayana
+		size= 7891
+	}
+
+	soldiers=
+	{
+		culture = kirgiz
+		religion = catholic
+		size= 92
+	}
+
+	artisans=
+	{
+		culture = kirgiz
+		religion = catholic
+		size= 295
+	}
+
+	clergymen=
+	{
+		culture = kirgiz
+		religion = catholic
+		size= 21
+	}
+
+	bureaucrats=
+	{
+		culture = kirgiz
+		religion = catholic
+		size= 6
+	}
+
+	officers=
+	{
+		culture = kirgiz
+		religion = catholic
+		size= 5
+	}
+
+	aristocrats=
+	{
+		culture = kirgiz
+		religion = catholic
+		size= 55
+	}
+
+	farmers=
+	{
+		culture = kirgiz
+		religion = catholic
+		size= 2803
+	}
+
+}
+1182 = {
+	soldiers=
+	{
+		culture = dynamic-oghuz-culture-num1
+		religion = orthodox
+		size= 37
+	}
+
+	artisans=
+	{
+		culture = dynamic-oghuz-culture-num1
+		religion = orthodox
+		size= 118
+	}
+
+	clergymen=
+	{
+		culture = dynamic-oghuz-culture-num1
+		religion = orthodox
+		size= 9
+	}
+
+	bureaucrats=
+	{
+		culture = dynamic-oghuz-culture-num1
+		religion = orthodox
+		size= 2
+	}
+
+	officers=
+	{
+		culture = dynamic-oghuz-culture-num1
+		religion = orthodox
+		size= 2
+	}
+
+	aristocrats=
+	{
+		culture = dynamic-oghuz-culture-num1
+		religion = orthodox
+		size= 26
+	}
+
+	farmers=
+	{
+		culture = dynamic-oghuz-culture-num1
+		religion = orthodox
+		size= 1121
+	}
+
+	soldiers=
+	{
+		culture = tatar
+		religion = catholic
+		size= 37
+	}
+
+	artisans=
+	{
+		culture = tatar
+		religion = catholic
+		size= 119
+	}
+
+	clergymen=
+	{
+		culture = tatar
+		religion = catholic
+		size= 9
+	}
+
+	bureaucrats=
+	{
+		culture = tatar
+		religion = catholic
+		size= 3
+	}
+
+	officers=
+	{
+		culture = tatar
+		religion = catholic
+		size= 2
+	}
+
+	aristocrats=
+	{
+		culture = tatar
+		religion = catholic
+		size= 26
+	}
+
+	farmers=
+	{
+		culture = tatar
+		religion = catholic
+		size= 1120
+	}
+
+	soldiers=
+	{
+		culture = tatar
+		religion = shiite
+		size= 58
+	}
+
+	artisans=
+	{
+		culture = tatar
+		religion = shiite
+		size= 188
+	}
+
+	clergymen=
+	{
+		culture = tatar
+		religion = shiite
+		size= 14
+	}
+
+	bureaucrats=
+	{
+		culture = tatar
+		religion = shiite
+		size= 4
+	}
+
+	officers=
+	{
+		culture = tatar
+		religion = shiite
+		size= 3
+	}
+
+	aristocrats=
+	{
+		culture = tatar
+		religion = shiite
+		size= 41
+	}
+
+	farmers=
+	{
+		culture = tatar
+		religion = shiite
+		size= 1781
+	}
+
+}
+1183 = {
+	soldiers=
+	{
+		culture = kirgiz
+		religion = orthodox
+		size= 50
+	}
+
+	artisans=
+	{
+		culture = kirgiz
+		religion = orthodox
+		size= 446
+	}
+
+	clergymen=
+	{
+		culture = kirgiz
+		religion = orthodox
+		size= 32
+	}
+
+	bureaucrats=
+	{
+		culture = kirgiz
+		religion = orthodox
+		size= 9
+	}
+
+	officers=
+	{
+		culture = kirgiz
+		religion = orthodox
+		size= 4
+	}
+
+	aristocrats=
+	{
+		culture = kirgiz
+		religion = orthodox
+		size= 42
+	}
+
+	farmers=
+	{
+		culture = kirgiz
+		religion = orthodox
+		size= 4368
+	}
+
+}
+1184 = {
+	soldiers=
+	{
+		culture = tatar
+		religion = mahayana
+		size= 7233
+	}
+
+	artisans=
+	{
+		culture = tatar
+		religion = mahayana
+		size= 1081
+	}
+
+	clergymen=
+	{
+		culture = tatar
+		religion = mahayana
+		size= 78
+	}
+
+	bureaucrats=
+	{
+		culture = tatar
+		religion = mahayana
+		size= 22
+	}
+
+	officers=
+	{
+		culture = tatar
+		religion = mahayana
+		size= 19
+	}
+
+	aristocrats=
+	{
+		culture = tatar
+		religion = mahayana
+		size= 101
+	}
+
+	farmers=
+	{
+		culture = tatar
+		religion = mahayana
+		size= 3475
+	}
+
+	soldiers=
+	{
+		culture = tatar
+		religion = catholic
+		size= 200
+	}
+
+	artisans=
+	{
+		culture = tatar
+		religion = catholic
+		size= 643
+	}
+
+	clergymen=
+	{
+		culture = tatar
+		religion = catholic
+		size= 46
+	}
+
+	bureaucrats=
+	{
+		culture = tatar
+		religion = catholic
+		size= 14
+	}
+
+	officers=
+	{
+		culture = tatar
+		religion = catholic
+		size= 12
+	}
+
+	aristocrats=
+	{
+		culture = tatar
+		religion = catholic
+		size= 60
+	}
+
+	farmers=
+	{
+		culture = tatar
+		religion = catholic
+		size= 6165
+	}
+
+	soldiers=
+	{
+		culture = tatar
+		religion = orthodox
+		size= 45
+	}
+
+	artisans=
+	{
+		culture = tatar
+		religion = orthodox
+		size= 146
+	}
+
+	clergymen=
+	{
+		culture = tatar
+		religion = orthodox
+		size= 11
+	}
+
+	bureaucrats=
+	{
+		culture = tatar
+		religion = orthodox
+		size= 3
+	}
+
+	officers=
+	{
+		culture = tatar
+		religion = orthodox
+		size= 3
+	}
+
+	aristocrats=
+	{
+		culture = tatar
+		religion = orthodox
+		size= 14
+	}
+
+	farmers=
+	{
+		culture = tatar
+		religion = orthodox
+		size= 1401
+	}
+
+	soldiers=
+	{
+		culture = dynamic-nogaybak-culture-num1
+		religion = catholic
+		size= 82
+	}
+
+	artisans=
+	{
+		culture = dynamic-nogaybak-culture-num1
+		religion = catholic
+		size= 263
+	}
+
+	clergymen=
+	{
+		culture = dynamic-nogaybak-culture-num1
+		religion = catholic
+		size= 19
+	}
+
+	bureaucrats=
+	{
+		culture = dynamic-nogaybak-culture-num1
+		religion = catholic
+		size= 6
+	}
+
+	officers=
+	{
+		culture = dynamic-nogaybak-culture-num1
+		religion = catholic
+		size= 5
+	}
+
+	aristocrats=
+	{
+		culture = dynamic-nogaybak-culture-num1
+		religion = catholic
+		size= 25
+	}
+
+	farmers=
+	{
+		culture = dynamic-nogaybak-culture-num1
+		religion = catholic
+		size= 2521
+	}
+
+}
+1185 = {
+	soldiers=
+	{
+		culture = uzbek
+		religion = mahayana
+		size= 1212
+	}
+
+	artisans=
+	{
+		culture = uzbek
+		religion = mahayana
+		size= 3031
+	}
+
+	clergymen=
+	{
+		culture = uzbek
+		religion = mahayana
+		size= 281
+	}
+
+	bureaucrats=
+	{
+		culture = uzbek
+		religion = mahayana
+		size= 67
+	}
+
+	officers=
+	{
+		culture = uzbek
+		religion = mahayana
+		size= 45
+	}
+
+	aristocrats=
+	{
+		culture = uzbek
+		religion = mahayana
+		size= 182
+	}
+
+	farmers=
+	{
+		culture = uzbek
+		religion = mahayana
+		size= 16831
+	}
+
+}
+1186 = {
+	soldiers=
+	{
+		culture = uzbek
+		religion = mahayana
+		size= 468
+	}
+
+	artisans=
+	{
+		culture = uzbek
+		religion = mahayana
+		size= 1504
+	}
+
+	clergymen=
+	{
+		culture = uzbek
+		religion = mahayana
+		size= 109
+	}
+
+	bureaucrats=
+	{
+		culture = uzbek
+		religion = mahayana
+		size= 32
+	}
+
+	officers=
+	{
+		culture = uzbek
+		religion = mahayana
+		size= 27
+	}
+
+	aristocrats=
+	{
+		culture = uzbek
+		religion = mahayana
+		size= 140
+	}
+
+	farmers=
+	{
+		culture = uzbek
+		religion = mahayana
+		size= 14434
+	}
+
+	soldiers=
+	{
+		culture = dynamic-uzbehk-culture-num1
+		religion = mahayana
+		size= 150
+	}
+
+	artisans=
+	{
+		culture = dynamic-uzbehk-culture-num1
+		religion = mahayana
+		size= 484
+	}
+
+	clergymen=
+	{
+		culture = dynamic-uzbehk-culture-num1
+		religion = mahayana
+		size= 35
+	}
+
+	bureaucrats=
+	{
+		culture = dynamic-uzbehk-culture-num1
+		religion = mahayana
+		size= 10
+	}
+
+	officers=
+	{
+		culture = dynamic-uzbehk-culture-num1
+		religion = mahayana
+		size= 9
+	}
+
+	aristocrats=
+	{
+		culture = dynamic-uzbehk-culture-num1
+		religion = mahayana
+		size= 45
+	}
+
+	farmers=
+	{
+		culture = dynamic-uzbehk-culture-num1
+		religion = mahayana
+		size= 4640
+	}
+
+}
+1187 = {
+	soldiers=
+	{
+		culture = uzbek
+		religion = mahayana
+		size= 1154
+	}
+
+	artisans=
+	{
+		culture = uzbek
+		religion = mahayana
+		size= 825
+	}
+
+	clergymen=
+	{
+		culture = uzbek
+		religion = mahayana
+		size= 134
+	}
+
+	bureaucrats=
+	{
+		culture = uzbek
+		religion = mahayana
+		size= 39
+	}
+
+	officers=
+	{
+		culture = uzbek
+		religion = mahayana
+		size= 43
+	}
+
+	aristocrats=
+	{
+		culture = uzbek
+		religion = mahayana
+		size= 173
+	}
+
+	farmers=
+	{
+		culture = uzbek
+		religion = mahayana
+		size= 18245
+	}
+
+}
+1188 = {
+	soldiers=
+	{
+		culture = uzbek
+		religion = mahayana
+		size= 243
+	}
+
+	artisans=
+	{
+		culture = uzbek
+		religion = mahayana
+		size= 782
+	}
+
+	clergymen=
+	{
+		culture = uzbek
+		religion = mahayana
+		size= 56
+	}
+
+	bureaucrats=
+	{
+		culture = uzbek
+		religion = mahayana
+		size= 17
+	}
+
+	officers=
+	{
+		culture = uzbek
+		religion = mahayana
+		size= 14
+	}
+
+	aristocrats=
+	{
+		culture = uzbek
+		religion = mahayana
+		size= 73
+	}
+
+	farmers=
+	{
+		culture = uzbek
+		religion = mahayana
+		size= 7507
+	}
+
+	soldiers=
+	{
+		culture = kazak
+		religion = mahayana
+		size= 487
+	}
+
+	artisans=
+	{
+		culture = kazak
+		religion = mahayana
+		size= 1565
+	}
+
+	clergymen=
+	{
+		culture = kazak
+		religion = mahayana
+		size= 113
+	}
+
+	bureaucrats=
+	{
+		culture = kazak
+		religion = mahayana
+		size= 33
+	}
+
+	officers=
+	{
+		culture = kazak
+		religion = mahayana
+		size= 28
+	}
+
+	aristocrats=
+	{
+		culture = kazak
+		religion = mahayana
+		size= 146
+	}
+
+	farmers=
+	{
+		culture = kazak
+		religion = mahayana
+		size= 15012
+	}
+
+}
+1193 = {
+	soldiers=
+	{
+		culture = turkish
+		religion = mahayana
+		size= 259
+	}
+
+	artisans=
+	{
+		culture = turkish
+		religion = mahayana
+		size= 2333
+	}
+
+	clergymen=
+	{
+		culture = turkish
+		religion = mahayana
+		size= 169
+	}
+
+	bureaucrats=
+	{
+		culture = turkish
+		religion = mahayana
+		size= 39
+	}
+
+	officers=
+	{
+		culture = turkish
+		religion = mahayana
+		size= 21
+	}
+
+	aristocrats=
+	{
+		culture = turkish
+		religion = mahayana
+		size= 436
+	}
+
+	farmers=
+	{
+		culture = turkish
+		religion = mahayana
+		size= 22668
+	}
+
+}
+1194 = {
+	soldiers=
+	{
+		culture = turkish
+		religion = catholic
+		size= 139
+	}
+
+	artisans=
+	{
+		culture = turkish
+		religion = catholic
+		size= 445
+	}
+
+	clergymen=
+	{
+		culture = turkish
+		religion = catholic
+		size= 32
+	}
+
+	bureaucrats=
+	{
+		culture = turkish
+		religion = catholic
+		size= 7
+	}
+
+	officers=
+	{
+		culture = turkish
+		religion = catholic
+		size= 8
+	}
+
+	aristocrats=
+	{
+		culture = turkish
+		religion = catholic
+		size= 83
+	}
+
+	farmers=
+	{
+		culture = turkish
+		religion = catholic
+		size= 4235
+	}
+
+	soldiers=
+	{
+		culture = turkish
+		religion = orthodox
+		size= 73
+	}
+
+	artisans=
+	{
+		culture = turkish
+		religion = orthodox
+		size= 236
+	}
+
+	clergymen=
+	{
+		culture = turkish
+		religion = orthodox
+		size= 17
+	}
+
+	bureaucrats=
+	{
+		culture = turkish
+		religion = orthodox
+		size= 4
+	}
+
+	officers=
+	{
+		culture = turkish
+		religion = orthodox
+		size= 4
+	}
+
+	aristocrats=
+	{
+		culture = turkish
+		religion = orthodox
+		size= 44
+	}
+
+	farmers=
+	{
+		culture = turkish
+		religion = orthodox
+		size= 2242
+	}
+
+}
+1197 = {
+	soldiers=
+	{
+		culture = kirgiz
+		religion = mahayana
+		size= 213
+	}
+
+	artisans=
+	{
+		culture = kirgiz
+		religion = mahayana
+		size= 685
+	}
+
+	clergymen=
+	{
+		culture = kirgiz
+		religion = mahayana
+		size= 49
+	}
+
+	bureaucrats=
+	{
+		culture = kirgiz
+		religion = mahayana
+		size= 14
+	}
+
+	officers=
+	{
+		culture = kirgiz
+		religion = mahayana
+		size= 12
+	}
+
+	aristocrats=
+	{
+		culture = kirgiz
+		religion = mahayana
+		size= 75
+	}
+
+	farmers=
+	{
+		culture = kirgiz
+		religion = mahayana
+		size= 6564
+	}
+
+	soldiers=
+	{
+		culture = dynamic-persian-tajik-oghuz-culture-num1
+		religion = shiite
+		size= 1033
+	}
+
+	artisans=
+	{
+		culture = dynamic-persian-tajik-oghuz-culture-num1
+		religion = shiite
+		size= 3289
+	}
+
+	clergymen=
+	{
+		culture = dynamic-persian-tajik-oghuz-culture-num1
+		religion = shiite
+		size= 238
+	}
+
+	bureaucrats=
+	{
+		culture = dynamic-persian-tajik-oghuz-culture-num1
+		religion = shiite
+		size= 69
+	}
+
+	officers=
+	{
+		culture = dynamic-persian-tajik-oghuz-culture-num1
+		religion = shiite
+		size= 58
+	}
+
+	aristocrats=
+	{
+		culture = dynamic-persian-tajik-oghuz-culture-num1
+		religion = shiite
+		size= 358
+	}
+
+	farmers=
+	{
+		culture = dynamic-persian-tajik-oghuz-culture-num1
+		religion = shiite
+		size= 31495
+	}
+
+}
+2606 = {
+	soldiers=
+	{
+		culture = tatar
+		religion = mahayana
+		size= 1024
+	}
+
+	artisans=
+	{
+		culture = tatar
+		religion = mahayana
+		size= 2559
+	}
+
+	clergymen=
+	{
+		culture = tatar
+		religion = mahayana
+		size= 119
+	}
+
+	bureaucrats=
+	{
+		culture = tatar
+		religion = mahayana
+		size= 42
+	}
+
+	officers=
+	{
+		culture = tatar
+		religion = mahayana
+		size= 39
+	}
+
+	aristocrats=
+	{
+		culture = tatar
+		religion = mahayana
+		size= 230
+	}
+
+	farmers=
+	{
+		culture = tatar
+		religion = mahayana
+		size= 14267
+	}
+
+}
+2610 = {
+	soldiers=
+	{
+		culture = kirgiz
+		religion = orthodox
+		size= 33
+	}
+
+	artisans=
+	{
+		culture = kirgiz
+		religion = orthodox
+		size= 298
+	}
+
+	clergymen=
+	{
+		culture = kirgiz
+		religion = orthodox
+		size= 22
+	}
+
+	bureaucrats=
+	{
+		culture = kirgiz
+		religion = orthodox
+		size= 6
+	}
+
+	officers=
+	{
+		culture = kirgiz
+		religion = orthodox
+		size= 3
+	}
+
+	aristocrats=
+	{
+		culture = kirgiz
+		religion = orthodox
+		size= 56
+	}
+
+	farmers=
+	{
+		culture = kirgiz
+		religion = orthodox
+		size= 2898
+	}
+
+}
+2611 = {
+	soldiers=
+	{
+		culture = turkish
+		religion = catholic
+		size= 82
+	}
+
+	artisans=
+	{
+		culture = turkish
+		religion = catholic
+		size= 117
+	}
+
+	clergymen=
+	{
+		culture = turkish
+		religion = catholic
+		size= 19
+	}
+
+	bureaucrats=
+	{
+		culture = turkish
+		religion = catholic
+		size= 5
+	}
+
+	officers=
+	{
+		culture = turkish
+		religion = catholic
+		size= 5
+	}
+
+	aristocrats=
+	{
+		culture = turkish
+		religion = catholic
+		size= 50
+	}
+
+	farmers=
+	{
+		culture = turkish
+		religion = catholic
+		size= 2649
+	}
+
+	soldiers=
+	{
+		culture = kirgiz
+		religion = catholic
+		size= 53
+	}
+
+	artisans=
+	{
+		culture = kirgiz
+		religion = catholic
+		size= 75
+	}
+
+	clergymen=
+	{
+		culture = kirgiz
+		religion = catholic
+		size= 12
+	}
+
+	bureaucrats=
+	{
+		culture = kirgiz
+		religion = catholic
+		size= 3
+	}
+
+	officers=
+	{
+		culture = kirgiz
+		religion = catholic
+		size= 3
+	}
+
+	aristocrats=
+	{
+		culture = kirgiz
+		religion = catholic
+		size= 32
+	}
+
+	farmers=
+	{
+		culture = kirgiz
+		religion = catholic
+		size= 1704
+	}
+
+}
+2612 = {
+	soldiers=
+	{
+		culture = turkish
+		religion = orthodox
+		size= 288
+	}
+
+	artisans=
+	{
+		culture = turkish
+		religion = orthodox
+		size= 925
+	}
+
+	clergymen=
+	{
+		culture = turkish
+		religion = orthodox
+		size= 67
+	}
+
+	bureaucrats=
+	{
+		culture = turkish
+		religion = orthodox
+		size= 15
+	}
+
+	officers=
+	{
+		culture = turkish
+		religion = orthodox
+		size= 16
+	}
+
+	aristocrats=
+	{
+		culture = turkish
+		religion = orthodox
+		size= 173
+	}
+
+	farmers=
+	{
+		culture = turkish
+		religion = orthodox
+		size= 8793
+	}
+
+	soldiers=
+	{
+		culture = kirgiz
+		religion = mahayana
+		size= 162
+	}
+
+	artisans=
+	{
+		culture = kirgiz
+		religion = mahayana
+		size= 520
+	}
+
+	clergymen=
+	{
+		culture = kirgiz
+		religion = mahayana
+		size= 38
+	}
+
+	bureaucrats=
+	{
+		culture = kirgiz
+		religion = mahayana
+		size= 9
+	}
+
+	officers=
+	{
+		culture = kirgiz
+		religion = mahayana
+		size= 9
+	}
+
+	aristocrats=
+	{
+		culture = kirgiz
+		religion = mahayana
+		size= 97
+	}
+
+	farmers=
+	{
+		culture = kirgiz
+		religion = mahayana
+		size= 4946
+	}
+
+}
+2702 = {
+	soldiers=
+	{
+		culture = dynamic-oghuz-culture-num1
+		religion = orthodox
+		size= 80
+	}
+
+	artisans=
+	{
+		culture = dynamic-oghuz-culture-num1
+		religion = orthodox
+		size= 114
+	}
+
+	clergymen=
+	{
+		culture = dynamic-oghuz-culture-num1
+		religion = orthodox
+		size= 19
+	}
+
+	bureaucrats=
+	{
+		culture = dynamic-oghuz-culture-num1
+		religion = orthodox
+		size= 5
+	}
+
+	officers=
+	{
+		culture = dynamic-oghuz-culture-num1
+		religion = orthodox
+		size= 5
+	}
+
+	aristocrats=
+	{
+		culture = dynamic-oghuz-culture-num1
+		religion = orthodox
+		size= 48
+	}
+
+	farmers=
+	{
+		culture = dynamic-oghuz-culture-num1
+		religion = orthodox
+		size= 2591
+	}
+
+	soldiers=
+	{
+		culture = turkish
+		religion = catholic
+		size= 73
+	}
+
+	artisans=
+	{
+		culture = turkish
+		religion = catholic
+		size= 104
+	}
+
+	clergymen=
+	{
+		culture = turkish
+		religion = catholic
+		size= 17
+	}
+
+	bureaucrats=
+	{
+		culture = turkish
+		religion = catholic
+		size= 5
+	}
+
+	officers=
+	{
+		culture = turkish
+		religion = catholic
+		size= 4
+	}
+
+	aristocrats=
+	{
+		culture = turkish
+		religion = catholic
+		size= 44
+	}
+
+	farmers=
+	{
+		culture = turkish
+		religion = catholic
+		size= 2355
+	}
+
+	soldiers=
+	{
+		culture = turkish
+		religion = mahayana
+		size= 36
+	}
+
+	artisans=
+	{
+		culture = turkish
+		religion = mahayana
+		size= 52
+	}
+
+	clergymen=
+	{
+		culture = turkish
+		religion = mahayana
+		size= 8
+	}
+
+	bureaucrats=
+	{
+		culture = turkish
+		religion = mahayana
+		size= 2
+	}
+
+	officers=
+	{
+		culture = turkish
+		religion = mahayana
+		size= 2
+	}
+
+	aristocrats=
+	{
+		culture = turkish
+		religion = mahayana
+		size= 22
+	}
+
+	farmers=
+	{
+		culture = turkish
+		religion = mahayana
+		size= 1179
+	}
+
+}

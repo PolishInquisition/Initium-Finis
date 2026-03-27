@@ -1,0 +1,8 @@
+owner=MJP
+controller=MJP
+add_core=MJP
+add_core=PHI
+add_core=SUL
+trade_goods = fish
+life_rating = 30
+terrain = plains

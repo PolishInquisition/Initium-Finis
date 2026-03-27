@@ -1,0 +1,8 @@
+owner=YRK
+controller=PER
+add_core=XIN
+add_core=YRK
+trade_goods = grain
+life_rating = 32
+terrain = woods
+fort = 1

@@ -1,0 +1,18 @@
+owner=ENG
+controller=ENG
+add_core=HND
+add_core=MRT
+add_core=X25
+add_core=XMA
+trade_goods = dye
+life_rating = 32
+terrain = farmlands
+colonial=2
+naval_base = 2
+fort = 1
+state_building=
+{
+	level=1
+	building = fabric_factory
+	upgrade = yes
+}

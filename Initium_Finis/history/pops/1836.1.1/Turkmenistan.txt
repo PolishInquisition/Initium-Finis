@@ -1,0 +1,204 @@
+1195 = {
+	soldiers=
+	{
+		culture = dynamic-persian-tajik-oghuz-culture-num1
+		religion = shiite
+		size= 285
+	}
+
+	artisans=
+	{
+		culture = dynamic-persian-tajik-oghuz-culture-num1
+		religion = shiite
+		size= 916
+	}
+
+	clergymen=
+	{
+		culture = dynamic-persian-tajik-oghuz-culture-num1
+		religion = shiite
+		size= 66
+	}
+
+	bureaucrats=
+	{
+		culture = dynamic-persian-tajik-oghuz-culture-num1
+		religion = shiite
+		size= 19
+	}
+
+	officers=
+	{
+		culture = dynamic-persian-tajik-oghuz-culture-num1
+		religion = shiite
+		size= 16
+	}
+
+	aristocrats=
+	{
+		culture = dynamic-persian-tajik-oghuz-culture-num1
+		religion = shiite
+		size= 171
+	}
+
+	farmers=
+	{
+		culture = dynamic-persian-tajik-oghuz-culture-num1
+		religion = shiite
+		size= 8703
+	}
+
+}
+1204 = {
+	soldiers=
+	{
+		culture = dynamic-persian-tajik-oghuz-culture-num1
+		religion = shiite
+		size= 7233
+	}
+
+	artisans=
+	{
+		culture = dynamic-persian-tajik-oghuz-culture-num1
+		religion = shiite
+		size= 1251
+	}
+
+	clergymen=
+	{
+		culture = dynamic-persian-tajik-oghuz-culture-num1
+		religion = shiite
+		size= 204
+	}
+
+	bureaucrats=
+	{
+		culture = dynamic-persian-tajik-oghuz-culture-num1
+		religion = shiite
+		size= 47
+	}
+
+	officers=
+	{
+		culture = dynamic-persian-tajik-oghuz-culture-num1
+		religion = shiite
+		size= 51
+	}
+
+	aristocrats=
+	{
+		culture = dynamic-persian-tajik-oghuz-culture-num1
+		religion = shiite
+		size= 526
+	}
+
+	farmers=
+	{
+		culture = dynamic-persian-tajik-oghuz-culture-num1
+		religion = shiite
+		size= 21979
+	}
+
+}
+1205 = {
+	soldiers=
+	{
+		culture = turkish
+		religion = gnostic
+		size= 205
+	}
+
+	artisans=
+	{
+		culture = turkish
+		religion = gnostic
+		size= 818
+	}
+
+	clergymen=
+	{
+		culture = turkish
+		religion = gnostic
+		size= 133
+	}
+
+	bureaucrats=
+	{
+		culture = turkish
+		religion = gnostic
+		size= 31
+	}
+
+	officers=
+	{
+		culture = turkish
+		religion = gnostic
+		size= 16
+	}
+
+	aristocrats=
+	{
+		culture = turkish
+		religion = gnostic
+		size= 172
+	}
+
+	farmers=
+	{
+		culture = turkish
+		religion = gnostic
+		size= 19087
+	}
+
+}
+1206 = {
+	soldiers=
+	{
+		culture = dynamic-persian-tajik-oghuz-culture-num1
+		religion = shiite
+		size= 4133
+	}
+
+	artisans=
+	{
+		culture = dynamic-persian-tajik-oghuz-culture-num1
+		religion = shiite
+		size= 1337
+	}
+
+	clergymen=
+	{
+		culture = dynamic-persian-tajik-oghuz-culture-num1
+		religion = shiite
+		size= 217
+	}
+
+	bureaucrats=
+	{
+		culture = dynamic-persian-tajik-oghuz-culture-num1
+		religion = shiite
+		size= 64
+	}
+
+	officers=
+	{
+		culture = dynamic-persian-tajik-oghuz-culture-num1
+		religion = shiite
+		size= 53
+	}
+
+	aristocrats=
+	{
+		culture = dynamic-persian-tajik-oghuz-culture-num1
+		religion = shiite
+		size= 656
+	}
+
+	farmers=
+	{
+		culture = dynamic-persian-tajik-oghuz-culture-num1
+		religion = shiite
+		size= 26969
+	}
+
+}

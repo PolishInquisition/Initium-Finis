@@ -1,0 +1,200 @@
+1485 = {
+	soldiers=
+	{
+		culture = min
+		religion = animist
+		size= 16661
+	}
+
+	artisans=
+	{
+		culture = min
+		religion = animist
+		size= 41652
+	}
+
+	clergymen=
+	{
+		culture = min
+		religion = animist
+		size= 1933
+	}
+
+	bureaucrats=
+	{
+		culture = min
+		religion = animist
+		size= 446
+	}
+
+	officers=
+	{
+		culture = min
+		religion = animist
+		size= 476
+	}
+
+	aristocrats=
+	{
+		culture = min
+		religion = animist
+		size= 2499
+	}
+
+	farmers=
+	{
+		culture = min
+		religion = animist
+		size= 233847
+	}
+
+	soldiers=
+	{
+		culture = min
+		religion = mahayana
+		size= 3671
+	}
+
+	artisans=
+	{
+		culture = min
+		religion = mahayana
+		size= 9178
+	}
+
+	clergymen=
+	{
+		culture = min
+		religion = mahayana
+		size= 426
+	}
+
+	bureaucrats=
+	{
+		culture = min
+		religion = mahayana
+		size= 98
+	}
+
+	officers=
+	{
+		culture = min
+		religion = mahayana
+		size= 105
+	}
+
+	aristocrats=
+	{
+		culture = min
+		religion = mahayana
+		size= 551
+	}
+
+	farmers=
+	{
+		culture = min
+		religion = mahayana
+		size= 51525
+	}
+
+}
+2562 = {
+	soldiers=
+	{
+		culture = min
+		religion = animist
+		size= 17582
+	}
+
+	artisans=
+	{
+		culture = min
+		religion = animist
+		size= 43953
+	}
+
+	clergymen=
+	{
+		culture = min
+		religion = animist
+		size= 2041
+	}
+
+	bureaucrats=
+	{
+		culture = min
+		religion = animist
+		size= 471
+	}
+
+	officers=
+	{
+		culture = min
+		religion = animist
+		size= 502
+	}
+
+	aristocrats=
+	{
+		culture = min
+		religion = animist
+		size= 2637
+	}
+
+	farmers=
+	{
+		culture = min
+		religion = animist
+		size= 246765
+	}
+
+	soldiers=
+	{
+		culture = min
+		religion = mahayana
+		size= 3874
+	}
+
+	artisans=
+	{
+		culture = min
+		religion = mahayana
+		size= 9685
+	}
+
+	clergymen=
+	{
+		culture = min
+		religion = mahayana
+		size= 450
+	}
+
+	bureaucrats=
+	{
+		culture = min
+		religion = mahayana
+		size= 104
+	}
+
+	officers=
+	{
+		culture = min
+		religion = mahayana
+		size= 111
+	}
+
+	aristocrats=
+	{
+		culture = min
+		religion = mahayana
+		size= 581
+	}
+
+	farmers=
+	{
+		culture = min
+		religion = mahayana
+		size= 54371
+	}
+
+}

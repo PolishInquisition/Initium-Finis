@@ -1,0 +1,10 @@
+owner=BAL
+controller=BAL
+add_core=BAL
+add_core=JAV
+add_core=MJP
+trade_goods = sulphur
+life_rating = 30
+terrain = plains
+naval_base = 2
+fort = 1

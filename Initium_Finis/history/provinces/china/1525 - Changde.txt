@@ -1,0 +1,8 @@
+owner=CHC
+controller=CHC
+add_core=CHC
+add_core=CHI
+trade_goods = silk
+life_rating = 32
+terrain = plains
+fort = 1

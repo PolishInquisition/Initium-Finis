@@ -1,0 +1,10 @@
+owner=X04
+controller=X04
+add_core=PLC
+add_core=POL
+add_core=WSF
+add_core=X04
+trade_goods = coal
+life_rating = 40
+terrain = woods
+fort = 1

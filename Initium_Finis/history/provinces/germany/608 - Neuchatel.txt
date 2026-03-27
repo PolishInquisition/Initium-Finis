@@ -1,0 +1,9 @@
+owner=X06
+controller=X06
+add_core=BRG
+add_core=FRA
+add_core=X06
+trade_goods = coal
+life_rating = 40
+terrain = mountain
+fort = 1

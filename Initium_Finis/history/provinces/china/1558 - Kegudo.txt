@@ -1,0 +1,8 @@
+owner=YUE
+controller=YUE
+add_core=HND
+add_core=YUE
+trade_goods = grain
+life_rating = 32
+terrain = plains
+fort = 1

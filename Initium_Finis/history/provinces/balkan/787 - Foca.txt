@@ -1,0 +1,8 @@
+owner=VEN
+controller=VEN
+add_core=SER
+add_core=VEN
+add_core=YUG
+trade_goods = coal
+life_rating = 35
+terrain = hills

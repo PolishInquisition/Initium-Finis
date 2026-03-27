@@ -1,0 +1,420 @@
+1191 = {
+	slaves=
+	{
+		culture = uzbek
+		religion = shiite
+		size= 4098
+	}
+
+	soldiers=
+	{
+		culture = tajik
+		religion = shiite
+		size= 1434
+	}
+
+	artisans=
+	{
+		culture = tajik
+		religion = shiite
+		size= 4610
+	}
+
+	clergymen=
+	{
+		culture = tajik
+		religion = shiite
+		size= 333
+	}
+
+	bureaucrats=
+	{
+		culture = tajik
+		religion = shiite
+		size= 98
+	}
+
+	officers=
+	{
+		culture = tajik
+		religion = shiite
+		size= 82
+	}
+
+	aristocrats=
+	{
+		culture = tajik
+		religion = shiite
+		size= 1004
+	}
+
+	farmers=
+	{
+		culture = tajik
+		religion = shiite
+		size= 39562
+	}
+
+}
+1192 = {
+	slaves=
+	{
+		culture = dynamic-persian-tajik-oghuz-culture-num1
+		religion = shiite
+		size= 3179
+	}
+
+	soldiers=
+	{
+		culture = dynamic-persian-tajik-oghuz-culture-num1
+		religion = shiite
+		size= 4133
+	}
+
+	artisans=
+	{
+		culture = dynamic-persian-tajik-oghuz-culture-num1
+		religion = shiite
+		size= 4183
+	}
+
+	clergymen=
+	{
+		culture = dynamic-persian-tajik-oghuz-culture-num1
+		religion = shiite
+		size= 302
+	}
+
+	bureaucrats=
+	{
+		culture = dynamic-persian-tajik-oghuz-culture-num1
+		religion = shiite
+		size= 89
+	}
+
+	officers=
+	{
+		culture = dynamic-persian-tajik-oghuz-culture-num1
+		religion = shiite
+		size= 74
+	}
+
+	aristocrats=
+	{
+		culture = dynamic-persian-tajik-oghuz-culture-num1
+		religion = shiite
+		size= 781
+	}
+
+	farmers=
+	{
+		culture = dynamic-persian-tajik-oghuz-culture-num1
+		religion = shiite
+		size= 33734
+	}
+
+}
+1196 = {
+	soldiers=
+	{
+		culture = dynamic-persian-tajik-oghuz-culture-num1
+		religion = shiite
+		size= 1547
+	}
+
+	artisans=
+	{
+		culture = dynamic-persian-tajik-oghuz-culture-num1
+		religion = shiite
+		size= 2210
+	}
+
+	clergymen=
+	{
+		culture = dynamic-persian-tajik-oghuz-culture-num1
+		religion = shiite
+		size= 359
+	}
+
+	bureaucrats=
+	{
+		culture = dynamic-persian-tajik-oghuz-culture-num1
+		religion = shiite
+		size= 83
+	}
+
+	officers=
+	{
+		culture = dynamic-persian-tajik-oghuz-culture-num1
+		religion = shiite
+		size= 88
+	}
+
+	aristocrats=
+	{
+		culture = dynamic-persian-tajik-oghuz-culture-num1
+		religion = shiite
+		size= 928
+	}
+
+	farmers=
+	{
+		culture = dynamic-persian-tajik-oghuz-culture-num1
+		religion = shiite
+		size= 50031
+	}
+
+}
+1198 = {
+	soldiers=
+	{
+		culture = dynamic-persian-tajik-oghuz-culture-num1
+		religion = shiite
+		size= 7233
+	}
+
+	artisans=
+	{
+		culture = dynamic-persian-tajik-oghuz-culture-num1
+		religion = shiite
+		size= 15203
+	}
+
+	clergymen=
+	{
+		culture = dynamic-persian-tajik-oghuz-culture-num1
+		religion = shiite
+		size= 1177
+	}
+
+	bureaucrats=
+	{
+		culture = dynamic-persian-tajik-oghuz-culture-num1
+		religion = shiite
+		size= 356
+	}
+
+	officers=
+	{
+		culture = dynamic-persian-tajik-oghuz-culture-num1
+		religion = shiite
+		size= 299
+	}
+
+	aristocrats=
+	{
+		culture = dynamic-persian-tajik-oghuz-culture-num1
+		religion = shiite
+		size= 3677
+	}
+
+	farmers=
+	{
+		culture = dynamic-persian-tajik-oghuz-culture-num1
+		religion = shiite
+		size= 157922
+	}
+
+	soldiers=
+	{
+		culture = kirgiz
+		religion = mahayana
+		size= 844
+	}
+
+	artisans=
+	{
+		culture = kirgiz
+		religion = mahayana
+		size= 2444
+	}
+
+	clergymen=
+	{
+		culture = kirgiz
+		religion = mahayana
+		size= 190
+	}
+
+	bureaucrats=
+	{
+		culture = kirgiz
+		religion = mahayana
+		size= 57
+	}
+
+	officers=
+	{
+		culture = kirgiz
+		religion = mahayana
+		size= 48
+	}
+
+	aristocrats=
+	{
+		culture = kirgiz
+		religion = mahayana
+		size= 591
+	}
+
+	farmers=
+	{
+		culture = kirgiz
+		religion = mahayana
+		size= 25699
+	}
+
+}
+1199 = {
+	soldiers=
+	{
+		culture = tajik
+		religion = shiite
+		size= 3887
+	}
+
+	artisans=
+	{
+		culture = tajik
+		religion = shiite
+		size= 12494
+	}
+
+	clergymen=
+	{
+		culture = tajik
+		religion = shiite
+		size= 902
+	}
+
+	bureaucrats=
+	{
+		culture = tajik
+		religion = shiite
+		size= 208
+	}
+
+	officers=
+	{
+		culture = tajik
+		religion = shiite
+		size= 222
+	}
+
+	aristocrats=
+	{
+		culture = tajik
+		religion = shiite
+		size= 1361
+	}
+
+	farmers=
+	{
+		culture = tajik
+		religion = shiite
+		size= 119753
+	}
+
+}
+1200 = {
+	soldiers=
+	{
+		culture = dynamic-persian-tajik-oghuz-culture-num1
+		religion = shiite
+		size= 56833
+	}
+
+	artisans=
+	{
+		culture = dynamic-persian-tajik-oghuz-culture-num1
+		religion = shiite
+		size= 2789
+	}
+
+	clergymen=
+	{
+		culture = dynamic-persian-tajik-oghuz-culture-num1
+		religion = shiite
+		size= 453
+	}
+
+	bureaucrats=
+	{
+		culture = dynamic-persian-tajik-oghuz-culture-num1
+		religion = shiite
+		size= 105
+	}
+
+	officers=
+	{
+		culture = dynamic-persian-tajik-oghuz-culture-num1
+		religion = shiite
+		size= 111
+	}
+
+	aristocrats=
+	{
+		culture = dynamic-persian-tajik-oghuz-culture-num1
+		religion = shiite
+		size= 1172
+	}
+
+	farmers=
+	{
+		culture = dynamic-persian-tajik-oghuz-culture-num1
+		religion = shiite
+		size= 8275
+	}
+
+}
+1202 = {
+	soldiers=
+	{
+		culture = uzbek
+		religion = nestorian
+		size= 2078
+	}
+
+	artisans=
+	{
+		culture = uzbek
+		religion = nestorian
+		size= 6680
+	}
+
+	clergymen=
+	{
+		culture = uzbek
+		religion = nestorian
+		size= 482
+	}
+
+	bureaucrats=
+	{
+		culture = uzbek
+		religion = nestorian
+		size= 111
+	}
+
+	officers=
+	{
+		culture = uzbek
+		religion = nestorian
+		size= 119
+	}
+
+	aristocrats=
+	{
+		culture = uzbek
+		religion = nestorian
+		size= 623
+	}
+
+	farmers=
+	{
+		culture = uzbek
+		religion = nestorian
+		size= 64130
+	}
+
+}

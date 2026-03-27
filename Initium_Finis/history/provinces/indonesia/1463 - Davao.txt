@@ -1,0 +1,9 @@
+owner=SPA
+controller=BRU
+add_core=MGD
+add_core=PGS
+trade_goods = iron
+life_rating = 30
+terrain = jungle
+colonial=2
+naval_base = 2

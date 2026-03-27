@@ -1,0 +1,6 @@
+owner=JER
+controller=JER
+trade_goods = grain
+life_rating = 35
+terrain = desert
+fort = 1

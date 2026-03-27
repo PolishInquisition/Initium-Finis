@@ -1,0 +1,9 @@
+owner=X25
+controller=X25
+add_core=GOC
+add_core=HND
+add_core=X25
+trade_goods = tea
+life_rating = 32
+terrain = plains
+fort = 1

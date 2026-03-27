@@ -1,0 +1,202 @@
+1189 = {
+	soldiers=
+	{
+		culture = dynamic-persian-tajik-oghuz-culture-num1
+		religion = shiite
+		size= 1033
+	}
+
+	artisans=
+	{
+		culture = dynamic-persian-tajik-oghuz-culture-num1
+		religion = shiite
+		size= 2823
+	}
+
+	clergymen=
+	{
+		culture = dynamic-persian-tajik-oghuz-culture-num1
+		religion = shiite
+		size= 204
+	}
+
+	bureaucrats=
+	{
+		culture = dynamic-persian-tajik-oghuz-culture-num1
+		religion = shiite
+		size= 85
+	}
+
+	officers=
+	{
+		culture = dynamic-persian-tajik-oghuz-culture-num1
+		religion = shiite
+		size= 50
+	}
+
+	aristocrats=
+	{
+		culture = dynamic-persian-tajik-oghuz-culture-num1
+		religion = shiite
+		size= 395
+	}
+
+	farmers=
+	{
+		culture = dynamic-persian-tajik-oghuz-culture-num1
+		religion = shiite
+		size= 26775
+	}
+
+	soldiers=
+	{
+		culture = uzbek
+		religion = mahayana
+		size= 847
+	}
+
+	artisans=
+	{
+		culture = uzbek
+		religion = mahayana
+		size= 2722
+	}
+
+	clergymen=
+	{
+		culture = uzbek
+		religion = mahayana
+		size= 196
+	}
+
+	bureaucrats=
+	{
+		culture = uzbek
+		religion = mahayana
+		size= 81
+	}
+
+	officers=
+	{
+		culture = uzbek
+		religion = mahayana
+		size= 48
+	}
+
+	aristocrats=
+	{
+		culture = uzbek
+		religion = mahayana
+		size= 381
+	}
+
+	farmers=
+	{
+		culture = uzbek
+		religion = mahayana
+		size= 25969
+	}
+
+}
+1190 = {
+	soldiers=
+	{
+		culture = dynamic-tibetan-kashmiri-culture-num1
+		religion = mahayana
+		size= 143
+	}
+
+	artisans=
+	{
+		culture = dynamic-tibetan-kashmiri-culture-num1
+		religion = mahayana
+		size= 572
+	}
+
+	clergymen=
+	{
+		culture = dynamic-tibetan-kashmiri-culture-num1
+		religion = mahayana
+		size= 93
+	}
+
+	bureaucrats=
+	{
+		culture = dynamic-tibetan-kashmiri-culture-num1
+		religion = mahayana
+		size= 21
+	}
+
+	officers=
+	{
+		culture = dynamic-tibetan-kashmiri-culture-num1
+		religion = mahayana
+		size= 11
+	}
+
+	aristocrats=
+	{
+		culture = dynamic-tibetan-kashmiri-culture-num1
+		religion = mahayana
+		size= 120
+	}
+
+	farmers=
+	{
+		culture = dynamic-tibetan-kashmiri-culture-num1
+		religion = mahayana
+		size= 13346
+	}
+
+}
+1203 = {
+	soldiers=
+	{
+		culture = uzbek
+		religion = nestorian
+		size= 776
+	}
+
+	artisans=
+	{
+		culture = uzbek
+		religion = nestorian
+		size= 2496
+	}
+
+	clergymen=
+	{
+		culture = uzbek
+		religion = nestorian
+		size= 180
+	}
+
+	bureaucrats=
+	{
+		culture = uzbek
+		religion = nestorian
+		size= 42
+	}
+
+	officers=
+	{
+		culture = uzbek
+		religion = nestorian
+		size= 44
+	}
+
+	aristocrats=
+	{
+		culture = uzbek
+		religion = nestorian
+		size= 233
+	}
+
+	farmers=
+	{
+		culture = uzbek
+		religion = nestorian
+		size= 23957
+	}
+
+}

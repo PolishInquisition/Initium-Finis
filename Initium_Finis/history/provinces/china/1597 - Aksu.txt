@@ -1,0 +1,7 @@
+owner=PER
+controller=DLH
+add_core=PER
+trade_goods = sulphur
+life_rating = 32
+terrain = mountain
+fort = 1

@@ -1,0 +1,13 @@
+owner=CHL
+controller=CHL
+add_core=CHL
+trade_goods = sulphur
+life_rating = 35
+terrain = plains
+naval_base = 1
+state_building=
+{
+	level=1
+	building = explosives_factory
+	upgrade = yes
+}

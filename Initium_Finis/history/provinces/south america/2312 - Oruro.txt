@@ -1,0 +1,13 @@
+owner=BRZ
+controller=BRZ
+add_core=BRZ
+add_core=CRA
+trade_goods = iron
+life_rating = 30
+terrain = desert
+state_building=
+{
+	level=1
+	building = steel_factory
+	upgrade = yes
+}

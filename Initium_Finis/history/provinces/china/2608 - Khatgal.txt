@@ -1,0 +1,9 @@
+owner=PER
+controller=PER
+add_core=KHA
+add_core=KLK
+add_core=MGL
+trade_goods = iron
+life_rating = 32
+terrain = hills
+fort = 1

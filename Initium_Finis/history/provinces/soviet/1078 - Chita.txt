@@ -1,0 +1,9 @@
+owner=QIC
+controller=PER
+add_core=BRY
+add_core=QIC
+add_core=YAK
+trade_goods = timber
+life_rating = 35
+terrain = woods
+fort = 1

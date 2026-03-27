@@ -1,0 +1,571 @@
+1892 = {
+	aristocrats=
+	{
+		culture = akan
+		religion = animist
+		size= 500
+	}
+
+	clergymen=
+	{
+		culture = akan
+		religion = animist
+		size= 275
+	}
+
+	artisans=
+	{
+		culture = akan
+		religion = animist
+		size= 1075
+	}
+
+	soldiers=
+	{
+		culture = akan
+		religion = animist
+		size= 275
+	}
+
+	farmers=
+	{
+		culture = akan
+		religion = animist
+		size= 19875
+	}
+
+	slaves=
+	{
+		culture = akan
+		religion = animist
+		size= 5000
+	}
+
+}
+1893 = {
+	aristocrats=
+	{
+		culture = akan
+		religion = animist
+		size= 225
+	}
+
+	clergymen=
+	{
+		culture = akan
+		religion = animist
+		size= 125
+	}
+
+	artisans=
+	{
+		culture = akan
+		religion = animist
+		size= 500
+	}
+
+	soldiers=
+	{
+		culture = akan
+		religion = animist
+		size= 125
+	}
+
+	farmers=
+	{
+		culture = akan
+		religion = animist
+		size= 8025
+	}
+
+	slaves=
+	{
+		culture = akan
+		religion = animist
+		size= 3000
+	}
+
+	aristocrats=
+	{
+		culture = kru
+		religion = animist
+		size= 725
+	}
+
+	clergymen=
+	{
+		culture = kru
+		religion = animist
+		size= 375
+	}
+
+	artisans=
+	{
+		culture = kru
+		religion = animist
+		size= 1500
+	}
+
+	soldiers=
+	{
+		culture = kru
+		religion = animist
+		size= 375
+	}
+
+	farmers=
+	{
+		culture = kru
+		religion = animist
+		size= 22025
+	}
+
+	slaves=
+	{
+		culture = kru
+		religion = animist
+		size= 10000
+	}
+
+}
+1894 = {
+	aristocrats=
+	{
+		culture = akan
+		religion = animist
+		size= 425
+	}
+
+	clergymen=
+	{
+		culture = akan
+		religion = animist
+		size= 225
+	}
+
+	artisans=
+	{
+		culture = akan
+		religion = animist
+		size= 1100
+	}
+
+	soldiers=
+	{
+		culture = akan
+		religion = animist
+		size= 225
+	}
+
+	farmers=
+	{
+		culture = akan
+		religion = animist
+		size= 16025
+	}
+
+	slaves=
+	{
+		culture = akan
+		religion = animist
+		size= 4000
+	}
+
+}
+1895 = {
+	aristocrats=
+	{
+		culture = akan
+		religion = animist
+		size= 225
+	}
+
+	clergymen=
+	{
+		culture = akan
+		religion = animist
+		size= 125
+	}
+
+	artisans=
+	{
+		culture = akan
+		religion = animist
+		size= 600
+	}
+
+	soldiers=
+	{
+		culture = akan
+		religion = animist
+		size= 125
+	}
+
+	farmers=
+	{
+		culture = akan
+		religion = animist
+		size= 8925
+	}
+
+	slaves=
+	{
+		culture = akan
+		religion = animist
+		size= 2000
+	}
+
+	aristocrats=
+	{
+		culture = mande
+		religion = sunni
+		size= 50
+	}
+
+	clergymen=
+	{
+		culture = mande
+		religion = sunni
+		size= 75
+	}
+
+	artisans=
+	{
+		culture = mande
+		religion = sunni
+		size= 150
+	}
+
+	soldiers=
+	{
+		culture = mande
+		religion = sunni
+		size= 25
+	}
+
+	farmers=
+	{
+		culture = mande
+		religion = sunni
+		size= 2700
+	}
+
+}
+1896 = {
+	aristocrats=
+	{
+		culture = mande
+		religion = sunni
+		size= 150
+	}
+
+	clergymen=
+	{
+		culture = mande
+		religion = sunni
+		size= 75
+	}
+
+	artisans=
+	{
+		culture = mande
+		religion = sunni
+		size= 400
+	}
+
+	soldiers=
+	{
+		culture = mande
+		religion = sunni
+		size= 75
+	}
+
+	farmers=
+	{
+		culture = mande
+		religion = sunni
+		size= 7300
+	}
+
+	aristocrats=
+	{
+		culture = kru
+		religion = animist
+		size= 425
+	}
+
+	clergymen=
+	{
+		culture = kru
+		religion = animist
+		size= 225
+	}
+
+	artisans=
+	{
+		culture = kru
+		religion = animist
+		size= 1100
+	}
+
+	soldiers=
+	{
+		culture = kru
+		religion = animist
+		size= 225
+	}
+
+	farmers=
+	{
+		culture = kru
+		religion = animist
+		size= 15025
+	}
+
+	slaves=
+	{
+		culture = kru
+		religion = animist
+		size= 5000
+	}
+
+}
+1897 = {
+	aristocrats=
+	{
+		culture = akan
+		religion = animist
+		size= 425
+	}
+
+	clergymen=
+	{
+		culture = akan
+		religion = animist
+		size= 225
+	}
+
+	artisans=
+	{
+		culture = akan
+		religion = animist
+		size= 950
+	}
+
+	soldiers=
+	{
+		culture = akan
+		religion = animist
+		size= 250
+	}
+
+	farmers=
+	{
+		culture = akan
+		religion = animist
+		size= 18150
+	}
+
+	slaves=
+	{
+		culture = akan
+		religion = animist
+		size= 3000
+	}
+
+}
+1898 = {
+	slaves=
+	{
+		culture = mande
+		religion = sunni
+		size= 4000
+	}
+
+	soldiers=
+	{
+		culture = mande
+		religion = sunni
+		size= 4133
+	}
+
+	artisans=
+	{
+		culture = mande
+		religion = sunni
+		size= 3080
+	}
+
+	clergymen=
+	{
+		culture = mande
+		religion = sunni
+		size= 286
+	}
+
+	bureaucrats=
+	{
+		culture = mande
+		religion = sunni
+		size= 46
+	}
+
+	officers=
+	{
+		culture = mande
+		religion = sunni
+		size= 64
+	}
+
+	aristocrats=
+	{
+		culture = mande
+		religion = sunni
+		size= 277
+	}
+
+	farmers=
+	{
+		culture = mande
+		religion = sunni
+		size= 10114
+	}
+
+}
+1899 = {
+	aristocrats=
+	{
+		culture = dyula
+		religion = sunni
+		size= 200
+	}
+
+	clergymen=
+	{
+		culture = dyula
+		religion = sunni
+		size= 100
+	}
+
+	artisans=
+	{
+		culture = dyula
+		religion = sunni
+		size= 550
+	}
+
+	soldiers=
+	{
+		culture = dyula
+		religion = sunni
+		size= 125
+	}
+
+	farmers=
+	{
+		culture = dyula
+		religion = sunni
+		size= 7025
+	}
+
+	aristocrats=
+	{
+		culture = senufo
+		religion = animist
+		size= 125
+	}
+
+	clergymen=
+	{
+		culture = senufo
+		religion = animist
+		size= 75
+	}
+
+	artisans=
+	{
+		culture = senufo
+		religion = animist
+		size= 350
+	}
+
+	soldiers=
+	{
+		culture = senufo
+		religion = animist
+		size= 75
+	}
+
+	farmers=
+	{
+		culture = senufo
+		religion = animist
+		size= 6375
+	}
+
+	slaves=
+	{
+		culture = senufo
+		religion = animist
+		size= 3000
+	}
+
+}
+1900 = {
+	slaves=
+	{
+		culture = dynamic-mali-culture-num2
+		religion = sunni
+		size= 2907
+	}
+
+	soldiers=
+	{
+		culture = dynamic-mali-culture-num2
+		religion = sunni
+		size= 1300
+	}
+
+	artisans=
+	{
+		culture = dynamic-mali-culture-num2
+		religion = sunni
+		size= 3249
+	}
+
+	clergymen=
+	{
+		culture = dynamic-mali-culture-num2
+		religion = sunni
+		size= 302
+	}
+
+	bureaucrats=
+	{
+		culture = dynamic-mali-culture-num2
+		religion = sunni
+		size= 49
+	}
+
+	officers=
+	{
+		culture = dynamic-mali-culture-num2
+		religion = sunni
+		size= 49
+	}
+
+	aristocrats=
+	{
+		culture = dynamic-mali-culture-num2
+		religion = sunni
+		size= 292
+	}
+
+	farmers=
+	{
+		culture = dynamic-mali-culture-num2
+		religion = sunni
+		size= 15060
+	}
+
+}

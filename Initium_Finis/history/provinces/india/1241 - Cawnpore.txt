@@ -1,0 +1,10 @@
+owner=BUN
+controller=BUN
+add_core=AWA
+add_core=BUN
+add_core=DLH
+add_core=HND
+trade_goods = dye
+life_rating = 32
+terrain = farmlands
+fort = 1

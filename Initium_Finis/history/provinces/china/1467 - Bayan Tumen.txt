@@ -1,0 +1,9 @@
+owner=QIC
+controller=QIC
+add_core=KHA
+add_core=MGL
+add_core=QIC
+trade_goods = cattle
+life_rating = 32
+terrain = woods
+fort = 1

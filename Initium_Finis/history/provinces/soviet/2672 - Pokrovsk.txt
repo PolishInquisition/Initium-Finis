@@ -1,0 +1,6 @@
+owner=QIC
+controller=PER
+add_core=QIC
+trade_goods = timber
+life_rating = 15
+terrain = forest

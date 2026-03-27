@@ -1,0 +1,677 @@
+#Sphere of Influence
+
+AJU = {
+	value = 0
+	level = 2
+}
+ALD = {
+	value = 0
+	level = 2
+}
+AST = {
+	value = 0
+	level = 2
+}
+ATJ = {
+	value = 0
+	level = 2
+}
+AUI = {
+	value = 0
+	level = 2
+}
+AUK = {
+	value = 0
+	level = 2
+}
+AVA = {
+	value = 0
+	level = 2
+}
+BAL = {
+	value = 0
+	level = 2
+}
+BAV = {
+	value = 0
+	level = 2
+}
+BNG = {
+	value = 0
+	level = 2
+}
+BNJ = {
+	value = 0
+	level = 2
+}
+BRU = {
+	value = 0
+	level = 2
+}
+BRZ = {
+	value = 0
+	level = 2
+}
+BTN = {
+	value = 0
+	level = 2
+}
+BUG = {
+	value = 0
+	level = 2
+}
+BUL = {
+	value = 0
+	level = 2
+}
+BUN = {
+	value = 0
+	level = 2
+}
+BUR = {
+	value = 0
+	level = 2
+}
+CAL = {
+	value = 0
+	level = 2
+}
+CAM = {
+	value = 0
+	level = 2
+}
+CHC = {
+	value = 0
+	level = 2
+}
+CHH = {
+	value = 0
+	level = 2
+}
+CHL = {
+	value = 0
+	level = 2
+}
+CHU = {
+	value = 0
+	level = 2
+}
+CHV = {
+	value = 0
+	level = 2
+}
+CLM = {
+	value = 0
+	level = 2
+}
+COL = {
+	value = 0
+	level = 2
+}
+CUB = {
+	value = 0
+	level = 2
+}
+DAI = {
+	value = 0
+	level = 2
+}
+DEN = {
+	value = 0
+	level = 2
+}
+DJA = {
+	value = 0
+	level = 2
+}
+DLH = {
+	value = 0
+	level = 2
+}
+DLI = {
+	value = 0
+	level = 2
+}
+ENG = {
+	value = 0
+	level = 2
+}
+FJL = {
+	value = 0
+	level = 2
+}
+FJV = {
+	value = 0
+	level = 2
+}
+GDW = {
+	value = 0
+	level = 2
+}
+GER = {
+	value = 0
+	level = 2
+}
+GHR = {
+	value = 0
+	level = 2
+}
+HWH = {
+	value = 0
+	level = 2
+}
+HWK = {
+	value = 0
+	level = 2
+}
+HWM = {
+	value = 0
+	level = 2
+}
+HWO = {
+	value = 0
+	level = 2
+}
+ITA = {
+	value = 0
+	level = 2
+}
+JAP = {
+	value = 0
+	level = 2
+}
+JER = {
+	value = -49
+	level = 2
+}
+JIN = {
+	value = 0
+	level = 2
+}
+KBO = {
+	value = 0
+	level = 2
+}
+KCX = {
+	value = 0
+	level = 2
+}
+KED = {
+	value = 0
+	level = 2
+}
+KHA = {
+	value = 0
+	level = 2
+}
+KLD = {
+	value = 0
+	level = 2
+}
+KON = {
+	value = 0
+	level = 2
+}
+KOR = {
+	value = 0
+	level = 2
+}
+KTI = {
+	value = 0
+	level = 2
+}
+LOU = {
+	value = 0
+	level = 2
+}
+LSK = {
+	value = 0
+	level = 2
+}
+LUN = {
+	value = 4
+	level = 2
+}
+LXA = {
+	value = 0
+	level = 2
+}
+MAW = {
+	value = 0
+	level = 2
+}
+MEX = {
+	value = 0
+	level = 2
+}
+MJP = {
+	value = 0
+	level = 2
+}
+MKS = {
+	value = 0
+	level = 2
+}
+ML1 = {
+	value = 94
+	influence_value = 11
+	level = 2
+}
+MLC = {
+	value = 0
+	level = 2
+}
+MNX = {
+	value = 0
+	level = 2
+}
+MOR = {
+	value = 0
+	level = 2
+}
+MOS = {
+	value = 0
+	level = 2
+}
+MRT = {
+	value = 0
+	level = 2
+}
+NEP = {
+	value = 0
+	level = 2
+}
+NZM = {
+	value = 0
+	level = 2
+}
+ORI = {
+	value = 0
+	level = 2
+}
+ORL = {
+	value = -24
+	level = 2
+}
+PAT = {
+	value = 9
+	level = 2
+}
+PER = {
+	value = 0
+	level = 2
+}
+PGR = {
+	value = 0
+	level = 2
+}
+PGS = {
+	value = 0
+	level = 2
+}
+PLC = {
+	value = 0
+	level = 2
+}
+PSA = {
+	value = 0
+	level = 2
+}
+QIC = {
+	value = 0
+	level = 2
+}
+QUE = {
+	value = 0
+	level = 2
+}
+RAJ = {
+	value = 0
+	level = 2
+}
+RUS = {
+	value = 0
+	level = 2
+}
+SIA = {
+	value = 0
+	level = 2
+}
+SIE = {
+	value = 0
+	level = 2
+}
+SMO = {
+	value = 0
+	level = 2
+}
+SON = {
+	value = 0
+	level = 2
+}
+SOO = {
+	value = 0
+	level = 2
+}
+SPA = {
+	value = -3
+	level = 2
+}
+SUL = {
+	value = 0
+	level = 2
+}
+SUN = {
+	value = 0
+	level = 2
+}
+TEX = {
+	value = 0
+	level = 2
+}
+TGA = {
+	value = 0
+	level = 2
+}
+TID = {
+	value = 0
+	level = 2
+}
+TRT = {
+	value = 0
+	level = 2
+}
+TTE = {
+	value = 0
+	level = 2
+}
+USA = {
+	value = 0
+	level = 2
+}
+UTS = {
+	value = 0
+	level = 2
+}
+VEN = {
+	value = 0
+	level = 2
+}
+X03 = {
+	value = 0
+	level = 2
+}
+X04 = {
+	value = 0
+	level = 2
+}
+X05 = {
+	value = 0
+	level = 2
+}
+X06 = {
+	value = 0
+	level = 2
+}
+X07 = {
+	value = 0
+	level = 2
+}
+X08 = {
+	value = 0
+	level = 2
+}
+X20 = {
+	value = 0
+	level = 2
+}
+X24 = {
+	value = 0
+	level = 2
+}
+X25 = {
+	value = 0
+	level = 2
+}
+X26 = {
+	value = 0
+	level = 2
+}
+YEM = {
+	value = 337
+	influence_value = 71
+	level = 4
+}
+YRK = {
+	value = 0
+	level = 2
+}
+YUE = {
+	value = 0
+	level = 2
+}
+ZIM = {
+	value = 0
+	level = 2
+}
+
+#Leaders
+leader = {
+	name="Hamalmal Abdallah"
+	date="1758.4.14"
+	type=land
+	personality="coolminded"
+	background="generals_aide"
+}
+
+leader = {
+	name="Hamalmal Hassan"
+	date="1765.3.3"
+	type=sea
+	personality="balanced_p"
+	background="generals_aide"
+}
+
+leader = {
+	name="Mansur Abdallah"
+	date="1766.8.4"
+	type=sea
+	personality="disciplined"
+	background="uncommonly_young"
+}
+
+
+#Armies
+army = {
+	name="Army of Las Khorey"
+	location=2040
+	regiment = {
+		name="1st Hobyo Irregulars"
+		type=irregular
+		home=1871
+	}
+	regiment = {
+		name="1st Mogadishu Irregulars"
+		type=irregular
+		home=1868
+	}
+	regiment = {
+		name="1st Mogadishu Artillery"
+		type=artillery
+		home=1868
+	}
+	regiment = {
+		name="2nd Bosaso Artillery"
+		type=artillery
+		home=1872
+	}
+}
+
+navy = {
+	name="3rd Fleet"
+	location=1872
+	ship = {
+		name="1st Bosaso Man'o'war"
+		type=manowar
+	}
+	ship = {
+		name="2nd Bosaso Man'o'war"
+		type=manowar
+	}
+	ship = {
+		name="3rd Bosaso Man'o'war"
+		type=manowar
+	}
+	ship = {
+		name="4th Bosaso Man'o'war"
+		type=manowar
+	}
+	ship = {
+		name="5th Bosaso Man'o'war"
+		type=manowar
+	}
+	ship = {
+		name="6th Bosaso Man'o'war"
+		type=manowar
+	}
+	ship = {
+		name="1st Kismayo Clipper Transport"
+		type=clipper_transport
+	}
+	ship = {
+		name="1st Bosaso Clipper Transport"
+		type=clipper_transport
+	}
+	ship = {
+		name="2nd Bosaso Clipper Transport"
+		type=clipper_transport
+	}
+	ship = {
+		name="1st Hobyo Clipper Transport"
+		type=clipper_transport
+	}
+	ship = {
+		name="2nd Hobyo Clipper Transport"
+		type=clipper_transport
+	}
+	ship = {
+		name="3rd Bosaso Clipper Transport"
+		type=clipper_transport
+	}
+	ship = {
+		name="4th Bosaso Clipper Transport"
+		type=clipper_transport
+	}
+	ship = {
+		name="2nd Kismayo Clipper Transport"
+		type=clipper_transport
+	}
+	ship = {
+		name="5th Bosaso Clipper Transport"
+		type=clipper_transport
+	}
+	ship = {
+		name="6th Bosaso Clipper Transport"
+		type=clipper_transport
+	}
+	ship = {
+		name="1st Mogadishu Clipper Transport"
+		type=clipper_transport
+	}
+	ship = {
+		name="7th Bosaso Clipper Transport"
+		type=clipper_transport
+	}
+}
+
+army = {
+	name="Army of Lesser Namaqualand"
+	location=1868
+	regiment = {
+		name="1st Baidoa Irregulars"
+		type=irregular
+		home=1869
+	}
+	regiment = {
+		name="1st Bosaso Irregulars"
+		type=irregular
+		home=1872
+	}
+	regiment = {
+		name="1st Mogadishu Cavalry"
+		type=cavalry
+		home=1868
+	}
+	regiment = {
+		name="1st Bosaso Artillery"
+		type=artillery
+		home=1872
+	}
+	regiment = {
+		name="1st Hobyo Artillery"
+		type=artillery
+		home=1871
+	}
+	regiment = {
+		name="1st Hobyo Cavalry"
+		type=cavalry
+		home=1871
+	}
+	regiment = {
+		name="2nd Mogadishu Cavalry"
+		type=cavalry
+		home=1868
+	}
+}
+
+navy = {
+	name="4th Fleet"
+	location=2786
+	ship = {
+		name="1st Bosaso Frigate"
+		type=frigate
+	}
+	ship = {
+		name="2nd Bosaso Frigate"
+		type=frigate
+	}
+	ship = {
+		name="3rd Bosaso Frigate"
+		type=frigate
+	}
+	ship = {
+		name="4th Bosaso Frigate"
+		type=frigate
+	}
+}
+
+army = {
+	name="Army of Lango"
+	location=1872
+	regiment = {
+		name="2nd Mogadishu Irregulars"
+		type=irregular
+		home=1868
+	}
+	regiment = {
+		name="3rd Mogadishu Irregulars"
+		type=irregular
+		home=1868
+	}
+	regiment = {
+		name="2nd Mogadishu Artillery"
+		type=artillery
+		home=1868
+	}
+	regiment = {
+		name="4th Mogadishu Irregulars"
+		type=irregular
+		home=1868
+	}
+	regiment = {
+		name="3rd Mogadishu Artillery"
+		type=artillery
+		home=1868
+	}
+}
+

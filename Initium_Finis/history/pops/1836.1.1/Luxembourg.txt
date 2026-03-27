@@ -1,0 +1,51 @@
+397 = {
+	soldiers=
+	{
+		culture = dynamic-cosmopolitan_french-swabian-culture-num1
+		religion = protestant
+		size= 10333
+	}
+
+	artisans=
+	{
+		culture = dynamic-cosmopolitan_french-swabian-culture-num1
+		religion = protestant
+		size= 6562
+	}
+
+	clergymen=
+	{
+		culture = dynamic-cosmopolitan_french-swabian-culture-num1
+		religion = protestant
+		size= 609
+	}
+
+	bureaucrats=
+	{
+		culture = dynamic-cosmopolitan_french-swabian-culture-num1
+		religion = protestant
+		size= 122
+	}
+
+	officers=
+	{
+		culture = dynamic-cosmopolitan_french-swabian-culture-num1
+		religion = protestant
+		size= 98
+	}
+
+	aristocrats=
+	{
+		culture = dynamic-cosmopolitan_french-swabian-culture-num1
+		religion = protestant
+		size= 591
+	}
+
+	farmers=
+	{
+		culture = dynamic-cosmopolitan_french-swabian-culture-num1
+		religion = protestant
+		size= 28559
+	}
+
+}

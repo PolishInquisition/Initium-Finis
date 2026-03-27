@@ -1,0 +1,6 @@
+owner=GHR
+controller=GHR
+add_core=GHR
+trade_goods = grain
+life_rating = 32
+terrain = plains

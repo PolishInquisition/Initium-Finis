@@ -1,0 +1,9 @@
+owner=RAJ
+controller=RAJ
+add_core=MRT
+add_core=RAJ
+add_core=X25
+trade_goods = tea
+life_rating = 32
+terrain = hills
+fort = 1

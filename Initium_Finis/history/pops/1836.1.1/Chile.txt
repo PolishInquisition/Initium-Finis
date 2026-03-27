@@ -1,0 +1,1044 @@
+2305 = {
+	soldiers=
+	{
+		culture = dongren
+		religion = catholic
+		size= 1033
+	}
+
+	craftsmen=
+	{
+		culture = dongren
+		religion = catholic
+		size= 4730
+	}
+
+	artisans=
+	{
+		culture = dongren
+		religion = catholic
+		size= 1589
+	}
+
+	clergymen=
+	{
+		culture = dongren
+		religion = catholic
+		size= 74
+	}
+
+	clerks=
+	{
+		culture = dongren
+		religion = catholic
+		size= 285
+	}
+
+	bureaucrats=
+	{
+		culture = dongren
+		religion = catholic
+		size= 23
+	}
+
+	officers=
+	{
+		culture = dongren
+		religion = catholic
+		size= 15
+	}
+
+	capitalists=
+	{
+		culture = dongren
+		religion = catholic
+		size= 80
+	}
+
+	aristocrats=
+	{
+		culture = dongren
+		religion = catholic
+		size= 191
+	}
+
+	farmers=
+	{
+		culture = dongren
+		religion = catholic
+		size= 3329
+	}
+
+	soldiers=
+	{
+		culture = aimara
+		religion = catholic
+		size= 165
+	}
+
+	craftsmen=
+	{
+		culture = aimara
+		religion = catholic
+		size= 3440
+	}
+
+	artisans=
+	{
+		culture = aimara
+		religion = catholic
+		size= 1155
+	}
+
+	clergymen=
+	{
+		culture = aimara
+		religion = catholic
+		size= 54
+	}
+
+	clerks=
+	{
+		culture = aimara
+		religion = catholic
+		size= 208
+	}
+
+	bureaucrats=
+	{
+		culture = aimara
+		religion = catholic
+		size= 17
+	}
+
+	officers=
+	{
+		culture = aimara
+		religion = catholic
+		size= 11
+	}
+
+	capitalists=
+	{
+		culture = aimara
+		religion = catholic
+		size= 58
+	}
+
+	aristocrats=
+	{
+		culture = aimara
+		religion = catholic
+		size= 139
+	}
+
+	farmers=
+	{
+		culture = aimara
+		religion = catholic
+		size= 3006
+	}
+
+}
+2307 = {
+	soldiers=
+	{
+		culture = aimara
+		religion = catholic
+		size= 144
+	}
+
+	artisans=
+	{
+		culture = aimara
+		religion = catholic
+		size= 288
+	}
+
+	clergymen=
+	{
+		culture = aimara
+		religion = catholic
+		size= 47
+	}
+
+	bureaucrats=
+	{
+		culture = aimara
+		religion = catholic
+		size= 22
+	}
+
+	officers=
+	{
+		culture = aimara
+		religion = catholic
+		size= 6
+	}
+
+	aristocrats=
+	{
+		culture = aimara
+		religion = catholic
+		size= 60
+	}
+
+	farmers=
+	{
+		culture = aimara
+		religion = catholic
+		size= 6633
+	}
+
+}
+2308 = {
+	soldiers=
+	{
+		culture = aimara
+		religion = catholic
+		size= 95
+	}
+
+	artisans=
+	{
+		culture = aimara
+		religion = catholic
+		size= 426
+	}
+
+	clergymen=
+	{
+		culture = aimara
+		religion = catholic
+		size= 31
+	}
+
+	bureaucrats=
+	{
+		culture = aimara
+		religion = catholic
+		size= 9
+	}
+
+	officers=
+	{
+		culture = aimara
+		religion = catholic
+		size= 4
+	}
+
+	aristocrats=
+	{
+		culture = aimara
+		religion = catholic
+		size= 80
+	}
+
+	farmers=
+	{
+		culture = aimara
+		religion = catholic
+		size= 4093
+	}
+
+}
+2309 = {
+	soldiers=
+	{
+		culture = aimara
+		religion = catholic
+		size= 145
+	}
+
+	artisans=
+	{
+		culture = aimara
+		religion = catholic
+		size= 290
+	}
+
+	clergymen=
+	{
+		culture = aimara
+		religion = catholic
+		size= 47
+	}
+
+	bureaucrats=
+	{
+		culture = aimara
+		religion = catholic
+		size= 22
+	}
+
+	officers=
+	{
+		culture = aimara
+		religion = catholic
+		size= 6
+	}
+
+	aristocrats=
+	{
+		culture = aimara
+		religion = catholic
+		size= 61
+	}
+
+	farmers=
+	{
+		culture = aimara
+		religion = catholic
+		size= 6674
+	}
+
+}
+2322 = {
+	soldiers=
+	{
+		culture = dongren
+		religion = catholic
+		size= 1033
+	}
+
+	craftsmen=
+	{
+		culture = dongren
+		religion = catholic
+		size= 8170
+	}
+
+	artisans=
+	{
+		culture = dongren
+		religion = catholic
+		size= 512
+	}
+
+	clergymen=
+	{
+		culture = dongren
+		religion = catholic
+		size= 83
+	}
+
+	clerks=
+	{
+		culture = dongren
+		religion = catholic
+		size= 493
+	}
+
+	bureaucrats=
+	{
+		culture = dongren
+		religion = catholic
+		size= 26
+	}
+
+	officers=
+	{
+		culture = dongren
+		religion = catholic
+		size= 27
+	}
+
+	capitalists=
+	{
+		culture = dongren
+		religion = catholic
+		size= 138
+	}
+
+	aristocrats=
+	{
+		culture = dongren
+		religion = catholic
+		size= 108
+	}
+
+	farmers=
+	{
+		culture = dongren
+		religion = catholic
+		size= 2208
+	}
+
+}
+2323 = {
+	soldiers=
+	{
+		culture = dongren
+		religion = catholic
+		size= 315
+	}
+
+	artisans=
+	{
+		culture = dongren
+		religion = catholic
+		size= 630
+	}
+
+	clergymen=
+	{
+		culture = dongren
+		religion = catholic
+		size= 102
+	}
+
+	bureaucrats=
+	{
+		culture = dongren
+		religion = catholic
+		size= 32
+	}
+
+	officers=
+	{
+		culture = dongren
+		religion = catholic
+		size= 20
+	}
+
+	aristocrats=
+	{
+		culture = dongren
+		religion = catholic
+		size= 265
+	}
+
+	farmers=
+	{
+		culture = dongren
+		religion = catholic
+		size= 14388
+	}
+
+}
+2324 = {
+	soldiers=
+	{
+		culture = dongren
+		religion = catholic
+		size= 4133
+	}
+
+	artisans=
+	{
+		culture = dongren
+		religion = catholic
+		size= 4135
+	}
+
+	clergymen=
+	{
+		culture = dongren
+		religion = catholic
+		size= 672
+	}
+
+	bureaucrats=
+	{
+		culture = dongren
+		religion = catholic
+		size= 207
+	}
+
+	officers=
+	{
+		culture = dongren
+		religion = catholic
+		size= 134
+	}
+
+	aristocrats=
+	{
+		culture = dongren
+		religion = catholic
+		size= 1737
+	}
+
+	farmers=
+	{
+		culture = dongren
+		religion = catholic
+		size= 92355
+	}
+
+}
+2325 = {
+	soldiers=
+	{
+		culture = dongren
+		religion = catholic
+		size= 1033
+	}
+
+	artisans=
+	{
+		culture = dongren
+		religion = catholic
+		size= 1264
+	}
+
+	clergymen=
+	{
+		culture = dongren
+		religion = catholic
+		size= 205
+	}
+
+	bureaucrats=
+	{
+		culture = dongren
+		religion = catholic
+		size= 63
+	}
+
+	officers=
+	{
+		culture = dongren
+		religion = catholic
+		size= 41
+	}
+
+	aristocrats=
+	{
+		culture = dongren
+		religion = catholic
+		size= 531
+	}
+
+	farmers=
+	{
+		culture = dongren
+		religion = catholic
+		size= 28465
+	}
+
+}
+2326 = {
+	soldiers=
+	{
+		culture = dongren
+		religion = catholic
+		size= 356
+	}
+
+	artisans=
+	{
+		culture = dongren
+		religion = catholic
+		size= 713
+	}
+
+	clergymen=
+	{
+		culture = dongren
+		religion = catholic
+		size= 116
+	}
+
+	bureaucrats=
+	{
+		culture = dongren
+		religion = catholic
+		size= 36
+	}
+
+	officers=
+	{
+		culture = dongren
+		religion = catholic
+		size= 23
+	}
+
+	aristocrats=
+	{
+		culture = dongren
+		religion = catholic
+		size= 299
+	}
+
+	farmers=
+	{
+		culture = dongren
+		religion = catholic
+		size= 16276
+	}
+
+}
+2327 = {
+	soldiers=
+	{
+		culture = nayeduniya
+		religion = catholic
+		size= 103
+	}
+
+	craftsmen=
+	{
+		culture = nayeduniya
+		religion = catholic
+		size= 8170
+	}
+
+	artisans=
+	{
+		culture = nayeduniya
+		religion = catholic
+		size= 718
+	}
+
+	clergymen=
+	{
+		culture = nayeduniya
+		religion = catholic
+		size= 33
+	}
+
+	clerks=
+	{
+		culture = nayeduniya
+		religion = catholic
+		size= 493
+	}
+
+	bureaucrats=
+	{
+		culture = nayeduniya
+		religion = catholic
+		size= 10
+	}
+
+	officers=
+	{
+		culture = nayeduniya
+		religion = catholic
+		size= 7
+	}
+
+	capitalists=
+	{
+		culture = nayeduniya
+		religion = catholic
+		size= 138
+	}
+
+	aristocrats=
+	{
+		culture = nayeduniya
+		religion = catholic
+		size= 86
+	}
+
+}
+2328 = {
+	soldiers=
+	{
+		culture = nayeduniya
+		religion = catholic
+		size= 1033
+	}
+
+	artisans=
+	{
+		culture = nayeduniya
+		religion = catholic
+		size= 911
+	}
+
+	clergymen=
+	{
+		culture = nayeduniya
+		religion = catholic
+		size= 148
+	}
+
+	bureaucrats=
+	{
+		culture = nayeduniya
+		religion = catholic
+		size= 46
+	}
+
+	officers=
+	{
+		culture = nayeduniya
+		religion = catholic
+		size= 30
+	}
+
+	aristocrats=
+	{
+		culture = nayeduniya
+		religion = catholic
+		size= 382
+	}
+
+	farmers=
+	{
+		culture = nayeduniya
+		religion = catholic
+		size= 20216
+	}
+
+}
+2329 = {
+	soldiers=
+	{
+		culture = nayeduniya
+		religion = catholic
+		size= 177
+	}
+
+	artisans=
+	{
+		culture = nayeduniya
+		religion = catholic
+		size= 354
+	}
+
+	clergymen=
+	{
+		culture = nayeduniya
+		religion = catholic
+		size= 58
+	}
+
+	bureaucrats=
+	{
+		culture = nayeduniya
+		religion = catholic
+		size= 18
+	}
+
+	officers=
+	{
+		culture = nayeduniya
+		religion = catholic
+		size= 12
+	}
+
+	aristocrats=
+	{
+		culture = nayeduniya
+		religion = catholic
+		size= 149
+	}
+
+	farmers=
+	{
+		culture = nayeduniya
+		religion = catholic
+		size= 8092
+	}
+
+}
+2330 = {
+	soldiers=
+	{
+		culture = nayeduniya
+		religion = catholic
+		size= 351
+	}
+
+	artisans=
+	{
+		culture = nayeduniya
+		religion = catholic
+		size= 2455
+	}
+
+	clergymen=
+	{
+		culture = nayeduniya
+		religion = catholic
+		size= 114
+	}
+
+	bureaucrats=
+	{
+		culture = nayeduniya
+		religion = catholic
+		size= 35
+	}
+
+	officers=
+	{
+		culture = nayeduniya
+		religion = catholic
+		size= 23
+	}
+
+	aristocrats=
+	{
+		culture = nayeduniya
+		religion = catholic
+		size= 295
+	}
+
+	farmers=
+	{
+		culture = nayeduniya
+		religion = catholic
+		size= 14263
+	}
+
+}
+2331 = {
+	soldiers=
+	{
+		culture = nayeduniya
+		religion = catholic
+		size= 185
+	}
+
+	artisans=
+	{
+		culture = nayeduniya
+		religion = catholic
+		size= 1292
+	}
+
+	clergymen=
+	{
+		culture = nayeduniya
+		religion = catholic
+		size= 60
+	}
+
+	bureaucrats=
+	{
+		culture = nayeduniya
+		religion = catholic
+		size= 18
+	}
+
+	officers=
+	{
+		culture = nayeduniya
+		religion = catholic
+		size= 12
+	}
+
+	aristocrats=
+	{
+		culture = nayeduniya
+		religion = catholic
+		size= 155
+	}
+
+	farmers=
+	{
+		culture = nayeduniya
+		religion = catholic
+		size= 7507
+	}
+
+}
+2332 = {
+	soldiers=
+	{
+		culture = nayeduniya
+		religion = catholic
+		size= 335
+	}
+
+	artisans=
+	{
+		culture = nayeduniya
+		religion = catholic
+		size= 669
+	}
+
+	clergymen=
+	{
+		culture = nayeduniya
+		religion = catholic
+		size= 109
+	}
+
+	bureaucrats=
+	{
+		culture = nayeduniya
+		religion = catholic
+		size= 33
+	}
+
+	officers=
+	{
+		culture = nayeduniya
+		religion = catholic
+		size= 22
+	}
+
+	aristocrats=
+	{
+		culture = nayeduniya
+		religion = catholic
+		size= 281
+	}
+
+	farmers=
+	{
+		culture = nayeduniya
+		religion = catholic
+		size= 15287
+	}
+
+}
+2333 = {
+	soldiers=
+	{
+		culture = nayeduniya
+		religion = catholic
+		size= 54
+	}
+
+	artisans=
+	{
+		culture = nayeduniya
+		religion = catholic
+		size= 108
+	}
+
+	clergymen=
+	{
+		culture = nayeduniya
+		religion = catholic
+		size= 18
+	}
+
+	bureaucrats=
+	{
+		culture = nayeduniya
+		religion = catholic
+		size= 6
+	}
+
+	officers=
+	{
+		culture = nayeduniya
+		religion = catholic
+		size= 4
+	}
+
+	aristocrats=
+	{
+		culture = nayeduniya
+		religion = catholic
+		size= 23
+	}
+
+	farmers=
+	{
+		culture = nayeduniya
+		religion = catholic
+		size= 2480
+	}
+
+}
+2334 = {
+	soldiers=
+	{
+		culture = nayeduniya
+		religion = catholic
+		size= 37
+	}
+
+	artisans=
+	{
+		culture = nayeduniya
+		religion = catholic
+		size= 74
+	}
+
+	clergymen=
+	{
+		culture = nayeduniya
+		religion = catholic
+		size= 12
+	}
+
+	bureaucrats=
+	{
+		culture = nayeduniya
+		religion = catholic
+		size= 4
+	}
+
+	officers=
+	{
+		culture = nayeduniya
+		religion = catholic
+		size= 2
+	}
+
+	aristocrats=
+	{
+		culture = nayeduniya
+		religion = catholic
+		size= 15
+	}
+
+	farmers=
+	{
+		culture = nayeduniya
+		religion = catholic
+		size= 1695
+	}
+
+}
+2335 = {
+	soldiers=
+	{
+		culture = dongren
+		religion = catholic
+		size= 18
+	}
+
+	artisans=
+	{
+		culture = dongren
+		religion = catholic
+		size= 36
+	}
+
+	clergymen=
+	{
+		culture = dongren
+		religion = catholic
+		size= 6
+	}
+
+	bureaucrats=
+	{
+		culture = dongren
+		religion = catholic
+		size= 2
+	}
+
+	officers=
+	{
+		culture = dongren
+		religion = catholic
+		size= 1
+	}
+
+	aristocrats=
+	{
+		culture = dongren
+		religion = catholic
+		size= 8
+	}
+
+	farmers=
+	{
+		culture = dongren
+		religion = catholic
+		size= 826
+	}
+
+}

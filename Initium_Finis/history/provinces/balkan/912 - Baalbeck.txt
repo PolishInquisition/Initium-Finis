@@ -1,0 +1,6 @@
+owner=JER
+controller=JER
+add_core=JER
+trade_goods = grain
+life_rating = 35
+terrain = hills

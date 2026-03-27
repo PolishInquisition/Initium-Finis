@@ -1,0 +1,10 @@
+owner=YUE
+controller=YUE
+add_core=CHI
+add_core=MIN
+add_core=YUE
+trade_goods = tea
+life_rating = 32
+terrain = farmlands
+naval_base = 1
+fort = 1

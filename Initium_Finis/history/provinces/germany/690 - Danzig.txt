@@ -1,0 +1,7 @@
+owner=PLC
+controller=PLC
+add_core=PLC
+trade_goods = fish
+life_rating = 40
+terrain = farmlands
+naval_base = 1

@@ -1,0 +1,255 @@
+908 = {
+	soldiers=
+	{
+		culture = dynamic-italian-al_suryah_arabic-culture-num1
+		religion = catholic
+		size= 138
+	}
+
+	artisans=
+	{
+		culture = dynamic-italian-al_suryah_arabic-culture-num1
+		religion = catholic
+		size= 197
+	}
+
+	clergymen=
+	{
+		culture = dynamic-italian-al_suryah_arabic-culture-num1
+		religion = catholic
+		size= 64
+	}
+
+	bureaucrats=
+	{
+		culture = dynamic-italian-al_suryah_arabic-culture-num1
+		religion = catholic
+		size= 10
+	}
+
+	officers=
+	{
+		culture = dynamic-italian-al_suryah_arabic-culture-num1
+		religion = catholic
+		size= 10
+	}
+
+	aristocrats=
+	{
+		culture = dynamic-italian-al_suryah_arabic-culture-num1
+		religion = catholic
+		size= 48
+	}
+
+	farmers=
+	{
+		culture = dynamic-italian-al_suryah_arabic-culture-num1
+		religion = catholic
+		size= 4455
+	}
+
+}
+909 = {
+	soldiers=
+	{
+		culture = dynamic-italian-al_suryah_arabic-culture-num1
+		religion = protestant
+		size= 38
+	}
+
+	artisans=
+	{
+		culture = dynamic-italian-al_suryah_arabic-culture-num1
+		religion = protestant
+		size= 152
+	}
+
+	clergymen=
+	{
+		culture = dynamic-italian-al_suryah_arabic-culture-num1
+		religion = protestant
+		size= 49
+	}
+
+	bureaucrats=
+	{
+		culture = dynamic-italian-al_suryah_arabic-culture-num1
+		religion = protestant
+		size= 8
+	}
+
+	officers=
+	{
+		culture = dynamic-italian-al_suryah_arabic-culture-num1
+		religion = protestant
+		size= 5
+	}
+
+	aristocrats=
+	{
+		culture = dynamic-italian-al_suryah_arabic-culture-num1
+		religion = protestant
+		size= 64
+	}
+
+	farmers=
+	{
+		culture = dynamic-italian-al_suryah_arabic-culture-num1
+		religion = protestant
+		size= 3474
+	}
+
+}
+910 = {
+	soldiers=
+	{
+		culture = mashriqi
+		religion = protestant
+		size= 28
+	}
+
+	artisans=
+	{
+		culture = mashriqi
+		religion = protestant
+		size= 112
+	}
+
+	clergymen=
+	{
+		culture = mashriqi
+		religion = protestant
+		size= 36
+	}
+
+	bureaucrats=
+	{
+		culture = mashriqi
+		religion = protestant
+		size= 6
+	}
+
+	officers=
+	{
+		culture = mashriqi
+		religion = protestant
+		size= 4
+	}
+
+	aristocrats=
+	{
+		culture = mashriqi
+		religion = protestant
+		size= 23
+	}
+
+	farmers=
+	{
+		culture = mashriqi
+		religion = protestant
+		size= 2581
+	}
+
+}
+911 = {
+	soldiers=
+	{
+		culture = mashriqi
+		religion = protestant
+		size= 75
+	}
+
+	artisans=
+	{
+		culture = mashriqi
+		religion = protestant
+		size= 1048
+	}
+
+	clergymen=
+	{
+		culture = mashriqi
+		religion = protestant
+		size= 97
+	}
+
+	bureaucrats=
+	{
+		culture = mashriqi
+		religion = protestant
+		size= 15
+	}
+
+	officers=
+	{
+		culture = mashriqi
+		religion = protestant
+		size= 10
+	}
+
+	aristocrats=
+	{
+		culture = mashriqi
+		religion = protestant
+		size= 94
+	}
+
+	farmers=
+	{
+		culture = mashriqi
+		religion = protestant
+		size= 6144
+	}
+
+}
+922 = {
+	soldiers=
+	{
+		culture = dynamic-italian-al_suryah_arabic-culture-num1
+		religion = catholic
+		size= 1033
+	}
+
+	artisans=
+	{
+		culture = dynamic-italian-al_suryah_arabic-culture-num1
+		religion = catholic
+		size= 202
+	}
+
+	clergymen=
+	{
+		culture = dynamic-italian-al_suryah_arabic-culture-num1
+		religion = catholic
+		size= 66
+	}
+
+	bureaucrats=
+	{
+		culture = dynamic-italian-al_suryah_arabic-culture-num1
+		religion = catholic
+		size= 12
+	}
+
+	officers=
+	{
+		culture = dynamic-italian-al_suryah_arabic-culture-num1
+		religion = catholic
+		size= 7
+	}
+
+	aristocrats=
+	{
+		culture = dynamic-italian-al_suryah_arabic-culture-num1
+		religion = catholic
+		size= 56
+	}
+
+	farmers=
+	{
+		culture = dynamic-italian-al_suryah_arabic-culture-num1
+		religion = catholic
+		size= 3663
+	}
+
+}

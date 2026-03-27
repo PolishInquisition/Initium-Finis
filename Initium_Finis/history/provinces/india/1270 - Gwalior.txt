@@ -1,0 +1,9 @@
+owner=MAW
+controller=MAW
+add_core=HND
+add_core=MAW
+add_core=RAJ
+trade_goods = dye
+life_rating = 32
+terrain = plains
+fort = 1

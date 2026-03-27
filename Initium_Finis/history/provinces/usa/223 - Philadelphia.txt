@@ -1,0 +1,7 @@
+owner=USA
+controller=USA
+add_core=IRO
+add_core=USA
+trade_goods = iron
+life_rating = 40
+terrain = farmlands

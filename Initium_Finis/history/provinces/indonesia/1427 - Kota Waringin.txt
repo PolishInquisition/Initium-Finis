@@ -1,0 +1,7 @@
+owner=BNJ
+controller=BNG
+add_core=BNJ
+add_core=BRU
+trade_goods = grain
+life_rating = 30
+terrain = jungle

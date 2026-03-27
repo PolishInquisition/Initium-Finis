@@ -1,0 +1,8 @@
+owner=LOU
+controller=LOU
+add_core=LOU
+trade_goods = timber
+life_rating = 35
+terrain = forest
+naval_base = 2
+fort = 1

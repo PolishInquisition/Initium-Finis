@@ -1,0 +1,8 @@
+owner=GER
+controller=GER
+add_core=BRG
+add_core=FRA
+add_core=GER
+trade_goods = coal
+life_rating = 30
+terrain = woods

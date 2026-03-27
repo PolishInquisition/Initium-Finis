@@ -1,0 +1,9 @@
+owner=PLC
+controller=PLC
+add_core=KIE
+add_core=PLC
+add_core=UKR
+trade_goods = cattle
+life_rating = 35
+terrain = marsh
+fort = 1

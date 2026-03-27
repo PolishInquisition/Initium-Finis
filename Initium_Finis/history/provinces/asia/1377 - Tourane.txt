@@ -1,0 +1,11 @@
+owner=DAI
+controller=LXA
+add_core=CHA
+add_core=DAI
+add_core=IDO
+add_core=LXA
+trade_goods = tobacco
+life_rating = 30
+terrain = jungle
+naval_base = 2
+fort = 1

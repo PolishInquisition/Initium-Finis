@@ -1,0 +1,8418 @@
+1002 = {
+	soldiers=
+	{
+		culture = manchu
+		religion = mahayana
+		size= 2115
+	}
+
+	artisans=
+	{
+		culture = manchu
+		religion = mahayana
+		size= 3398
+	}
+
+	clergymen=
+	{
+		culture = manchu
+		religion = mahayana
+		size= 246
+	}
+
+	bureaucrats=
+	{
+		culture = manchu
+		religion = mahayana
+		size= 19
+	}
+
+	officers=
+	{
+		culture = manchu
+		religion = mahayana
+		size= 61
+	}
+
+	aristocrats=
+	{
+		culture = manchu
+		religion = mahayana
+		size= 634
+	}
+
+	farmers=
+	{
+		culture = manchu
+		religion = mahayana
+		size= 31285
+	}
+
+	soldiers=
+	{
+		culture = mongol
+		religion = mahayana
+		size= 1322
+	}
+
+	artisans=
+	{
+		culture = mongol
+		religion = mahayana
+		size= 2124
+	}
+
+	clergymen=
+	{
+		culture = mongol
+		religion = mahayana
+		size= 153
+	}
+
+	bureaucrats=
+	{
+		culture = mongol
+		religion = mahayana
+		size= 12
+	}
+
+	officers=
+	{
+		culture = mongol
+		religion = mahayana
+		size= 38
+	}
+
+	aristocrats=
+	{
+		culture = mongol
+		religion = mahayana
+		size= 397
+	}
+
+	farmers=
+	{
+		culture = mongol
+		religion = mahayana
+		size= 19553
+	}
+
+}
+1470 = {
+	soldiers=
+	{
+		culture = nanfaren
+		religion = mahayana
+		size= 79530
+	}
+
+	artisans=
+	{
+		culture = nanfaren
+		religion = mahayana
+		size= 198826
+	}
+
+	clergymen=
+	{
+		culture = nanfaren
+		religion = mahayana
+		size= 9231
+	}
+
+	bureaucrats=
+	{
+		culture = nanfaren
+		religion = mahayana
+		size= 1278
+	}
+
+	officers=
+	{
+		culture = nanfaren
+		religion = mahayana
+		size= 2982
+	}
+
+	aristocrats=
+	{
+		culture = nanfaren
+		religion = mahayana
+		size= 11930
+	}
+
+	farmers=
+	{
+		culture = nanfaren
+		religion = mahayana
+		size= 1116409
+	}
+
+}
+1471 = {
+	soldiers=
+	{
+		culture = nanfaren
+		religion = mahayana
+		size= 73949
+	}
+
+	artisans=
+	{
+		culture = nanfaren
+		religion = mahayana
+		size= 184873
+	}
+
+	clergymen=
+	{
+		culture = nanfaren
+		religion = mahayana
+		size= 8583
+	}
+
+	bureaucrats=
+	{
+		culture = nanfaren
+		religion = mahayana
+		size= 1188
+	}
+
+	officers=
+	{
+		culture = nanfaren
+		religion = mahayana
+		size= 2773
+	}
+
+	aristocrats=
+	{
+		culture = nanfaren
+		religion = mahayana
+		size= 11092
+	}
+
+	farmers=
+	{
+		culture = nanfaren
+		religion = mahayana
+		size= 1038066
+	}
+
+}
+1472 = {
+	soldiers=
+	{
+		culture = beifaren
+		religion = mahayana
+		size= 32609
+	}
+
+	artisans=
+	{
+		culture = beifaren
+		religion = mahayana
+		size= 81524
+	}
+
+	clergymen=
+	{
+		culture = beifaren
+		religion = mahayana
+		size= 3785
+	}
+
+	bureaucrats=
+	{
+		culture = beifaren
+		religion = mahayana
+		size= 524
+	}
+
+	officers=
+	{
+		culture = beifaren
+		religion = mahayana
+		size= 1223
+	}
+
+	aristocrats=
+	{
+		culture = beifaren
+		religion = mahayana
+		size= 4891
+	}
+
+	farmers=
+	{
+		culture = beifaren
+		religion = mahayana
+		size= 457756
+	}
+
+}
+1473 = {
+	soldiers=
+	{
+		culture = nanfaren
+		religion = mahayana
+		size= 64324
+	}
+
+	artisans=
+	{
+		culture = nanfaren
+		religion = mahayana
+		size= 160811
+	}
+
+	clergymen=
+	{
+		culture = nanfaren
+		religion = mahayana
+		size= 7466
+	}
+
+	bureaucrats=
+	{
+		culture = nanfaren
+		religion = mahayana
+		size= 574
+	}
+
+	officers=
+	{
+		culture = nanfaren
+		religion = mahayana
+		size= 2412
+	}
+
+	aristocrats=
+	{
+		culture = nanfaren
+		religion = mahayana
+		size= 9649
+	}
+
+	farmers=
+	{
+		culture = nanfaren
+		religion = mahayana
+		size= 903414
+	}
+
+}
+1474 = {
+	soldiers=
+	{
+		culture = nanfaren
+		religion = mahayana
+		size= 63915
+	}
+
+	artisans=
+	{
+		culture = nanfaren
+		religion = mahayana
+		size= 102720
+	}
+
+	clergymen=
+	{
+		culture = nanfaren
+		religion = mahayana
+		size= 7419
+	}
+
+	bureaucrats=
+	{
+		culture = nanfaren
+		religion = mahayana
+		size= 1027
+	}
+
+	officers=
+	{
+		culture = nanfaren
+		religion = mahayana
+		size= 2396
+	}
+
+	aristocrats=
+	{
+		culture = nanfaren
+		religion = mahayana
+		size= 19175
+	}
+
+	farmers=
+	{
+		culture = nanfaren
+		religion = mahayana
+		size= 944680
+	}
+
+}
+1475 = {
+	soldiers=
+	{
+		culture = nanfaren
+		religion = mahayana
+		size= 62893
+	}
+
+	artisans=
+	{
+		culture = nanfaren
+		religion = mahayana
+		size= 157231
+	}
+
+	clergymen=
+	{
+		culture = nanfaren
+		religion = mahayana
+		size= 7300
+	}
+
+	bureaucrats=
+	{
+		culture = nanfaren
+		religion = mahayana
+		size= 562
+	}
+
+	officers=
+	{
+		culture = nanfaren
+		religion = mahayana
+		size= 2358
+	}
+
+	aristocrats=
+	{
+		culture = nanfaren
+		religion = mahayana
+		size= 9434
+	}
+
+	farmers=
+	{
+		culture = nanfaren
+		religion = mahayana
+		size= 883304
+	}
+
+}
+1476 = {
+	soldiers=
+	{
+		culture = beifaren
+		religion = mahayana
+		size= 39413
+	}
+
+	artisans=
+	{
+		culture = beifaren
+		religion = mahayana
+		size= 98532
+	}
+
+	clergymen=
+	{
+		culture = beifaren
+		religion = mahayana
+		size= 4575
+	}
+
+	bureaucrats=
+	{
+		culture = beifaren
+		religion = mahayana
+		size= 633
+	}
+
+	officers=
+	{
+		culture = beifaren
+		religion = mahayana
+		size= 1478
+	}
+
+	aristocrats=
+	{
+		culture = beifaren
+		religion = mahayana
+		size= 5912
+	}
+
+	farmers=
+	{
+		culture = beifaren
+		religion = mahayana
+		size= 553259
+	}
+
+}
+1477 = {
+	soldiers=
+	{
+		culture = nanfaren
+		religion = mahayana
+		size= 58497
+	}
+
+	artisans=
+	{
+		culture = nanfaren
+		religion = mahayana
+		size= 146243
+	}
+
+	clergymen=
+	{
+		culture = nanfaren
+		religion = mahayana
+		size= 6790
+	}
+
+	bureaucrats=
+	{
+		culture = nanfaren
+		religion = mahayana
+		size= 940
+	}
+
+	officers=
+	{
+		culture = nanfaren
+		religion = mahayana
+		size= 2194
+	}
+
+	aristocrats=
+	{
+		culture = nanfaren
+		religion = mahayana
+		size= 8775
+	}
+
+	farmers=
+	{
+		culture = nanfaren
+		religion = mahayana
+		size= 821156
+	}
+
+}
+1478 = {
+	soldiers=
+	{
+		culture = beifaren
+		religion = mahayana
+		size= 32565
+	}
+
+	artisans=
+	{
+		culture = beifaren
+		religion = mahayana
+		size= 23261
+	}
+
+	clergymen=
+	{
+		culture = beifaren
+		religion = mahayana
+		size= 3780
+	}
+
+	bureaucrats=
+	{
+		culture = beifaren
+		religion = mahayana
+		size= 291
+	}
+
+	officers=
+	{
+		culture = beifaren
+		religion = mahayana
+		size= 1221
+	}
+
+	aristocrats=
+	{
+		culture = beifaren
+		religion = mahayana
+		size= 9769
+	}
+
+	farmers=
+	{
+		culture = beifaren
+		religion = mahayana
+		size= 510626
+	}
+
+}
+1479 = {
+	soldiers=
+	{
+		culture = manchu
+		religion = mahayana
+		size= 29864
+	}
+
+	artisans=
+	{
+		culture = manchu
+		religion = mahayana
+		size= 47997
+	}
+
+	clergymen=
+	{
+		culture = manchu
+		religion = mahayana
+		size= 3467
+	}
+
+	bureaucrats=
+	{
+		culture = manchu
+		religion = mahayana
+		size= 695
+	}
+
+	officers=
+	{
+		culture = manchu
+		religion = mahayana
+		size= 854
+	}
+
+	aristocrats=
+	{
+		culture = manchu
+		religion = mahayana
+		size= 10453
+	}
+
+	farmers=
+	{
+		culture = manchu
+		religion = mahayana
+		size= 439966
+	}
+
+}
+1480 = {
+	soldiers=
+	{
+		culture = manchu
+		religion = mahayana
+		size= 9684
+	}
+
+	artisans=
+	{
+		culture = manchu
+		religion = mahayana
+		size= 6917
+	}
+
+	clergymen=
+	{
+		culture = manchu
+		religion = mahayana
+		size= 1124
+	}
+
+	bureaucrats=
+	{
+		culture = manchu
+		religion = mahayana
+		size= 156
+	}
+
+	officers=
+	{
+		culture = manchu
+		religion = mahayana
+		size= 277
+	}
+
+	aristocrats=
+	{
+		culture = manchu
+		religion = mahayana
+		size= 1453
+	}
+
+	farmers=
+	{
+		culture = manchu
+		religion = mahayana
+		size= 153316
+	}
+
+}
+1481 = {
+	soldiers=
+	{
+		culture = manchu
+		religion = mahayana
+		size= 1123
+	}
+
+	artisans=
+	{
+		culture = manchu
+		religion = mahayana
+		size= 1803
+	}
+
+	clergymen=
+	{
+		culture = manchu
+		religion = mahayana
+		size= 131
+	}
+
+	bureaucrats=
+	{
+		culture = manchu
+		religion = mahayana
+		size= 27
+	}
+
+	officers=
+	{
+		culture = manchu
+		religion = mahayana
+		size= 32
+	}
+
+	aristocrats=
+	{
+		culture = manchu
+		religion = mahayana
+		size= 393
+	}
+
+	farmers=
+	{
+		culture = manchu
+		religion = mahayana
+		size= 16534
+	}
+
+}
+1482 = {
+	soldiers=
+	{
+		culture = min
+		religion = mahayana
+		size= 61828
+	}
+
+	artisans=
+	{
+		culture = min
+		religion = mahayana
+		size= 154570
+	}
+
+	clergymen=
+	{
+		culture = min
+		religion = mahayana
+		size= 14353
+	}
+
+	bureaucrats=
+	{
+		culture = min
+		religion = mahayana
+		size= 3423
+	}
+
+	officers=
+	{
+		culture = min
+		religion = mahayana
+		size= 1767
+	}
+
+	aristocrats=
+	{
+		culture = min
+		religion = mahayana
+		size= 18548
+	}
+
+	farmers=
+	{
+		culture = min
+		religion = mahayana
+		size= 849579
+	}
+
+}
+1483 = {
+	soldiers=
+	{
+		culture = min
+		religion = mahayana
+		size= 37277
+	}
+
+	artisans=
+	{
+		culture = min
+		religion = mahayana
+		size= 93192
+	}
+
+	clergymen=
+	{
+		culture = min
+		religion = mahayana
+		size= 8654
+	}
+
+	bureaucrats=
+	{
+		culture = min
+		religion = mahayana
+		size= 1398
+	}
+
+	officers=
+	{
+		culture = min
+		religion = mahayana
+		size= 1398
+	}
+
+	aristocrats=
+	{
+		culture = min
+		religion = mahayana
+		size= 13047
+	}
+
+	farmers=
+	{
+		culture = min
+		religion = mahayana
+		size= 510692
+	}
+
+}
+1484 = {
+	soldiers=
+	{
+		culture = min
+		religion = mahayana
+		size= 39409
+	}
+
+	artisans=
+	{
+		culture = min
+		religion = mahayana
+		size= 98522
+	}
+
+	clergymen=
+	{
+		culture = min
+		religion = mahayana
+		size= 9148
+	}
+
+	bureaucrats=
+	{
+		culture = min
+		religion = mahayana
+		size= 2182
+	}
+
+	officers=
+	{
+		culture = min
+		religion = mahayana
+		size= 1126
+	}
+
+	aristocrats=
+	{
+		culture = min
+		religion = mahayana
+		size= 17734
+	}
+
+	farmers=
+	{
+		culture = min
+		religion = mahayana
+		size= 535606
+	}
+
+}
+1486 = {
+	soldiers=
+	{
+		culture = hakka
+		religion = mahayana
+		size= 147706
+	}
+
+	artisans=
+	{
+		culture = hakka
+		religion = mahayana
+		size= 224770
+	}
+
+	clergymen=
+	{
+		culture = hakka
+		religion = mahayana
+		size= 20871
+	}
+
+	bureaucrats=
+	{
+		culture = hakka
+		religion = mahayana
+		size= 4977
+	}
+
+	officers=
+	{
+		culture = hakka
+		religion = mahayana
+		size= 3853
+	}
+
+	aristocrats=
+	{
+		culture = hakka
+		religion = mahayana
+		size= 20229
+	}
+
+	farmers=
+	{
+		culture = hakka
+		religion = mahayana
+		size= 1183092
+	}
+
+}
+1487 = {
+	soldiers=
+	{
+		culture = min
+		religion = mahayana
+		size= 20026
+	}
+
+	artisans=
+	{
+		culture = min
+		religion = mahayana
+		size= 50065
+	}
+
+	clergymen=
+	{
+		culture = min
+		religion = mahayana
+		size= 4649
+	}
+
+	bureaucrats=
+	{
+		culture = min
+		religion = mahayana
+		size= 1109
+	}
+
+	officers=
+	{
+		culture = min
+		religion = mahayana
+		size= 572
+	}
+
+	aristocrats=
+	{
+		culture = min
+		religion = mahayana
+		size= 9012
+	}
+
+	farmers=
+	{
+		culture = min
+		religion = mahayana
+		size= 272173
+	}
+
+}
+1488 = {
+	soldiers=
+	{
+		culture = uighur
+		religion = nestorian
+		size= 13910
+	}
+
+	artisans=
+	{
+		culture = uighur
+		religion = nestorian
+		size= 27819
+	}
+
+	clergymen=
+	{
+		culture = uighur
+		religion = nestorian
+		size= 4521
+	}
+
+	bureaucrats=
+	{
+		culture = uighur
+		religion = nestorian
+		size= 1321
+	}
+
+	officers=
+	{
+		culture = uighur
+		religion = nestorian
+		size= 556
+	}
+
+	aristocrats=
+	{
+		culture = uighur
+		religion = nestorian
+		size= 17526
+	}
+
+	farmers=
+	{
+		culture = uighur
+		religion = nestorian
+		size= 629828
+	}
+
+	soldiers=
+	{
+		culture = tibetan
+		religion = nestorian
+		size= 13910
+	}
+
+	artisans=
+	{
+		culture = tibetan
+		religion = nestorian
+		size= 27819
+	}
+
+	clergymen=
+	{
+		culture = tibetan
+		religion = nestorian
+		size= 4521
+	}
+
+	bureaucrats=
+	{
+		culture = tibetan
+		religion = nestorian
+		size= 1321
+	}
+
+	officers=
+	{
+		culture = tibetan
+		religion = nestorian
+		size= 556
+	}
+
+	aristocrats=
+	{
+		culture = tibetan
+		religion = nestorian
+		size= 17526
+	}
+
+	farmers=
+	{
+		culture = tibetan
+		religion = nestorian
+		size= 629828
+	}
+
+}
+1489 = {
+	soldiers=
+	{
+		culture = tibetan
+		religion = gelugpa
+		size= 21047
+	}
+
+	artisans=
+	{
+		culture = tibetan
+		religion = gelugpa
+		size= 33825
+	}
+
+	clergymen=
+	{
+		culture = tibetan
+		religion = gelugpa
+		size= 2443
+	}
+
+	bureaucrats=
+	{
+		culture = tibetan
+		religion = gelugpa
+		size= 714
+	}
+
+	officers=
+	{
+		culture = tibetan
+		religion = gelugpa
+		size= 601
+	}
+
+	aristocrats=
+	{
+		culture = tibetan
+		religion = gelugpa
+		size= 7366
+	}
+
+	farmers=
+	{
+		culture = tibetan
+		religion = gelugpa
+		size= 309840
+	}
+
+	soldiers=
+	{
+		culture = beifaren
+		religion = nestorian
+		size= 12380
+	}
+
+	artisans=
+	{
+		culture = beifaren
+		religion = nestorian
+		size= 19897
+	}
+
+	clergymen=
+	{
+		culture = beifaren
+		religion = nestorian
+		size= 1437
+	}
+
+	bureaucrats=
+	{
+		culture = beifaren
+		religion = nestorian
+		size= 420
+	}
+
+	officers=
+	{
+		culture = beifaren
+		religion = nestorian
+		size= 354
+	}
+
+	aristocrats=
+	{
+		culture = beifaren
+		religion = nestorian
+		size= 4333
+	}
+
+	farmers=
+	{
+		culture = beifaren
+		religion = nestorian
+		size= 182259
+	}
+
+}
+1490 = {
+	soldiers=
+	{
+		culture = tibetan
+		religion = gelugpa
+		size= 70613
+	}
+
+	artisans=
+	{
+		culture = tibetan
+		religion = gelugpa
+		size= 107454
+	}
+
+	clergymen=
+	{
+		culture = tibetan
+		religion = gelugpa
+		size= 4989
+	}
+
+	bureaucrats=
+	{
+		culture = tibetan
+		religion = gelugpa
+		size= 1151
+	}
+
+	officers=
+	{
+		culture = tibetan
+		religion = gelugpa
+		size= 1842
+	}
+
+	aristocrats=
+	{
+		culture = tibetan
+		religion = gelugpa
+		size= 19342
+	}
+
+	farmers=
+	{
+		culture = tibetan
+		religion = gelugpa
+		size= 562137
+	}
+
+	soldiers=
+	{
+		culture = dynamic-tibetan-culture-num3
+		religion = gelugpa
+		size= 8827
+	}
+
+	artisans=
+	{
+		culture = dynamic-tibetan-culture-num3
+		religion = gelugpa
+		size= 13432
+	}
+
+	clergymen=
+	{
+		culture = dynamic-tibetan-culture-num3
+		religion = gelugpa
+		size= 624
+	}
+
+	bureaucrats=
+	{
+		culture = dynamic-tibetan-culture-num3
+		religion = gelugpa
+		size= 144
+	}
+
+	officers=
+	{
+		culture = dynamic-tibetan-culture-num3
+		religion = gelugpa
+		size= 230
+	}
+
+	aristocrats=
+	{
+		culture = dynamic-tibetan-culture-num3
+		religion = gelugpa
+		size= 2418
+	}
+
+	farmers=
+	{
+		culture = dynamic-tibetan-culture-num3
+		religion = gelugpa
+		size= 70266
+	}
+
+}
+1491 = {
+	soldiers=
+	{
+		culture = tibetan
+		religion = nestorian
+		size= 4730
+	}
+
+	artisans=
+	{
+		culture = tibetan
+		religion = nestorian
+		size= 21283
+	}
+
+	clergymen=
+	{
+		culture = tibetan
+		religion = nestorian
+		size= 1537
+	}
+
+	bureaucrats=
+	{
+		culture = tibetan
+		religion = nestorian
+		size= 355
+	}
+
+	officers=
+	{
+		culture = tibetan
+		religion = nestorian
+		size= 189
+	}
+
+	aristocrats=
+	{
+		culture = tibetan
+		religion = nestorian
+		size= 1986
+	}
+
+	farmers=
+	{
+		culture = tibetan
+		religion = nestorian
+		size= 206398
+	}
+
+}
+1492 = {
+	soldiers=
+	{
+		culture = beifaren
+		religion = mahayana
+		size= 44468
+	}
+
+	artisans=
+	{
+		culture = beifaren
+		religion = mahayana
+		size= 71466
+	}
+
+	clergymen=
+	{
+		culture = beifaren
+		religion = mahayana
+		size= 5161
+	}
+
+	bureaucrats=
+	{
+		culture = beifaren
+		religion = mahayana
+		size= 397
+	}
+
+	officers=
+	{
+		culture = beifaren
+		religion = mahayana
+		size= 1668
+	}
+
+	aristocrats=
+	{
+		culture = beifaren
+		religion = mahayana
+		size= 13340
+	}
+
+	farmers=
+	{
+		culture = beifaren
+		religion = mahayana
+		size= 657566
+	}
+
+}
+1493 = {
+	soldiers=
+	{
+		culture = yue
+		religion = mahayana
+		size= 67000
+	}
+
+	artisans=
+	{
+		culture = yue
+		religion = mahayana
+		size= 167501
+	}
+
+	clergymen=
+	{
+		culture = yue
+		religion = mahayana
+		size= 15554
+	}
+
+	bureaucrats=
+	{
+		culture = yue
+		religion = mahayana
+		size= 2752
+	}
+
+	officers=
+	{
+		culture = yue
+		religion = mahayana
+		size= 1914
+	}
+
+	aristocrats=
+	{
+		culture = yue
+		religion = mahayana
+		size= 15075
+	}
+
+	farmers=
+	{
+		culture = yue
+		religion = mahayana
+		size= 926640
+	}
+
+}
+1494 = {
+	soldiers=
+	{
+		culture = min
+		religion = theravada
+		size= 52591
+	}
+
+	artisans=
+	{
+		culture = min
+		religion = theravada
+		size= 131478
+	}
+
+	clergymen=
+	{
+		culture = min
+		religion = theravada
+		size= 12209
+	}
+
+	bureaucrats=
+	{
+		culture = min
+		religion = theravada
+		size= 2160
+	}
+
+	officers=
+	{
+		culture = min
+		religion = theravada
+		size= 1503
+	}
+
+	aristocrats=
+	{
+		culture = min
+		religion = theravada
+		size= 7889
+	}
+
+	farmers=
+	{
+		culture = min
+		religion = theravada
+		size= 731301
+	}
+
+}
+1495 = {
+	soldiers=
+	{
+		culture = min
+		religion = mahayana
+		size= 29184
+	}
+
+	artisans=
+	{
+		culture = min
+		religion = mahayana
+		size= 72960
+	}
+
+	clergymen=
+	{
+		culture = min
+		religion = mahayana
+		size= 3387
+	}
+
+	bureaucrats=
+	{
+		culture = min
+		religion = mahayana
+		size= 1616
+	}
+
+	officers=
+	{
+		culture = min
+		religion = mahayana
+		size= 834
+	}
+
+	aristocrats=
+	{
+		culture = min
+		religion = mahayana
+		size= 13133
+	}
+
+	farmers=
+	{
+		culture = min
+		religion = mahayana
+		size= 400029
+	}
+
+	soldiers=
+	{
+		culture = yue
+		religion = mahayana
+		size= 26711
+	}
+
+	artisans=
+	{
+		culture = yue
+		religion = mahayana
+		size= 66777
+	}
+
+	clergymen=
+	{
+		culture = yue
+		religion = mahayana
+		size= 3100
+	}
+
+	bureaucrats=
+	{
+		culture = yue
+		religion = mahayana
+		size= 1479
+	}
+
+	officers=
+	{
+		culture = yue
+		religion = mahayana
+		size= 763
+	}
+
+	aristocrats=
+	{
+		culture = yue
+		religion = mahayana
+		size= 12020
+	}
+
+	farmers=
+	{
+		culture = yue
+		religion = mahayana
+		size= 366129
+	}
+
+}
+1496 = {
+	soldiers=
+	{
+		culture = yue
+		religion = mahayana
+		size= 89
+	}
+
+	artisans=
+	{
+		culture = yue
+		religion = mahayana
+		size= 222
+	}
+
+	clergymen=
+	{
+		culture = yue
+		religion = mahayana
+		size= 21
+	}
+
+	bureaucrats=
+	{
+		culture = yue
+		religion = mahayana
+		size= 4
+	}
+
+	officers=
+	{
+		culture = yue
+		religion = mahayana
+		size= 3
+	}
+
+	aristocrats=
+	{
+		culture = yue
+		religion = mahayana
+		size= 20
+	}
+
+	farmers=
+	{
+		culture = yue
+		religion = mahayana
+		size= 1224
+	}
+
+}
+1497 = {
+	soldiers=
+	{
+		culture = hakka
+		religion = mahayana
+		size= 30880
+	}
+
+	artisans=
+	{
+		culture = hakka
+		religion = mahayana
+		size= 49629
+	}
+
+	clergymen=
+	{
+		culture = hakka
+		religion = mahayana
+		size= 3584
+	}
+
+	bureaucrats=
+	{
+		culture = hakka
+		religion = mahayana
+		size= 496
+	}
+
+	officers=
+	{
+		culture = hakka
+		religion = mahayana
+		size= 1158
+	}
+
+	aristocrats=
+	{
+		culture = hakka
+		religion = mahayana
+		size= 9264
+	}
+
+	farmers=
+	{
+		culture = hakka
+		religion = mahayana
+		size= 456424
+	}
+
+}
+1498 = {
+	soldiers=
+	{
+		culture = yue
+		religion = catholic
+		size= 269
+	}
+
+	artisans=
+	{
+		culture = yue
+		religion = catholic
+		size= 819
+	}
+
+	clergymen=
+	{
+		culture = yue
+		religion = catholic
+		size= 76
+	}
+
+	bureaucrats=
+	{
+		culture = yue
+		religion = catholic
+		size= 15
+	}
+
+	officers=
+	{
+		culture = yue
+		religion = catholic
+		size= 17
+	}
+
+	aristocrats=
+	{
+		culture = yue
+		religion = catholic
+		size= 74
+	}
+
+	farmers=
+	{
+		culture = yue
+		religion = catholic
+		size= 4579
+	}
+
+}
+1499 = {
+	soldiers=
+	{
+		culture = min
+		religion = mahayana
+		size= 48466
+	}
+
+	artisans=
+	{
+		culture = min
+		religion = mahayana
+		size= 34618
+	}
+
+	clergymen=
+	{
+		culture = min
+		religion = mahayana
+		size= 5626
+	}
+
+	bureaucrats=
+	{
+		culture = min
+		religion = mahayana
+		size= 433
+	}
+
+	officers=
+	{
+		culture = min
+		religion = mahayana
+		size= 1818
+	}
+
+	aristocrats=
+	{
+		culture = min
+		religion = mahayana
+		size= 7270
+	}
+
+	farmers=
+	{
+		culture = min
+		religion = mahayana
+		size= 767222
+	}
+
+}
+1500 = {
+	soldiers=
+	{
+		culture = hakka
+		religion = mahayana
+		size= 46776
+	}
+
+	artisans=
+	{
+		culture = hakka
+		religion = mahayana
+		size= 88495
+	}
+
+	clergymen=
+	{
+		culture = hakka
+		religion = mahayana
+		size= 8217
+	}
+
+	bureaucrats=
+	{
+		culture = hakka
+		religion = mahayana
+		size= 1454
+	}
+
+	officers=
+	{
+		culture = hakka
+		religion = mahayana
+		size= 1264
+	}
+
+	aristocrats=
+	{
+		culture = hakka
+		religion = mahayana
+		size= 7965
+	}
+
+	farmers=
+	{
+		culture = hakka
+		religion = mahayana
+		size= 477939
+	}
+
+}
+1501 = {
+	soldiers=
+	{
+		culture = yue
+		religion = mahayana
+		size= 25619
+	}
+
+	artisans=
+	{
+		culture = yue
+		religion = mahayana
+		size= 41174
+	}
+
+	clergymen=
+	{
+		culture = yue
+		religion = mahayana
+		size= 2974
+	}
+
+	bureaucrats=
+	{
+		culture = yue
+		religion = mahayana
+		size= 412
+	}
+
+	officers=
+	{
+		culture = yue
+		religion = mahayana
+		size= 961
+	}
+
+	aristocrats=
+	{
+		culture = yue
+		religion = mahayana
+		size= 3843
+	}
+
+	farmers=
+	{
+		culture = yue
+		religion = mahayana
+		size= 382508
+	}
+
+}
+1502 = {
+	soldiers=
+	{
+		culture = yue
+		religion = mahayana
+		size= 35710
+	}
+
+	artisans=
+	{
+		culture = yue
+		religion = mahayana
+		size= 89273
+	}
+
+	clergymen=
+	{
+		culture = yue
+		religion = mahayana
+		size= 4145
+	}
+
+	bureaucrats=
+	{
+		culture = yue
+		religion = mahayana
+		size= 1976
+	}
+
+	officers=
+	{
+		culture = yue
+		religion = mahayana
+		size= 1020
+	}
+
+	aristocrats=
+	{
+		culture = yue
+		religion = mahayana
+		size= 10713
+	}
+
+	farmers=
+	{
+		culture = yue
+		religion = mahayana
+		size= 494827
+	}
+
+}
+1503 = {
+	soldiers=
+	{
+		culture = nanfaren
+		religion = theravada
+		size= 49572
+	}
+
+	artisans=
+	{
+		culture = nanfaren
+		religion = theravada
+		size= 75435
+	}
+
+	clergymen=
+	{
+		culture = nanfaren
+		religion = theravada
+		size= 3502
+	}
+
+	bureaucrats=
+	{
+		culture = nanfaren
+		religion = theravada
+		size= 1455
+	}
+
+	officers=
+	{
+		culture = nanfaren
+		religion = theravada
+		size= 1293
+	}
+
+	aristocrats=
+	{
+		culture = nanfaren
+		religion = theravada
+		size= 5280
+	}
+
+	farmers=
+	{
+		culture = nanfaren
+		religion = theravada
+		size= 402288
+	}
+
+	soldiers=
+	{
+		culture = yue
+		religion = mahayana
+		size= 61965
+	}
+
+	artisans=
+	{
+		culture = yue
+		religion = mahayana
+		size= 94294
+	}
+
+	clergymen=
+	{
+		culture = yue
+		religion = mahayana
+		size= 4378
+	}
+
+	bureaucrats=
+	{
+		culture = yue
+		religion = mahayana
+		size= 1819
+	}
+
+	officers=
+	{
+		culture = yue
+		religion = mahayana
+		size= 1616
+	}
+
+	aristocrats=
+	{
+		culture = yue
+		religion = mahayana
+		size= 6601
+	}
+
+	farmers=
+	{
+		culture = yue
+		religion = mahayana
+		size= 502858
+	}
+
+}
+1504 = {
+	soldiers=
+	{
+		culture = yue
+		religion = mahayana
+		size= 13433
+	}
+
+	artisans=
+	{
+		culture = yue
+		religion = mahayana
+		size= 33262
+	}
+
+	clergymen=
+	{
+		culture = yue
+		religion = mahayana
+		size= 2402
+	}
+
+	bureaucrats=
+	{
+		culture = yue
+		religion = mahayana
+		size= 554
+	}
+
+	officers=
+	{
+		culture = yue
+		religion = mahayana
+		size= 296
+	}
+
+	aristocrats=
+	{
+		culture = yue
+		religion = mahayana
+		size= 3104
+	}
+
+	farmers=
+	{
+		culture = yue
+		religion = mahayana
+		size= 316529
+	}
+
+}
+1505 = {
+	soldiers=
+	{
+		culture = nanfaren
+		religion = animist
+		size= 27679
+	}
+
+	artisans=
+	{
+		culture = nanfaren
+		religion = animist
+		size= 42120
+	}
+
+	clergymen=
+	{
+		culture = nanfaren
+		religion = animist
+		size= 1956
+	}
+
+	bureaucrats=
+	{
+		culture = nanfaren
+		religion = animist
+		size= 692
+	}
+
+	officers=
+	{
+		culture = nanfaren
+		religion = animist
+		size= 722
+	}
+
+	aristocrats=
+	{
+		culture = nanfaren
+		religion = animist
+		size= 2527
+	}
+
+	farmers=
+	{
+		culture = nanfaren
+		religion = animist
+		size= 225160
+	}
+
+}
+1506 = {
+	soldiers=
+	{
+		culture = bai
+		religion = theravada
+		size= 27050
+	}
+
+	artisans=
+	{
+		culture = bai
+		religion = theravada
+		size= 67625
+	}
+
+	clergymen=
+	{
+		culture = bai
+		religion = theravada
+		size= 3140
+	}
+
+	bureaucrats=
+	{
+		culture = bai
+		religion = theravada
+		size= 1497
+	}
+
+	officers=
+	{
+		culture = bai
+		religion = theravada
+		size= 773
+	}
+
+	aristocrats=
+	{
+		culture = bai
+		religion = theravada
+		size= 6086
+	}
+
+	farmers=
+	{
+		culture = bai
+		religion = theravada
+		size= 376868
+	}
+
+}
+1507 = {
+	soldiers=
+	{
+		culture = nanfaren
+		religion = animist
+		size= 34902
+	}
+
+	artisans=
+	{
+		culture = nanfaren
+		religion = animist
+		size= 87255
+	}
+
+	clergymen=
+	{
+		culture = nanfaren
+		religion = animist
+		size= 4051
+	}
+
+	bureaucrats=
+	{
+		culture = nanfaren
+		religion = animist
+		size= 1184
+	}
+
+	officers=
+	{
+		culture = nanfaren
+		religion = animist
+		size= 997
+	}
+
+	aristocrats=
+	{
+		culture = nanfaren
+		religion = animist
+		size= 10471
+	}
+
+	farmers=
+	{
+		culture = nanfaren
+		religion = animist
+		size= 484389
+	}
+
+}
+1508 = {
+	soldiers=
+	{
+		culture = beifaren
+		religion = mahayana
+		size= 91979
+	}
+
+	artisans=
+	{
+		culture = beifaren
+		religion = mahayana
+		size= 139473
+	}
+
+	clergymen=
+	{
+		culture = beifaren
+		religion = mahayana
+		size= 12992
+	}
+
+	bureaucrats=
+	{
+		culture = beifaren
+		religion = mahayana
+		size= 1900
+	}
+
+	officers=
+	{
+		culture = beifaren
+		religion = mahayana
+		size= 2399
+	}
+
+	aristocrats=
+	{
+		culture = beifaren
+		religion = mahayana
+		size= 9798
+	}
+
+	farmers=
+	{
+		culture = beifaren
+		religion = mahayana
+		size= 740727
+	}
+
+	clergymen=
+	{
+		culture = beifaren
+		religion = jewish
+		size= 5
+	}
+
+	artisans=
+	{
+		culture = beifaren
+		religion = jewish
+		size= 495
+	}
+
+}
+1509 = {
+	soldiers=
+	{
+		culture = beifaren
+		religion = mahayana
+		size= 46057
+	}
+
+	artisans=
+	{
+		culture = beifaren
+		religion = mahayana
+		size= 32898
+	}
+
+	clergymen=
+	{
+		culture = beifaren
+		religion = mahayana
+		size= 5346
+	}
+
+	bureaucrats=
+	{
+		culture = beifaren
+		religion = mahayana
+		size= 740
+	}
+
+	officers=
+	{
+		culture = beifaren
+		religion = mahayana
+		size= 1316
+	}
+
+	aristocrats=
+	{
+		culture = beifaren
+		religion = mahayana
+		size= 6909
+	}
+
+	farmers=
+	{
+		culture = beifaren
+		religion = mahayana
+		size= 729188
+	}
+
+}
+1510 = {
+	soldiers=
+	{
+		culture = beifaren
+		religion = mahayana
+		size= 81321
+	}
+
+	artisans=
+	{
+		culture = beifaren
+		religion = mahayana
+		size= 123749
+	}
+
+	clergymen=
+	{
+		culture = beifaren
+		religion = mahayana
+		size= 5745
+	}
+
+	bureaucrats=
+	{
+		culture = beifaren
+		religion = mahayana
+		size= 2033
+	}
+
+	officers=
+	{
+		culture = beifaren
+		religion = mahayana
+		size= 2121
+	}
+
+	aristocrats=
+	{
+		culture = beifaren
+		religion = mahayana
+		size= 11137
+	}
+
+	farmers=
+	{
+		culture = beifaren
+		religion = mahayana
+		size= 657817
+	}
+
+}
+1511 = {
+	soldiers=
+	{
+		culture = beifaren
+		religion = mahayana
+		size= 109278
+	}
+
+	artisans=
+	{
+		culture = beifaren
+		religion = mahayana
+		size= 166293
+	}
+
+	clergymen=
+	{
+		culture = beifaren
+		religion = mahayana
+		size= 15442
+	}
+
+	bureaucrats=
+	{
+		culture = beifaren
+		religion = mahayana
+		size= 3207
+	}
+
+	officers=
+	{
+		culture = beifaren
+		religion = mahayana
+		size= 2851
+	}
+
+	aristocrats=
+	{
+		culture = beifaren
+		religion = mahayana
+		size= 23281
+	}
+
+	farmers=
+	{
+		culture = beifaren
+		religion = mahayana
+		size= 867456
+	}
+
+}
+1512 = {
+	soldiers=
+	{
+		culture = beifaren
+		religion = mahayana
+		size= 46341
+	}
+
+	artisans=
+	{
+		culture = beifaren
+		religion = mahayana
+		size= 33101
+	}
+
+	clergymen=
+	{
+		culture = beifaren
+		religion = mahayana
+		size= 5379
+	}
+
+	bureaucrats=
+	{
+		culture = beifaren
+		religion = mahayana
+		size= 745
+	}
+
+	officers=
+	{
+		culture = beifaren
+		religion = mahayana
+		size= 1324
+	}
+
+	aristocrats=
+	{
+		culture = beifaren
+		religion = mahayana
+		size= 6951
+	}
+
+	farmers=
+	{
+		culture = beifaren
+		religion = mahayana
+		size= 733678
+	}
+
+}
+1513 = {
+	soldiers=
+	{
+		culture = beifaren
+		religion = mahayana
+		size= 57660
+	}
+
+	artisans=
+	{
+		culture = beifaren
+		religion = mahayana
+		size= 70127
+	}
+
+	clergymen=
+	{
+		culture = beifaren
+		religion = mahayana
+		size= 5065
+	}
+
+	bureaucrats=
+	{
+		culture = beifaren
+		religion = mahayana
+		size= 701
+	}
+
+	officers=
+	{
+		culture = beifaren
+		religion = mahayana
+		size= 1558
+	}
+
+	aristocrats=
+	{
+		culture = beifaren
+		religion = mahayana
+		size= 6545
+	}
+
+	farmers=
+	{
+		culture = beifaren
+		religion = mahayana
+		size= 637538
+	}
+
+}
+1514 = {
+	soldiers=
+	{
+		culture = beifaren
+		religion = mahayana
+		size= 42261
+	}
+
+	artisans=
+	{
+		culture = beifaren
+		religion = mahayana
+		size= 105651
+	}
+
+	clergymen=
+	{
+		culture = beifaren
+		religion = mahayana
+		size= 4905
+	}
+
+	bureaucrats=
+	{
+		culture = beifaren
+		religion = mahayana
+		size= 679
+	}
+
+	officers=
+	{
+		culture = beifaren
+		religion = mahayana
+		size= 1585
+	}
+
+	aristocrats=
+	{
+		culture = beifaren
+		religion = mahayana
+		size= 6339
+	}
+
+	farmers=
+	{
+		culture = beifaren
+		religion = mahayana
+		size= 593232
+	}
+
+}
+1515 = {
+	soldiers=
+	{
+		culture = beifaren
+		religion = mahayana
+		size= 99528
+	}
+
+	artisans=
+	{
+		culture = beifaren
+		religion = mahayana
+		size= 151456
+	}
+
+	clergymen=
+	{
+		culture = beifaren
+		religion = mahayana
+		size= 14064
+	}
+
+	bureaucrats=
+	{
+		culture = beifaren
+		religion = mahayana
+		size= 2921
+	}
+
+	officers=
+	{
+		culture = beifaren
+		religion = mahayana
+		size= 2596
+	}
+
+	aristocrats=
+	{
+		culture = beifaren
+		religion = mahayana
+		size= 21204
+	}
+
+	farmers=
+	{
+		culture = beifaren
+		religion = mahayana
+		size= 790061
+	}
+
+}
+1516 = {
+	soldiers=
+	{
+		culture = nanfaren
+		religion = mahayana
+		size= 65221
+	}
+
+	artisans=
+	{
+		culture = nanfaren
+		religion = mahayana
+		size= 123389
+	}
+
+	clergymen=
+	{
+		culture = nanfaren
+		religion = mahayana
+		size= 5728
+	}
+
+	bureaucrats=
+	{
+		culture = nanfaren
+		religion = mahayana
+		size= 793
+	}
+
+	officers=
+	{
+		culture = nanfaren
+		religion = mahayana
+		size= 2203
+	}
+
+	aristocrats=
+	{
+		culture = nanfaren
+		religion = mahayana
+		size= 11105
+	}
+
+	farmers=
+	{
+		culture = nanfaren
+		religion = mahayana
+		size= 672916
+	}
+
+}
+1517 = {
+	soldiers=
+	{
+		culture = nanfaren
+		religion = mahayana
+		size= 80109
+	}
+
+	artisans=
+	{
+		culture = nanfaren
+		religion = mahayana
+		size= 151557
+	}
+
+	clergymen=
+	{
+		culture = nanfaren
+		religion = mahayana
+		size= 7036
+	}
+
+	bureaucrats=
+	{
+		culture = nanfaren
+		religion = mahayana
+		size= 974
+	}
+
+	officers=
+	{
+		culture = nanfaren
+		religion = mahayana
+		size= 2706
+	}
+
+	aristocrats=
+	{
+		culture = nanfaren
+		religion = mahayana
+		size= 13640
+	}
+
+	farmers=
+	{
+		culture = nanfaren
+		religion = mahayana
+		size= 826528
+	}
+
+}
+1518 = {
+	soldiers=
+	{
+		culture = nanfaren
+		religion = mahayana
+		size= 64273
+	}
+
+	artisans=
+	{
+		culture = nanfaren
+		religion = mahayana
+		size= 121598
+	}
+
+	clergymen=
+	{
+		culture = nanfaren
+		religion = mahayana
+		size= 5646
+	}
+
+	bureaucrats=
+	{
+		culture = nanfaren
+		religion = mahayana
+		size= 781
+	}
+
+	officers=
+	{
+		culture = nanfaren
+		religion = mahayana
+		size= 2172
+	}
+
+	aristocrats=
+	{
+		culture = nanfaren
+		religion = mahayana
+		size= 10944
+	}
+
+	farmers=
+	{
+		culture = nanfaren
+		religion = mahayana
+		size= 663144
+	}
+
+}
+1519 = {
+	soldiers=
+	{
+		culture = nanfaren
+		religion = mahayana
+		size= 64725
+	}
+
+	artisans=
+	{
+		culture = nanfaren
+		religion = mahayana
+		size= 78719
+	}
+
+	clergymen=
+	{
+		culture = nanfaren
+		religion = mahayana
+		size= 5685
+	}
+
+	bureaucrats=
+	{
+		culture = nanfaren
+		religion = mahayana
+		size= 787
+	}
+
+	officers=
+	{
+		culture = nanfaren
+		religion = mahayana
+		size= 2187
+	}
+
+	aristocrats=
+	{
+		culture = nanfaren
+		religion = mahayana
+		size= 14694
+	}
+
+	farmers=
+	{
+		culture = nanfaren
+		religion = mahayana
+		size= 707864
+	}
+
+}
+1520 = {
+	soldiers=
+	{
+		culture = nanfaren
+		religion = mahayana
+		size= 63480
+	}
+
+	artisans=
+	{
+		culture = nanfaren
+		religion = mahayana
+		size= 77206
+	}
+
+	clergymen=
+	{
+		culture = nanfaren
+		religion = mahayana
+		size= 5576
+	}
+
+	bureaucrats=
+	{
+		culture = nanfaren
+		religion = mahayana
+		size= 772
+	}
+
+	officers=
+	{
+		culture = nanfaren
+		religion = mahayana
+		size= 2145
+	}
+
+	aristocrats=
+	{
+		culture = nanfaren
+		religion = mahayana
+		size= 14412
+	}
+
+	farmers=
+	{
+		culture = nanfaren
+		religion = mahayana
+		size= 694250
+	}
+
+}
+1521 = {
+	soldiers=
+	{
+		culture = nanfaren
+		religion = mahayana
+		size= 47206
+	}
+
+	artisans=
+	{
+		culture = nanfaren
+		religion = mahayana
+		size= 75866
+	}
+
+	clergymen=
+	{
+		culture = nanfaren
+		religion = mahayana
+		size= 5479
+	}
+
+	bureaucrats=
+	{
+		culture = nanfaren
+		religion = mahayana
+		size= 759
+	}
+
+	officers=
+	{
+		culture = nanfaren
+		religion = mahayana
+		size= 1770
+	}
+
+	aristocrats=
+	{
+		culture = nanfaren
+		religion = mahayana
+		size= 14162
+	}
+
+	farmers=
+	{
+		culture = nanfaren
+		religion = mahayana
+		size= 697716
+	}
+
+}
+1522 = {
+	soldiers=
+	{
+		culture = nanfaren
+		religion = mahayana
+		size= 64506
+	}
+
+	artisans=
+	{
+		culture = nanfaren
+		religion = mahayana
+		size= 122038
+	}
+
+	clergymen=
+	{
+		culture = nanfaren
+		religion = mahayana
+		size= 5666
+	}
+
+	bureaucrats=
+	{
+		culture = nanfaren
+		religion = mahayana
+		size= 785
+	}
+
+	officers=
+	{
+		culture = nanfaren
+		religion = mahayana
+		size= 2179
+	}
+
+	aristocrats=
+	{
+		culture = nanfaren
+		religion = mahayana
+		size= 10983
+	}
+
+	farmers=
+	{
+		culture = nanfaren
+		religion = mahayana
+		size= 665548
+	}
+
+}
+1523 = {
+	soldiers=
+	{
+		culture = nanfaren
+		religion = mahayana
+		size= 71562
+	}
+
+	artisans=
+	{
+		culture = nanfaren
+		religion = mahayana
+		size= 87035
+	}
+
+	clergymen=
+	{
+		culture = nanfaren
+		religion = mahayana
+		size= 6286
+	}
+
+	bureaucrats=
+	{
+		culture = nanfaren
+		religion = mahayana
+		size= 870
+	}
+
+	officers=
+	{
+		culture = nanfaren
+		religion = mahayana
+		size= 2418
+	}
+
+	aristocrats=
+	{
+		culture = nanfaren
+		religion = mahayana
+		size= 8123
+	}
+
+	farmers=
+	{
+		culture = nanfaren
+		religion = mahayana
+		size= 790756
+	}
+
+}
+1524 = {
+	soldiers=
+	{
+		culture = nanfaren
+		religion = mahayana
+		size= 59008
+	}
+
+	artisans=
+	{
+		culture = nanfaren
+		religion = mahayana
+		size= 94834
+	}
+
+	clergymen=
+	{
+		culture = nanfaren
+		religion = mahayana
+		size= 6849
+	}
+
+	bureaucrats=
+	{
+		culture = nanfaren
+		religion = mahayana
+		size= 1791
+	}
+
+	officers=
+	{
+		culture = nanfaren
+		religion = mahayana
+		size= 2213
+	}
+
+	aristocrats=
+	{
+		culture = nanfaren
+		religion = mahayana
+		size= 26554
+	}
+
+	farmers=
+	{
+		culture = nanfaren
+		religion = mahayana
+		size= 862462
+	}
+
+}
+1525 = {
+	soldiers=
+	{
+		culture = nanfaren
+		religion = mahayana
+		size= 16695
+	}
+
+	artisans=
+	{
+		culture = nanfaren
+		religion = mahayana
+		size= 26831
+	}
+
+	clergymen=
+	{
+		culture = nanfaren
+		religion = mahayana
+		size= 1938
+	}
+
+	bureaucrats=
+	{
+		culture = nanfaren
+		religion = mahayana
+		size= 388
+	}
+
+	officers=
+	{
+		culture = nanfaren
+		religion = mahayana
+		size= 626
+	}
+
+	aristocrats=
+	{
+		culture = nanfaren
+		religion = mahayana
+		size= 5843
+	}
+
+	farmers=
+	{
+		culture = nanfaren
+		religion = mahayana
+		size= 245797
+	}
+
+	soldiers=
+	{
+		culture = nanfaren
+		religion = animist
+		size= 8681
+	}
+
+	artisans=
+	{
+		culture = nanfaren
+		religion = animist
+		size= 13952
+	}
+
+	clergymen=
+	{
+		culture = nanfaren
+		religion = animist
+		size= 1008
+	}
+
+	bureaucrats=
+	{
+		culture = nanfaren
+		religion = animist
+		size= 202
+	}
+
+	officers=
+	{
+		culture = nanfaren
+		religion = animist
+		size= 326
+	}
+
+	aristocrats=
+	{
+		culture = nanfaren
+		religion = animist
+		size= 3038
+	}
+
+	farmers=
+	{
+		culture = nanfaren
+		religion = animist
+		size= 127814
+	}
+
+}
+1526 = {
+	soldiers=
+	{
+		culture = nanfaren
+		religion = mahayana
+		size= 36505
+	}
+
+	artisans=
+	{
+		culture = nanfaren
+		religion = mahayana
+		size= 58669
+	}
+
+	clergymen=
+	{
+		culture = nanfaren
+		religion = mahayana
+		size= 4237
+	}
+
+	bureaucrats=
+	{
+		culture = nanfaren
+		religion = mahayana
+		size= 847
+	}
+
+	officers=
+	{
+		culture = nanfaren
+		religion = mahayana
+		size= 1369
+	}
+
+	aristocrats=
+	{
+		culture = nanfaren
+		religion = mahayana
+		size= 12777
+	}
+
+	farmers=
+	{
+		culture = nanfaren
+		religion = mahayana
+		size= 537474
+	}
+
+	soldiers=
+	{
+		culture = nanfaren
+		religion = animist
+		size= 18983
+	}
+
+	artisans=
+	{
+		culture = nanfaren
+		religion = animist
+		size= 30508
+	}
+
+	clergymen=
+	{
+		culture = nanfaren
+		religion = animist
+		size= 2203
+	}
+
+	bureaucrats=
+	{
+		culture = nanfaren
+		religion = animist
+		size= 441
+	}
+
+	officers=
+	{
+		culture = nanfaren
+		religion = animist
+		size= 712
+	}
+
+	aristocrats=
+	{
+		culture = nanfaren
+		religion = animist
+		size= 6644
+	}
+
+	farmers=
+	{
+		culture = nanfaren
+		religion = animist
+		size= 279486
+	}
+
+}
+1527 = {
+	soldiers=
+	{
+		culture = nanfaren
+		religion = animist
+		size= 17940
+	}
+
+	artisans=
+	{
+		culture = nanfaren
+		religion = animist
+		size= 35880
+	}
+
+	clergymen=
+	{
+		culture = nanfaren
+		religion = animist
+		size= 5831
+	}
+
+	bureaucrats=
+	{
+		culture = nanfaren
+		religion = animist
+		size= 449
+	}
+
+	officers=
+	{
+		culture = nanfaren
+		religion = animist
+		size= 1166
+	}
+
+	aristocrats=
+	{
+		culture = nanfaren
+		religion = animist
+		size= 7535
+	}
+
+	farmers=
+	{
+		culture = nanfaren
+		religion = animist
+		size= 828199
+	}
+
+}
+1528 = {
+	soldiers=
+	{
+		culture = nanfaren
+		religion = mahayana
+		size= 17072
+	}
+
+	artisans=
+	{
+		culture = nanfaren
+		religion = mahayana
+		size= 27437
+	}
+
+	clergymen=
+	{
+		culture = nanfaren
+		religion = mahayana
+		size= 1982
+	}
+
+	bureaucrats=
+	{
+		culture = nanfaren
+		religion = mahayana
+		size= 518
+	}
+
+	officers=
+	{
+		culture = nanfaren
+		religion = mahayana
+		size= 640
+	}
+
+	aristocrats=
+	{
+		culture = nanfaren
+		religion = mahayana
+		size= 7682
+	}
+
+	farmers=
+	{
+		culture = nanfaren
+		religion = mahayana
+		size= 249529
+	}
+
+}
+1529 = {
+	soldiers=
+	{
+		culture = nanfaren
+		religion = mahayana
+		size= 28696
+	}
+
+	artisans=
+	{
+		culture = nanfaren
+		religion = mahayana
+		size= 46119
+	}
+
+	clergymen=
+	{
+		culture = nanfaren
+		religion = mahayana
+		size= 3331
+	}
+
+	bureaucrats=
+	{
+		culture = nanfaren
+		religion = mahayana
+		size= 666
+	}
+
+	officers=
+	{
+		culture = nanfaren
+		religion = mahayana
+		size= 1076
+	}
+
+	aristocrats=
+	{
+		culture = nanfaren
+		religion = mahayana
+		size= 10044
+	}
+
+	farmers=
+	{
+		culture = nanfaren
+		religion = mahayana
+		size= 422500
+	}
+
+	soldiers=
+	{
+		culture = nanfaren
+		religion = animist
+		size= 14922
+	}
+
+	artisans=
+	{
+		culture = nanfaren
+		religion = animist
+		size= 23982
+	}
+
+	clergymen=
+	{
+		culture = nanfaren
+		religion = animist
+		size= 1732
+	}
+
+	bureaucrats=
+	{
+		culture = nanfaren
+		religion = animist
+		size= 346
+	}
+
+	officers=
+	{
+		culture = nanfaren
+		religion = animist
+		size= 560
+	}
+
+	aristocrats=
+	{
+		culture = nanfaren
+		religion = animist
+		size= 5223
+	}
+
+	farmers=
+	{
+		culture = nanfaren
+		religion = animist
+		size= 219700
+	}
+
+}
+1530 = {
+	soldiers=
+	{
+		culture = nanfaren
+		religion = animist
+		size= 14084
+	}
+
+	artisans=
+	{
+		culture = nanfaren
+		religion = animist
+		size= 28167
+	}
+
+	clergymen=
+	{
+		culture = nanfaren
+		religion = animist
+		size= 4577
+	}
+
+	bureaucrats=
+	{
+		culture = nanfaren
+		religion = animist
+		size= 352
+	}
+
+	officers=
+	{
+		culture = nanfaren
+		religion = animist
+		size= 915
+	}
+
+	aristocrats=
+	{
+		culture = nanfaren
+		religion = animist
+		size= 5915
+	}
+
+	farmers=
+	{
+		culture = nanfaren
+		religion = animist
+		size= 650168
+	}
+
+}
+1532 = {
+	soldiers=
+	{
+		culture = mongol
+		religion = mahayana
+		size= 8184
+	}
+
+	artisans=
+	{
+		culture = mongol
+		religion = mahayana
+		size= 15485
+	}
+
+	clergymen=
+	{
+		culture = mongol
+		religion = mahayana
+		size= 1660
+	}
+
+	bureaucrats=
+	{
+		culture = mongol
+		religion = mahayana
+		size= 210
+	}
+
+	officers=
+	{
+		culture = mongol
+		religion = mahayana
+		size= 221
+	}
+
+	aristocrats=
+	{
+		culture = mongol
+		religion = mahayana
+		size= 1859
+	}
+
+	farmers=
+	{
+		culture = mongol
+		religion = mahayana
+		size= 82990
+	}
+
+}
+1533 = {
+	soldiers=
+	{
+		culture = mongol
+		religion = mahayana
+		size= 2043
+	}
+
+	artisans=
+	{
+		culture = mongol
+		religion = mahayana
+		size= 3287
+	}
+
+	clergymen=
+	{
+		culture = mongol
+		religion = mahayana
+		size= 236
+	}
+
+	bureaucrats=
+	{
+		culture = mongol
+		religion = mahayana
+		size= 32
+	}
+
+	officers=
+	{
+		culture = mongol
+		religion = mahayana
+		size= 58
+	}
+
+	aristocrats=
+	{
+		culture = mongol
+		religion = mahayana
+		size= 614
+	}
+
+	farmers=
+	{
+		culture = mongol
+		religion = mahayana
+		size= 30241
+	}
+
+}
+1534 = {
+	soldiers=
+	{
+		culture = mongol
+		religion = mahayana
+		size= 613
+	}
+
+	artisans=
+	{
+		culture = mongol
+		religion = mahayana
+		size= 1228
+	}
+
+	clergymen=
+	{
+		culture = mongol
+		religion = mahayana
+		size= 200
+	}
+
+	bureaucrats=
+	{
+		culture = mongol
+		religion = mahayana
+		size= 15
+	}
+
+	officers=
+	{
+		culture = mongol
+		religion = mahayana
+		size= 25
+	}
+
+	aristocrats=
+	{
+		culture = mongol
+		religion = mahayana
+		size= 515
+	}
+
+	farmers=
+	{
+		culture = mongol
+		religion = mahayana
+		size= 28088
+	}
+
+}
+1535 = {
+	soldiers=
+	{
+		culture = mongol
+		religion = mahayana
+		size= 5061
+	}
+
+	artisans=
+	{
+		culture = mongol
+		religion = mahayana
+		size= 12653
+	}
+
+	clergymen=
+	{
+		culture = mongol
+		religion = mahayana
+		size= 588
+	}
+
+	bureaucrats=
+	{
+		culture = mongol
+		religion = mahayana
+		size= 137
+	}
+
+	officers=
+	{
+		culture = mongol
+		religion = mahayana
+		size= 144
+	}
+
+	aristocrats=
+	{
+		culture = mongol
+		religion = mahayana
+		size= 1519
+	}
+
+	farmers=
+	{
+		culture = mongol
+		religion = mahayana
+		size= 70275
+	}
+
+	soldiers=
+	{
+		culture = tibetan
+		religion = mahayana
+		size= 1360
+	}
+
+	artisans=
+	{
+		culture = tibetan
+		religion = mahayana
+		size= 3399
+	}
+
+	clergymen=
+	{
+		culture = tibetan
+		religion = mahayana
+		size= 158
+	}
+
+	bureaucrats=
+	{
+		culture = tibetan
+		religion = mahayana
+		size= 36
+	}
+
+	officers=
+	{
+		culture = tibetan
+		religion = mahayana
+		size= 39
+	}
+
+	aristocrats=
+	{
+		culture = tibetan
+		religion = mahayana
+		size= 408
+	}
+
+	farmers=
+	{
+		culture = tibetan
+		religion = mahayana
+		size= 18880
+	}
+
+}
+1536 = {
+	soldiers=
+	{
+		culture = nanfaren
+		religion = mahayana
+		size= 15683
+	}
+
+	artisans=
+	{
+		culture = nanfaren
+		religion = mahayana
+		size= 31366
+	}
+
+	clergymen=
+	{
+		culture = nanfaren
+		religion = mahayana
+		size= 5097
+	}
+
+	bureaucrats=
+	{
+		culture = nanfaren
+		religion = mahayana
+		size= 392
+	}
+
+	officers=
+	{
+		culture = nanfaren
+		religion = mahayana
+		size= 1019
+	}
+
+	aristocrats=
+	{
+		culture = nanfaren
+		religion = mahayana
+		size= 6587
+	}
+
+	farmers=
+	{
+		culture = nanfaren
+		religion = mahayana
+		size= 724018
+	}
+
+}
+1537 = {
+	soldiers=
+	{
+		culture = nanfaren
+		religion = mahayana
+		size= 85703
+	}
+
+	artisans=
+	{
+		culture = nanfaren
+		religion = mahayana
+		size= 137737
+	}
+
+	clergymen=
+	{
+		culture = nanfaren
+		religion = mahayana
+		size= 9948
+	}
+
+	bureaucrats=
+	{
+		culture = nanfaren
+		religion = mahayana
+		size= 765
+	}
+
+	officers=
+	{
+		culture = nanfaren
+		religion = mahayana
+		size= 2449
+	}
+
+	aristocrats=
+	{
+		culture = nanfaren
+		religion = mahayana
+		size= 12855
+	}
+
+	farmers=
+	{
+		culture = nanfaren
+		religion = mahayana
+		size= 1280950
+	}
+
+}
+1538 = {
+	soldiers=
+	{
+		culture = nanfaren
+		religion = mahayana
+		size= 5105
+	}
+
+	artisans=
+	{
+		culture = nanfaren
+		religion = mahayana
+		size= 9659
+	}
+
+	clergymen=
+	{
+		culture = nanfaren
+		religion = mahayana
+		size= 448
+	}
+
+	bureaucrats=
+	{
+		culture = nanfaren
+		religion = mahayana
+		size= 62
+	}
+
+	officers=
+	{
+		culture = nanfaren
+		religion = mahayana
+		size= 172
+	}
+
+	aristocrats=
+	{
+		culture = nanfaren
+		religion = mahayana
+		size= 580
+	}
+
+	farmers=
+	{
+		culture = nanfaren
+		religion = mahayana
+		size= 52964
+	}
+
+}
+1539 = {
+	soldiers=
+	{
+		culture = nanfaren
+		religion = mahayana
+		size= 94639
+	}
+
+	artisans=
+	{
+		culture = nanfaren
+		religion = mahayana
+		size= 179047
+	}
+
+	clergymen=
+	{
+		culture = nanfaren
+		religion = mahayana
+		size= 8313
+	}
+
+	bureaucrats=
+	{
+		culture = nanfaren
+		religion = mahayana
+		size= 1151
+	}
+
+	officers=
+	{
+		culture = nanfaren
+		religion = mahayana
+		size= 3197
+	}
+
+	aristocrats=
+	{
+		culture = nanfaren
+		religion = mahayana
+		size= 10743
+	}
+
+	farmers=
+	{
+		culture = nanfaren
+		religion = mahayana
+		size= 981817
+	}
+
+}
+1540 = {
+	soldiers=
+	{
+		culture = nanfaren
+		religion = mahayana
+		size= 78725
+	}
+
+	artisans=
+	{
+		culture = nanfaren
+		religion = mahayana
+		size= 196812
+	}
+
+	clergymen=
+	{
+		culture = nanfaren
+		religion = mahayana
+		size= 9138
+	}
+
+	bureaucrats=
+	{
+		culture = nanfaren
+		religion = mahayana
+		size= 1265
+	}
+
+	officers=
+	{
+		culture = nanfaren
+		religion = mahayana
+		size= 2952
+	}
+
+	aristocrats=
+	{
+		culture = nanfaren
+		religion = mahayana
+		size= 11809
+	}
+
+	farmers=
+	{
+		culture = nanfaren
+		religion = mahayana
+		size= 1105099
+	}
+
+}
+1541 = {
+	soldiers=
+	{
+		culture = nanfaren
+		religion = mahayana
+		size= 78611
+	}
+
+	artisans=
+	{
+		culture = nanfaren
+		religion = mahayana
+		size= 196527
+	}
+
+	clergymen=
+	{
+		culture = nanfaren
+		religion = mahayana
+		size= 9124
+	}
+
+	bureaucrats=
+	{
+		culture = nanfaren
+		religion = mahayana
+		size= 1263
+	}
+
+	officers=
+	{
+		culture = nanfaren
+		religion = mahayana
+		size= 2948
+	}
+
+	aristocrats=
+	{
+		culture = nanfaren
+		religion = mahayana
+		size= 11792
+	}
+
+	farmers=
+	{
+		culture = nanfaren
+		religion = mahayana
+		size= 1103501
+	}
+
+}
+1542 = {
+	soldiers=
+	{
+		culture = beifaren
+		religion = mahayana
+		size= 16854
+	}
+
+	artisans=
+	{
+		culture = beifaren
+		religion = mahayana
+		size= 12038
+	}
+
+	clergymen=
+	{
+		culture = beifaren
+		religion = mahayana
+		size= 1956
+	}
+
+	bureaucrats=
+	{
+		culture = beifaren
+		religion = mahayana
+		size= 271
+	}
+
+	officers=
+	{
+		culture = beifaren
+		religion = mahayana
+		size= 482
+	}
+
+	aristocrats=
+	{
+		culture = beifaren
+		religion = mahayana
+		size= 2949
+	}
+
+	farmers=
+	{
+		culture = beifaren
+		religion = mahayana
+		size= 266408
+	}
+
+	soldiers=
+	{
+		culture = nanfaren
+		religion = mahayana
+		size= 13367
+	}
+
+	artisans=
+	{
+		culture = nanfaren
+		religion = mahayana
+		size= 9548
+	}
+
+	clergymen=
+	{
+		culture = nanfaren
+		religion = mahayana
+		size= 1551
+	}
+
+	bureaucrats=
+	{
+		culture = nanfaren
+		religion = mahayana
+		size= 215
+	}
+
+	officers=
+	{
+		culture = nanfaren
+		religion = mahayana
+		size= 382
+	}
+
+	aristocrats=
+	{
+		culture = nanfaren
+		religion = mahayana
+		size= 2339
+	}
+
+	farmers=
+	{
+		culture = nanfaren
+		religion = mahayana
+		size= 211288
+	}
+
+}
+1543 = {
+	soldiers=
+	{
+		culture = nanfaren
+		religion = mahayana
+		size= 47679
+	}
+
+	artisans=
+	{
+		culture = nanfaren
+		religion = mahayana
+		size= 119198
+	}
+
+	clergymen=
+	{
+		culture = nanfaren
+		religion = mahayana
+		size= 5534
+	}
+
+	bureaucrats=
+	{
+		culture = nanfaren
+		religion = mahayana
+		size= 766
+	}
+
+	officers=
+	{
+		culture = nanfaren
+		religion = mahayana
+		size= 1788
+	}
+
+	aristocrats=
+	{
+		culture = nanfaren
+		religion = mahayana
+		size= 7152
+	}
+
+	farmers=
+	{
+		culture = nanfaren
+		religion = mahayana
+		size= 669297
+	}
+
+}
+1544 = {
+	soldiers=
+	{
+		culture = nanfaren
+		religion = mahayana
+		size= 44223
+	}
+
+	artisans=
+	{
+		culture = nanfaren
+		religion = mahayana
+		size= 71072
+	}
+
+	clergymen=
+	{
+		culture = nanfaren
+		religion = mahayana
+		size= 5133
+	}
+
+	bureaucrats=
+	{
+		culture = nanfaren
+		religion = mahayana
+		size= 395
+	}
+
+	officers=
+	{
+		culture = nanfaren
+		religion = mahayana
+		size= 1264
+	}
+
+	aristocrats=
+	{
+		culture = nanfaren
+		religion = mahayana
+		size= 6633
+	}
+
+	farmers=
+	{
+		culture = nanfaren
+		religion = mahayana
+		size= 660974
+	}
+
+}
+1545 = {
+	soldiers=
+	{
+		culture = nanfaren
+		religion = mahayana
+		size= 54123
+	}
+
+	artisans=
+	{
+		culture = nanfaren
+		religion = mahayana
+		size= 102395
+	}
+
+	clergymen=
+	{
+		culture = nanfaren
+		religion = mahayana
+		size= 4754
+	}
+
+	bureaucrats=
+	{
+		culture = nanfaren
+		religion = mahayana
+		size= 658
+	}
+
+	officers=
+	{
+		culture = nanfaren
+		religion = mahayana
+		size= 1828
+	}
+
+	aristocrats=
+	{
+		culture = nanfaren
+		religion = mahayana
+		size= 9216
+	}
+
+	farmers=
+	{
+		culture = nanfaren
+		religion = mahayana
+		size= 558422
+	}
+
+}
+1546 = {
+	soldiers=
+	{
+		culture = nanfaren
+		religion = mahayana
+		size= 42606
+	}
+
+	artisans=
+	{
+		culture = nanfaren
+		religion = mahayana
+		size= 106515
+	}
+
+	clergymen=
+	{
+		culture = nanfaren
+		religion = mahayana
+		size= 4945
+	}
+
+	bureaucrats=
+	{
+		culture = nanfaren
+		religion = mahayana
+		size= 380
+	}
+
+	officers=
+	{
+		culture = nanfaren
+		religion = mahayana
+		size= 1598
+	}
+
+	aristocrats=
+	{
+		culture = nanfaren
+		religion = mahayana
+		size= 6391
+	}
+
+	farmers=
+	{
+		culture = nanfaren
+		religion = mahayana
+		size= 598385
+	}
+
+}
+1547 = {
+	soldiers=
+	{
+		culture = nanfaren
+		religion = mahayana
+		size= 96753
+	}
+
+	artisans=
+	{
+		culture = nanfaren
+		religion = mahayana
+		size= 241882
+	}
+
+	clergymen=
+	{
+		culture = nanfaren
+		religion = mahayana
+		size= 11230
+	}
+
+	bureaucrats=
+	{
+		culture = nanfaren
+		religion = mahayana
+		size= 864
+	}
+
+	officers=
+	{
+		culture = nanfaren
+		religion = mahayana
+		size= 3628
+	}
+
+	aristocrats=
+	{
+		culture = nanfaren
+		religion = mahayana
+		size= 14513
+	}
+
+	farmers=
+	{
+		culture = nanfaren
+		religion = mahayana
+		size= 1358857
+	}
+
+}
+1548 = {
+	soldiers=
+	{
+		culture = nanfaren
+		religion = mahayana
+		size= 23942
+	}
+
+	artisans=
+	{
+		culture = nanfaren
+		religion = mahayana
+		size= 59856
+	}
+
+	clergymen=
+	{
+		culture = nanfaren
+		religion = mahayana
+		size= 2779
+	}
+
+	bureaucrats=
+	{
+		culture = nanfaren
+		religion = mahayana
+		size= 214
+	}
+
+	officers=
+	{
+		culture = nanfaren
+		religion = mahayana
+		size= 898
+	}
+
+	aristocrats=
+	{
+		culture = nanfaren
+		religion = mahayana
+		size= 3591
+	}
+
+	farmers=
+	{
+		culture = nanfaren
+		religion = mahayana
+		size= 336262
+	}
+
+}
+1549 = {
+	soldiers=
+	{
+		culture = nanfaren
+		religion = mahayana
+		size= 75846
+	}
+
+	artisans=
+	{
+		culture = nanfaren
+		religion = mahayana
+		size= 143493
+	}
+
+	clergymen=
+	{
+		culture = nanfaren
+		religion = mahayana
+		size= 6662
+	}
+
+	bureaucrats=
+	{
+		culture = nanfaren
+		religion = mahayana
+		size= 922
+	}
+
+	officers=
+	{
+		culture = nanfaren
+		religion = mahayana
+		size= 2562
+	}
+
+	aristocrats=
+	{
+		culture = nanfaren
+		religion = mahayana
+		size= 12914
+	}
+
+	farmers=
+	{
+		culture = nanfaren
+		religion = mahayana
+		size= 782548
+	}
+
+}
+1550 = {
+	soldiers=
+	{
+		culture = hakka
+		religion = mahayana
+		size= 69888
+	}
+
+	artisans=
+	{
+		culture = hakka
+		religion = mahayana
+		size= 49920
+	}
+
+	clergymen=
+	{
+		culture = hakka
+		religion = mahayana
+		size= 8112
+	}
+
+	bureaucrats=
+	{
+		culture = hakka
+		religion = mahayana
+		size= 624
+	}
+
+	officers=
+	{
+		culture = hakka
+		religion = mahayana
+		size= 2621
+	}
+
+	aristocrats=
+	{
+		culture = hakka
+		religion = mahayana
+		size= 20966
+	}
+
+	farmers=
+	{
+		culture = hakka
+		religion = mahayana
+		size= 1095870
+	}
+
+}
+1551 = {
+	soldiers=
+	{
+		culture = nanfaren
+		religion = mahayana
+		size= 41973
+	}
+
+	artisans=
+	{
+		culture = nanfaren
+		religion = mahayana
+		size= 104932
+	}
+
+	clergymen=
+	{
+		culture = nanfaren
+		religion = mahayana
+		size= 4872
+	}
+
+	bureaucrats=
+	{
+		culture = nanfaren
+		religion = mahayana
+		size= 375
+	}
+
+	officers=
+	{
+		culture = nanfaren
+		religion = mahayana
+		size= 1574
+	}
+
+	aristocrats=
+	{
+		culture = nanfaren
+		religion = mahayana
+		size= 6296
+	}
+
+	farmers=
+	{
+		culture = nanfaren
+		religion = mahayana
+		size= 589489
+	}
+
+}
+1552 = {
+	soldiers=
+	{
+		culture = mongol
+		religion = mahayana
+		size= 6448
+	}
+
+	artisans=
+	{
+		culture = mongol
+		religion = mahayana
+		size= 10363
+	}
+
+	clergymen=
+	{
+		culture = mongol
+		religion = mahayana
+		size= 748
+	}
+
+	bureaucrats=
+	{
+		culture = mongol
+		religion = mahayana
+		size= 104
+	}
+
+	officers=
+	{
+		culture = mongol
+		religion = mahayana
+		size= 184
+	}
+
+	aristocrats=
+	{
+		culture = mongol
+		religion = mahayana
+		size= 1934
+	}
+
+	farmers=
+	{
+		culture = mongol
+		religion = mahayana
+		size= 95367
+	}
+
+	soldiers=
+	{
+		culture = manchu
+		religion = tengri_pagan_reformed
+		size= 29823
+	}
+
+	artisans=
+	{
+		culture = manchu
+		religion = tengri_pagan_reformed
+		size= 47930
+	}
+
+	clergymen=
+	{
+		culture = manchu
+		religion = tengri_pagan_reformed
+		size= 3461
+	}
+
+	bureaucrats=
+	{
+		culture = manchu
+		religion = tengri_pagan_reformed
+		size= 480
+	}
+
+	officers=
+	{
+		culture = manchu
+		religion = tengri_pagan_reformed
+		size= 852
+	}
+
+	aristocrats=
+	{
+		culture = manchu
+		religion = tengri_pagan_reformed
+		size= 8947
+	}
+
+	farmers=
+	{
+		culture = manchu
+		religion = tengri_pagan_reformed
+		size= 441065
+	}
+
+}
+1553 = {
+	soldiers=
+	{
+		culture = manchu
+		religion = tengri_pagan_reformed
+		size= 10115
+	}
+
+	artisans=
+	{
+		culture = manchu
+		religion = tengri_pagan_reformed
+		size= 16255
+	}
+
+	clergymen=
+	{
+		culture = manchu
+		religion = tengri_pagan_reformed
+		size= 1174
+	}
+
+	bureaucrats=
+	{
+		culture = manchu
+		religion = tengri_pagan_reformed
+		size= 163
+	}
+
+	officers=
+	{
+		culture = manchu
+		religion = tengri_pagan_reformed
+		size= 289
+	}
+
+	aristocrats=
+	{
+		culture = manchu
+		religion = tengri_pagan_reformed
+		size= 1517
+	}
+
+	farmers=
+	{
+		culture = manchu
+		religion = tengri_pagan_reformed
+		size= 151101
+	}
+
+	soldiers=
+	{
+		culture = manchu
+		religion = mahayana
+		size= 10114
+	}
+
+	artisans=
+	{
+		culture = manchu
+		religion = mahayana
+		size= 16255
+	}
+
+	clergymen=
+	{
+		culture = manchu
+		religion = mahayana
+		size= 1174
+	}
+
+	bureaucrats=
+	{
+		culture = manchu
+		religion = mahayana
+		size= 163
+	}
+
+	officers=
+	{
+		culture = manchu
+		religion = mahayana
+		size= 289
+	}
+
+	aristocrats=
+	{
+		culture = manchu
+		religion = mahayana
+		size= 1517
+	}
+
+	farmers=
+	{
+		culture = manchu
+		religion = mahayana
+		size= 151102
+	}
+
+}
+1554 = {
+	soldiers=
+	{
+		culture = manchu
+		religion = mahayana
+		size= 14799
+	}
+
+	artisans=
+	{
+		culture = manchu
+		religion = mahayana
+		size= 23785
+	}
+
+	clergymen=
+	{
+		culture = manchu
+		religion = mahayana
+		size= 1718
+	}
+
+	bureaucrats=
+	{
+		culture = manchu
+		religion = mahayana
+		size= 449
+	}
+
+	officers=
+	{
+		culture = manchu
+		religion = mahayana
+		size= 423
+	}
+
+	aristocrats=
+	{
+		culture = manchu
+		religion = mahayana
+		size= 2220
+	}
+
+	farmers=
+	{
+		culture = manchu
+		religion = mahayana
+		size= 220876
+	}
+
+}
+1555 = {
+	soldiers=
+	{
+		culture = manchu
+		religion = mahayana
+		size= 11458
+	}
+
+	artisans=
+	{
+		culture = manchu
+		religion = mahayana
+		size= 18416
+	}
+
+	clergymen=
+	{
+		culture = manchu
+		religion = mahayana
+		size= 1330
+	}
+
+	bureaucrats=
+	{
+		culture = manchu
+		religion = mahayana
+		size= 184
+	}
+
+	officers=
+	{
+		culture = manchu
+		religion = mahayana
+		size= 328
+	}
+
+	aristocrats=
+	{
+		culture = manchu
+		religion = mahayana
+		size= 2005
+	}
+
+	farmers=
+	{
+		culture = manchu
+		religion = mahayana
+		size= 170901
+	}
+
+	soldiers=
+	{
+		culture = manchu
+		religion = tengri_pagan_reformed
+		size= 3925
+	}
+
+	artisans=
+	{
+		culture = manchu
+		religion = tengri_pagan_reformed
+		size= 6307
+	}
+
+	clergymen=
+	{
+		culture = manchu
+		religion = tengri_pagan_reformed
+		size= 456
+	}
+
+	bureaucrats=
+	{
+		culture = manchu
+		religion = tengri_pagan_reformed
+		size= 63
+	}
+
+	officers=
+	{
+		culture = manchu
+		religion = tengri_pagan_reformed
+		size= 112
+	}
+
+	aristocrats=
+	{
+		culture = manchu
+		religion = tengri_pagan_reformed
+		size= 687
+	}
+
+	farmers=
+	{
+		culture = manchu
+		religion = tengri_pagan_reformed
+		size= 58526
+	}
+
+}
+1556 = {
+	soldiers=
+	{
+		culture = mongol
+		religion = nestorian
+		size= 418
+	}
+
+	artisans=
+	{
+		culture = mongol
+		religion = nestorian
+		size= 836
+	}
+
+	clergymen=
+	{
+		culture = mongol
+		religion = nestorian
+		size= 136
+	}
+
+	bureaucrats=
+	{
+		culture = mongol
+		religion = nestorian
+		size= 31
+	}
+
+	officers=
+	{
+		culture = mongol
+		religion = nestorian
+		size= 17
+	}
+
+	aristocrats=
+	{
+		culture = mongol
+		religion = nestorian
+		size= 351
+	}
+
+	farmers=
+	{
+		culture = mongol
+		religion = nestorian
+		size= 19119
+	}
+
+	soldiers=
+	{
+		culture = mongol
+		religion = gelugpa
+		size= 1673
+	}
+
+	artisans=
+	{
+		culture = mongol
+		religion = gelugpa
+		size= 3346
+	}
+
+	clergymen=
+	{
+		culture = mongol
+		religion = gelugpa
+		size= 544
+	}
+
+	bureaucrats=
+	{
+		culture = mongol
+		religion = gelugpa
+		size= 126
+	}
+
+	officers=
+	{
+		culture = mongol
+		religion = gelugpa
+		size= 67
+	}
+
+	aristocrats=
+	{
+		culture = mongol
+		religion = gelugpa
+		size= 1406
+	}
+
+	farmers=
+	{
+		culture = mongol
+		religion = gelugpa
+		size= 76470
+	}
+
+}
+1557 = {
+	soldiers=
+	{
+		culture = mongol
+		religion = nestorian
+		size= 337
+	}
+
+	artisans=
+	{
+		culture = mongol
+		religion = nestorian
+		size= 673
+	}
+
+	clergymen=
+	{
+		culture = mongol
+		religion = nestorian
+		size= 109
+	}
+
+	bureaucrats=
+	{
+		culture = mongol
+		religion = nestorian
+		size= 25
+	}
+
+	officers=
+	{
+		culture = mongol
+		religion = nestorian
+		size= 13
+	}
+
+	aristocrats=
+	{
+		culture = mongol
+		religion = nestorian
+		size= 283
+	}
+
+	farmers=
+	{
+		culture = mongol
+		religion = nestorian
+		size= 15397
+	}
+
+	soldiers=
+	{
+		culture = mongol
+		religion = gelugpa
+		size= 1347
+	}
+
+	artisans=
+	{
+		culture = mongol
+		religion = gelugpa
+		size= 2694
+	}
+
+	clergymen=
+	{
+		culture = mongol
+		religion = gelugpa
+		size= 437
+	}
+
+	bureaucrats=
+	{
+		culture = mongol
+		religion = gelugpa
+		size= 101
+	}
+
+	officers=
+	{
+		culture = mongol
+		religion = gelugpa
+		size= 54
+	}
+
+	aristocrats=
+	{
+		culture = mongol
+		religion = gelugpa
+		size= 1131
+	}
+
+	farmers=
+	{
+		culture = mongol
+		religion = gelugpa
+		size= 61586
+	}
+
+}
+1558 = {
+	soldiers=
+	{
+		culture = nepali
+		religion = gelugpa
+		size= 2768
+	}
+
+	artisans=
+	{
+		culture = nepali
+		religion = gelugpa
+		size= 6921
+	}
+
+	clergymen=
+	{
+		culture = nepali
+		religion = gelugpa
+		size= 320
+	}
+
+	bureaucrats=
+	{
+		culture = nepali
+		religion = gelugpa
+		size= 133
+	}
+
+	officers=
+	{
+		culture = nepali
+		religion = gelugpa
+		size= 78
+	}
+
+	aristocrats=
+	{
+		culture = nepali
+		religion = gelugpa
+		size= 830
+	}
+
+	farmers=
+	{
+		culture = nepali
+		religion = gelugpa
+		size= 38381
+	}
+
+	soldiers=
+	{
+		culture = dynamic-tibetan-chihan-culture-num1
+		religion = gelugpa
+		size= 2537
+	}
+
+	artisans=
+	{
+		culture = dynamic-tibetan-chihan-culture-num1
+		religion = gelugpa
+		size= 6343
+	}
+
+	clergymen=
+	{
+		culture = dynamic-tibetan-chihan-culture-num1
+		religion = gelugpa
+		size= 294
+	}
+
+	bureaucrats=
+	{
+		culture = dynamic-tibetan-chihan-culture-num1
+		religion = gelugpa
+		size= 122
+	}
+
+	officers=
+	{
+		culture = dynamic-tibetan-chihan-culture-num1
+		religion = gelugpa
+		size= 73
+	}
+
+	aristocrats=
+	{
+		culture = dynamic-tibetan-chihan-culture-num1
+		religion = gelugpa
+		size= 761
+	}
+
+	farmers=
+	{
+		culture = dynamic-tibetan-chihan-culture-num1
+		religion = gelugpa
+		size= 35181
+	}
+
+	soldiers=
+	{
+		culture = nepali
+		religion = mahayana
+		size= 330
+	}
+
+	artisans=
+	{
+		culture = nepali
+		religion = mahayana
+		size= 824
+	}
+
+	clergymen=
+	{
+		culture = nepali
+		religion = mahayana
+		size= 38
+	}
+
+	bureaucrats=
+	{
+		culture = nepali
+		religion = mahayana
+		size= 16
+	}
+
+	officers=
+	{
+		culture = nepali
+		religion = mahayana
+		size= 9
+	}
+
+	aristocrats=
+	{
+		culture = nepali
+		religion = mahayana
+		size= 99
+	}
+
+	farmers=
+	{
+		culture = nepali
+		religion = mahayana
+		size= 4569
+	}
+
+	soldiers=
+	{
+		culture = tibetan
+		religion = gelugpa
+		size= 297
+	}
+
+	artisans=
+	{
+		culture = tibetan
+		religion = gelugpa
+		size= 741
+	}
+
+	clergymen=
+	{
+		culture = tibetan
+		religion = gelugpa
+		size= 34
+	}
+
+	bureaucrats=
+	{
+		culture = tibetan
+		religion = gelugpa
+		size= 14
+	}
+
+	officers=
+	{
+		culture = tibetan
+		religion = gelugpa
+		size= 8
+	}
+
+	aristocrats=
+	{
+		culture = tibetan
+		religion = gelugpa
+		size= 89
+	}
+
+	farmers=
+	{
+		culture = tibetan
+		religion = gelugpa
+		size= 4113
+	}
+
+}
+1559 = {
+	soldiers=
+	{
+		culture = beifaren
+		religion = mahayana
+		size= 30329
+	}
+
+	artisans=
+	{
+		culture = beifaren
+		religion = mahayana
+		size= 48744
+	}
+
+	clergymen=
+	{
+		culture = beifaren
+		religion = mahayana
+		size= 3520
+	}
+
+	bureaucrats=
+	{
+		culture = beifaren
+		religion = mahayana
+		size= 488
+	}
+
+	officers=
+	{
+		culture = beifaren
+		religion = mahayana
+		size= 1137
+	}
+
+	aristocrats=
+	{
+		culture = beifaren
+		religion = mahayana
+		size= 13648
+	}
+
+	farmers=
+	{
+		culture = beifaren
+		religion = mahayana
+		size= 443733
+	}
+
+	soldiers=
+	{
+		culture = beifaren
+		religion = nestorian
+		size= 14642
+	}
+
+	artisans=
+	{
+		culture = beifaren
+		religion = nestorian
+		size= 23532
+	}
+
+	clergymen=
+	{
+		culture = beifaren
+		religion = nestorian
+		size= 1700
+	}
+
+	bureaucrats=
+	{
+		culture = beifaren
+		religion = nestorian
+		size= 235
+	}
+
+	officers=
+	{
+		culture = beifaren
+		religion = nestorian
+		size= 549
+	}
+
+	aristocrats=
+	{
+		culture = beifaren
+		religion = nestorian
+		size= 6589
+	}
+
+	farmers=
+	{
+		culture = beifaren
+		religion = nestorian
+		size= 214215
+	}
+
+}
+1561 = {
+	soldiers=
+	{
+		culture = beifaren
+		religion = mahayana
+		size= 15226
+	}
+
+	artisans=
+	{
+		culture = beifaren
+		religion = mahayana
+		size= 38065
+	}
+
+	clergymen=
+	{
+		culture = beifaren
+		religion = mahayana
+		size= 1767
+	}
+
+	bureaucrats=
+	{
+		culture = beifaren
+		religion = mahayana
+		size= 408
+	}
+
+	officers=
+	{
+		culture = beifaren
+		religion = mahayana
+		size= 435
+	}
+
+	aristocrats=
+	{
+		culture = beifaren
+		religion = mahayana
+		size= 4568
+	}
+
+	farmers=
+	{
+		culture = beifaren
+		religion = mahayana
+		size= 211425
+	}
+
+}
+1562 = {
+	soldiers=
+	{
+		culture = beifaren
+		religion = mahayana
+		size= 50341
+	}
+
+	artisans=
+	{
+		culture = beifaren
+		religion = mahayana
+		size= 80905
+	}
+
+	clergymen=
+	{
+		culture = beifaren
+		religion = mahayana
+		size= 5843
+	}
+
+	bureaucrats=
+	{
+		culture = beifaren
+		religion = mahayana
+		size= 449
+	}
+
+	officers=
+	{
+		culture = beifaren
+		religion = mahayana
+		size= 1888
+	}
+
+	aristocrats=
+	{
+		culture = beifaren
+		religion = mahayana
+		size= 7551
+	}
+
+	farmers=
+	{
+		culture = beifaren
+		religion = mahayana
+		size= 751964
+	}
+
+}
+1563 = {
+	soldiers=
+	{
+		culture = beifaren
+		religion = mahayana
+		size= 113621
+	}
+
+	artisans=
+	{
+		culture = beifaren
+		religion = mahayana
+		size= 138188
+	}
+
+	clergymen=
+	{
+		culture = beifaren
+		religion = mahayana
+		size= 9980
+	}
+
+	bureaucrats=
+	{
+		culture = beifaren
+		religion = mahayana
+		size= 1382
+	}
+
+	officers=
+	{
+		culture = beifaren
+		religion = mahayana
+		size= 3071
+	}
+
+	aristocrats=
+	{
+		culture = beifaren
+		religion = mahayana
+		size= 15047
+	}
+
+	farmers=
+	{
+		culture = beifaren
+		religion = mahayana
+		size= 1254131
+	}
+
+}
+1564 = {
+	soldiers=
+	{
+		culture = beifaren
+		religion = mahayana
+		size= 52655
+	}
+
+	artisans=
+	{
+		culture = beifaren
+		religion = mahayana
+		size= 84624
+	}
+
+	clergymen=
+	{
+		culture = beifaren
+		religion = mahayana
+		size= 6112
+	}
+
+	bureaucrats=
+	{
+		culture = beifaren
+		religion = mahayana
+		size= 1222
+	}
+
+	officers=
+	{
+		culture = beifaren
+		religion = mahayana
+		size= 1504
+	}
+
+	aristocrats=
+	{
+		culture = beifaren
+		religion = mahayana
+		size= 15796
+	}
+
+	farmers=
+	{
+		culture = beifaren
+		religion = mahayana
+		size= 778349
+	}
+
+}
+1565 = {
+	soldiers=
+	{
+		culture = beifaren
+		religion = mahayana
+		size= 54345
+	}
+
+	artisans=
+	{
+		culture = beifaren
+		religion = mahayana
+		size= 87341
+	}
+
+	clergymen=
+	{
+		culture = beifaren
+		religion = mahayana
+		size= 12616
+	}
+
+	bureaucrats=
+	{
+		culture = beifaren
+		religion = mahayana
+		size= 873
+	}
+
+	officers=
+	{
+		culture = beifaren
+		religion = mahayana
+		size= 1553
+	}
+
+	aristocrats=
+	{
+		culture = beifaren
+		religion = mahayana
+		size= 12228
+	}
+
+	farmers=
+	{
+		culture = beifaren
+		religion = mahayana
+		size= 801499
+	}
+
+}
+1566 = {
+	soldiers=
+	{
+		culture = beifaren
+		religion = mahayana
+		size= 359
+	}
+
+	artisans=
+	{
+		culture = beifaren
+		religion = mahayana
+		size= 576
+	}
+
+	clergymen=
+	{
+		culture = beifaren
+		religion = mahayana
+		size= 83
+	}
+
+	bureaucrats=
+	{
+		culture = beifaren
+		religion = mahayana
+		size= 6
+	}
+
+	officers=
+	{
+		culture = beifaren
+		religion = mahayana
+		size= 10
+	}
+
+	aristocrats=
+	{
+		culture = beifaren
+		religion = mahayana
+		size= 81
+	}
+
+	farmers=
+	{
+		culture = beifaren
+		religion = mahayana
+		size= 5290
+	}
+
+}
+1567 = {
+	soldiers=
+	{
+		culture = beifaren
+		religion = mahayana
+		size= 76684
+	}
+
+	artisans=
+	{
+		culture = beifaren
+		religion = mahayana
+		size= 145078
+	}
+
+	clergymen=
+	{
+		culture = beifaren
+		religion = mahayana
+		size= 6736
+	}
+
+	bureaucrats=
+	{
+		culture = beifaren
+		religion = mahayana
+		size= 933
+	}
+
+	officers=
+	{
+		culture = beifaren
+		religion = mahayana
+		size= 2073
+	}
+
+	aristocrats=
+	{
+		culture = beifaren
+		religion = mahayana
+		size= 10155
+	}
+
+	farmers=
+	{
+		culture = beifaren
+		religion = mahayana
+		size= 794615
+	}
+
+}
+1568 = {
+	soldiers=
+	{
+		culture = beifaren
+		religion = mahayana
+		size= 52412
+	}
+
+	artisans=
+	{
+		culture = beifaren
+		religion = mahayana
+		size= 84233
+	}
+
+	clergymen=
+	{
+		culture = beifaren
+		religion = mahayana
+		size= 6084
+	}
+
+	bureaucrats=
+	{
+		culture = beifaren
+		religion = mahayana
+		size= 1217
+	}
+
+	officers=
+	{
+		culture = beifaren
+		religion = mahayana
+		size= 1497
+	}
+
+	aristocrats=
+	{
+		culture = beifaren
+		religion = mahayana
+		size= 15724
+	}
+
+	farmers=
+	{
+		culture = beifaren
+		religion = mahayana
+		size= 774757
+	}
+
+}
+1569 = {
+	soldiers=
+	{
+		culture = beifaren
+		religion = mahayana
+		size= 418
+	}
+
+	artisans=
+	{
+		culture = beifaren
+		religion = mahayana
+		size= 673
+	}
+
+	clergymen=
+	{
+		culture = beifaren
+		religion = mahayana
+		size= 97
+	}
+
+	bureaucrats=
+	{
+		culture = beifaren
+		religion = mahayana
+		size= 7
+	}
+
+	officers=
+	{
+		culture = beifaren
+		religion = mahayana
+		size= 12
+	}
+
+	aristocrats=
+	{
+		culture = beifaren
+		religion = mahayana
+		size= 94
+	}
+
+	farmers=
+	{
+		culture = beifaren
+		religion = mahayana
+		size= 6172
+	}
+
+}
+1570 = {
+	soldiers=
+	{
+		culture = beifaren
+		religion = mahayana
+		size= 53200
+	}
+
+	artisans=
+	{
+		culture = beifaren
+		religion = mahayana
+		size= 85500
+	}
+
+	clergymen=
+	{
+		culture = beifaren
+		religion = mahayana
+		size= 6175
+	}
+
+	bureaucrats=
+	{
+		culture = beifaren
+		religion = mahayana
+		size= 855
+	}
+
+	officers=
+	{
+		culture = beifaren
+		religion = mahayana
+		size= 1520
+	}
+
+	aristocrats=
+	{
+		culture = beifaren
+		religion = mahayana
+		size= 18620
+	}
+
+	farmers=
+	{
+		culture = beifaren
+		religion = mahayana
+		size= 784128
+	}
+
+}
+1571 = {
+	soldiers=
+	{
+		culture = beifaren
+		religion = mahayana
+		size= 76840
+	}
+
+	artisans=
+	{
+		culture = beifaren
+		religion = mahayana
+		size= 145373
+	}
+
+	clergymen=
+	{
+		culture = beifaren
+		religion = mahayana
+		size= 6749
+	}
+
+	bureaucrats=
+	{
+		culture = beifaren
+		religion = mahayana
+		size= 935
+	}
+
+	officers=
+	{
+		culture = beifaren
+		religion = mahayana
+		size= 2077
+	}
+
+	aristocrats=
+	{
+		culture = beifaren
+		religion = mahayana
+		size= 10176
+	}
+
+	farmers=
+	{
+		culture = beifaren
+		religion = mahayana
+		size= 796230
+	}
+
+}
+1572 = {
+	soldiers=
+	{
+		culture = beifaren
+		religion = mahayana
+		size= 64224
+	}
+
+	artisans=
+	{
+		culture = beifaren
+		religion = mahayana
+		size= 160560
+	}
+
+	clergymen=
+	{
+		culture = beifaren
+		religion = mahayana
+		size= 7455
+	}
+
+	bureaucrats=
+	{
+		culture = beifaren
+		religion = mahayana
+		size= 2179
+	}
+
+	officers=
+	{
+		culture = beifaren
+		religion = mahayana
+		size= 1835
+	}
+
+	aristocrats=
+	{
+		culture = beifaren
+		religion = mahayana
+		size= 19267
+	}
+
+	farmers=
+	{
+		culture = beifaren
+		religion = mahayana
+		size= 891337
+	}
+
+}
+1573 = {
+	soldiers=
+	{
+		culture = beifaren
+		religion = mahayana
+		size= 17732
+	}
+
+	artisans=
+	{
+		culture = beifaren
+		religion = mahayana
+		size= 124126
+	}
+
+	clergymen=
+	{
+		culture = beifaren
+		religion = mahayana
+		size= 5763
+	}
+
+	bureaucrats=
+	{
+		culture = beifaren
+		religion = mahayana
+		size= 2039
+	}
+
+	officers=
+	{
+		culture = beifaren
+		religion = mahayana
+		size= 709
+	}
+
+	aristocrats=
+	{
+		culture = beifaren
+		religion = mahayana
+		size= 11171
+	}
+
+	farmers=
+	{
+		culture = beifaren
+		religion = mahayana
+		size= 725074
+	}
+
+}
+1574 = {
+	soldiers=
+	{
+		culture = beifaren
+		religion = mahayana
+		size= 55061
+	}
+
+	artisans=
+	{
+		culture = beifaren
+		religion = mahayana
+		size= 137653
+	}
+
+	clergymen=
+	{
+		culture = beifaren
+		religion = mahayana
+		size= 6391
+	}
+
+	bureaucrats=
+	{
+		culture = beifaren
+		religion = mahayana
+		size= 2655
+	}
+
+	officers=
+	{
+		culture = beifaren
+		religion = mahayana
+		size= 1573
+	}
+
+	aristocrats=
+	{
+		culture = beifaren
+		religion = mahayana
+		size= 8259
+	}
+
+	farmers=
+	{
+		culture = beifaren
+		religion = mahayana
+		size= 771644
+	}
+
+}
+1575 = {
+	soldiers=
+	{
+		culture = beifaren
+		religion = mahayana
+		size= 81369
+	}
+
+	artisans=
+	{
+		culture = beifaren
+		religion = mahayana
+		size= 123822
+	}
+
+	clergymen=
+	{
+		culture = beifaren
+		religion = mahayana
+		size= 5749
+	}
+
+	bureaucrats=
+	{
+		culture = beifaren
+		religion = mahayana
+		size= 2388
+	}
+
+	officers=
+	{
+		culture = beifaren
+		religion = mahayana
+		size= 2123
+	}
+
+	aristocrats=
+	{
+		culture = beifaren
+		religion = mahayana
+		size= 7429
+	}
+
+	farmers=
+	{
+		culture = beifaren
+		religion = mahayana
+		size= 661565
+	}
+
+}
+1576 = {
+	soldiers=
+	{
+		culture = beifaren
+		religion = mahayana
+		size= 3398
+	}
+
+	artisans=
+	{
+		culture = beifaren
+		religion = mahayana
+		size= 8496
+	}
+
+	clergymen=
+	{
+		culture = beifaren
+		religion = mahayana
+		size= 394
+	}
+
+	bureaucrats=
+	{
+		culture = beifaren
+		religion = mahayana
+		size= 188
+	}
+
+	officers=
+	{
+		culture = beifaren
+		religion = mahayana
+		size= 97
+	}
+
+	aristocrats=
+	{
+		culture = beifaren
+		religion = mahayana
+		size= 510
+	}
+
+	farmers=
+	{
+		culture = beifaren
+		religion = mahayana
+		size= 47601
+	}
+
+}
+1577 = {
+	soldiers=
+	{
+		culture = nanfaren
+		religion = mahayana
+		size= 54136
+	}
+
+	artisans=
+	{
+		culture = nanfaren
+		religion = mahayana
+		size= 135340
+	}
+
+	clergymen=
+	{
+		culture = nanfaren
+		religion = mahayana
+		size= 6284
+	}
+
+	bureaucrats=
+	{
+		culture = nanfaren
+		religion = mahayana
+		size= 870
+	}
+
+	officers=
+	{
+		culture = nanfaren
+		religion = mahayana
+		size= 2030
+	}
+
+	aristocrats=
+	{
+		culture = nanfaren
+		religion = mahayana
+		size= 8120
+	}
+
+	farmers=
+	{
+		culture = nanfaren
+		religion = mahayana
+		size= 759935
+	}
+
+}
+1578 = {
+	soldiers=
+	{
+		culture = nanfaren
+		religion = mahayana
+		size= 44543
+	}
+
+	artisans=
+	{
+		culture = nanfaren
+		religion = mahayana
+		size= 54175
+	}
+
+	clergymen=
+	{
+		culture = nanfaren
+		religion = mahayana
+		size= 3913
+	}
+
+	bureaucrats=
+	{
+		culture = nanfaren
+		religion = mahayana
+		size= 542
+	}
+
+	officers=
+	{
+		culture = nanfaren
+		religion = mahayana
+		size= 1504
+	}
+
+	aristocrats=
+	{
+		culture = nanfaren
+		religion = mahayana
+		size= 10113
+	}
+
+	farmers=
+	{
+		culture = nanfaren
+		religion = mahayana
+		size= 487150
+	}
+
+}
+1579 = {
+	soldiers=
+	{
+		culture = nanfaren
+		religion = mahayana
+		size= 67044
+	}
+
+	artisans=
+	{
+		culture = nanfaren
+		religion = mahayana
+		size= 107749
+	}
+
+	clergymen=
+	{
+		culture = nanfaren
+		religion = mahayana
+		size= 7782
+	}
+
+	bureaucrats=
+	{
+		culture = nanfaren
+		religion = mahayana
+		size= 1077
+	}
+
+	officers=
+	{
+		culture = nanfaren
+		religion = mahayana
+		size= 2515
+	}
+
+	aristocrats=
+	{
+		culture = nanfaren
+		religion = mahayana
+		size= 20113
+	}
+
+	farmers=
+	{
+		culture = nanfaren
+		religion = mahayana
+		size= 990934
+	}
+
+}
+1580 = {
+	soldiers=
+	{
+		culture = nanfaren
+		religion = mahayana
+		size= 78606
+	}
+
+	artisans=
+	{
+		culture = nanfaren
+		religion = mahayana
+		size= 95602
+	}
+
+	clergymen=
+	{
+		culture = nanfaren
+		religion = mahayana
+		size= 6905
+	}
+
+	bureaucrats=
+	{
+		culture = nanfaren
+		religion = mahayana
+		size= 956
+	}
+
+	officers=
+	{
+		culture = nanfaren
+		religion = mahayana
+		size= 2655
+	}
+
+	aristocrats=
+	{
+		culture = nanfaren
+		religion = mahayana
+		size= 17845
+	}
+
+	farmers=
+	{
+		culture = nanfaren
+		religion = mahayana
+		size= 859679
+	}
+
+}
+1581 = {
+	soldiers=
+	{
+		culture = nanfaren
+		religion = mahayana
+		size= 61297
+	}
+
+	artisans=
+	{
+		culture = nanfaren
+		religion = mahayana
+		size= 98513
+	}
+
+	clergymen=
+	{
+		culture = nanfaren
+		religion = mahayana
+		size= 7114
+	}
+
+	bureaucrats=
+	{
+		culture = nanfaren
+		religion = mahayana
+		size= 985
+	}
+
+	officers=
+	{
+		culture = nanfaren
+		religion = mahayana
+		size= 2299
+	}
+
+	aristocrats=
+	{
+		culture = nanfaren
+		religion = mahayana
+		size= 18389
+	}
+
+	farmers=
+	{
+		culture = nanfaren
+		religion = mahayana
+		size= 905993
+	}
+
+}
+1582 = {
+	soldiers=
+	{
+		culture = dynamic-tibetan-chihan-culture-num1
+		religion = nestorian
+		size= 23288
+	}
+
+	artisans=
+	{
+		culture = dynamic-tibetan-chihan-culture-num1
+		religion = nestorian
+		size= 37428
+	}
+
+	clergymen=
+	{
+		culture = dynamic-tibetan-chihan-culture-num1
+		religion = nestorian
+		size= 2703
+	}
+
+	bureaucrats=
+	{
+		culture = dynamic-tibetan-chihan-culture-num1
+		religion = nestorian
+		size= 374
+	}
+
+	officers=
+	{
+		culture = dynamic-tibetan-chihan-culture-num1
+		religion = nestorian
+		size= 873
+	}
+
+	aristocrats=
+	{
+		culture = dynamic-tibetan-chihan-culture-num1
+		religion = nestorian
+		size= 6987
+	}
+
+	farmers=
+	{
+		culture = dynamic-tibetan-chihan-culture-num1
+		religion = nestorian
+		size= 344213
+	}
+
+	soldiers=
+	{
+		culture = nanfaren
+		religion = nestorian
+		size= 15188
+	}
+
+	artisans=
+	{
+		culture = nanfaren
+		religion = nestorian
+		size= 24410
+	}
+
+	clergymen=
+	{
+		culture = nanfaren
+		religion = nestorian
+		size= 1763
+	}
+
+	bureaucrats=
+	{
+		culture = nanfaren
+		religion = nestorian
+		size= 244
+	}
+
+	officers=
+	{
+		culture = nanfaren
+		religion = nestorian
+		size= 570
+	}
+
+	aristocrats=
+	{
+		culture = nanfaren
+		religion = nestorian
+		size= 4556
+	}
+
+	farmers=
+	{
+		culture = nanfaren
+		religion = nestorian
+		size= 224486
+	}
+
+}
+1583 = {
+	soldiers=
+	{
+		culture = nanfaren
+		religion = mahayana
+		size= 65410
+	}
+
+	artisans=
+	{
+		culture = nanfaren
+		religion = mahayana
+		size= 105124
+	}
+
+	clergymen=
+	{
+		culture = nanfaren
+		religion = mahayana
+		size= 7592
+	}
+
+	bureaucrats=
+	{
+		culture = nanfaren
+		religion = mahayana
+		size= 1051
+	}
+
+	officers=
+	{
+		culture = nanfaren
+		religion = mahayana
+		size= 2453
+	}
+
+	aristocrats=
+	{
+		culture = nanfaren
+		religion = mahayana
+		size= 19623
+	}
+
+	farmers=
+	{
+		culture = nanfaren
+		religion = mahayana
+		size= 966786
+	}
+
+}
+1584 = {
+	soldiers=
+	{
+		culture = nanfaren
+		religion = mahayana
+		size= 58261
+	}
+
+	artisans=
+	{
+		culture = nanfaren
+		religion = mahayana
+		size= 70858
+	}
+
+	clergymen=
+	{
+		culture = nanfaren
+		religion = mahayana
+		size= 5118
+	}
+
+	bureaucrats=
+	{
+		culture = nanfaren
+		religion = mahayana
+		size= 709
+	}
+
+	officers=
+	{
+		culture = nanfaren
+		religion = mahayana
+		size= 1969
+	}
+
+	aristocrats=
+	{
+		culture = nanfaren
+		religion = mahayana
+		size= 13227
+	}
+
+	farmers=
+	{
+		culture = nanfaren
+		religion = mahayana
+		size= 637171
+	}
+
+}
+1585 = {
+	soldiers=
+	{
+		culture = nanfaren
+		religion = animist
+		size= 40320
+	}
+
+	artisans=
+	{
+		culture = nanfaren
+		religion = animist
+		size= 100801
+	}
+
+	clergymen=
+	{
+		culture = nanfaren
+		religion = animist
+		size= 4680
+	}
+
+	bureaucrats=
+	{
+		culture = nanfaren
+		religion = animist
+		size= 1367
+	}
+
+	officers=
+	{
+		culture = nanfaren
+		religion = animist
+		size= 1152
+	}
+
+	aristocrats=
+	{
+		culture = nanfaren
+		religion = animist
+		size= 12097
+	}
+
+	farmers=
+	{
+		culture = nanfaren
+		religion = animist
+		size= 559588
+	}
+
+}
+1586 = {
+	soldiers=
+	{
+		culture = dynamic-tibetan-chihan-culture-num1
+		religion = gelugpa
+		size= 25790
+	}
+
+	artisans=
+	{
+		culture = dynamic-tibetan-chihan-culture-num1
+		religion = gelugpa
+		size= 18422
+	}
+
+	clergymen=
+	{
+		culture = dynamic-tibetan-chihan-culture-num1
+		religion = gelugpa
+		size= 2994
+	}
+
+	bureaucrats=
+	{
+		culture = dynamic-tibetan-chihan-culture-num1
+		religion = gelugpa
+		size= 875
+	}
+
+	officers=
+	{
+		culture = dynamic-tibetan-chihan-culture-num1
+		religion = gelugpa
+		size= 737
+	}
+
+	aristocrats=
+	{
+		culture = dynamic-tibetan-chihan-culture-num1
+		religion = gelugpa
+		size= 7737
+	}
+
+	farmers=
+	{
+		culture = dynamic-tibetan-chihan-culture-num1
+		religion = gelugpa
+		size= 403988
+	}
+
+	soldiers=
+	{
+		culture = dynamic-tibetan-chihan-culture-num1
+		religion = nestorian
+		size= 9211
+	}
+
+	artisans=
+	{
+		culture = dynamic-tibetan-chihan-culture-num1
+		religion = nestorian
+		size= 6579
+	}
+
+	clergymen=
+	{
+		culture = dynamic-tibetan-chihan-culture-num1
+		religion = nestorian
+		size= 1069
+	}
+
+	bureaucrats=
+	{
+		culture = dynamic-tibetan-chihan-culture-num1
+		religion = nestorian
+		size= 313
+	}
+
+	officers=
+	{
+		culture = dynamic-tibetan-chihan-culture-num1
+		religion = nestorian
+		size= 263
+	}
+
+	aristocrats=
+	{
+		culture = dynamic-tibetan-chihan-culture-num1
+		religion = nestorian
+		size= 2763
+	}
+
+	farmers=
+	{
+		culture = dynamic-tibetan-chihan-culture-num1
+		religion = nestorian
+		size= 144281
+	}
+
+}
+1601 = {
+	soldiers=
+	{
+		culture = bai
+		religion = theravada
+		size= 43479
+	}
+
+	artisans=
+	{
+		culture = bai
+		religion = theravada
+		size= 108697
+	}
+
+	clergymen=
+	{
+		culture = bai
+		religion = theravada
+		size= 5047
+	}
+
+	bureaucrats=
+	{
+		culture = bai
+		religion = theravada
+		size= 2407
+	}
+
+	officers=
+	{
+		culture = bai
+		religion = theravada
+		size= 1242
+	}
+
+	aristocrats=
+	{
+		culture = bai
+		religion = theravada
+		size= 9783
+	}
+
+	farmers=
+	{
+		culture = bai
+		religion = theravada
+		size= 605750
+	}
+
+}
+1602 = {
+	soldiers=
+	{
+		culture = bai
+		religion = theravada
+		size= 7372
+	}
+
+	artisans=
+	{
+		culture = bai
+		religion = theravada
+		size= 18429
+	}
+
+	clergymen=
+	{
+		culture = bai
+		religion = theravada
+		size= 856
+	}
+
+	bureaucrats=
+	{
+		culture = bai
+		religion = theravada
+		size= 355
+	}
+
+	officers=
+	{
+		culture = bai
+		religion = theravada
+		size= 211
+	}
+
+	aristocrats=
+	{
+		culture = bai
+		religion = theravada
+		size= 2212
+	}
+
+	farmers=
+	{
+		culture = bai
+		religion = theravada
+		size= 102204
+	}
+
+	soldiers=
+	{
+		culture = shan
+		religion = mahayana
+		size= 7954
+	}
+
+	artisans=
+	{
+		culture = shan
+		religion = mahayana
+		size= 19884
+	}
+
+	clergymen=
+	{
+		culture = shan
+		religion = mahayana
+		size= 923
+	}
+
+	bureaucrats=
+	{
+		culture = shan
+		religion = mahayana
+		size= 383
+	}
+
+	officers=
+	{
+		culture = shan
+		religion = mahayana
+		size= 227
+	}
+
+	aristocrats=
+	{
+		culture = shan
+		religion = mahayana
+		size= 2386
+	}
+
+	farmers=
+	{
+		culture = shan
+		religion = mahayana
+		size= 110275
+	}
+
+	soldiers=
+	{
+		culture = bai
+		religion = noreligion
+		size= 1940
+	}
+
+	artisans=
+	{
+		culture = bai
+		religion = noreligion
+		size= 4850
+	}
+
+	clergymen=
+	{
+		culture = bai
+		religion = noreligion
+		size= 225
+	}
+
+	bureaucrats=
+	{
+		culture = bai
+		religion = noreligion
+		size= 94
+	}
+
+	officers=
+	{
+		culture = bai
+		religion = noreligion
+		size= 55
+	}
+
+	aristocrats=
+	{
+		culture = bai
+		religion = noreligion
+		size= 582
+	}
+
+	farmers=
+	{
+		culture = bai
+		religion = noreligion
+		size= 26896
+	}
+
+}
+1603 = {
+	soldiers=
+	{
+		culture = shan
+		religion = mahayana
+		size= 11472
+	}
+
+	artisans=
+	{
+		culture = shan
+		religion = mahayana
+		size= 17457
+	}
+
+	clergymen=
+	{
+		culture = shan
+		religion = mahayana
+		size= 811
+	}
+
+	bureaucrats=
+	{
+		culture = shan
+		religion = mahayana
+		size= 287
+	}
+
+	officers=
+	{
+		culture = shan
+		religion = mahayana
+		size= 299
+	}
+
+	aristocrats=
+	{
+		culture = shan
+		religion = mahayana
+		size= 2095
+	}
+
+	farmers=
+	{
+		culture = shan
+		religion = mahayana
+		size= 92274
+	}
+
+	soldiers=
+	{
+		culture = bai
+		religion = mahayana
+		size= 15296
+	}
+
+	artisans=
+	{
+		culture = bai
+		religion = mahayana
+		size= 23276
+	}
+
+	clergymen=
+	{
+		culture = bai
+		religion = mahayana
+		size= 1081
+	}
+
+	bureaucrats=
+	{
+		culture = bai
+		religion = mahayana
+		size= 382
+	}
+
+	officers=
+	{
+		culture = bai
+		religion = mahayana
+		size= 399
+	}
+
+	aristocrats=
+	{
+		culture = bai
+		religion = mahayana
+		size= 2793
+	}
+
+	farmers=
+	{
+		culture = bai
+		religion = mahayana
+		size= 123033
+	}
+
+	soldiers=
+	{
+		culture = bai
+		religion = theravada
+		size= 7102
+	}
+
+	artisans=
+	{
+		culture = bai
+		religion = theravada
+		size= 10807
+	}
+
+	clergymen=
+	{
+		culture = bai
+		religion = theravada
+		size= 502
+	}
+
+	bureaucrats=
+	{
+		culture = bai
+		religion = theravada
+		size= 178
+	}
+
+	officers=
+	{
+		culture = bai
+		religion = theravada
+		size= 185
+	}
+
+	aristocrats=
+	{
+		culture = bai
+		religion = theravada
+		size= 1297
+	}
+
+	farmers=
+	{
+		culture = bai
+		religion = theravada
+		size= 57121
+	}
+
+}
+1604 = {
+	soldiers=
+	{
+		culture = nanfaren
+		religion = mahayana
+		size= 24801
+	}
+
+	artisans=
+	{
+		culture = nanfaren
+		religion = mahayana
+		size= 62003
+	}
+
+	clergymen=
+	{
+		culture = nanfaren
+		religion = mahayana
+		size= 5757
+	}
+
+	bureaucrats=
+	{
+		culture = nanfaren
+		religion = mahayana
+		size= 576
+	}
+
+	officers=
+	{
+		culture = nanfaren
+		religion = mahayana
+		size= 930
+	}
+
+	aristocrats=
+	{
+		culture = nanfaren
+		religion = mahayana
+		size= 5580
+	}
+
+	farmers=
+	{
+		culture = nanfaren
+		religion = mahayana
+		size= 343229
+	}
+
+}
+1605 = {
+	soldiers=
+	{
+		culture = nanfaren
+		religion = mahayana
+		size= 5524
+	}
+
+	artisans=
+	{
+		culture = nanfaren
+		religion = mahayana
+		size= 13809
+	}
+
+	clergymen=
+	{
+		culture = nanfaren
+		religion = mahayana
+		size= 1282
+	}
+
+	bureaucrats=
+	{
+		culture = nanfaren
+		religion = mahayana
+		size= 128
+	}
+
+	officers=
+	{
+		culture = nanfaren
+		religion = mahayana
+		size= 207
+	}
+
+	aristocrats=
+	{
+		culture = nanfaren
+		religion = mahayana
+		size= 1243
+	}
+
+	farmers=
+	{
+		culture = nanfaren
+		religion = mahayana
+		size= 76445
+	}
+
+}
+1606 = {
+	soldiers=
+	{
+		culture = nanfaren
+		religion = mahayana
+		size= 5054
+	}
+
+	artisans=
+	{
+		culture = nanfaren
+		religion = mahayana
+		size= 12634
+	}
+
+	clergymen=
+	{
+		culture = nanfaren
+		religion = mahayana
+		size= 1173
+	}
+
+	bureaucrats=
+	{
+		culture = nanfaren
+		religion = mahayana
+		size= 117
+	}
+
+	officers=
+	{
+		culture = nanfaren
+		religion = mahayana
+		size= 190
+	}
+
+	aristocrats=
+	{
+		culture = nanfaren
+		religion = mahayana
+		size= 1137
+	}
+
+	farmers=
+	{
+		culture = nanfaren
+		religion = mahayana
+		size= 69938
+	}
+
+}
+1607 = {
+	soldiers=
+	{
+		culture = nanfaren
+		religion = mahayana
+		size= 30624
+	}
+
+	artisans=
+	{
+		culture = nanfaren
+		religion = mahayana
+		size= 76561
+	}
+
+	clergymen=
+	{
+		culture = nanfaren
+		religion = mahayana
+		size= 7109
+	}
+
+	bureaucrats=
+	{
+		culture = nanfaren
+		religion = mahayana
+		size= 711
+	}
+
+	officers=
+	{
+		culture = nanfaren
+		religion = mahayana
+		size= 1148
+	}
+
+	aristocrats=
+	{
+		culture = nanfaren
+		religion = mahayana
+		size= 13781
+	}
+
+	farmers=
+	{
+		culture = nanfaren
+		religion = mahayana
+		size= 416932
+	}
+
+}
+1608 = {
+	soldiers=
+	{
+		culture = nanfaren
+		religion = mahayana
+		size= 22560
+	}
+
+	artisans=
+	{
+		culture = nanfaren
+		religion = mahayana
+		size= 42681
+	}
+
+	clergymen=
+	{
+		culture = nanfaren
+		religion = mahayana
+		size= 3963
+	}
+
+	bureaucrats=
+	{
+		culture = nanfaren
+		religion = mahayana
+		size= 396
+	}
+
+	officers=
+	{
+		culture = nanfaren
+		religion = mahayana
+		size= 762
+	}
+
+	aristocrats=
+	{
+		culture = nanfaren
+		religion = mahayana
+		size= 3841
+	}
+
+	farmers=
+	{
+		culture = nanfaren
+		religion = mahayana
+		size= 230662
+	}
+
+}
+1609 = {
+	soldiers=
+	{
+		culture = nanfaren
+		religion = mahayana
+		size= 17157
+	}
+
+	artisans=
+	{
+		culture = nanfaren
+		religion = mahayana
+		size= 32459
+	}
+
+	clergymen=
+	{
+		culture = nanfaren
+		religion = mahayana
+		size= 3014
+	}
+
+	bureaucrats=
+	{
+		culture = nanfaren
+		religion = mahayana
+		size= 301
+	}
+
+	officers=
+	{
+		culture = nanfaren
+		religion = mahayana
+		size= 580
+	}
+
+	aristocrats=
+	{
+		culture = nanfaren
+		religion = mahayana
+		size= 1948
+	}
+
+	farmers=
+	{
+		culture = nanfaren
+		religion = mahayana
+		size= 176391
+	}
+
+}
+1610 = {
+	soldiers=
+	{
+		culture = nanfaren
+		religion = mahayana
+		size= 32864
+	}
+
+	artisans=
+	{
+		culture = nanfaren
+		religion = mahayana
+		size= 62176
+	}
+
+	clergymen=
+	{
+		culture = nanfaren
+		religion = mahayana
+		size= 5773
+	}
+
+	bureaucrats=
+	{
+		culture = nanfaren
+		religion = mahayana
+		size= 577
+	}
+
+	officers=
+	{
+		culture = nanfaren
+		religion = mahayana
+		size= 1110
+	}
+
+	aristocrats=
+	{
+		culture = nanfaren
+		religion = mahayana
+		size= 5596
+	}
+
+	farmers=
+	{
+		culture = nanfaren
+		religion = mahayana
+		size= 336015
+	}
+
+}
+1611 = {
+	soldiers=
+	{
+		culture = nanfaren
+		religion = mahayana
+		size= 26079
+	}
+
+	artisans=
+	{
+		culture = nanfaren
+		religion = mahayana
+		size= 65197
+	}
+
+	clergymen=
+	{
+		culture = nanfaren
+		religion = mahayana
+		size= 3027
+	}
+
+	bureaucrats=
+	{
+		culture = nanfaren
+		religion = mahayana
+		size= 419
+	}
+
+	officers=
+	{
+		culture = nanfaren
+		religion = mahayana
+		size= 978
+	}
+
+	aristocrats=
+	{
+		culture = nanfaren
+		religion = mahayana
+		size= 3912
+	}
+
+	farmers=
+	{
+		culture = nanfaren
+		religion = mahayana
+		size= 366082
+	}
+
+}
+1612 = {
+	soldiers=
+	{
+		culture = beifaren
+		religion = mahayana
+		size= 77490
+	}
+
+	artisans=
+	{
+		culture = beifaren
+		religion = mahayana
+		size= 146604
+	}
+
+	clergymen=
+	{
+		culture = beifaren
+		religion = mahayana
+		size= 13613
+	}
+
+	bureaucrats=
+	{
+		culture = beifaren
+		religion = mahayana
+		size= 1990
+	}
+
+	officers=
+	{
+		culture = beifaren
+		religion = mahayana
+		size= 2095
+	}
+
+	aristocrats=
+	{
+		culture = beifaren
+		religion = mahayana
+		size= 26389
+	}
+
+	farmers=
+	{
+		culture = beifaren
+		religion = mahayana
+		size= 778988
+	}
+
+	soldiers=
+	{
+		culture = mongol
+		religion = mahayana
+		size= 17712
+	}
+
+	artisans=
+	{
+		culture = mongol
+		religion = mahayana
+		size= 33509
+	}
+
+	clergymen=
+	{
+		culture = mongol
+		religion = mahayana
+		size= 3112
+	}
+
+	bureaucrats=
+	{
+		culture = mongol
+		religion = mahayana
+		size= 455
+	}
+
+	officers=
+	{
+		culture = mongol
+		religion = mahayana
+		size= 479
+	}
+
+	aristocrats=
+	{
+		culture = mongol
+		religion = mahayana
+		size= 6032
+	}
+
+	farmers=
+	{
+		culture = mongol
+		religion = mahayana
+		size= 178054
+	}
+
+}
+1613 = {
+	soldiers=
+	{
+		culture = mongol
+		religion = gelugpa
+		size= 16581
+	}
+
+	artisans=
+	{
+		culture = mongol
+		religion = gelugpa
+		size= 26648
+	}
+
+	clergymen=
+	{
+		culture = mongol
+		religion = gelugpa
+		size= 3849
+	}
+
+	bureaucrats=
+	{
+		culture = mongol
+		religion = gelugpa
+		size= 799
+	}
+
+	officers=
+	{
+		culture = mongol
+		religion = gelugpa
+		size= 474
+	}
+
+	aristocrats=
+	{
+		culture = mongol
+		religion = gelugpa
+		size= 5803
+	}
+
+	farmers=
+	{
+		culture = mongol
+		religion = gelugpa
+		size= 241940
+	}
+
+	soldiers=
+	{
+		culture = beifaren
+		religion = mahayana
+		size= 68168
+	}
+
+	artisans=
+	{
+		culture = beifaren
+		religion = mahayana
+		size= 109554
+	}
+
+	clergymen=
+	{
+		culture = beifaren
+		religion = mahayana
+		size= 15825
+	}
+
+	bureaucrats=
+	{
+		culture = beifaren
+		religion = mahayana
+		size= 3286
+	}
+
+	officers=
+	{
+		culture = beifaren
+		religion = mahayana
+		size= 1947
+	}
+
+	aristocrats=
+	{
+		culture = beifaren
+		religion = mahayana
+		size= 23858
+	}
+
+	farmers=
+	{
+		culture = beifaren
+		religion = mahayana
+		size= 994636
+	}
+
+	soldiers=
+	{
+		culture = mongol
+		religion = mahayana
+		size= 6755
+	}
+
+	artisans=
+	{
+		culture = mongol
+		religion = mahayana
+		size= 10857
+	}
+
+	clergymen=
+	{
+		culture = mongol
+		religion = mahayana
+		size= 1568
+	}
+
+	bureaucrats=
+	{
+		culture = mongol
+		religion = mahayana
+		size= 326
+	}
+
+	officers=
+	{
+		culture = mongol
+		religion = mahayana
+		size= 193
+	}
+
+	aristocrats=
+	{
+		culture = mongol
+		religion = mahayana
+		size= 2364
+	}
+
+	farmers=
+	{
+		culture = mongol
+		religion = mahayana
+		size= 98568
+	}
+
+}
+1614 = {
+	soldiers=
+	{
+		culture = beifaren
+		religion = mahayana
+		size= 48637
+	}
+
+	artisans=
+	{
+		culture = beifaren
+		religion = mahayana
+		size= 78166
+	}
+
+	clergymen=
+	{
+		culture = beifaren
+		religion = mahayana
+		size= 5645
+	}
+
+	bureaucrats=
+	{
+		culture = beifaren
+		religion = mahayana
+		size= 782
+	}
+
+	officers=
+	{
+		culture = beifaren
+		religion = mahayana
+		size= 1390
+	}
+
+	aristocrats=
+	{
+		culture = beifaren
+		religion = mahayana
+		size= 17023
+	}
+
+	farmers=
+	{
+		culture = beifaren
+		religion = mahayana
+		size= 716867
+	}
+
+}
+1615 = {
+	soldiers=
+	{
+		culture = beifaren
+		religion = mahayana
+		size= 66228
+	}
+
+	artisans=
+	{
+		culture = beifaren
+		religion = mahayana
+		size= 106437
+	}
+
+	clergymen=
+	{
+		culture = beifaren
+		religion = mahayana
+		size= 15375
+	}
+
+	bureaucrats=
+	{
+		culture = beifaren
+		religion = mahayana
+		size= 1064
+	}
+
+	officers=
+	{
+		culture = beifaren
+		religion = mahayana
+		size= 1893
+	}
+
+	aristocrats=
+	{
+		culture = beifaren
+		religion = mahayana
+		size= 23179
+	}
+
+	farmers=
+	{
+		culture = beifaren
+		religion = mahayana
+		size= 968463
+	}
+
+}
+1616 = {
+	soldiers=
+	{
+		culture = beifaren
+		religion = mahayana
+		size= 68599
+	}
+
+	artisans=
+	{
+		culture = beifaren
+		religion = mahayana
+		size= 129780
+	}
+
+	clergymen=
+	{
+		culture = beifaren
+		religion = mahayana
+		size= 12051
+	}
+
+	bureaucrats=
+	{
+		culture = beifaren
+		religion = mahayana
+		size= 1761
+	}
+
+	officers=
+	{
+		culture = beifaren
+		religion = mahayana
+		size= 1854
+	}
+
+	aristocrats=
+	{
+		culture = beifaren
+		religion = mahayana
+		size= 23361
+	}
+
+	farmers=
+	{
+		culture = beifaren
+		religion = mahayana
+		size= 689596
+	}
+
+	soldiers=
+	{
+		culture = mongol
+		religion = mahayana
+		size= 15680
+	}
+
+	artisans=
+	{
+		culture = mongol
+		religion = mahayana
+		size= 29664
+	}
+
+	clergymen=
+	{
+		culture = mongol
+		religion = mahayana
+		size= 2755
+	}
+
+	bureaucrats=
+	{
+		culture = mongol
+		religion = mahayana
+		size= 403
+	}
+
+	officers=
+	{
+		culture = mongol
+		religion = mahayana
+		size= 424
+	}
+
+	aristocrats=
+	{
+		culture = mongol
+		religion = mahayana
+		size= 5340
+	}
+
+	farmers=
+	{
+		culture = mongol
+		religion = mahayana
+		size= 157620
+	}
+
+}
+1617 = {
+	soldiers=
+	{
+		culture = beifaren
+		religion = mahayana
+		size= 87852
+	}
+
+	artisans=
+	{
+		culture = beifaren
+		religion = mahayana
+		size= 141191
+	}
+
+	clergymen=
+	{
+		culture = beifaren
+		religion = mahayana
+		size= 20394
+	}
+
+	bureaucrats=
+	{
+		culture = beifaren
+		religion = mahayana
+		size= 1412
+	}
+
+	officers=
+	{
+		culture = beifaren
+		religion = mahayana
+		size= 2510
+	}
+
+	aristocrats=
+	{
+		culture = beifaren
+		religion = mahayana
+		size= 30748
+	}
+
+	farmers=
+	{
+		culture = beifaren
+		religion = mahayana
+		size= 1284679
+	}
+
+}
+1618 = {
+	soldiers=
+	{
+		culture = beifaren
+		religion = mahayana
+		size= 76428
+	}
+
+	artisans=
+	{
+		culture = beifaren
+		religion = mahayana
+		size= 122831
+	}
+
+	clergymen=
+	{
+		culture = beifaren
+		religion = mahayana
+		size= 8871
+	}
+
+	bureaucrats=
+	{
+		culture = beifaren
+		religion = mahayana
+		size= 1228
+	}
+
+	officers=
+	{
+		culture = beifaren
+		religion = mahayana
+		size= 2184
+	}
+
+	aristocrats=
+	{
+		culture = beifaren
+		religion = mahayana
+		size= 13375
+	}
+
+	farmers=
+	{
+		culture = beifaren
+		religion = mahayana
+		size= 1139867
+	}
+
+}
+2062 = {
+	soldiers=
+	{
+		culture = beifaren
+		religion = mahayana
+		size= 12948
+	}
+
+	artisans=
+	{
+		culture = beifaren
+		religion = mahayana
+		size= 20809
+	}
+
+	clergymen=
+	{
+		culture = beifaren
+		religion = mahayana
+		size= 1503
+	}
+
+	bureaucrats=
+	{
+		culture = beifaren
+		religion = mahayana
+		size= 208
+	}
+
+	officers=
+	{
+		culture = beifaren
+		religion = mahayana
+		size= 485
+	}
+
+	aristocrats=
+	{
+		culture = beifaren
+		religion = mahayana
+		size= 5827
+	}
+
+	farmers=
+	{
+		culture = beifaren
+		religion = mahayana
+		size= 189440
+	}
+
+	soldiers=
+	{
+		culture = beifaren
+		religion = nestorian
+		size= 6251
+	}
+
+	artisans=
+	{
+		culture = beifaren
+		religion = nestorian
+		size= 10046
+	}
+
+	clergymen=
+	{
+		culture = beifaren
+		religion = nestorian
+		size= 726
+	}
+
+	bureaucrats=
+	{
+		culture = beifaren
+		religion = nestorian
+		size= 100
+	}
+
+	officers=
+	{
+		culture = beifaren
+		religion = nestorian
+		size= 234
+	}
+
+	aristocrats=
+	{
+		culture = beifaren
+		religion = nestorian
+		size= 2813
+	}
+
+	farmers=
+	{
+		culture = beifaren
+		religion = nestorian
+		size= 91453
+	}
+
+}
+2221 = {
+	soldiers=
+	{
+		culture = nanfaren
+		religion = mahayana
+		size= 48035
+	}
+
+	artisans=
+	{
+		culture = nanfaren
+		religion = mahayana
+		size= 120087
+	}
+
+	clergymen=
+	{
+		culture = nanfaren
+		religion = mahayana
+		size= 5575
+	}
+
+	bureaucrats=
+	{
+		culture = nanfaren
+		religion = mahayana
+		size= 772
+	}
+
+	officers=
+	{
+		culture = nanfaren
+		religion = mahayana
+		size= 1801
+	}
+
+	aristocrats=
+	{
+		culture = nanfaren
+		religion = mahayana
+		size= 7205
+	}
+
+	farmers=
+	{
+		culture = nanfaren
+		religion = mahayana
+		size= 674292
+	}
+
+}

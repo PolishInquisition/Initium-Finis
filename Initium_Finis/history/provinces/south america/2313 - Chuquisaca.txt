@@ -1,0 +1,8 @@
+owner=BRZ
+controller=BRZ
+add_core=BRZ
+add_core=CCQ
+add_core=CRA
+trade_goods = wool
+life_rating = 30
+terrain = mountain

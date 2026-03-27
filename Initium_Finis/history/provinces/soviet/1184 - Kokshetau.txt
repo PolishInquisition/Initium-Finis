@@ -1,0 +1,8 @@
+owner=PER
+controller=PER
+add_core=NOG
+add_core=PER
+trade_goods = iron
+life_rating = 35
+terrain = forest
+fort = 1

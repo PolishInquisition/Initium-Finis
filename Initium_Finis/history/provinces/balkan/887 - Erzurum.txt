@@ -1,0 +1,7 @@
+owner=PER
+controller=PER
+add_core=ARM
+trade_goods = cattle
+life_rating = 35
+terrain = hills
+fort = 1

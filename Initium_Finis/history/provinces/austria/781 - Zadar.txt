@@ -1,0 +1,7 @@
+owner=ORL
+controller=ORL
+add_core=ORL
+trade_goods = fruit
+life_rating = 35
+terrain = hills
+naval_base = 1

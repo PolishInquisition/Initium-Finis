@@ -1,0 +1,15 @@
+name = "Persian-Yarkand Imperialist War"
+
+1781.11.13 = {
+	add_attacker = PER
+	add_defender = YRK
+	add_defender = QIC
+
+	war_goal = {
+		casus_belli = acquire_state
+		actor = PER
+		receiver = YRK
+		country = YRK
+		state_province_id = 1185
+	}
+}

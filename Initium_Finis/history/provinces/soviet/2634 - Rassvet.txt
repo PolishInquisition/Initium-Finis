@@ -1,0 +1,8 @@
+owner=CHV
+controller=CHV
+add_core=CHV
+trade_goods = fish
+life_rating = 20
+terrain = arctic
+naval_base = 1
+fort = 1

@@ -1,0 +1,9 @@
+owner=PLC
+controller=PLC
+add_core=PLC
+add_core=PRT
+add_core=UBD
+trade_goods = cattle
+life_rating = 40
+terrain = farmlands
+naval_base = 1

@@ -1,0 +1,51 @@
+203 = {
+	soldiers=
+	{
+		culture = french_central_america_superregion_culture
+		religion = protestant
+		size= 66
+	}
+
+	artisans=
+	{
+		culture = french_central_america_superregion_culture
+		religion = protestant
+		size= 329
+	}
+
+	clergymen=
+	{
+		culture = french_central_america_superregion_culture
+		religion = protestant
+		size= 31
+	}
+
+	bureaucrats=
+	{
+		culture = french_central_america_superregion_culture
+		religion = protestant
+		size= 7
+	}
+
+	officers=
+	{
+		culture = french_central_america_superregion_culture
+		religion = protestant
+		size= 5
+	}
+
+	aristocrats=
+	{
+		culture = french_central_america_superregion_culture
+		religion = protestant
+		size= 40
+	}
+
+	farmers=
+	{
+		culture = french_central_america_superregion_culture
+		religion = protestant
+		size= 1875
+	}
+
+}

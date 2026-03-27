@@ -1,0 +1,123 @@
+2217 = {
+	slaves=
+	{
+		culture = afro_caribeno
+		religion = catholic
+		size= 91756
+	}
+
+	soldiers=
+	{
+		culture = mexican
+		religion = catholic
+		size= 5430
+	}
+
+	artisans=
+	{
+		culture = mexican
+		religion = catholic
+		size= 13575
+	}
+
+	clergymen=
+	{
+		culture = mexican
+		religion = catholic
+		size= 630
+	}
+
+	bureaucrats=
+	{
+		culture = mexican
+		religion = catholic
+		size= 271
+	}
+
+	officers=
+	{
+		culture = mexican
+		religion = catholic
+		size= 204
+	}
+
+	aristocrats=
+	{
+		culture = mexican
+		religion = catholic
+		size= 1629
+	}
+
+}
+2218 = {
+	slaves=
+	{
+		culture = afro_caribeno
+		religion = catholic
+		size= 94
+	}
+
+	soldiers=
+	{
+		culture = mexican
+		religion = catholic
+		size= 5
+	}
+
+	artisans=
+	{
+		culture = mexican
+		religion = catholic
+		size= 13
+	}
+
+	clergymen=
+	{
+		culture = mexican
+		religion = catholic
+		size= 1
+	}
+
+	aristocrats=
+	{
+		culture = mexican
+		religion = catholic
+		size= 2
+	}
+
+	slaves=
+	{
+		culture = gaelic_central_america_superregion_culture
+		religion = catholic
+		size= 219
+	}
+
+	soldiers=
+	{
+		culture = gaelic_central_america_superregion_culture
+		religion = catholic
+		size= 12
+	}
+
+	artisans=
+	{
+		culture = gaelic_central_america_superregion_culture
+		religion = catholic
+		size= 31
+	}
+
+	clergymen=
+	{
+		culture = gaelic_central_america_superregion_culture
+		religion = catholic
+		size= 2
+	}
+
+	aristocrats=
+	{
+		culture = gaelic_central_america_superregion_culture
+		religion = catholic
+		size= 4
+	}
+
+}

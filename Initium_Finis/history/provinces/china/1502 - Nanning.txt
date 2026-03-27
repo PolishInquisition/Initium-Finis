@@ -1,0 +1,6 @@
+owner=YUE
+controller=YUE
+add_core=YUE
+trade_goods = cotton
+life_rating = 32
+terrain = hills

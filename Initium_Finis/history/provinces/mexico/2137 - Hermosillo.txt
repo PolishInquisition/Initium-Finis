@@ -1,0 +1,8 @@
+owner=SON
+controller=MEX
+add_core=PIM
+add_core=SON
+trade_goods = cattle
+life_rating = 35
+terrain = plains
+fort = 1

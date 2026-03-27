@@ -1,0 +1,7 @@
+owner=PGS
+controller=PGS
+add_core=PGS
+add_core=PHI
+trade_goods = fish
+life_rating = 30
+terrain = plains

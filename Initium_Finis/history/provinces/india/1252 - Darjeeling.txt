@@ -1,0 +1,10 @@
+owner=NEP
+controller=NEP
+add_core=BNG
+add_core=HND
+add_core=KCX
+add_core=NEP
+trade_goods = wool
+life_rating = 32
+terrain = plains
+fort = 1

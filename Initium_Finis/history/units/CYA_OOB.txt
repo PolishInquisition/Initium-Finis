@@ -1,0 +1,14 @@
+#Sphere of Influence
+
+CLM = {
+	value = 0
+	level = 2
+}
+CYA = {
+	value = 0
+	level = 2
+}
+
+#Leaders
+
+#Armies

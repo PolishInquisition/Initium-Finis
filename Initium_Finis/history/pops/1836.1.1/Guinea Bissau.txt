@@ -1,0 +1,116 @@
+1877 = {
+	slaves=
+	{
+		culture = dynamic-normand-culture-num1
+		religion = protestant
+		size= 2051
+	}
+
+	soldiers=
+	{
+		culture = dynamic-normand-culture-num1
+		religion = protestant
+		size= 83
+	}
+
+	artisans=
+	{
+		culture = dynamic-normand-culture-num1
+		religion = protestant
+		size= 1159
+	}
+
+	clergymen=
+	{
+		culture = dynamic-normand-culture-num1
+		religion = protestant
+		size= 108
+	}
+
+	bureaucrats=
+	{
+		culture = dynamic-normand-culture-num1
+		religion = protestant
+		size= 15
+	}
+
+	officers=
+	{
+		culture = dynamic-normand-culture-num1
+		religion = protestant
+		size= 11
+	}
+
+	aristocrats=
+	{
+		culture = dynamic-normand-culture-num1
+		religion = protestant
+		size= 104
+	}
+
+	farmers=
+	{
+		culture = dynamic-normand-culture-num1
+		religion = protestant
+		size= 4750
+	}
+
+}
+1878 = {
+	slaves=
+	{
+		culture = dynamic-normand-culture-num1
+		religion = protestant
+		size= 2776
+	}
+
+	soldiers=
+	{
+		culture = dynamic-normand-culture-num1
+		religion = protestant
+		size= 177
+	}
+
+	artisans=
+	{
+		culture = dynamic-normand-culture-num1
+		religion = protestant
+		size= 2475
+	}
+
+	clergymen=
+	{
+		culture = dynamic-normand-culture-num1
+		religion = protestant
+		size= 230
+	}
+
+	bureaucrats=
+	{
+		culture = dynamic-normand-culture-num1
+		religion = protestant
+		size= 32
+	}
+
+	officers=
+	{
+		culture = dynamic-normand-culture-num1
+		religion = protestant
+		size= 23
+	}
+
+	aristocrats=
+	{
+		culture = dynamic-normand-culture-num1
+		religion = protestant
+		size= 223
+	}
+
+	farmers=
+	{
+		culture = dynamic-normand-culture-num1
+		religion = protestant
+		size= 11741
+	}
+
+}

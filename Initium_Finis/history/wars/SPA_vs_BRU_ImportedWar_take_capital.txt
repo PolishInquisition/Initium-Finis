@@ -1,0 +1,14 @@
+name = "Spanish-Bruneian Imperialist War"
+
+1783.11.23 = {
+	add_attacker = SPA
+	add_defender = BRU
+	add_defender = SUL
+
+	war_goal = {
+		casus_belli = acquire_state
+		actor = SPA
+		receiver = BRU
+		country = BRU
+	}
+}

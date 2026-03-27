@@ -1,0 +1,7 @@
+owner=ORL
+controller=ORL
+add_core=ORL
+trade_goods = wool
+life_rating = 15
+terrain = plains
+naval_base = 1

@@ -1,0 +1,53 @@
+2244 = {
+	artisans=
+	{
+		culture = naiyeren
+		religion = hindu
+		size= 2
+	}
+
+	farmers=
+	{
+		culture = naiyeren
+		religion = hindu
+		size= 12
+	}
+
+}
+2406 = {
+	soldiers=
+	{
+		culture = naiyeren
+		religion = hindu
+		size= 3
+	}
+
+	artisans=
+	{
+		culture = naiyeren
+		religion = hindu
+		size= 17
+	}
+
+	clergymen=
+	{
+		culture = naiyeren
+		religion = hindu
+		size= 2
+	}
+
+	aristocrats=
+	{
+		culture = naiyeren
+		religion = hindu
+		size= 2
+	}
+
+	farmers=
+	{
+		culture = naiyeren
+		religion = hindu
+		size= 100
+	}
+
+}

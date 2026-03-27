@@ -1,0 +1,8 @@
+owner=TID
+controller=KOR
+add_core=TID
+trade_goods = fish
+life_rating = 30
+terrain = plains
+naval_base = 2
+fort = 1

@@ -1,0 +1,51 @@
+252 = {
+	soldiers=
+	{
+		culture = english
+		religion = catholic
+		size= 410
+	}
+
+	artisans=
+	{
+		culture = english
+		religion = catholic
+		size= 2049
+	}
+
+	clergymen=
+	{
+		culture = english
+		religion = catholic
+		size= 190
+	}
+
+	bureaucrats=
+	{
+		culture = english
+		religion = catholic
+		size= 38
+	}
+
+	officers=
+	{
+		culture = english
+		religion = catholic
+		size= 31
+	}
+
+	aristocrats=
+	{
+		culture = english
+		religion = catholic
+		size= 123
+	}
+
+	farmers=
+	{
+		culture = english
+		religion = catholic
+		size= 11794
+	}
+
+}

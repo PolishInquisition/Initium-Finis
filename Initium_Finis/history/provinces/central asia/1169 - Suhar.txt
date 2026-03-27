@@ -1,0 +1,8 @@
+owner=JER
+controller=JER
+add_core=ARA
+add_core=JER
+add_core=OMA
+trade_goods = grain
+life_rating = 35
+terrain = desert

@@ -1,0 +1,8 @@
+owner=PER
+controller=PER
+add_core=PER
+add_core=TUR
+add_core=X13
+trade_goods = opium
+life_rating = 25
+terrain = steppe

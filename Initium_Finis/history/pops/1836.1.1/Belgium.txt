@@ -1,0 +1,610 @@
+387 = {
+	soldiers=
+	{
+		culture = dynamic-cosmopolitan_french-swabian-culture-num1
+		religion = protestant
+		size= 18768
+	}
+
+	artisans=
+	{
+		culture = dynamic-cosmopolitan_french-swabian-culture-num1
+		religion = protestant
+		size= 27135
+	}
+
+	clergymen=
+	{
+		culture = dynamic-cosmopolitan_french-swabian-culture-num1
+		religion = protestant
+		size= 2627
+	}
+
+	bureaucrats=
+	{
+		culture = dynamic-cosmopolitan_french-swabian-culture-num1
+		religion = protestant
+		size= 530
+	}
+
+	officers=
+	{
+		culture = dynamic-cosmopolitan_french-swabian-culture-num1
+		religion = protestant
+		size= 592
+	}
+
+	aristocrats=
+	{
+		culture = dynamic-cosmopolitan_french-swabian-culture-num1
+		religion = protestant
+		size= 2570
+	}
+
+	farmers=
+	{
+		culture = dynamic-cosmopolitan_french-swabian-culture-num1
+		religion = protestant
+		size= 150325
+	}
+
+	clergymen=
+	{
+		culture = ashkenazi
+		religion = jewish
+		size= 25
+	}
+
+	artisans=
+	{
+		culture = ashkenazi
+		religion = jewish
+		size= 1425
+	}
+
+}
+388 = {
+	soldiers=
+	{
+		culture = english
+		religion = protestant
+		size= 6836
+	}
+
+	artisans=
+	{
+		culture = english
+		religion = protestant
+		size= 17089
+	}
+
+	clergymen=
+	{
+		culture = english
+		religion = protestant
+		size= 1587
+	}
+
+	bureaucrats=
+	{
+		culture = english
+		religion = protestant
+		size= 317
+	}
+
+	officers=
+	{
+		culture = english
+		religion = protestant
+		size= 256
+	}
+
+	aristocrats=
+	{
+		culture = english
+		religion = protestant
+		size= 1538
+	}
+
+	farmers=
+	{
+		culture = english
+		religion = protestant
+		size= 94443
+	}
+
+}
+389 = {
+	soldiers=
+	{
+		culture = english
+		religion = protestant
+		size= 17338
+	}
+
+	artisans=
+	{
+		culture = english
+		religion = protestant
+		size= 26383
+	}
+
+	clergymen=
+	{
+		culture = english
+		religion = protestant
+		size= 2450
+	}
+
+	bureaucrats=
+	{
+		culture = english
+		religion = protestant
+		size= 490
+	}
+
+	officers=
+	{
+		culture = english
+		religion = protestant
+		size= 547
+	}
+
+	aristocrats=
+	{
+		culture = english
+		religion = protestant
+		size= 2111
+	}
+
+	farmers=
+	{
+		culture = english
+		religion = protestant
+		size= 139134
+	}
+
+}
+390 = {
+	soldiers=
+	{
+		culture = dynamic-cosmopolitan_french-swabian-culture-num1
+		religion = protestant
+		size= 10333
+	}
+
+	artisans=
+	{
+		culture = dynamic-cosmopolitan_french-swabian-culture-num1
+		religion = protestant
+		size= 11796
+	}
+
+	clergymen=
+	{
+		culture = dynamic-cosmopolitan_french-swabian-culture-num1
+		religion = protestant
+		size= 1207
+	}
+
+	bureaucrats=
+	{
+		culture = dynamic-cosmopolitan_french-swabian-culture-num1
+		religion = protestant
+		size= 246
+	}
+
+	officers=
+	{
+		culture = dynamic-cosmopolitan_french-swabian-culture-num1
+		religion = protestant
+		size= 199
+	}
+
+	aristocrats=
+	{
+		culture = dynamic-cosmopolitan_french-swabian-culture-num1
+		religion = protestant
+		size= 1194
+	}
+
+	farmers=
+	{
+		culture = dynamic-cosmopolitan_french-swabian-culture-num1
+		religion = protestant
+		size= 68317
+	}
+
+	clergymen=
+	{
+		culture = ashkenazi
+		religion = jewish
+		size= 25
+	}
+
+	artisans=
+	{
+		culture = ashkenazi
+		religion = jewish
+		size= 1475
+	}
+
+}
+391 = {
+	soldiers=
+	{
+		culture = flemish
+		religion = protestant
+		size= 4133
+	}
+
+	artisans=
+	{
+		culture = flemish
+		religion = protestant
+		size= 10118
+	}
+
+	clergymen=
+	{
+		culture = flemish
+		religion = protestant
+		size= 940
+	}
+
+	bureaucrats=
+	{
+		culture = flemish
+		religion = protestant
+		size= 188
+	}
+
+	officers=
+	{
+		culture = flemish
+		religion = protestant
+		size= 152
+	}
+
+	aristocrats=
+	{
+		culture = flemish
+		religion = protestant
+		size= 911
+	}
+
+	farmers=
+	{
+		culture = flemish
+		religion = protestant
+		size= 55831
+	}
+
+}
+392 = {
+	soldiers=
+	{
+		culture = dynamic-cosmopolitan_french-swabian-culture-num1
+		religion = protestant
+		size= 13433
+	}
+
+	craftsmen=
+	{
+		culture = dynamic-cosmopolitan_french-swabian-culture-num1
+		religion = protestant
+		size= 8170
+	}
+
+	artisans=
+	{
+		culture = dynamic-cosmopolitan_french-swabian-culture-num1
+		religion = protestant
+		size= 14427
+	}
+
+	clergymen=
+	{
+		culture = dynamic-cosmopolitan_french-swabian-culture-num1
+		religion = protestant
+		size= 1340
+	}
+
+	clerks=
+	{
+		culture = dynamic-cosmopolitan_french-swabian-culture-num1
+		religion = protestant
+		size= 493
+	}
+
+	bureaucrats=
+	{
+		culture = dynamic-cosmopolitan_french-swabian-culture-num1
+		religion = protestant
+		size= 185
+	}
+
+	officers=
+	{
+		culture = dynamic-cosmopolitan_french-swabian-culture-num1
+		religion = protestant
+		size= 216
+	}
+
+	capitalists=
+	{
+		culture = dynamic-cosmopolitan_french-swabian-culture-num1
+		religion = protestant
+		size= 250
+	}
+
+	aristocrats=
+	{
+		culture = dynamic-cosmopolitan_french-swabian-culture-num1
+		religion = protestant
+		size= 1298
+	}
+
+	farmers=
+	{
+		culture = dynamic-cosmopolitan_french-swabian-culture-num1
+		religion = protestant
+		size= 63238
+	}
+
+}
+393 = {
+	soldiers=
+	{
+		culture = dynamic-cosmopolitan_french-swabian-culture-num1
+		religion = protestant
+		size= 8098
+	}
+
+	artisans=
+	{
+		culture = dynamic-cosmopolitan_french-swabian-culture-num1
+		religion = protestant
+		size= 12323
+	}
+
+	clergymen=
+	{
+		culture = dynamic-cosmopolitan_french-swabian-culture-num1
+		religion = protestant
+		size= 1144
+	}
+
+	bureaucrats=
+	{
+		culture = dynamic-cosmopolitan_french-swabian-culture-num1
+		religion = protestant
+		size= 229
+	}
+
+	officers=
+	{
+		culture = dynamic-cosmopolitan_french-swabian-culture-num1
+		religion = protestant
+		size= 255
+	}
+
+	aristocrats=
+	{
+		culture = dynamic-cosmopolitan_french-swabian-culture-num1
+		religion = protestant
+		size= 1109
+	}
+
+	farmers=
+	{
+		culture = dynamic-cosmopolitan_french-swabian-culture-num1
+		religion = protestant
+		size= 64865
+	}
+
+}
+394 = {
+	soldiers=
+	{
+		culture = dynamic-cosmopolitan_french-swabian-culture-num1
+		religion = protestant
+		size= 9646
+	}
+
+	artisans=
+	{
+		culture = dynamic-cosmopolitan_french-swabian-culture-num1
+		religion = protestant
+		size= 14678
+	}
+
+	clergymen=
+	{
+		culture = dynamic-cosmopolitan_french-swabian-culture-num1
+		religion = protestant
+		size= 1363
+	}
+
+	bureaucrats=
+	{
+		culture = dynamic-cosmopolitan_french-swabian-culture-num1
+		religion = protestant
+		size= 273
+	}
+
+	officers=
+	{
+		culture = dynamic-cosmopolitan_french-swabian-culture-num1
+		religion = protestant
+		size= 304
+	}
+
+	aristocrats=
+	{
+		culture = dynamic-cosmopolitan_french-swabian-culture-num1
+		religion = protestant
+		size= 1321
+	}
+
+	farmers=
+	{
+		culture = dynamic-cosmopolitan_french-swabian-culture-num1
+		religion = protestant
+		size= 77260
+	}
+
+}
+395 = {
+	soldiers=
+	{
+		culture = dynamic-cosmopolitan_french-swabian-culture-num1
+		religion = protestant
+		size= 5132
+	}
+
+	artisans=
+	{
+		culture = dynamic-cosmopolitan_french-swabian-culture-num1
+		religion = protestant
+		size= 7809
+	}
+
+	clergymen=
+	{
+		culture = dynamic-cosmopolitan_french-swabian-culture-num1
+		religion = protestant
+		size= 725
+	}
+
+	bureaucrats=
+	{
+		culture = dynamic-cosmopolitan_french-swabian-culture-num1
+		religion = protestant
+		size= 145
+	}
+
+	officers=
+	{
+		culture = dynamic-cosmopolitan_french-swabian-culture-num1
+		religion = protestant
+		size= 162
+	}
+
+	aristocrats=
+	{
+		culture = dynamic-cosmopolitan_french-swabian-culture-num1
+		religion = protestant
+		size= 469
+	}
+
+	farmers=
+	{
+		culture = dynamic-cosmopolitan_french-swabian-culture-num1
+		religion = protestant
+		size= 41340
+	}
+
+}
+396 = {
+	soldiers=
+	{
+		culture = dynamic-cosmopolitan_french-swabian-culture-num1
+		religion = protestant
+		size= 3489
+	}
+
+	artisans=
+	{
+		culture = dynamic-cosmopolitan_french-swabian-culture-num1
+		religion = protestant
+		size= 5309
+	}
+
+	clergymen=
+	{
+		culture = dynamic-cosmopolitan_french-swabian-culture-num1
+		religion = protestant
+		size= 493
+	}
+
+	bureaucrats=
+	{
+		culture = dynamic-cosmopolitan_french-swabian-culture-num1
+		religion = protestant
+		size= 99
+	}
+
+	officers=
+	{
+		culture = dynamic-cosmopolitan_french-swabian-culture-num1
+		religion = protestant
+		size= 110
+	}
+
+	aristocrats=
+	{
+		culture = dynamic-cosmopolitan_french-swabian-culture-num1
+		religion = protestant
+		size= 319
+	}
+
+	farmers=
+	{
+		culture = dynamic-cosmopolitan_french-swabian-culture-num1
+		religion = protestant
+		size= 28104
+	}
+
+}
+398 = {
+	soldiers=
+	{
+		culture = dynamic-cosmopolitan_french-swabian-culture-num1
+		religion = protestant
+		size= 4165
+	}
+
+	artisans=
+	{
+		culture = dynamic-cosmopolitan_french-swabian-culture-num1
+		religion = protestant
+		size= 6339
+	}
+
+	clergymen=
+	{
+		culture = dynamic-cosmopolitan_french-swabian-culture-num1
+		religion = protestant
+		size= 589
+	}
+
+	bureaucrats=
+	{
+		culture = dynamic-cosmopolitan_french-swabian-culture-num1
+		religion = protestant
+		size= 118
+	}
+
+	officers=
+	{
+		culture = dynamic-cosmopolitan_french-swabian-culture-num1
+		religion = protestant
+		size= 131
+	}
+
+	aristocrats=
+	{
+		culture = dynamic-cosmopolitan_french-swabian-culture-num1
+		religion = protestant
+		size= 380
+	}
+
+	farmers=
+	{
+		culture = dynamic-cosmopolitan_french-swabian-culture-num1
+		religion = protestant
+		size= 33555
+	}
+
+}

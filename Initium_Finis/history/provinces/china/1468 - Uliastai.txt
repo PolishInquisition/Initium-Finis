@@ -1,0 +1,10 @@
+owner=JIN
+controller=JIN
+add_core=JIN
+add_core=KHA
+add_core=LIO
+add_core=MGL
+trade_goods = grain
+life_rating = 32
+terrain = hills
+fort = 1

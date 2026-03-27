@@ -1,0 +1,861 @@
+#Sphere of Influence
+
+AJU = {
+	value = 0
+	level = 2
+}
+ALD = {
+	value = 0
+	level = 2
+}
+AST = {
+	value = 0
+	level = 2
+}
+ATJ = {
+	value = 0
+	level = 2
+}
+AUI = {
+	value = 0
+	level = 2
+}
+AUK = {
+	value = 0
+	level = 2
+}
+AVA = {
+	value = 70
+	influence_value = 5
+	level = 3
+}
+BAL = {
+	value = 0
+	level = 2
+}
+BAV = {
+	value = 0
+	level = 2
+}
+BNG = {
+	value = 0
+	level = 2
+}
+BNJ = {
+	value = 0
+	level = 2
+}
+BRU = {
+	value = 0
+	level = 2
+}
+BRZ = {
+	value = 0
+	level = 2
+}
+BTN = {
+	value = 0
+	level = 2
+}
+BUG = {
+	value = 0
+	level = 2
+}
+BUL = {
+	value = 0
+	level = 2
+}
+BUN = {
+	value = 86
+	influence_value = 9
+	level = 2
+}
+BUR = {
+	value = 64
+	influence_value = 3
+	level = 2
+}
+CAL = {
+	value = 0
+	level = 2
+}
+CAM = {
+	value = 58
+	influence_value = 2
+	level = 2
+}
+CHC = {
+	value = 52
+	level = 2
+}
+CHH = {
+	value = 61
+	influence_value = 2
+	level = 2
+}
+CHL = {
+	value = 0
+	level = 2
+}
+CHU = {
+	value = 0
+	level = 2
+}
+CHV = {
+	value = 0
+	level = 2
+}
+CLM = {
+	value = 0
+	level = 2
+}
+COL = {
+	value = 0
+	level = 2
+}
+CUA = {
+	value = 0
+	level = 2
+}
+CUB = {
+	value = 0
+	level = 2
+}
+DAI = {
+	value = 55
+	influence_value = 1
+	level = 2
+}
+DAK = {
+	value = 0
+	level = 2
+}
+DEN = {
+	value = 0
+	level = 2
+}
+DJA = {
+	value = 0
+	level = 2
+}
+DLH = {
+	value = -8
+	level = 2
+}
+DLI = {
+	value = 0
+	level = 2
+}
+ENG = {
+	value = 0
+	level = 2
+}
+FJL = {
+	value = 0
+	level = 2
+}
+FJV = {
+	value = 0
+	level = 2
+}
+GDW = {
+	value = 36
+	level = 2
+}
+GER = {
+	value = 0
+	level = 2
+}
+GHR = {
+	value = 219
+	military_access = yes
+	influence_value = 62
+	level = 5
+}
+HDA = {
+	value = 0
+	level = 2
+}
+HWH = {
+	value = 0
+	level = 2
+}
+HWK = {
+	value = 0
+	level = 2
+}
+HWM = {
+	value = 0
+	level = 2
+}
+HWO = {
+	value = 0
+	level = 2
+}
+ITA = {
+	value = 0
+	level = 2
+}
+JAP = {
+	value = 0
+	level = 2
+}
+JER = {
+	value = 0
+	level = 2
+}
+JIN = {
+	value = 141
+	influence_value = 22
+	level = 4
+}
+KAZ = {
+	value = 0
+	level = 2
+}
+KBO = {
+	value = 0
+	level = 2
+}
+KCX = {
+	value = 169
+	military_access = yes
+	influence_value = 49
+	level = 5
+}
+KED = {
+	value = 0
+	level = 2
+}
+KHA = {
+	value = 55
+	influence_value = 1
+	level = 2
+}
+KLD = {
+	value = 0
+	level = 2
+}
+KON = {
+	value = 0
+	level = 2
+}
+KOR = {
+	value = 0
+	level = 2
+}
+KRC = {
+	value = 0
+	level = 2
+}
+KTI = {
+	value = 0
+	level = 2
+}
+LBA = {
+	value = 0
+	level = 2
+}
+LNA = {
+	value = 0
+	level = 2
+}
+LOU = {
+	value = 0
+	level = 2
+}
+LSK = {
+	value = 0
+	level = 2
+}
+LUN = {
+	value = 0
+	level = 2
+}
+LXA = {
+	value = 206
+	influence_value = 39
+	level = 4
+}
+MAW = {
+	value = 64
+	influence_value = 3
+	level = 2
+}
+MEX = {
+	value = 0
+	level = 2
+}
+MJP = {
+	value = 0
+	level = 2
+}
+MKS = {
+	value = 0
+	level = 2
+}
+ML1 = {
+	value = 0
+	level = 2
+}
+MLC = {
+	value = 0
+	level = 2
+}
+MNI = {
+	value = 0
+	level = 2
+}
+MNX = {
+	value = 0
+	level = 2
+}
+MOR = {
+	value = 0
+	level = 2
+}
+MOS = {
+	value = 0
+	level = 2
+}
+MPA = {
+	value = 0
+	level = 2
+}
+MRT = {
+	value = 0
+	level = 2
+}
+NAH = {
+	value = 0
+	level = 2
+}
+NEP = {
+	value = 0
+	level = 2
+}
+NZM = {
+	value = 0
+	level = 2
+}
+ORI = {
+	value = 202
+	military_access = yes
+	influence_value = 58
+	level = 5
+}
+ORL = {
+	value = 0
+	level = 2
+}
+PAT = {
+	value = 0
+	level = 2
+}
+PER = {
+	value = -61
+	level = 2
+}
+PGR = {
+	value = 0
+	level = 2
+}
+PGS = {
+	value = 0
+	level = 2
+}
+PLC = {
+	value = 0
+	level = 2
+}
+PSA = {
+	value = 0
+	level = 2
+}
+QIC = {
+	value = 46
+	level = 2
+}
+QUE = {
+	value = 0
+	level = 2
+}
+RAJ = {
+	value = -23
+	level = 2
+}
+RUS = {
+	value = 0
+	level = 2
+}
+SIA = {
+	value = 46
+	level = 2
+}
+SIE = {
+	value = 0
+	level = 2
+}
+SMO = {
+	value = 0
+	level = 2
+}
+SON = {
+	value = 0
+	level = 2
+}
+SOO = {
+	value = 0
+	level = 2
+}
+SPA = {
+	value = 0
+	level = 2
+}
+SRB = {
+	value = 0
+	level = 2
+}
+SUL = {
+	value = 0
+	level = 2
+}
+SUN = {
+	value = 0
+	level = 2
+}
+TEX = {
+	value = 0
+	level = 2
+}
+TGA = {
+	value = 0
+	level = 2
+}
+TID = {
+	value = 0
+	level = 2
+}
+TLG = {
+	value = 0
+	level = 2
+}
+TRT = {
+	value = 141
+	military_access = yes
+	influence_value = 42
+	level = 5
+}
+TTE = {
+	value = 0
+	level = 2
+}
+USA = {
+	value = 0
+	level = 2
+}
+UTS = {
+	value = 232
+	military_access = yes
+	influence_value = 65
+	level = 5
+}
+VEN = {
+	value = 0
+	level = 2
+}
+X03 = {
+	value = 0
+	level = 2
+}
+X04 = {
+	value = 0
+	level = 2
+}
+X05 = {
+	value = 0
+	level = 2
+}
+X06 = {
+	value = 0
+	level = 2
+}
+X07 = {
+	value = 0
+	level = 2
+}
+X08 = {
+	value = 0
+	level = 2
+}
+X19 = {
+	value = 0
+	level = 2
+}
+X20 = {
+	value = 0
+	level = 2
+}
+X24 = {
+	value = 0
+	level = 2
+}
+X25 = {
+	value = 31
+	level = 2
+}
+X26 = {
+	value = 0
+	level = 2
+}
+YEM = {
+	value = 0
+	level = 2
+}
+YRK = {
+	value = 25
+	level = 2
+}
+YUE = {
+	value = 228
+	influence_value = 44
+	level = 4
+}
+ZIM = {
+	value = 0
+	level = 2
+}
+
+#Leaders
+leader = {
+	name="Adzom V Jitendranarayan"
+	date="1776.12.13"
+	type=land
+	personality="resolute"
+	background="cavalry_school"
+}
+
+leader = {
+	name="Srichandra Malla"
+	date="1766.12.25"
+	type=land
+	personality="resolute"
+	background="uncommonly_young"
+}
+
+leader = {
+	name="Ghatamdeva Thapa"
+	date="1769.8.14"
+	type=land
+	personality="resolute"
+	background="uncommonly_young"
+}
+
+leader = {
+	name="Lek Chhettri"
+	date="1770.12.31"
+	type=sea
+	personality="intuitive"
+	background="war_college"
+}
+
+leader = {
+	name="Rahul Chhettri"
+	date="1772.4.5"
+	type=land
+	personality="unflinching"
+	background="cavalry_school"
+}
+
+leader = {
+	name="Luo Rana"
+	date="1786.2.2"
+	type=land
+	personality="resolute"
+	background="uncommonly_young"
+}
+
+
+#Armies
+navy = {
+	name="1st Fleet"
+	location=2795
+	ship = {
+		name="Arun"
+		type=frigate
+	}
+	ship = {
+		name="Behri"
+		type=frigate
+	}
+	ship = {
+		name="Gayatri"
+		type=frigate
+	}
+	ship = {
+		name="Jalsena"
+		type=frigate
+	}
+}
+
+army = {
+	name="4th Army"
+	location=1242
+	regiment = {
+		name="1st Katmandu Irregulars"
+		type=irregular
+		home=1326
+	}
+	regiment = {
+		name="1st Darjeeling Irregulars"
+		type=irregular
+		home=1252
+	}
+	regiment = {
+		name="1st Gauhati Irregulars"
+		type=irregular
+		home=1258
+	}
+	regiment = {
+		name="1st Bardwan Irregulars"
+		type=irregular
+		home=1253
+	}
+	regiment = {
+		name="1st Khotan Cavalry"
+		type=cavalry
+		home=1598
+	}
+	regiment = {
+		name="1st Jumla Artillery"
+		type=artillery
+		home=1327
+	}
+	regiment = {
+		name="1st Darjeeling Cavalry"
+		type=cavalry
+		home=1252
+	}
+	regiment = {
+		name="1st Dehra Dun Artillery"
+		type=artillery
+		home=1238
+	}
+}
+
+army = {
+	name="3rd Army"
+	location=1598
+	regiment = {
+		name="2nd Darjeeling Irregulars"
+		type=irregular
+		home=1252
+	}
+	regiment = {
+		name="2nd Gauhati Irregulars"
+		type=irregular
+		home=1258
+	}
+	regiment = {
+		name="1st Jumla Cavalry"
+		type=cavalry
+		home=1327
+	}
+	regiment = {
+		name="2nd Jumla Artillery"
+		type=artillery
+		home=1327
+	}
+	regiment = {
+		name="3rd Jumla Artillery"
+		type=artillery
+		home=1327
+	}
+	regiment = {
+		name="3rd Jumla Irregulars"
+		type=irregular
+		home=1327
+	}
+	regiment = {
+		name="1st Bardwan Cavalry"
+		type=cavalry
+		home=1253
+	}
+	regiment = {
+		name="1st Patna Artillery"
+		type=artillery
+		home=1247
+	}
+}
+
+army = {
+	name="1st Army"
+	location=1247
+	regiment = {
+		name="1st Patna Irregulars"
+		type=irregular
+		home=1247
+	}
+	regiment = {
+		name="1st Lucknow Irregulars"
+		type=irregular
+		home=1242
+	}
+	regiment = {
+		name="1st Simla Irregulars"
+		type=irregular
+		home=1235
+	}
+	regiment = {
+		name="1st Patna Cavalry"
+		type=cavalry
+		home=1247
+	}
+	regiment = {
+		name="1st Simla Artillery"
+		type=artillery
+		home=1235
+	}
+	regiment = {
+		name="1st Gorakhpur Artillery"
+		type=artillery
+		home=1246
+	}
+	regiment = {
+		name="1st Dehra Dun Cavalry"
+		type=cavalry
+		home=1238
+	}
+}
+
+navy = {
+	name="3rd Fleet"
+	location=1257
+	ship = {
+		name="Bhote Kosi"
+		type=manowar
+	}
+	ship = {
+		name="Devi"
+		type=manowar
+	}
+	ship = {
+		name="Dudh Kosi"
+		type=manowar
+	}
+	ship = {
+		name="Durga"
+		type=manowar
+	}
+}
+
+army = {
+	name="5th Army"
+	location=1260
+	regiment = {
+		name="1st Agartala Irregulars"
+		type=irregular
+		home=2566
+	}
+	regiment = {
+		name="1st Gorakhpur Irregulars"
+		type=irregular
+		home=1246
+	}
+	regiment = {
+		name="1st Jumla Irregulars"
+		type=irregular
+		home=1327
+	}
+	regiment = {
+		name="1st Lucknow Cavalry"
+		type=cavalry
+		home=1242
+	}
+	regiment = {
+		name="1st Tawang Artillery"
+		type=artillery
+		home=1593
+	}
+	regiment = {
+		name="4th Jumla Artillery"
+		type=artillery
+		home=1327
+	}
+}
+
+army = {
+	name="15th Army"
+	location=1248
+	regiment = {
+		name="2nd Jumla Irregulars"
+		type=irregular
+		home=1327
+	}
+	regiment = {
+		name="2nd Patna Irregulars"
+		type=irregular
+		home=1247
+	}
+	regiment = {
+		name="2nd Katmandu Irregulars"
+		type=irregular
+		home=1326
+	}
+	regiment = {
+		name="1st Simla Cavalry"
+		type=cavalry
+		home=1235
+	}
+	regiment = {
+		name="2nd Simla Artillery"
+		type=artillery
+		home=1235
+	}
+	regiment = {
+		name="2nd Gorakhpur Artillery"
+		type=artillery
+		home=1246
+	}
+}
+
+army = {
+	name="2nd Army"
+	location=1243
+	regiment = {
+		name="1st Srinagar Irregulars"
+		type=irregular
+		home=1224
+	}
+	regiment = {
+		name="1st Tawang Irregulars"
+		type=irregular
+		home=1593
+	}
+	regiment = {
+		name="1st Tawang Cavalry"
+		type=cavalry
+		home=1593
+	}
+	regiment = {
+		name="3rd Simla Artillery"
+		type=artillery
+		home=1235
+	}
+	regiment = {
+		name="1st Agartala Artillery"
+		type=artillery
+		home=2566
+	}
+	regiment = {
+		name="1st Imphal Irregulars"
+		type=irregular
+		home=1259
+	}
+	regiment = {
+		name="2nd Bardwan Cavalry"
+		type=cavalry
+		home=1253
+	}
+}
+

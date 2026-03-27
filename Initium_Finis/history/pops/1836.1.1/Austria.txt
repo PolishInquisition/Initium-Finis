@@ -1,0 +1,717 @@
+612 = {
+	soldiers=
+	{
+		culture = south_german
+		religion = protestant
+		size= 3419
+	}
+
+	artisans=
+	{
+		culture = south_german
+		religion = protestant
+		size= 2442
+	}
+
+	clergymen=
+	{
+		culture = south_german
+		religion = protestant
+		size= 794
+	}
+
+	bureaucrats=
+	{
+		culture = south_german
+		religion = protestant
+		size= 159
+	}
+
+	officers=
+	{
+		culture = south_german
+		religion = protestant
+		size= 128
+	}
+
+	aristocrats=
+	{
+		culture = south_german
+		religion = protestant
+		size= 769
+	}
+
+	farmers=
+	{
+		culture = south_german
+		religion = protestant
+		size= 53344
+	}
+
+}
+613 = {
+	soldiers=
+	{
+		culture = south_german
+		religion = protestant
+		size= 694
+	}
+
+	artisans=
+	{
+		culture = south_german
+		religion = protestant
+		size= 4858
+	}
+
+	clergymen=
+	{
+		culture = south_german
+		religion = protestant
+		size= 451
+	}
+
+	bureaucrats=
+	{
+		culture = south_german
+		religion = protestant
+		size= 90
+	}
+
+	officers=
+	{
+		culture = south_german
+		religion = protestant
+		size= 45
+	}
+
+	aristocrats=
+	{
+		culture = south_german
+		religion = protestant
+		size= 291
+	}
+
+	farmers=
+	{
+		culture = south_german
+		religion = protestant
+		size= 28268
+	}
+
+}
+614 = {
+	soldiers=
+	{
+		culture = south_german
+		religion = protestant
+		size= 687
+	}
+
+	artisans=
+	{
+		culture = south_german
+		religion = protestant
+		size= 4812
+	}
+
+	clergymen=
+	{
+		culture = south_german
+		religion = protestant
+		size= 447
+	}
+
+	bureaucrats=
+	{
+		culture = south_german
+		religion = protestant
+		size= 89
+	}
+
+	officers=
+	{
+		culture = south_german
+		religion = protestant
+		size= 45
+	}
+
+	aristocrats=
+	{
+		culture = south_german
+		religion = protestant
+		size= 289
+	}
+
+	farmers=
+	{
+		culture = south_german
+		religion = protestant
+		size= 28000
+	}
+
+}
+615 = {
+	soldiers=
+	{
+		culture = dynamic-bavarian-culture-num2
+		religion = catholic
+		size= 1033
+	}
+
+	craftsmen=
+	{
+		culture = dynamic-bavarian-culture-num2
+		religion = catholic
+		size= 8170
+	}
+
+	artisans=
+	{
+		culture = dynamic-bavarian-culture-num2
+		religion = catholic
+		size= 552
+	}
+
+	clergymen=
+	{
+		culture = dynamic-bavarian-culture-num2
+		religion = catholic
+		size= 90
+	}
+
+	clerks=
+	{
+		culture = dynamic-bavarian-culture-num2
+		religion = catholic
+		size= 493
+	}
+
+	bureaucrats=
+	{
+		culture = dynamic-bavarian-culture-num2
+		religion = catholic
+		size= 36
+	}
+
+	officers=
+	{
+		culture = dynamic-bavarian-culture-num2
+		religion = catholic
+		size= 29
+	}
+
+	capitalists=
+	{
+		culture = dynamic-bavarian-culture-num2
+		religion = catholic
+		size= 88
+	}
+
+	aristocrats=
+	{
+		culture = dynamic-bavarian-culture-num2
+		religion = catholic
+		size= 116
+	}
+
+	farmers=
+	{
+		culture = dynamic-bavarian-culture-num2
+		religion = catholic
+		size= 3189
+	}
+
+}
+616 = {
+	soldiers=
+	{
+		culture = dynamic-bavarian-culture-num2
+		religion = catholic
+		size= 5368
+	}
+
+	craftsmen=
+	{
+		culture = dynamic-bavarian-culture-num2
+		religion = catholic
+		size= 8170
+	}
+
+	artisans=
+	{
+		culture = dynamic-bavarian-culture-num2
+		religion = catholic
+		size= 3834
+	}
+
+	clergymen=
+	{
+		culture = dynamic-bavarian-culture-num2
+		religion = catholic
+		size= 623
+	}
+
+	clerks=
+	{
+		culture = dynamic-bavarian-culture-num2
+		religion = catholic
+		size= 493
+	}
+
+	bureaucrats=
+	{
+		culture = dynamic-bavarian-culture-num2
+		religion = catholic
+		size= 173
+	}
+
+	officers=
+	{
+		culture = dynamic-bavarian-culture-num2
+		religion = catholic
+		size= 201
+	}
+
+	capitalists=
+	{
+		culture = dynamic-bavarian-culture-num2
+		religion = catholic
+		size= 88
+	}
+
+	aristocrats=
+	{
+		culture = dynamic-bavarian-culture-num2
+		religion = catholic
+		size= 1610
+	}
+
+	farmers=
+	{
+		culture = dynamic-bavarian-culture-num2
+		religion = catholic
+		size= 75293
+	}
+
+}
+617 = {
+	soldiers=
+	{
+		culture = dynamic-bavarian-culture-num2
+		religion = catholic
+		size= 4133
+	}
+
+	artisans=
+	{
+		culture = dynamic-bavarian-culture-num2
+		religion = catholic
+		size= 1744
+	}
+
+	clergymen=
+	{
+		culture = dynamic-bavarian-culture-num2
+		religion = catholic
+		size= 283
+	}
+
+	bureaucrats=
+	{
+		culture = dynamic-bavarian-culture-num2
+		religion = catholic
+		size= 61
+	}
+
+	officers=
+	{
+		culture = dynamic-bavarian-culture-num2
+		religion = catholic
+		size= 92
+	}
+
+	aristocrats=
+	{
+		culture = dynamic-bavarian-culture-num2
+		religion = catholic
+		size= 366
+	}
+
+	farmers=
+	{
+		culture = dynamic-bavarian-culture-num2
+		religion = catholic
+		size= 36917
+	}
+
+}
+618 = {
+	soldiers=
+	{
+		culture = dynamic-bavarian-culture-num2
+		religion = catholic
+		size= 7233
+	}
+
+	artisans=
+	{
+		culture = dynamic-bavarian-culture-num2
+		religion = catholic
+		size= 7059
+	}
+
+	clergymen=
+	{
+		culture = dynamic-bavarian-culture-num2
+		religion = catholic
+		size= 655
+	}
+
+	bureaucrats=
+	{
+		culture = dynamic-bavarian-culture-num2
+		religion = catholic
+		size= 111
+	}
+
+	officers=
+	{
+		culture = dynamic-bavarian-culture-num2
+		religion = catholic
+		size= 146
+	}
+
+	aristocrats=
+	{
+		culture = dynamic-bavarian-culture-num2
+		religion = catholic
+		size= 635
+	}
+
+	farmers=
+	{
+		culture = dynamic-bavarian-culture-num2
+		religion = catholic
+		size= 34585
+	}
+
+}
+619 = {
+	soldiers=
+	{
+		culture = south_german
+		religion = protestant
+		size= 15770
+	}
+
+	artisans=
+	{
+		culture = south_german
+		religion = protestant
+		size= 24850
+	}
+
+	clergymen=
+	{
+		culture = south_german
+		religion = protestant
+		size= 1825
+	}
+
+	bureaucrats=
+	{
+		culture = south_german
+		religion = protestant
+		size= 394
+	}
+
+	officers=
+	{
+		culture = south_german
+		religion = protestant
+		size= 591
+	}
+
+	aristocrats=
+	{
+		culture = south_german
+		religion = protestant
+		size= 5520
+	}
+
+	farmers=
+	{
+		culture = south_german
+		religion = protestant
+		size= 232165
+	}
+
+	clergymen=
+	{
+		culture = south_german
+		religion = jewish
+		size= 5
+	}
+
+	artisans=
+	{
+		culture = south_german
+		religion = jewish
+		size= 495
+	}
+
+}
+620 = {
+	soldiers=
+	{
+		culture = dynamic-bavarian-culture-num2
+		religion = catholic
+		size= 1288
+	}
+
+	artisans=
+	{
+		culture = dynamic-bavarian-culture-num2
+		religion = catholic
+		size= 920
+	}
+
+	clergymen=
+	{
+		culture = dynamic-bavarian-culture-num2
+		religion = catholic
+		size= 149
+	}
+
+	bureaucrats=
+	{
+		culture = dynamic-bavarian-culture-num2
+		religion = catholic
+		size= 32
+	}
+
+	officers=
+	{
+		culture = dynamic-bavarian-culture-num2
+		religion = catholic
+		size= 48
+	}
+
+	aristocrats=
+	{
+		culture = dynamic-bavarian-culture-num2
+		religion = catholic
+		size= 386
+	}
+
+	farmers=
+	{
+		culture = dynamic-bavarian-culture-num2
+		religion = catholic
+		size= 20174
+	}
+
+}
+621 = {
+	soldiers=
+	{
+		culture = south_german
+		religion = protestant
+		size= 3374
+	}
+
+	artisans=
+	{
+		culture = south_german
+		religion = protestant
+		size= 2410
+	}
+
+	clergymen=
+	{
+		culture = south_german
+		religion = protestant
+		size= 392
+	}
+
+	bureaucrats=
+	{
+		culture = south_german
+		religion = protestant
+		size= 84
+	}
+
+	officers=
+	{
+		culture = south_german
+		religion = protestant
+		size= 127
+	}
+
+	aristocrats=
+	{
+		culture = south_german
+		religion = protestant
+		size= 1012
+	}
+
+	farmers=
+	{
+		culture = south_german
+		religion = protestant
+		size= 52849
+	}
+
+}
+622 = {
+	soldiers=
+	{
+		culture = south_german
+		religion = protestant
+		size= 3045
+	}
+
+	artisans=
+	{
+		culture = south_german
+		religion = protestant
+		size= 11221
+	}
+
+	clergymen=
+	{
+		culture = south_german
+		religion = protestant
+		size= 1042
+	}
+
+	bureaucrats=
+	{
+		culture = south_german
+		religion = protestant
+		size= 209
+	}
+
+	officers=
+	{
+		culture = south_german
+		religion = protestant
+		size= 136
+	}
+
+	aristocrats=
+	{
+		culture = south_german
+		religion = protestant
+		size= 2020
+	}
+
+	farmers=
+	{
+		culture = south_german
+		religion = protestant
+		size= 62475
+	}
+
+	soldiers=
+	{
+		culture = dynamic-bavarian-culture-num2
+		religion = catholic
+		size= 2836
+	}
+
+	artisans=
+	{
+		culture = dynamic-bavarian-culture-num2
+		religion = catholic
+		size= 10447
+	}
+
+	clergymen=
+	{
+		culture = dynamic-bavarian-culture-num2
+		religion = catholic
+		size= 970
+	}
+
+	bureaucrats=
+	{
+		culture = dynamic-bavarian-culture-num2
+		religion = catholic
+		size= 194
+	}
+
+	officers=
+	{
+		culture = dynamic-bavarian-culture-num2
+		religion = catholic
+		size= 127
+	}
+
+	aristocrats=
+	{
+		culture = dynamic-bavarian-culture-num2
+		religion = catholic
+		size= 1880
+	}
+
+	farmers=
+	{
+		culture = dynamic-bavarian-culture-num2
+		religion = catholic
+		size= 58167
+	}
+
+}
+624 = {
+	soldiers=
+	{
+		culture = south_german
+		religion = protestant
+		size= 2970
+	}
+
+	artisans=
+	{
+		culture = south_german
+		religion = protestant
+		size= 4774
+	}
+
+	clergymen=
+	{
+		culture = south_german
+		religion = protestant
+		size= 345
+	}
+
+	bureaucrats=
+	{
+		culture = south_german
+		religion = protestant
+		size= 74
+	}
+
+	officers=
+	{
+		culture = south_german
+		religion = protestant
+		size= 111
+	}
+
+	aristocrats=
+	{
+		culture = south_german
+		religion = protestant
+		size= 1040
+	}
+
+	farmers=
+	{
+		culture = south_german
+		religion = protestant
+		size= 43728
+	}
+
+}

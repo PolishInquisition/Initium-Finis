@@ -1,0 +1,6 @@
+owner=JER
+controller=JER
+add_core=ARA
+trade_goods = wool
+life_rating = 35
+terrain = plains

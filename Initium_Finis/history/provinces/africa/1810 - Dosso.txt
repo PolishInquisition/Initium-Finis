@@ -1,0 +1,6 @@
+owner=X24
+controller=KBO
+add_core=X24
+trade_goods = grain
+life_rating = 15
+terrain = plains

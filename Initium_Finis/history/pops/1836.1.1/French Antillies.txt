@@ -1,0 +1,123 @@
+2228 = {
+	slaves=
+	{
+		culture = afro_caribeno
+		religion = catholic
+		size= 26143
+	}
+
+	soldiers=
+	{
+		culture = mexican
+		religion = catholic
+		size= 1607
+	}
+
+	craftsmen=
+	{
+		culture = mexican
+		religion = catholic
+		size= 8170
+	}
+
+	artisans=
+	{
+		culture = mexican
+		religion = catholic
+		size= 4018
+	}
+
+	clergymen=
+	{
+		culture = mexican
+		religion = catholic
+		size= 187
+	}
+
+	clerks=
+	{
+		culture = mexican
+		religion = catholic
+		size= 493
+	}
+
+	bureaucrats=
+	{
+		culture = mexican
+		religion = catholic
+		size= 80
+	}
+
+	officers=
+	{
+		culture = mexican
+		religion = catholic
+		size= 60
+	}
+
+	capitalists=
+	{
+		culture = mexican
+		religion = catholic
+		size= 42
+	}
+
+	aristocrats=
+	{
+		culture = mexican
+		religion = catholic
+		size= 482
+	}
+
+}
+2230 = {
+	slaves=
+	{
+		culture = afro_caribeno
+		religion = catholic
+		size= 29424
+	}
+
+	soldiers=
+	{
+		culture = mexican
+		religion = catholic
+		size= 1824
+	}
+
+	artisans=
+	{
+		culture = mexican
+		religion = catholic
+		size= 1303
+	}
+
+	clergymen=
+	{
+		culture = mexican
+		religion = catholic
+		size= 212
+	}
+
+	bureaucrats=
+	{
+		culture = mexican
+		religion = catholic
+		size= 78
+	}
+
+	officers=
+	{
+		culture = mexican
+		religion = catholic
+		size= 68
+	}
+
+	aristocrats=
+	{
+		culture = mexican
+		religion = catholic
+		size= 274
+	}
+
+}

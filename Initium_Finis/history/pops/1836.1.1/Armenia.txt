@@ -1,0 +1,204 @@
+1098 = {
+	soldiers=
+	{
+		culture = armenian
+		religion = protestant
+		size= 233
+	}
+
+	artisans=
+	{
+		culture = armenian
+		religion = protestant
+		size= 934
+	}
+
+	clergymen=
+	{
+		culture = armenian
+		religion = protestant
+		size= 152
+	}
+
+	bureaucrats=
+	{
+		culture = armenian
+		religion = protestant
+		size= 35
+	}
+
+	officers=
+	{
+		culture = armenian
+		religion = protestant
+		size= 19
+	}
+
+	aristocrats=
+	{
+		culture = armenian
+		religion = protestant
+		size= 392
+	}
+
+	farmers=
+	{
+		culture = armenian
+		religion = protestant
+		size= 21580
+	}
+
+}
+1099 = {
+	soldiers=
+	{
+		culture = armenian
+		religion = protestant
+		size= 160
+	}
+
+	artisans=
+	{
+		culture = armenian
+		religion = protestant
+		size= 640
+	}
+
+	clergymen=
+	{
+		culture = armenian
+		religion = protestant
+		size= 104
+	}
+
+	bureaucrats=
+	{
+		culture = armenian
+		religion = protestant
+		size= 24
+	}
+
+	officers=
+	{
+		culture = armenian
+		religion = protestant
+		size= 13
+	}
+
+	aristocrats=
+	{
+		culture = armenian
+		religion = protestant
+		size= 269
+	}
+
+	farmers=
+	{
+		culture = armenian
+		religion = protestant
+		size= 14787
+	}
+
+}
+1100 = {
+	soldiers=
+	{
+		culture = armenian
+		religion = protestant
+		size= 301
+	}
+
+	artisans=
+	{
+		culture = armenian
+		religion = protestant
+		size= 430
+	}
+
+	clergymen=
+	{
+		culture = armenian
+		religion = protestant
+		size= 70
+	}
+
+	bureaucrats=
+	{
+		culture = armenian
+		religion = protestant
+		size= 16
+	}
+
+	officers=
+	{
+		culture = armenian
+		religion = protestant
+		size= 17
+	}
+
+	aristocrats=
+	{
+		culture = armenian
+		religion = protestant
+		size= 181
+	}
+
+	farmers=
+	{
+		culture = armenian
+		religion = protestant
+		size= 9740
+	}
+
+}
+1101 = {
+	soldiers=
+	{
+		culture = armenian
+		religion = protestant
+		size= 387
+	}
+
+	artisans=
+	{
+		culture = armenian
+		religion = protestant
+		size= 552
+	}
+
+	clergymen=
+	{
+		culture = armenian
+		religion = protestant
+		size= 90
+	}
+
+	bureaucrats=
+	{
+		culture = armenian
+		religion = protestant
+		size= 21
+	}
+
+	officers=
+	{
+		culture = armenian
+		religion = protestant
+		size= 22
+	}
+
+	aristocrats=
+	{
+		culture = armenian
+		religion = protestant
+		size= 232
+	}
+
+	farmers=
+	{
+		culture = armenian
+		religion = protestant
+		size= 12507
+	}
+
+}

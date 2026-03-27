@@ -1,0 +1,8 @@
+owner=PLC
+controller=PLC
+add_core=PLC
+add_core=SLV
+add_core=WSF
+trade_goods = grain
+life_rating = 35
+terrain = hills

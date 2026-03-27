@@ -1,0 +1,116 @@
+2214 = {
+	slaves=
+	{
+		culture = afro_caribeno
+		religion = catholic
+		size= 10274
+	}
+
+	soldiers=
+	{
+		culture = mexican
+		religion = catholic
+		size= 1033
+	}
+
+	artisans=
+	{
+		culture = mexican
+		religion = catholic
+		size= 2445
+	}
+
+	clergymen=
+	{
+		culture = mexican
+		religion = catholic
+		size= 114
+	}
+
+	bureaucrats=
+	{
+		culture = mexican
+		religion = catholic
+		size= 42
+	}
+
+	officers=
+	{
+		culture = mexican
+		religion = catholic
+		size= 37
+	}
+
+	aristocrats=
+	{
+		culture = mexican
+		religion = catholic
+		size= 441
+	}
+
+	farmers=
+	{
+		culture = mexican
+		religion = catholic
+		size= 3079
+	}
+
+}
+2216 = {
+	slaves=
+	{
+		culture = afro_caribeno
+		religion = catholic
+		size= 5986
+	}
+
+	soldiers=
+	{
+		culture = mexican
+		religion = catholic
+		size= 4133
+	}
+
+	artisans=
+	{
+		culture = mexican
+		religion = catholic
+		size= 558
+	}
+
+	clergymen=
+	{
+		culture = mexican
+		religion = catholic
+		size= 91
+	}
+
+	bureaucrats=
+	{
+		culture = mexican
+		religion = catholic
+		size= 33
+	}
+
+	officers=
+	{
+		culture = mexican
+		religion = catholic
+		size= 18
+	}
+
+	aristocrats=
+	{
+		culture = mexican
+		religion = catholic
+		size= 234
+	}
+
+	farmers=
+	{
+		culture = mexican
+		religion = catholic
+		size= 2914
+	}
+
+}

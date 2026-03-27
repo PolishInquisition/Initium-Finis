@@ -1,0 +1,8 @@
+owner=QIC
+controller=PER
+add_core=CHI
+add_core=MCK
+add_core=QIC
+trade_goods = grain
+life_rating = 35
+terrain = mountain

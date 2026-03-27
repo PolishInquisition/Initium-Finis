@@ -1,0 +1,9 @@
+owner=QIC
+controller=PER
+add_core=KHA
+add_core=MGL
+add_core=QIC
+trade_goods = grain
+life_rating = 32
+terrain = plains
+fort = 1

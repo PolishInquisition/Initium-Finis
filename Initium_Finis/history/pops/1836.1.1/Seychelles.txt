@@ -1,0 +1,51 @@
+2127 = {
+	soldiers=
+	{
+		culture = somali
+		religion = catholic
+		size= 14
+	}
+
+	artisans=
+	{
+		culture = somali
+		religion = catholic
+		size= 189
+	}
+
+	clergymen=
+	{
+		culture = somali
+		religion = catholic
+		size= 18
+	}
+
+	bureaucrats=
+	{
+		culture = somali
+		religion = catholic
+		size= 4
+	}
+
+	officers=
+	{
+		culture = somali
+		religion = catholic
+		size= 2
+	}
+
+	aristocrats=
+	{
+		culture = somali
+		religion = catholic
+		size= 11
+	}
+
+	farmers=
+	{
+		culture = somali
+		religion = catholic
+		size= 1113
+	}
+
+}

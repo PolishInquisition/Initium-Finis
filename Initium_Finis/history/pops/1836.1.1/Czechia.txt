@@ -1,0 +1,727 @@
+625 = {
+	soldiers=
+	{
+		culture = dynamic-czech-culture-num1
+		religion = protestant
+		size= 12566
+	}
+
+	craftsmen=
+	{
+		culture = dynamic-czech-culture-num1
+		religion = protestant
+		size= 8170
+	}
+
+	artisans=
+	{
+		culture = dynamic-czech-culture-num1
+		religion = protestant
+		size= 35633
+	}
+
+	clergymen=
+	{
+		culture = dynamic-czech-culture-num1
+		religion = protestant
+		size= 5794
+	}
+
+	clerks=
+	{
+		culture = dynamic-czech-culture-num1
+		religion = protestant
+		size= 493
+	}
+
+	bureaucrats=
+	{
+		culture = dynamic-czech-culture-num1
+		religion = protestant
+		size= 993
+	}
+
+	officers=
+	{
+		culture = dynamic-czech-culture-num1
+		religion = protestant
+		size= 948
+	}
+
+	capitalists=
+	{
+		culture = dynamic-czech-culture-num1
+		religion = protestant
+		size= 42
+	}
+
+	aristocrats=
+	{
+		culture = dynamic-czech-culture-num1
+		religion = protestant
+		size= 5689
+	}
+
+	farmers=
+	{
+		culture = dynamic-czech-culture-num1
+		religion = protestant
+		size= 363200
+	}
+
+	farmers=
+	{
+		culture = gypsy
+		religion = protestant
+		size= 11000
+	}
+
+	clergymen=
+	{
+		culture = dynamic-czech-culture-num1
+		religion = jewish
+		size= 75
+	}
+
+	artisans=
+	{
+		culture = dynamic-czech-culture-num1
+		religion = jewish
+		size= 5000
+	}
+
+	soldiers=
+	{
+		culture = dynamic-czech-culture-num1
+		religion = jewish
+		size= 75
+	}
+
+}
+626 = {
+	soldiers=
+	{
+		culture = dynamic-czech-culture-num1
+		religion = protestant
+		size= 6227
+	}
+
+	artisans=
+	{
+		culture = dynamic-czech-culture-num1
+		religion = protestant
+		size= 3437
+	}
+
+	clergymen=
+	{
+		culture = dynamic-czech-culture-num1
+		religion = protestant
+		size= 833
+	}
+
+	bureaucrats=
+	{
+		culture = dynamic-czech-culture-num1
+		religion = protestant
+		size= 245
+	}
+
+	officers=
+	{
+		culture = dynamic-czech-culture-num1
+		religion = protestant
+		size= 394
+	}
+
+	aristocrats=
+	{
+		culture = dynamic-czech-culture-num1
+		religion = protestant
+		size= 1332
+	}
+
+	farmers=
+	{
+		culture = dynamic-czech-culture-num1
+		religion = protestant
+		size= 120446
+	}
+
+	clergymen=
+	{
+		culture = dynamic-czech-culture-num1
+		religion = jewish
+		size= 50
+	}
+
+	artisans=
+	{
+		culture = dynamic-czech-culture-num1
+		religion = jewish
+		size= 2000
+	}
+
+	soldiers=
+	{
+		culture = dynamic-czech-culture-num1
+		religion = jewish
+		size= 25
+	}
+
+	farmers=
+	{
+		culture = dynamic-czech-culture-num1
+		religion = jewish
+		size= 925
+	}
+
+}
+627 = {
+	soldiers=
+	{
+		culture = dynamic-czech-culture-num1
+		religion = protestant
+		size= 4282
+	}
+
+	artisans=
+	{
+		culture = dynamic-czech-culture-num1
+		religion = protestant
+		size= 4153
+	}
+
+	clergymen=
+	{
+		culture = dynamic-czech-culture-num1
+		religion = protestant
+		size= 950
+	}
+
+	bureaucrats=
+	{
+		culture = dynamic-czech-culture-num1
+		religion = protestant
+		size= 215
+	}
+
+	officers=
+	{
+		culture = dynamic-czech-culture-num1
+		religion = protestant
+		size= 323
+	}
+
+	aristocrats=
+	{
+		culture = dynamic-czech-culture-num1
+		religion = protestant
+		size= 1292
+	}
+
+	farmers=
+	{
+		culture = dynamic-czech-culture-num1
+		religion = protestant
+		size= 139614
+	}
+
+	clergymen=
+	{
+		culture = dynamic-czech-culture-num1
+		religion = jewish
+		size= 50
+	}
+
+	artisans=
+	{
+		culture = dynamic-czech-culture-num1
+		religion = jewish
+		size= 2000
+	}
+
+	soldiers=
+	{
+		culture = dynamic-czech-culture-num1
+		religion = jewish
+		size= 25
+	}
+
+	farmers=
+	{
+		culture = dynamic-czech-culture-num1
+		religion = jewish
+		size= 925
+	}
+
+}
+628 = {
+	soldiers=
+	{
+		culture = czech
+		religion = protestant
+		size= 1352
+	}
+
+	artisans=
+	{
+		culture = czech
+		religion = protestant
+		size= 6406
+	}
+
+	clergymen=
+	{
+		culture = czech
+		religion = protestant
+		size= 463
+	}
+
+	bureaucrats=
+	{
+		culture = czech
+		religion = protestant
+		size= 157
+	}
+
+	officers=
+	{
+		culture = czech
+		religion = protestant
+		size= 121
+	}
+
+	aristocrats=
+	{
+		culture = czech
+		religion = protestant
+		size= 598
+	}
+
+	farmers=
+	{
+		culture = czech
+		religion = protestant
+		size= 62083
+	}
+
+}
+629 = {
+	soldiers=
+	{
+		culture = dynamic-czech-culture-num1
+		religion = protestant
+		size= 1748
+	}
+
+	artisans=
+	{
+		culture = dynamic-czech-culture-num1
+		religion = protestant
+		size= 13954
+	}
+
+	clergymen=
+	{
+		culture = dynamic-czech-culture-num1
+		religion = protestant
+		size= 1102
+	}
+
+	bureaucrats=
+	{
+		culture = dynamic-czech-culture-num1
+		religion = protestant
+		size= 461
+	}
+
+	officers=
+	{
+		culture = dynamic-czech-culture-num1
+		religion = protestant
+		size= 230
+	}
+
+	aristocrats=
+	{
+		culture = dynamic-czech-culture-num1
+		religion = protestant
+		size= 2234
+	}
+
+	farmers=
+	{
+		culture = dynamic-czech-culture-num1
+		religion = protestant
+		size= 152446
+	}
+
+	farmers=
+	{
+		culture = gypsy
+		religion = protestant
+		size= 2100
+	}
+
+	clergymen=
+	{
+		culture = dynamic-czech-culture-num1
+		religion = jewish
+		size= 50
+	}
+
+	artisans=
+	{
+		culture = dynamic-czech-culture-num1
+		religion = jewish
+		size= 2000
+	}
+
+	soldiers=
+	{
+		culture = dynamic-czech-culture-num1
+		religion = jewish
+		size= 25
+	}
+
+}
+630 = {
+	soldiers=
+	{
+		culture = dynamic-czech-culture-num1
+		religion = protestant
+		size= 3504
+	}
+
+	artisans=
+	{
+		culture = dynamic-czech-culture-num1
+		religion = protestant
+		size= 3041
+	}
+
+	clergymen=
+	{
+		culture = dynamic-czech-culture-num1
+		religion = protestant
+		size= 769
+	}
+
+	bureaucrats=
+	{
+		culture = dynamic-czech-culture-num1
+		religion = protestant
+		size= 227
+	}
+
+	officers=
+	{
+		culture = dynamic-czech-culture-num1
+		religion = protestant
+		size= 265
+	}
+
+	aristocrats=
+	{
+		culture = dynamic-czech-culture-num1
+		religion = protestant
+		size= 1059
+	}
+
+	farmers=
+	{
+		culture = dynamic-czech-culture-num1
+		religion = protestant
+		size= 114169
+	}
+
+	clergymen=
+	{
+		culture = dynamic-czech-culture-num1
+		religion = jewish
+		size= 50
+	}
+
+	artisans=
+	{
+		culture = dynamic-czech-culture-num1
+		religion = jewish
+		size= 2000
+	}
+
+	soldiers=
+	{
+		culture = dynamic-czech-culture-num1
+		religion = jewish
+		size= 25
+	}
+
+	farmers=
+	{
+		culture = dynamic-czech-culture-num1
+		religion = jewish
+		size= 925
+	}
+
+}
+631 = {
+	soldiers=
+	{
+		culture = dynamic-czech-culture-num1
+		religion = protestant
+		size= 12552
+	}
+
+	artisans=
+	{
+		culture = dynamic-czech-culture-num1
+		religion = protestant
+		size= 22156
+	}
+
+	clergymen=
+	{
+		culture = dynamic-czech-culture-num1
+		religion = protestant
+		size= 3481
+	}
+
+	bureaucrats=
+	{
+		culture = dynamic-czech-culture-num1
+		religion = protestant
+		size= 493
+	}
+
+	officers=
+	{
+		culture = dynamic-czech-culture-num1
+		religion = protestant
+		size= 795
+	}
+
+	aristocrats=
+	{
+		culture = dynamic-czech-culture-num1
+		religion = protestant
+		size= 5370
+	}
+
+	farmers=
+	{
+		culture = dynamic-czech-culture-num1
+		religion = protestant
+		size= 221579
+	}
+
+	farmers=
+	{
+		culture = gypsy
+		religion = protestant
+		size= 3550
+	}
+
+	clergymen=
+	{
+		culture = dynamic-czech-culture-num1
+		religion = jewish
+		size= 80
+	}
+
+	artisans=
+	{
+		culture = dynamic-czech-culture-num1
+		religion = jewish
+		size= 2500
+	}
+
+	soldiers=
+	{
+		culture = dynamic-czech-culture-num1
+		religion = jewish
+		size= 50
+	}
+
+}
+632 = {
+	soldiers=
+	{
+		culture = dynamic-czech-culture-num1
+		religion = protestant
+		size= 5046
+	}
+
+	artisans=
+	{
+		culture = dynamic-czech-culture-num1
+		religion = protestant
+		size= 2410
+	}
+
+	clergymen=
+	{
+		culture = dynamic-czech-culture-num1
+		religion = protestant
+		size= 667
+	}
+
+	bureaucrats=
+	{
+		culture = dynamic-czech-culture-num1
+		religion = protestant
+		size= 154
+	}
+
+	officers=
+	{
+		culture = dynamic-czech-culture-num1
+		religion = protestant
+		size= 320
+	}
+
+	aristocrats=
+	{
+		culture = dynamic-czech-culture-num1
+		religion = protestant
+		size= 926
+	}
+
+	farmers=
+	{
+		culture = dynamic-czech-culture-num1
+		religion = protestant
+		size= 97718
+	}
+
+	clergymen=
+	{
+		culture = dynamic-czech-culture-num1
+		religion = jewish
+		size= 50
+	}
+
+	artisans=
+	{
+		culture = dynamic-czech-culture-num1
+		religion = jewish
+		size= 2000
+	}
+
+	soldiers=
+	{
+		culture = dynamic-czech-culture-num1
+		religion = jewish
+		size= 25
+	}
+
+	farmers=
+	{
+		culture = dynamic-czech-culture-num1
+		religion = jewish
+		size= 925
+	}
+
+}
+688 = {
+	soldiers=
+	{
+		culture = dynamic-czech-culture-num1
+		religion = protestant
+		size= 1210
+	}
+
+	artisans=
+	{
+		culture = dynamic-czech-culture-num1
+		religion = protestant
+		size= 1052
+	}
+
+	clergymen=
+	{
+		culture = dynamic-czech-culture-num1
+		religion = protestant
+		size= 171
+	}
+
+	bureaucrats=
+	{
+		culture = dynamic-czech-culture-num1
+		religion = protestant
+		size= 37
+	}
+
+	officers=
+	{
+		culture = dynamic-czech-culture-num1
+		religion = protestant
+		size= 76
+	}
+
+	aristocrats=
+	{
+		culture = dynamic-czech-culture-num1
+		religion = protestant
+		size= 221
+	}
+
+	farmers=
+	{
+		culture = dynamic-czech-culture-num1
+		religion = protestant
+		size= 23529
+	}
+
+}
+689 = {
+	soldiers=
+	{
+		culture = dynamic-czech-culture-num1
+		religion = protestant
+		size= 829
+	}
+
+	artisans=
+	{
+		culture = dynamic-czech-culture-num1
+		religion = protestant
+		size= 2665
+	}
+
+	clergymen=
+	{
+		culture = dynamic-czech-culture-num1
+		religion = protestant
+		size= 192
+	}
+
+	bureaucrats=
+	{
+		culture = dynamic-czech-culture-num1
+		religion = protestant
+		size= 77
+	}
+
+	officers=
+	{
+		culture = dynamic-czech-culture-num1
+		religion = protestant
+		size= 62
+	}
+
+	aristocrats=
+	{
+		culture = dynamic-czech-culture-num1
+		religion = protestant
+		size= 249
+	}
+
+	farmers=
+	{
+		culture = dynamic-czech-culture-num1
+		religion = protestant
+		size= 25538
+	}
+
+}

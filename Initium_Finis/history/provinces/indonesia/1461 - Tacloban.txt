@@ -1,0 +1,8 @@
+owner=MJP
+controller=MJP
+add_core=MJP
+add_core=SUL
+trade_goods = grain
+life_rating = 30
+terrain = plains
+naval_base = 2

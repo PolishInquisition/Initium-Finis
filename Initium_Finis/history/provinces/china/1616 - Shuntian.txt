@@ -1,0 +1,8 @@
+owner=JIN
+controller=JIN
+add_core=CHI
+add_core=JIN
+trade_goods = tea
+life_rating = 32
+terrain = hills
+fort = 1

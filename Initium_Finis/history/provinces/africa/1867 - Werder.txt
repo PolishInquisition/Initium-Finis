@@ -1,0 +1,8 @@
+owner=YEM
+controller=YEM
+add_core=ADA
+add_core=SOM
+add_core=YEM
+trade_goods = grain
+life_rating = 30
+terrain = hills
