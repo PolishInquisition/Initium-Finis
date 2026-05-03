@@ -1,8 +1,0 @@
-owner=YRK
-controller=RAJ
-add_core=SHY
-add_core=TKS
-add_core=YRK
-trade_goods = timber
-life_rating = 35
-terrain = woods

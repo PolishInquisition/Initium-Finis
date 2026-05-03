@@ -1,0 +1,35 @@
+
+state={
+	id=619
+	name="STATE_619"
+
+	history={
+		owner = SPR
+		victory_points = {
+			10074 10 
+		}
+		buildings = {
+			infrastructure = 4
+			industrial_complex = 1
+			arms_factory = 1
+			air_base = 6
+			10074 = {
+				naval_base = 6
+			}
+
+		}
+		add_core_of = ITA
+		add_core_of = X62
+		add_core_of = X81
+		add_claim_by = SPR
+	}
+
+	provinces={
+		1009 1156 3857 4014 4159 7059 7147 10074 12047 13256 
+	}
+	manpower=3093816
+	buildings_max_level_factor=1.000
+	state_category=city
+
+	local_supplies=10.0
+}

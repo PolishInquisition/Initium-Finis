@@ -1,0 +1,29 @@
+
+state={
+	id=599
+	name="STATE_599"
+
+	history={
+		owner = TRA
+		victory_points = {
+			6711 20 
+		}
+		buildings = {
+			infrastructure = 4
+			industrial_complex = 4
+			arms_factory = 1
+			air_base = 7
+
+		}
+		add_core_of = TRA
+	}
+
+	provinces={
+		727 3709 6711 6714 6731 9672 9704 11676 
+	}
+	manpower=1369432
+	buildings_max_level_factor=1.000
+	state_category=city
+
+	local_supplies=10.0
+}

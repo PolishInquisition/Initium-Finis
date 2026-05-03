@@ -1,0 +1,85 @@
+﻿add_namespace = NFEvents
+
+country_event = {
+	id = NFEvents.1
+	title = "Trade Incident"
+	desc = "One of our convoys was sunk by [SPR.GetName]"
+	picture = GFX_report_event_chinese_soldiers_fighting
+
+	is_triggered_only = yes
+
+	trigger = {
+		has_country_flag = established_traders
+		NOT = { has_country_flag = established_traders_activated }
+	}
+
+	option = {
+		name = "They will Pay!"
+		ai_chance = { factor = 85 }
+		effect_tooltip = {
+			COL = {
+				set_country_flag = established_traders_activated
+				create_wargoal = {
+					type = annex_everything
+					target = SPR
+				}
+			}
+		}
+	}
+}
+
+country_event = {
+	id = NFEvents.2
+	title = "Trade Incident"
+	desc = "One of our convoys was sunk by [X65.GetName]"
+	picture = GFX_report_event_chinese_soldiers_fighting
+
+	is_triggered_only = yes
+
+	trigger = {
+		has_country_flag = established_traders
+		NOT = { has_country_flag = established_traders_activated }
+	}
+
+	option = {
+		name = "They will Pay!"
+		ai_chance = { factor = 85 }
+		effect_tooltip = {
+			COL = {
+				set_country_flag = established_traders_activated
+				create_wargoal = {
+					type = annex_everything
+					target = X65
+				}
+			}
+		}
+	}
+}
+
+country_event = {
+	id = NFEvents.3
+	title = "Trade Incident"
+	desc = "One of our convoys was sunk by [BAN.GetName]"
+	picture = GFX_report_event_chinese_soldiers_fighting
+
+	is_triggered_only = yes
+
+	trigger = {
+		has_country_flag = established_traders
+		NOT = { has_country_flag = established_traders_activated }
+	}
+
+	option = {
+		name = "They will Pay!"
+		ai_chance = { factor = 85 }
+		effect_tooltip = {
+			COL = {
+				set_country_flag = established_traders_activated
+				create_wargoal = {
+					type = annex_everything
+					target = BAN
+				}
+			}
+		}
+	}
+}

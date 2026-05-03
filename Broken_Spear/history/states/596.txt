@@ -1,0 +1,36 @@
+
+state={
+	id=596
+	name="STATE_596"
+	resources={
+		rubber=23.000
+		tungsten=8.000
+	}
+
+	history={
+		owner = X74
+		victory_points = {
+			12299 15 
+		}
+		buildings = {
+			infrastructure = 4
+			industrial_complex = 1
+			arms_factory = 0
+			air_base = 6
+			12299 = {
+				naval_base = 2
+			}
+
+		}
+		add_core_of = X74
+	}
+
+	provinces={
+		12299 
+	}
+	manpower=35864
+	buildings_max_level_factor=1.000
+	state_category=large_island
+
+	local_supplies=10.0
+}

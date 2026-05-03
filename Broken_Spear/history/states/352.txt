@@ -1,0 +1,19 @@
+
+state={
+	id=352
+	name="STATE_352"
+	impassable = yes
+
+	history={
+		owner = SPR
+	}
+
+	provinces={
+		8128 
+	}
+	manpower=106520
+	buildings_max_level_factor=1.000
+	state_category=wasteland
+
+	local_supplies=10.0
+}

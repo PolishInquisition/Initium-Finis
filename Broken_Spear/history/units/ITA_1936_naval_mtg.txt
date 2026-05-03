@@ -1,0 +1,33 @@
+units = {
+	fleet = {
+		name = "1st Fleet"
+		naval_base = 6788
+		task_force = {
+			name = "1st Fleet"
+			location = 6788
+			ship = { name = "19th Genoa Commerce Raider" definition = destroyer start_experience_factor = 0.24653 equipment = { ship_hull_light_1 = { amount = 1 owner = ITA version_name = "Early Destroyer" } } }
+			ship = { name = "Pilade Bronzetti" definition = destroyer start_experience_factor = 0.3 equipment = { ship_hull_light_1 = { amount = 1 owner = ITA version_name = "Early Destroyer" } } }
+			ship = { name = "Antonio Mosto" definition = destroyer start_experience_factor = 0.3 equipment = { ship_hull_light_1 = { amount = 1 owner = ITA version_name = "Early Destroyer" } } }
+			ship = { name = "Ippolito Nievo" definition = destroyer start_experience_factor = 0.3 equipment = { ship_hull_light_1 = { amount = 1 owner = ITA version_name = "Early Destroyer" } } }
+			ship = { name = "Francesco Nullo" definition = destroyer start_experience_factor = 0.3 equipment = { ship_hull_light_1 = { amount = 1 owner = ITA version_name = "Early Destroyer" } } }
+			ship = { name = "Giuseppe Sirtori" definition = destroyer start_experience_factor = 0.3 equipment = { ship_hull_light_1 = { amount = 1 owner = ITA version_name = "Early Destroyer" } } }
+			ship = { name = "Giovanni Acerbi" definition = destroyer start_experience_factor = 0.3 equipment = { ship_hull_light_1 = { amount = 1 owner = ITA version_name = "Early Destroyer" } } }
+			ship = { name = "Vincenzo Giordano Orsini" definition = destroyer start_experience_factor = 0.3 equipment = { ship_hull_light_1 = { amount = 1 owner = ITA version_name = "Early Destroyer" } } }
+			ship = { name = "Francesco Stucco" definition = destroyer start_experience_factor = 0.3 equipment = { ship_hull_light_1 = { amount = 1 owner = ITA version_name = "Early Destroyer" } } }
+			ship = { name = "Rosolino Pilo" definition = destroyer start_experience_factor = 0.3 equipment = { ship_hull_light_1 = { amount = 1 owner = ITA version_name = "Early Destroyer" } } }
+		}
+	}
+}
+
+instant_effect = {
+	add_equipment_production = {
+		equipment = {
+			type = ship_hull_light_1
+			creator = "ITA"
+			version_name = "Early Destroyer"
+		}
+		requested_factories = 3
+		progress = 0.25
+		amount = 10
+	}
+}

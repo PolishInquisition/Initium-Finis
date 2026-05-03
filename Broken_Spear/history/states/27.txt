@@ -1,0 +1,32 @@
+
+state={
+	id=27
+	name="STATE_27"
+
+	history={
+		owner = W08
+		victory_points = {
+			7290 0 
+		}
+		buildings = {
+			infrastructure = 4
+			industrial_complex = 0
+			arms_factory = 0
+			air_base = 1
+			7290 = {
+				naval_base = 1
+			}
+
+		}
+		add_core_of = W08
+	}
+
+	provinces={
+		7290 13080 
+	}
+	manpower=94812
+	buildings_max_level_factor=1.000
+	state_category=large_island
+
+	local_supplies=10.0
+}

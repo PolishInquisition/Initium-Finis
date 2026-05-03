@@ -1,0 +1,21 @@
+
+state={
+	id=159
+	name="STATE_159"
+	impassable = yes
+
+	history={
+		owner = COL
+		add_core_of = BRA
+		add_core_of = COL
+	}
+
+	provinces={
+		2198 5216 5232 8185 8254 10960 12919 12965 13285 13330 
+	}
+	manpower=566908
+	buildings_max_level_factor=1.000
+	state_category=wasteland
+
+	local_supplies=10.0
+}

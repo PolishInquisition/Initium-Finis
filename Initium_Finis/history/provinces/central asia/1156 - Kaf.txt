@@ -1,7 +1,0 @@
-owner=JER
-controller=JER
-add_core=IRQ
-add_core=JER
-trade_goods = wool
-life_rating = 35
-terrain = desert

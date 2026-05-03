@@ -1,0 +1,33 @@
+
+state={
+	id=528
+	name="STATE_528"
+	resources={
+		aluminium=48.000
+		steel=2.000
+	}
+
+	history={
+		owner = HUN
+		victory_points = {
+			3713 1 
+		}
+		buildings = {
+			infrastructure = 2
+			industrial_complex = 0
+			arms_factory = 0
+			air_base = 0
+
+		}
+		add_core_of = HUN
+	}
+
+	provinces={
+		730 3713 3730 3731 6735 6751 9690 9706 11520 11659 
+	}
+	manpower=559896
+	buildings_max_level_factor=1.000
+	state_category=pastoral
+
+	local_supplies=10.0
+}

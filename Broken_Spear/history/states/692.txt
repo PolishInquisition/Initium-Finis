@@ -1,0 +1,35 @@
+
+state={
+	id=692
+	name="STATE_692"
+	resources={
+		coal=7.000
+		steel=42.000
+	}
+
+	history={
+		owner = X92
+		victory_points = {
+			514 20 
+		}
+		buildings = {
+			infrastructure = 5
+			industrial_complex = 8
+			arms_factory = 4
+			air_base = 9
+
+		}
+		add_core_of = GER
+		add_core_of = X71
+		add_core_of = X92
+	}
+
+	provinces={
+		514 573 3535 6559 11481 
+	}
+	manpower=5799092
+	buildings_max_level_factor=1.000
+	state_category=megalopolis
+
+	local_supplies=10.0
+}

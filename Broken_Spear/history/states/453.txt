@@ -1,0 +1,37 @@
+
+state={
+	id=453
+	name="STATE_453"
+
+	history={
+		owner = X65
+		victory_points = {
+			11506 7 
+		}
+		buildings = {
+			infrastructure = 4
+			industrial_complex = 8
+			arms_factory = 4
+			air_base = 4
+			9523 = {
+				landmark_eiffel_tower = {
+					level = 1
+					allowed = {
+						has_dlc = "Gotterdammerung"
+					}
+				}
+			}
+
+		}
+		add_core_of = X65
+	}
+
+	provinces={
+		6547 6949 9507 9523 9534 9725 11491 11506 11518 
+	}
+	manpower=5439652
+	buildings_max_level_factor=1.000
+	state_category=megalopolis
+
+	local_supplies=10.0
+}

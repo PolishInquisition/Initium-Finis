@@ -1,0 +1,35 @@
+
+state={
+	id=244
+	name="STATE_244"
+	resources={
+		steel=1.000
+	}
+
+	history={
+		owner = W12
+		victory_points = {
+			7992 10 
+		}
+		buildings = {
+			infrastructure = 3
+			industrial_complex = 0
+			arms_factory = 0
+			air_base = 6
+			7992 = {
+				naval_base = 10
+			}
+
+		}
+		add_core_of = W12
+	}
+
+	provinces={
+		7992 10814 
+	}
+	manpower=316036
+	buildings_max_level_factor=1.000
+	state_category=rural
+
+	local_supplies=10.0
+}

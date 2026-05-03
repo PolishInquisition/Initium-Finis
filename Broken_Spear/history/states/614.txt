@@ -1,0 +1,35 @@
+
+state={
+	id=614
+	name="STATE_614"
+	resources={
+		steel=7.000
+	}
+
+	history={
+		owner = SPR
+		victory_points = {
+			1176 2 
+		}
+		buildings = {
+			infrastructure = 3
+			industrial_complex = 1
+			arms_factory = 1
+			air_base = 1
+			9979 = {
+				naval_base = 6
+			}
+
+		}
+		add_core_of = SPR
+	}
+
+	provinces={
+		747 950 1090 1176 1192 4065 4095 7068 7153 7196 9979 10009 10063 10111 11956 12038 12083 
+	}
+	manpower=1865364
+	buildings_max_level_factor=1.000
+	state_category=large_island
+
+	local_supplies=10.0
+}

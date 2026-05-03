@@ -1,0 +1,32 @@
+
+state={
+	id=219
+	name="STATE_219"
+
+	history={
+		owner = ENG
+		victory_points = {
+			1889 0 
+		}
+		buildings = {
+			infrastructure = 2
+			industrial_complex = 0
+			arms_factory = 0
+			air_base = 0
+			4891 = {
+				naval_base = 10
+			}
+
+		}
+		add_core_of = PER
+	}
+
+	provinces={
+		1889 2070 4891 10782 12895 13082 
+	}
+	manpower=741704
+	buildings_max_level_factor=1.000
+	state_category=pastoral
+
+	local_supplies=10.0
+}

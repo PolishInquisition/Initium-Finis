@@ -1,0 +1,32 @@
+
+state={
+	id=463
+	name="STATE_463"
+
+	history={
+		owner = X65
+		victory_points = {
+			3601 1 
+		}
+		buildings = {
+			infrastructure = 3
+			industrial_complex = 0
+			arms_factory = 1
+			air_base = 1
+			591 = {
+				naval_base = 6
+			}
+
+		}
+		add_core_of = X65
+	}
+
+	provinces={
+		591 3601 6611 11901 
+	}
+	manpower=696620
+	buildings_max_level_factor=1.000
+	state_category=large_island
+
+	local_supplies=10.0
+}

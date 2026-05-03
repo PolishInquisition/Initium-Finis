@@ -1,7 +1,0 @@
-owner=YUE
-controller=YUE
-add_core=YUE
-trade_goods = timber
-life_rating = 32
-terrain = mountain
-fort = 1

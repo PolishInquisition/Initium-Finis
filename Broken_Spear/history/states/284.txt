@@ -1,0 +1,45 @@
+
+state={
+	id=284
+	name="STATE_284"
+	resources={
+		coal=2.000
+		oil=1.000
+		steel=9.000
+		tungsten=12.000
+	}
+
+	history={
+		owner = GER
+		victory_points = {
+			11666 5 
+		}
+		buildings = {
+			infrastructure = 3
+			industrial_complex = 6
+			arms_factory = 3
+			air_base = 3
+			11666 = {
+				landmark_hofburg_palace = {
+					level = 1
+					allowed = {
+						has_dlc = "Gotterdammerung"
+					}
+				}
+			}
+
+		}
+		add_core_of = BAY
+		add_core_of = GER
+		add_claim_by = YUG
+	}
+
+	provinces={
+		704 732 3684 3700 3703 3718 6552 6690 6708 6723 6739 9527 9661 9665 11630 11651 11666 
+	}
+	manpower=5178256
+	buildings_max_level_factor=1.000
+	state_category=metropolis
+
+	local_supplies=10.0
+}

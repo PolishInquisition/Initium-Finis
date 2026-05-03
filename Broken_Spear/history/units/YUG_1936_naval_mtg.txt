@@ -1,0 +1,71 @@
+units = {
+	fleet = {
+		name = "1st Fleet"
+		naval_base = 925
+		task_force = {
+			name = "1st Fleet"
+			location = 925
+			ship = { name = "2nd Naples Battleship" definition = heavy_cruiser start_experience_factor = 0.25 equipment = { ship_hull_cruiser_2 = { amount = 1 owner = YUG version_name = "1936 Heavy Cruiser" } } }
+			ship = { name = "1st Naples Battleship" definition = heavy_cruiser start_experience_factor = 0.17051 equipment = { ship_hull_cruiser_2 = { amount = 1 owner = YUG version_name = "1936 Heavy Cruiser" } } }
+			ship = { name = "2nd Ancona Battleship" definition = heavy_cruiser start_experience_factor = 0.25 equipment = { ship_hull_cruiser_2 = { amount = 1 owner = YUG version_name = "1936 Heavy Cruiser" } } }
+			ship = { name = "2nd Aquila Battleship" definition = heavy_cruiser start_experience_factor = 0.25 equipment = { ship_hull_cruiser_2 = { amount = 1 owner = YUG version_name = "1936 Heavy Cruiser" } } }
+			ship = { name = "3rd Ancona Battleship" definition = heavy_cruiser start_experience_factor = 0.25 equipment = { ship_hull_cruiser_2 = { amount = 1 owner = YUG version_name = "1936 Heavy Cruiser" } } }
+			ship = { name = "6th Aquila Battleship" definition = heavy_cruiser start_experience_factor = 0.25 equipment = { ship_hull_cruiser_2 = { amount = 1 owner = YUG version_name = "1936 Heavy Cruiser" } } }
+			ship = { name = "3rd Naples Battleship" definition = heavy_cruiser start_experience_factor = 0.25 equipment = { ship_hull_cruiser_2 = { amount = 1 owner = YUG version_name = "1936 Heavy Cruiser" } } }
+			ship = { name = "5th Aquila Battleship" definition = heavy_cruiser start_experience_factor = 0.24022 equipment = { ship_hull_cruiser_2 = { amount = 1 owner = YUG version_name = "1936 Heavy Cruiser" } } }
+			ship = { name = "6th Naples Battleship" definition = heavy_cruiser start_experience_factor = 0.25 equipment = { ship_hull_cruiser_2 = { amount = 1 owner = YUG version_name = "1936 Heavy Cruiser" } } }
+			ship = { name = "4th Aquila Battleship" definition = heavy_cruiser start_experience_factor = 0.25 equipment = { ship_hull_cruiser_2 = { amount = 1 owner = YUG version_name = "1936 Heavy Cruiser" } } }
+			ship = { name = "4th Naples Battleship" definition = heavy_cruiser start_experience_factor = 0.25 equipment = { ship_hull_cruiser_2 = { amount = 1 owner = YUG version_name = "1936 Heavy Cruiser" } } }
+			ship = { name = "10th Aquila Battleship" definition = heavy_cruiser start_experience_factor = 0.25 equipment = { ship_hull_cruiser_2 = { amount = 1 owner = YUG version_name = "1936 Heavy Cruiser" } } }
+			ship = { name = "3rd Aquila Battleship" definition = heavy_cruiser start_experience_factor = 0.25 equipment = { ship_hull_cruiser_2 = { amount = 1 owner = YUG version_name = "1936 Heavy Cruiser" } } }
+			ship = { name = "8th Aquila Battleship" definition = heavy_cruiser start_experience_factor = 0.25 equipment = { ship_hull_cruiser_2 = { amount = 1 owner = YUG version_name = "1936 Heavy Cruiser" } } }
+			ship = { name = "4th Ancona Battleship" definition = heavy_cruiser start_experience_factor = 0.25 equipment = { ship_hull_cruiser_2 = { amount = 1 owner = YUG version_name = "1936 Heavy Cruiser" } } }
+			ship = { name = "9th Aquila Battleship" definition = heavy_cruiser start_experience_factor = 0.25 equipment = { ship_hull_cruiser_2 = { amount = 1 owner = YUG version_name = "1936 Heavy Cruiser" } } }
+			ship = { name = "5th Ancona Battleship" definition = heavy_cruiser start_experience_factor = 0.25 equipment = { ship_hull_cruiser_2 = { amount = 1 owner = YUG version_name = "1936 Heavy Cruiser" } } }
+			ship = { name = "5th Naples Battleship" definition = heavy_cruiser start_experience_factor = 0.25 equipment = { ship_hull_cruiser_2 = { amount = 1 owner = YUG version_name = "1936 Heavy Cruiser" } } }
+			ship = { name = "6th Ancona Battleship" definition = heavy_cruiser start_experience_factor = 0.25 equipment = { ship_hull_cruiser_2 = { amount = 1 owner = YUG version_name = "1936 Heavy Cruiser" } } }
+			ship = { name = "4th Ancona Cruiser" definition = light_cruiser start_experience_factor = 0.25 equipment = { ship_hull_cruiser_2 = { amount = 1 owner = YUG version_name = "1936 Light Cruiser" } } }
+			ship = { name = "5th Ancona Cruiser" definition = light_cruiser start_experience_factor = 0.25 equipment = { ship_hull_cruiser_2 = { amount = 1 owner = YUG version_name = "1936 Light Cruiser" } } }
+			ship = { name = "Nemanjici" definition = light_cruiser start_experience_factor = 0.25 equipment = { ship_hull_cruiser_2 = { amount = 1 owner = YUG version_name = "1936 Light Cruiser" } } }
+			ship = { name = "5th Naples Cruiser" definition = light_cruiser start_experience_factor = 0.25 equipment = { ship_hull_cruiser_2 = { amount = 1 owner = YUG version_name = "1936 Light Cruiser" } } }
+			ship = { name = "7th Ancona Cruiser" definition = light_cruiser start_experience_factor = 0.25 equipment = { ship_hull_cruiser_2 = { amount = 1 owner = YUG version_name = "1936 Light Cruiser" } } }
+			ship = { name = "6th Aquila Cruiser" definition = light_cruiser start_experience_factor = 0.25 equipment = { ship_hull_cruiser_2 = { amount = 1 owner = YUG version_name = "1936 Light Cruiser" } } }
+			ship = { name = "Split" definition = light_cruiser start_experience_factor = 0.25 equipment = { ship_hull_cruiser_2 = { amount = 1 owner = YUG version_name = "1936 Light Cruiser" } } }
+			ship = { name = "2nd Naples Cruiser" definition = light_cruiser start_experience_factor = 0.25 equipment = { ship_hull_cruiser_2 = { amount = 1 owner = YUG version_name = "1936 Light Cruiser" } } }
+			ship = { name = "Jankovic" definition = light_cruiser start_experience_factor = 0.25 equipment = { ship_hull_cruiser_2 = { amount = 1 owner = YUG version_name = "1936 Light Cruiser" } } }
+			ship = { name = "1st Ancona Cruiser" definition = light_cruiser start_experience_factor = 0.2 equipment = { ship_hull_cruiser_2 = { amount = 1 owner = YUG version_name = "1936 Light Cruiser" } } }
+			ship = { name = "Silni" definition = light_cruiser start_experience_factor = 0.25 equipment = { ship_hull_cruiser_2 = { amount = 1 owner = YUG version_name = "1936 Light Cruiser" } } }
+			ship = { name = "Dalmacija" definition = light_cruiser start_experience_factor = 0.25 equipment = { ship_hull_cruiser_2 = { amount = 1 owner = YUG version_name = "1936 Light Cruiser" } } }
+			ship = { name = "6th Ancona Cruiser" definition = light_cruiser start_experience_factor = 0.25 equipment = { ship_hull_cruiser_2 = { amount = 1 owner = YUG version_name = "1936 Light Cruiser" } } }
+			ship = { name = "5th Aquila Cruiser" definition = light_cruiser start_experience_factor = 0.25 equipment = { ship_hull_cruiser_2 = { amount = 1 owner = YUG version_name = "1936 Light Cruiser" } } }
+			ship = { name = "Orjen" definition = light_cruiser start_experience_factor = 0.25 equipment = { ship_hull_cruiser_2 = { amount = 1 owner = YUG version_name = "1936 Light Cruiser" } } }
+			ship = { name = "4th Naples Cruiser" definition = light_cruiser start_experience_factor = 0.25 equipment = { ship_hull_cruiser_2 = { amount = 1 owner = YUG version_name = "1936 Light Cruiser" } } }
+			ship = { name = "3rd Aquila Cruiser" definition = light_cruiser start_experience_factor = 0.25 equipment = { ship_hull_cruiser_2 = { amount = 1 owner = YUG version_name = "1936 Light Cruiser" } } }
+			ship = { name = "4th Aquila Cruiser" definition = light_cruiser start_experience_factor = 0.25 equipment = { ship_hull_cruiser_2 = { amount = 1 owner = YUG version_name = "1936 Light Cruiser" } } }
+			ship = { name = "3rd Naples Cruiser" definition = light_cruiser start_experience_factor = 0.25 equipment = { ship_hull_cruiser_2 = { amount = 1 owner = YUG version_name = "1936 Light Cruiser" } } }
+		}
+	}
+}
+
+instant_effect = {
+	add_equipment_production = {
+		equipment = {
+			type = ship_hull_light_1
+			creator = "YUG"
+			version_name = "Early Destroyer"
+		}
+		requested_factories = 3
+		progress = 0.25
+		amount = 10
+	}
+	add_equipment_production = {
+		equipment = {
+			type = ship_hull_heavy_1
+			creator = "YUG"
+			version_name = "Early Battleship"
+		}
+		requested_factories = 8
+		progress = 0.25
+		amount = 3
+	}
+}

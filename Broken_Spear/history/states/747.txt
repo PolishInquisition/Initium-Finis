@@ -1,0 +1,20 @@
+
+state={
+	id=747
+	name="STATE_747"
+	impassable = yes
+
+	history={
+		owner = W23
+		add_core_of = W23
+	}
+
+	provinces={
+		2205 5138 7623 8206 12906 
+	}
+	manpower=2666
+	buildings_max_level_factor=1.000
+	state_category=wasteland
+
+	local_supplies=10.0
+}

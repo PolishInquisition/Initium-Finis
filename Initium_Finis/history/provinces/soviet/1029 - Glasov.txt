@@ -1,6 +1,0 @@
-owner=PER
-controller=PER
-add_core=KZN
-trade_goods = timber
-life_rating = 35
-terrain = forest

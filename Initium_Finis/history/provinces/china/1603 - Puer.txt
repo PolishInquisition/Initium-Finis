@@ -1,9 +1,0 @@
-owner=YUE
-controller=YUE
-add_core=CDL
-add_core=CHI
-add_core=YUE
-trade_goods = tea
-life_rating = 32
-terrain = jungle
-fort = 1

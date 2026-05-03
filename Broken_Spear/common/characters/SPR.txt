@@ -1,0 +1,224 @@
+characters={
+	SPR_iago_fontes={
+		name=SPR_iago_fontes
+		portraits={
+			army={
+				large="GFX_Paraguay_Rafael_Franco_KR"
+			}
+			army={
+				small="GFX_Paraguay_Rafael_Franco_KR"
+			}
+		}
+		corps_commander={
+			skill=2
+			attack_skill=3
+			defense_skill=3
+			planning_skill=1
+			logistics_skill=1
+			legacy_id=0
+		}
+	}
+
+	SPR_alberte_rosal={
+		name=SPR_alberte_rosal
+		portraits={
+			army={
+				large="GFX_Mexico_Garza"
+			}
+			army={
+				small="GFX_Mexico_Garza"
+			}
+		}
+		corps_commander={
+			skill=2
+			attack_skill=1
+			defense_skill=1
+			planning_skill=1
+			logistics_skill=5
+			legacy_id=0
+		}
+	}
+
+	SPR_uxio_mazo={
+		name=SPR_uxio_mazo
+		portraits={
+			army={
+				large="GFX_FOP_Luis_Alberto_Quesada"
+			}
+			army={
+				small="GFX_FOP_Luis_Alberto_Quesada"
+			}
+		}
+		corps_commander={
+			skill=2
+			attack_skill=1
+			defense_skill=3
+			planning_skill=1
+			logistics_skill=1
+			legacy_id=0
+		}
+	}
+
+	SPR_xose_canedo={
+		name=SPR_xose_canedo
+		portraits={
+			army={
+				large="GFX_BOL_Angel_Ayora"
+			}
+			army={
+				small="GFX_BOL_Angel_Ayora"
+			}
+		}
+		corps_commander={
+			skill=1
+			attack_skill=1
+			defense_skill=1
+			planning_skill=1
+			logistics_skill=1
+			legacy_id=0
+		}
+	}
+
+	SPR_xabier_prado={
+		name=SPR_xabier_prado
+		portraits={
+			army={
+				large="GFX_Paraguay_Rafael_Franco_KR"
+			}
+			army={
+				small="GFX_Paraguay_Rafael_Franco_KR"
+			}
+		}
+		corps_commander={
+			skill=3
+			attack_skill=1
+			defense_skill=1
+			planning_skill=3
+			logistics_skill=4
+			legacy_id=0
+		}
+	}
+
+	SPR_xabier_lagos={
+		name=SPR_xabier_lagos
+		portraits={
+			navy={
+				large="GFX_Portrait_South_America_Generic_navy_3"
+			}
+			navy={
+				small="GFX_Portrait_South_America_Generic_navy_3"
+			}
+		}
+		navy_leader={
+			skill=2
+			attack_skill=1
+			defense_skill=2
+			maneuvering_skill=3
+			coordination_skill=1
+			legacy_id=0
+		}
+	}
+
+	SPR_lino_rocha={
+		name=SPR_lino_rocha
+		portraits={
+			civilian={
+				large="GFX_cos_ricardo_jiminez_oreamuno"
+			}
+		}
+		country_leader={
+			ideology=liberalism
+			expire="1965.1.1.1"
+			id=-1
+		}
+	}
+
+	UTI_maurice_gamelin={
+		advisor={
+			slot = army_chief
+			idea_token = maurice_gamelin
+			available = {
+                has_completed_focus = FRA_aggressive_focus
+            }
+			allowed = {
+                original_tag = event_target:FRA_begin_rearmament_FRA
+            }
+			traits = {
+				army_chief_offensive_2
+			}
+			cost = 100
+			ai_will_do = {
+                factor = 1.000
+            }
+		}
+		field_marshal={
+			traits={ old_guard inflexible_strategist career_officer defensive_doctrine }
+			skill=2
+			attack_skill=1
+			defense_skill=3
+			planning_skill=2
+			logistics_skill=1
+			legacy_id=0
+		}
+	}
+
+	UTI_maxime_weygand={
+		advisor={
+			slot = army_chief
+			idea_token = maxime_weygand
+			available = {
+                has_completed_focus = FRA_defensive_focus
+            }
+			allowed = {
+                original_tag = event_target:FRA_begin_rearmament_FRA
+            }
+			traits = {
+				army_chief_defensive_2
+			}
+			cost = 100
+			ai_will_do = {
+                factor = 1.000
+            }
+		}
+		field_marshal={
+			traits={ old_guard inflexible_strategist career_officer defensive_doctrine }
+			skill=3
+			attack_skill=3
+			defense_skill=3
+			planning_skill=2
+			logistics_skill=2
+			legacy_id=0
+		}
+	}
+
+	UTI_charles_de_gaulle={
+		advisor={
+			slot = theorist
+			idea_token = charles_de_gaulle
+			ledger = army
+			available = {
+                has_completed_focus = FRA_battle_of_maneuver
+            }
+			allowed = {
+                original_tag = event_target:FRA_begin_rearmament_FRA
+            }
+			traits = {
+				blitzkrieg_theorist
+			}
+			cost = 100
+			ai_will_do = {
+                factor = 1.000
+            }
+		}
+		corps_commander={
+			traits={ media_personality harsh_leader armor_officer }
+			skill=4
+			attack_skill=4
+			defense_skill=4
+			planning_skill=3
+			logistics_skill=2
+			legacy_id=0
+		}
+	}
+
+}

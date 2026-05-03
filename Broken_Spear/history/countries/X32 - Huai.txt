@@ -1,0 +1,132 @@
+﻿capital = 107
+set_research_slots = 2
+
+oob = "X32_OOB"
+
+# Starting tech
+# Research Bonuses
+
+set_country_flag = conv_china
+set_convoys = 0
+
+set_politics = {
+    ruling_party = absolutist
+    last_election = "1836.1.1"
+    election_frequency = 48
+    elections_allowed = no
+}
+
+set_popularities = {
+	absolutist = 90
+	democratic = 7
+	neutrality = 3
+}
+
+add_opinion_modifier = { target = ALG modifier = negative_20 }
+add_opinion_modifier = { target = CHL modifier = negative_10 }
+add_opinion_modifier = { target = CKK modifier = negative_20 }
+add_opinion_modifier = { target = GER modifier = negative_10 }
+add_opinion_modifier = { target = KOR modifier = positive_10 }
+add_opinion_modifier = { target = MOR modifier = negative_20 }
+add_opinion_modifier = { target = SPR modifier = negative_10 }
+add_opinion_modifier = { target = W00 modifier = negative_10 }
+add_opinion_modifier = { target = X02 modifier = negative_20 }
+add_opinion_modifier = { target = X06 modifier = negative_20 }
+add_opinion_modifier = { target = X08 modifier = negative_20 }
+add_opinion_modifier = { target = X11 modifier = positive_10 }
+add_opinion_modifier = { target = X18 modifier = negative_20 }
+add_opinion_modifier = { target = X27 modifier = negative_15 }
+add_opinion_modifier = { target = X37 modifier = positive_35 }
+add_opinion_modifier = { target = X39 modifier = negative_30 }
+add_opinion_modifier = { target = X54 modifier = negative_20 }
+add_opinion_modifier = { target = X56 modifier = negative_20 }
+add_opinion_modifier = { target = X57 modifier = negative_20 }
+add_opinion_modifier = { target = X59 modifier = positive_10 }
+add_opinion_modifier = { target = X65 modifier = negative_10 }
+add_opinion_modifier = { target = X66 modifier = negative_20 }
+add_opinion_modifier = { target = X79 modifier = negative_20 }
+add_opinion_modifier = { target = X83 modifier = negative_20 }
+add_opinion_modifier = { target = X87 modifier = negative_20 }
+add_opinion_modifier = { target = X89 modifier = negative_5 }
+add_opinion_modifier = { target = X95 modifier = negative_10 }
+
+
+add_ideas = {
+	uncivilized
+	limited_conscription
+	civilian_economy
+	export_focus
+	culture_hakka
+}
+
+recruit_character = X32_yang_rengan
+
+if = {
+	limit = {
+		has_dlc = "La Resistance"
+	}
+	create_operative_leader = {
+		name = "Suzhen Rengan"
+		GFX = "gfx/leaders/Asia/portrait_asia_generic_operative_female_1.dds"
+		traits = {}
+		bypass_recruitment = no
+		available_to_spy_master = yes
+		female = yes
+		nationalities = { X32 }
+	}
+
+	create_operative_leader = {
+		name = "Yuantong Yucheng"
+		GFX = "gfx/leaders/Asia/portrait_asia_generic_operative_female_2.dds"
+		traits = {}
+		bypass_recruitment = no
+		available_to_spy_master = yes
+		female = yes
+		nationalities = { X32 }
+	}
+
+	create_operative_leader = {
+		name = "Mao Yatsen"
+		GFX = "gfx/leaders/Asia/portrait_asia_generic_operative_female_3.dds"
+		traits = {}
+		bypass_recruitment = no
+		available_to_spy_master = yes
+		female = yes
+		nationalities = { X32 }
+	}
+
+	create_operative_leader = {
+		name = "Li Rengan"
+		GFX = "gfx/leaders/Asia/portrait_asia_generic_operative_male_1.dds"
+		traits = {}
+		bypass_recruitment = no
+		available_to_spy_master = yes
+		nationalities = { X32 }
+	}
+
+	create_operative_leader = {
+		name = "Xue Dakai"
+		GFX = "gfx/leaders/Asia/portrait_asia_generic_operative_male_2.dds"
+		traits = {}
+		bypass_recruitment = no
+		available_to_spy_master = yes
+		nationalities = { X32 }
+	}
+
+}
+### VARIANTS ###
+if = {
+	limit = { not = { has_dlc = "Man the Guns" } }
+}
+if = {
+	limit = { has_dlc = "Man the Guns" }
+}
+### PLANE DESIGNS ###
+if = {
+	limit = { has_dlc = "By Blood Alone" }
+}
+### TANK DESIGNS ###
+if = {
+	limit = { has_dlc = "No Step Back" }
+}
+

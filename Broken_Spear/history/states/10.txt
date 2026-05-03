@@ -1,0 +1,30 @@
+
+state={
+	id=10
+	name="STATE_10"
+
+	history={
+		owner = X07
+		victory_points = {
+			1170 10 
+		}
+		buildings = {
+			infrastructure = 1
+			industrial_complex = 2
+			arms_factory = 0
+			air_base = 6
+
+		}
+		add_core_of = X07
+		add_core_of = X58
+	}
+
+	provinces={
+		1170 1333 1492 1566 1650 2061 4019 4059 4202 4210 4585 4626 7034 7400 7469 7562 10283 10344 10386 12284 12363 12404 12449 12492 
+	}
+	manpower=1775480
+	buildings_max_level_factor=1.000
+	state_category=large_island
+
+	local_supplies=10.0
+}

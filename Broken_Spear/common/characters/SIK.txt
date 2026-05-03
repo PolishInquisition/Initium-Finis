@@ -1,0 +1,56 @@
+characters={
+	SIK_daud_abdiqadir={
+		name=SIK_daud_abdiqadir
+		portraits={
+			army={
+				large="GFX_portrait_TUR_mustafa_kemal_ataturk_military"
+			}
+			army={
+				small="GFX_portrait_TUR_mustafa_kemal_ataturk_military"
+			}
+		}
+		corps_commander={
+			skill=2
+			attack_skill=3
+			defense_skill=1
+			planning_skill=1
+			logistics_skill=1
+			legacy_id=0
+		}
+	}
+
+	SIK_arshad_batur={
+		name=SIK_arshad_batur
+		portraits={
+			army={
+				large="GFX_Arabia_Generic_new_1"
+			}
+			army={
+				small="GFX_Arabia_Generic_new_1"
+			}
+		}
+		corps_commander={
+			skill=3
+			attack_skill=3
+			defense_skill=1
+			planning_skill=1
+			logistics_skill=4
+			legacy_id=0
+		}
+	}
+
+	SIK_muhammad_dawamet={
+		name=SIK_muhammad_dawamet
+		portraits={
+			civilian={
+				large="GFX_kur_seyid_riza"
+			}
+		}
+		country_leader={
+			ideology=socialism
+			expire="1965.1.1.1"
+			id=-1
+		}
+	}
+
+}

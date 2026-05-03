@@ -1,0 +1,30 @@
+
+state={
+	id=165
+	name="STATE_165"
+
+	history={
+		owner = CSA
+		victory_points = {
+			12501 1 
+		}
+		buildings = {
+			infrastructure = 1
+			industrial_complex = 1
+			arms_factory = 0
+			air_base = 0
+
+		}
+		add_core_of = CSA
+		add_core_of = USA
+	}
+
+	provinces={
+		913 1758 1987 7615 7791 7797 8014 8083 10281 10615 10657 10824 10909 12501 12670 
+	}
+	manpower=4814648
+	buildings_max_level_factor=1.000
+	state_category=metropolis
+
+	local_supplies=10.0
+}

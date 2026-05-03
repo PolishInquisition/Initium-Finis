@@ -1,0 +1,33 @@
+
+state={
+	id=525
+	name="STATE_525"
+
+	history={
+		owner = X71
+		victory_points = {
+			9340 1 
+		}
+		buildings = {
+			infrastructure = 2
+			industrial_complex = 1
+			arms_factory = 0
+			air_base = 0
+			6222 = {
+				naval_base = 10
+			}
+
+		}
+		add_core_of = X71
+		add_claim_by = EST
+	}
+
+	provinces={
+		222 233 265 310 319 341 3194 3255 3296 3298 3319 3388 3525 6222 6322 6342 6459 7482 9240 9262 9275 9317 9340 9501 10323 10493 11222 11246 11302 11358 
+	}
+	manpower=2008224
+	buildings_max_level_factor=1.000
+	state_category=town
+
+	local_supplies=10.0
+}

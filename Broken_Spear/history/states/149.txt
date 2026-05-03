@@ -1,0 +1,29 @@
+
+state={
+	id=149
+	name="STATE_149"
+
+	history={
+		owner = COL
+		victory_points = {
+			10792 1 
+		}
+		buildings = {
+			infrastructure = 2
+			industrial_complex = 1
+			arms_factory = 0
+			air_base = 0
+
+		}
+		add_core_of = COL
+	}
+
+	provinces={
+		1887 2007 5026 10792 12729 12770 12825 
+	}
+	manpower=902412
+	buildings_max_level_factor=1.000
+	state_category=large_island
+
+	local_supplies=10.0
+}

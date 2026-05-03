@@ -1,6 +1,0 @@
-owner=JER
-controller=JER
-trade_goods = fruit
-life_rating = 25
-terrain = desert
-colonial=2

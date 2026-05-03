@@ -1,0 +1,16 @@
+characters={
+	X17_batbayar_amar={
+		name=X17_batbayar_amar
+		portraits={
+			civilian={
+				large="GFX_Asia_Generic_2"
+			}
+		}
+		country_leader={
+			ideology=minarchism
+			expire="1965.1.1.1"
+			id=-1
+		}
+	}
+
+}

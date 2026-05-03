@@ -1,0 +1,33 @@
+
+state={
+	id=429
+	name="STATE_429"
+
+	history={
+		owner = MEX
+		victory_points = {
+			12865 2 
+		}
+		buildings = {
+			infrastructure = 3
+			industrial_complex = 1
+			arms_factory = 1
+			dockyard = 1
+			air_base = 1
+			12865 = {
+				naval_base = 10
+			}
+
+		}
+		add_core_of = MEX
+	}
+
+	provinces={
+		2031 8017 12823 12865 13093 
+	}
+	manpower=1604828
+	buildings_max_level_factor=1.000
+	state_category=large_town
+
+	local_supplies=10.0
+}

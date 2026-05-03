@@ -1,5 +1,0 @@
-owner=PER
-controller=PER
-trade_goods = cattle
-life_rating = 35
-terrain = steppe

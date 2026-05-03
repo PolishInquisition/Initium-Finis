@@ -1,0 +1,33 @@
+
+state={
+	id=561
+	name="STATE_561"
+
+	history={
+		owner = X73
+		victory_points = {
+			7105 15 
+		}
+		buildings = {
+			infrastructure = 3
+			industrial_complex = 1
+			arms_factory = 0
+			dockyard = 1
+			air_base = 6
+			7105 = {
+				naval_base = 4
+			}
+
+		}
+		add_core_of = X73
+	}
+
+	provinces={
+		1104 1124 1154 1184 1200 4071 4089 4157 4181 4186 4205 7055 7089 7105 9971 10000 10018 10102 12074 
+	}
+	manpower=7437408
+	buildings_max_level_factor=1.000
+	state_category=megalopolis
+
+	local_supplies=10.0
+}

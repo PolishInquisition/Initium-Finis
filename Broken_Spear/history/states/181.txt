@@ -1,0 +1,33 @@
+
+state={
+	id=181
+	name="STATE_181"
+
+	history={
+		owner = CUB
+		victory_points = {
+			177 2 
+		}
+		buildings = {
+			infrastructure = 2
+			industrial_complex = 0
+			arms_factory = 1
+			dockyard = 1
+			air_base = 0
+			177 = {
+				naval_base = 10
+			}
+
+		}
+		add_core_of = CUB
+	}
+
+	provinces={
+		177 379 7123 11106 11350 13009 
+	}
+	manpower=4572508
+	buildings_max_level_factor=1.000
+	state_category=large_city
+
+	local_supplies=10.0
+}

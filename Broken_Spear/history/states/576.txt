@@ -1,0 +1,32 @@
+
+state={
+	id=576
+	name="STATE_576"
+
+	history={
+		owner = SOV
+		victory_points = {
+			6258 1 
+		}
+		buildings = {
+			infrastructure = 4
+			industrial_complex = 1
+			arms_factory = 0
+			air_base = 1
+			408 = {
+				naval_base = 1
+			}
+
+		}
+		add_core_of = SOV
+	}
+
+	provinces={
+		408 6258 
+	}
+	manpower=208820
+	buildings_max_level_factor=1.000
+	state_category=large_town
+
+	local_supplies=10.0
+}

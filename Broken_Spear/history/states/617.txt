@@ -1,0 +1,36 @@
+
+state={
+	id=617
+	name="STATE_617"
+	resources={
+		tungsten=53.000
+	}
+
+	history={
+		owner = SPR
+		victory_points = {
+			11805 40 
+		}
+		buildings = {
+			infrastructure = 5
+			industrial_complex = 4
+			arms_factory = 1
+			dockyard = 1
+			air_base = 10
+			11805 = {
+				naval_base = 6
+			}
+
+		}
+		add_core_of = SPR
+	}
+
+	provinces={
+		799 844 924 970 3798 3861 6924 11768 11805 
+	}
+	manpower=1759312
+	buildings_max_level_factor=1.000
+	state_category=large_city
+
+	local_supplies=10.0
+}

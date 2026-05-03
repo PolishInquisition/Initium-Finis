@@ -1,0 +1,30 @@
+
+state={
+	id=11
+	name="STATE_11"
+
+	history={
+		owner = X07
+		victory_points = {
+			4425 10 
+		}
+		buildings = {
+			infrastructure = 1
+			industrial_complex = 1
+			arms_factory = 0
+			air_base = 5
+
+		}
+		add_core_of = X07
+		add_core_of = X61
+	}
+
+	provinces={
+		1082 1197 1934 3999 4087 4318 4425 4454 4541 4588 4996 7163 7190 7534 8063 10033 10486 10920 11966 12335 12464 
+	}
+	manpower=680348
+	buildings_max_level_factor=1.000
+	state_category=large_island
+
+	local_supplies=10.0
+}

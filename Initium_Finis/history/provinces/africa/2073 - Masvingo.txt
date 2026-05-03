@@ -1,7 +1,0 @@
-owner=ENG
-controller=ENG
-add_core=ZIM
-trade_goods = iron
-life_rating = 15
-terrain = mountain
-colonial=2

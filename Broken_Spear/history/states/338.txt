@@ -1,0 +1,33 @@
+
+state={
+	id=338
+	name="STATE_338"
+
+	history={
+		owner = X36
+		victory_points = {
+			4993 1 
+		}
+		buildings = {
+			infrastructure = 3
+			industrial_complex = 0
+			arms_factory = 0
+			air_base = 1
+			4993 = {
+				naval_base = 2
+			}
+
+		}
+		add_core_of = X36
+		add_claim_by = SAU
+	}
+
+	provinces={
+		4993 
+	}
+	manpower=125824
+	buildings_max_level_factor=1.000
+	state_category=rural
+
+	local_supplies=10.0
+}

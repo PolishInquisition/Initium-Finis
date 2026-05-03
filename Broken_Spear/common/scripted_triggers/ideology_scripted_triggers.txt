@@ -1,0 +1,135 @@
+
+is_enemy_ideology = {
+	OR = {
+		AND = {
+			has_government = absolutist
+			ROOT = {
+				OR = {
+					has_government = communism
+					has_government = democratic
+					has_government = fascism
+					has_government = radical
+				}
+			}
+		}
+		AND = {
+			has_government = communism
+			ROOT = {
+				OR = {
+					has_government = absolutist
+					has_government = democratic
+					has_government = fascism
+					has_government = radical
+				}
+			}
+		}
+		AND = {
+			has_government = democratic
+			ROOT = {
+				OR = {
+					has_government = absolutist
+					has_government = communism
+					has_government = fascism
+					has_government = radical
+				}
+			}
+		}
+		AND = {
+			has_government = fascism
+			ROOT = {
+				OR = {
+					has_government = absolutist
+					has_government = communism
+					has_government = democratic
+					has_government = radical
+				}
+			}
+		}
+		AND = {
+			has_government = radical
+			ROOT = {
+				OR = {
+					has_government = absolutist
+					has_government = communism
+					has_government = democratic
+					has_government = fascism
+				}
+			}
+		}
+	}
+}
+
+has_same_ideology = {
+	custom_trigger_tooltip = {
+		tooltip = has_same_ideology_tt
+		OR = {
+			AND = {
+				has_government = absolutist
+				ROOT = { has_government = absolutist }
+			}
+			AND = {
+				has_government = communism
+				ROOT = { has_government = communism }
+			}
+			AND = {
+				has_government = democratic
+				ROOT = { has_government = democratic }
+			}
+			AND = {
+				has_government = fascism
+				ROOT = { has_government = fascism }
+			}
+			AND = {
+				has_government = neutrality
+				ROOT = { has_government = neutrality }
+			}
+			AND = {
+				has_government = radical
+				ROOT = { has_government = radical }
+			}
+		}
+	}
+}
+
+
+big_communist_exists = {
+	any_other_country = {
+		is_major = yes 
+		has_government = communism
+		has_capitulated = no 
+		exists = yes 
+	}
+}
+
+
+big_fascist_exists = {
+	any_other_country = {
+		is_major = yes 
+		has_government = fascism
+		has_capitulated = no 
+		exists = yes 
+	}
+}
+
+
+is_fascist_seller_trigger = {
+	NOT = { has_war_with = ROOT	}
+	has_government = fascism 
+}
+
+
+is_democratic_seller_trigger = {
+	custom_trigger_tooltip = {
+		tooltip = "Democratic Countries"
+		FROM = {
+			has_government = democratic
+		}
+	}
+}
+
+
+is_democracy_seller_trigger = {
+	NOT = { has_war_with = ROOT	}
+	has_government = democratic 
+}
+

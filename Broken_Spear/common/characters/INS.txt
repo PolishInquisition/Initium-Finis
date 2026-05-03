@@ -1,0 +1,36 @@
+characters={
+	INS_safiuddin_emiruddin={
+		name=INS_safiuddin_emiruddin
+		portraits={
+			army={
+				large="GFX_Philippines_Alfredo_M_Santos"
+			}
+			army={
+				small="GFX_Philippines_Alfredo_M_Santos"
+			}
+		}
+		corps_commander={
+			skill=3
+			attack_skill=5
+			defense_skill=1
+			planning_skill=3
+			logistics_skill=1
+			legacy_id=0
+		}
+	}
+
+	INS_anom_nurus={
+		name=INS_anom_nurus
+		portraits={
+			civilian={
+				large="GFX_Indonesia_Hamengkubuwono_IX"
+			}
+		}
+		country_leader={
+			ideology=prussian_const
+			expire="1965.1.1.1"
+			id=-1
+		}
+	}
+
+}

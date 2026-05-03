@@ -1,0 +1,106 @@
+﻿converted_war_strategies_X77 = {
+	allowed = {
+		tag = X77
+	}
+	enable = {
+		always = no
+	}
+	abort_when_not_enabled = yes
+	
+	ai_strategy = {
+		type = conquer
+		id = "MEX"
+		value = 296
+	}
+	ai_strategy = {
+		type = conquer
+		id = "X69"
+		value = 162
+	}
+	ai_strategy = {
+		type = conquer
+		id = "X45"
+		value = 50
+	}
+}
+
+converted_diplo_strategies_X77 = {
+	allowed = {
+		tag = X77
+	}
+	enable = {
+		always = no
+	}
+	abort_when_not_enabled = yes
+	
+	ai_strategy = {
+		type = contain
+		id = "X69"
+		value = 400
+	}
+	ai_strategy = {
+		type = contain
+		id = "MEX"
+		value = 200
+	}
+	ai_strategy = {
+		type = contain
+		id = "X45"
+		value = 161
+	}
+	ai_strategy = {
+		type = antagonize
+		id = "X69"
+		value = 400
+	}
+	ai_strategy = {
+		type = antagonize
+		id = "MEX"
+		value = 119
+	}
+	ai_strategy = {
+		type = antagonize
+		id = "X45"
+		value = 30
+	}
+	ai_strategy = {
+		type = antagonize
+		id = "ENG"
+		value = 6
+	}
+	ai_strategy = {
+		type = alliance
+		id = "CSA"
+		value = 200
+	}
+	ai_strategy = {
+		type = alliance
+		id = "X46"
+		value = 182
+	}
+	ai_strategy = {
+		type = protect
+		id = "X69"
+		value = 240
+	}
+	ai_strategy = {
+		type = declare_war
+		id = "X69"
+		value = 84
+	}
+	ai_strategy = {
+		type = declare_war
+		id = "SIA"
+		value = 78
+	}
+	ai_strategy = {
+		type = declare_war
+		id = "X83"
+		value = 47
+	}
+	ai_strategy = {
+		type = declare_war
+		id = "X97"
+		value = 47
+	}
+}

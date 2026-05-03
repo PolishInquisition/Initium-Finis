@@ -1,7 +1,0 @@
-owner=YRK
-controller=PER
-add_core=KAZ
-add_core=YRK
-trade_goods = cotton
-life_rating = 32
-terrain = plains

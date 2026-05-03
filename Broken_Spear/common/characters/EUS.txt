@@ -1,0 +1,16 @@
+characters={
+	EUS_inaki_berasategui={
+		name=EUS_inaki_berasategui
+		portraits={
+			civilian={
+				large="GFX_Brazil_Plinio_Salgado"
+			}
+		}
+		country_leader={
+			ideology=conservatism
+			expire="1965.1.1.1"
+			id=-1
+		}
+	}
+
+}

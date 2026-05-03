@@ -1,0 +1,36 @@
+
+state={
+	id=524
+	name="STATE_524"
+	resources={
+		steel=1.000
+	}
+
+	history={
+		owner = X71
+		victory_points = {
+			3152 10 
+		}
+		buildings = {
+			infrastructure = 3
+			industrial_complex = 2
+			arms_factory = 0
+			air_base = 6
+			3152 = {
+				naval_base = 10
+			}
+
+		}
+		add_core_of = EST
+		add_core_of = X71
+	}
+
+	provinces={
+		83 185 308 496 567 592 3074 3152 3174 4640 6099 6178 6201 6381 6408 9079 9221 9485 11057 11127 11291 11426 11443 
+	}
+	manpower=1335404
+	buildings_max_level_factor=1.000
+	state_category=town
+
+	local_supplies=10.0
+}

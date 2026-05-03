@@ -1,0 +1,33 @@
+
+state={
+	id=179
+	name="STATE_179"
+
+	history={
+		owner = CUB
+		victory_points = {
+			10254 2 
+		}
+		buildings = {
+			infrastructure = 3
+			industrial_complex = 0
+			arms_factory = 1
+			dockyard = 1
+			air_base = 1
+			4647 = {
+				naval_base = 1
+			}
+
+		}
+		add_core_of = CUB
+	}
+
+	provinces={
+		4647 7245 10254 
+	}
+	manpower=832071
+	buildings_max_level_factor=1.000
+	state_category=city
+
+	local_supplies=10.0
+}

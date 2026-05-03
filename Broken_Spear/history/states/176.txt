@@ -1,0 +1,36 @@
+
+state={
+	id=176
+	name="STATE_176"
+	resources={
+		chromium=112.000
+		steel=2.000
+	}
+
+	history={
+		owner = CUB
+		victory_points = {
+			7622 1 
+		}
+		buildings = {
+			infrastructure = 1
+			industrial_complex = 1
+			arms_factory = 0
+			air_base = 0
+			7622 = {
+				naval_base = 10
+			}
+
+		}
+		add_core_of = CUB
+	}
+
+	provinces={
+		1550 4476 4600 7451 7546 7590 7622 10374 10498 12347 
+	}
+	manpower=4186156
+	buildings_max_level_factor=1.000
+	state_category=large_city
+
+	local_supplies=10.0
+}

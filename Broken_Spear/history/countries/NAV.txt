@@ -1,0 +1,121 @@
+﻿capital = 609
+set_research_slots = 3
+
+oob = "NAV_OOB"
+
+# Starting tech
+# Research Bonuses
+
+set_country_flag = conv_iberia
+set_convoys = 0
+
+set_politics = {
+    ruling_party = absolutist
+    last_election = "1836.1.1"
+    election_frequency = 48
+    elections_allowed = no
+}
+
+set_popularities = {
+	absolutist = 90
+	democratic = 7
+	neutrality = 3
+}
+
+add_opinion_modifier = { target = COL modifier = positive_10 }
+add_opinion_modifier = { target = DEN modifier = positive_15 }
+add_opinion_modifier = { target = GER modifier = positive_5 }
+add_opinion_modifier = { target = MEX modifier = positive_10 }
+add_opinion_modifier = { target = TRA modifier = positive_30 }
+add_opinion_modifier = { target = W00 modifier = positive_20 }
+add_opinion_modifier = { target = X27 modifier = negative_10 }
+add_opinion_modifier = { target = X36 modifier = negative_5 }
+add_opinion_modifier = { target = X39 modifier = negative_10 }
+add_opinion_modifier = { target = X41 modifier = negative_10 }
+add_opinion_modifier = { target = X65 modifier = positive_5 }
+add_opinion_modifier = { target = X91 modifier = positive_15 }
+add_opinion_modifier = { target = X92 modifier = positive_15 }
+add_opinion_modifier = { target = X93 modifier = positive_15 }
+add_opinion_modifier = { target = X94 modifier = positive_15 }
+add_opinion_modifier = { target = X95 modifier = positive_5 }
+add_opinion_modifier = { target = YUG modifier = positive_30 }
+
+
+add_ideas = {
+	limited_conscription
+	civilian_economy
+	export_focus
+	culture_basque
+}
+
+recruit_character = NAV_king_joan_iii
+
+if = {
+	limit = {
+		has_dlc = "La Resistance"
+	}
+	create_operative_leader = {
+		name = "Joan Olave"
+		GFX = "gfx/leaders/India/portrait_india_generic_operative_female_2.dds"
+		traits = {}
+		bypass_recruitment = no
+		available_to_spy_master = yes
+		female = yes
+		nationalities = { NAV }
+	}
+
+	create_operative_leader = {
+		name = "Eliza Aranzadi"
+		GFX = "gfx/leaders/India/portrait_india_generic_operative_female_5.dds"
+		traits = {}
+		bypass_recruitment = no
+		available_to_spy_master = yes
+		female = yes
+		nationalities = { NAV }
+	}
+
+	create_operative_leader = {
+		name = "Juana Echevarría"
+		GFX = "gfx/leaders/South America/portrait_south_america_generic_operative_female_1.dds"
+		traits = {}
+		bypass_recruitment = no
+		available_to_spy_master = yes
+		female = yes
+		nationalities = { NAV }
+	}
+
+	create_operative_leader = {
+		name = "Arturo Ibárruri"
+		GFX = "gfx/leaders/Arabia/portrait_arabia_generic_operative_male_4.dds"
+		traits = {}
+		bypass_recruitment = no
+		available_to_spy_master = yes
+		nationalities = { NAV }
+	}
+
+	create_operative_leader = {
+		name = "Ángel Rotaeche"
+		GFX = "gfx/leaders/India/portrait_india_generic_operative_male_2.dds"
+		traits = {}
+		bypass_recruitment = no
+		available_to_spy_master = yes
+		nationalities = { NAV }
+	}
+
+}
+### VARIANTS ###
+if = {
+	limit = { not = { has_dlc = "Man the Guns" } }
+}
+if = {
+	limit = { has_dlc = "Man the Guns" }
+}
+### PLANE DESIGNS ###
+if = {
+	limit = { has_dlc = "By Blood Alone" }
+}
+### TANK DESIGNS ###
+if = {
+	limit = { has_dlc = "No Step Back" }
+}
+

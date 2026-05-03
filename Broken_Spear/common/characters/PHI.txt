@@ -1,0 +1,16 @@
+characters={
+	PHI_jose_diwa={
+		name=PHI_jose_diwa
+		portraits={
+			civilian={
+				large="GFX_Philippines_Manuel_Luis_Quezon"
+			}
+		}
+		country_leader={
+			ideology=conservatism
+			expire="1965.1.1.1"
+			id=-1
+		}
+	}
+
+}

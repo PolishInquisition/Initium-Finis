@@ -1,0 +1,34 @@
+
+state={
+	id=400
+	name="STATE_400"
+	resources={
+		aluminium=8.000
+	}
+
+	history={
+		owner = X45
+		victory_points = {
+			12489 10 
+		}
+		buildings = {
+			infrastructure = 2
+			industrial_complex = 2
+			arms_factory = 0
+			air_base = 6
+
+		}
+		add_core_of = X03
+		add_core_of = X13
+		add_core_of = X45
+	}
+
+	provinces={
+		1503 1646 4444 4567 4597 4625 7485 7543 7586 10355 10477 12458 12489 12778 
+	}
+	manpower=413644
+	buildings_max_level_factor=1.000
+	state_category=large_island
+
+	local_supplies=10.0
+}

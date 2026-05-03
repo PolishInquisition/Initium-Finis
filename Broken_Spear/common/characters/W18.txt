@@ -1,0 +1,16 @@
+characters={
+	W18_aleixo_melendrez={
+		name=W18_aleixo_melendrez
+		portraits={
+			civilian={
+				large="GFX_Bolivia_Franz_Tamayo"
+			}
+		}
+		country_leader={
+			ideology=liberalism
+			expire="1965.1.1.1"
+			id=-1
+		}
+	}
+
+}

@@ -1,0 +1,21 @@
+﻿converted_war_strategies_BLR = {
+	allowed = {
+		tag = BLR
+	}
+	enable = {
+		always = no
+	}
+	abort_when_not_enabled = yes
+	
+}
+
+converted_diplo_strategies_BLR = {
+	allowed = {
+		tag = BLR
+	}
+	enable = {
+		always = no
+	}
+	abort_when_not_enabled = yes
+	
+}

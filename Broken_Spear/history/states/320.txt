@@ -1,0 +1,32 @@
+
+state={
+	id=320
+	name="STATE_320"
+
+	history={
+		owner = JAP
+		victory_points = {
+			11960 25 
+		}
+		buildings = {
+			infrastructure = 4
+			industrial_complex = 4
+			arms_factory = 1
+			air_base = 7
+			12031 = {
+				naval_base = 10
+			}
+
+		}
+		add_core_of = JAP
+	}
+
+	provinces={
+		1051 1067 1133 1136 4054 4142 7072 7113 9985 11960 12031 
+	}
+	manpower=11549776
+	buildings_max_level_factor=1.000
+	state_category=megalopolis
+
+	local_supplies=10.0
+}

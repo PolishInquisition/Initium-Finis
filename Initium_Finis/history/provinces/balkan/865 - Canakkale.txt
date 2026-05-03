@@ -1,8 +1,0 @@
-owner=PER
-controller=PER
-add_core=BUL
-add_core=LTN
-trade_goods = fish
-life_rating = 35
-terrain = hills
-fort = 1

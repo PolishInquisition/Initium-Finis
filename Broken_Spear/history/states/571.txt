@@ -1,0 +1,36 @@
+
+state={
+	id=571
+	name="STATE_571"
+	resources={
+		aluminium=7.000
+	}
+
+	history={
+		owner = SOV
+		victory_points = {
+			9296 10 
+		}
+		buildings = {
+			infrastructure = 4
+			industrial_complex = 2
+			arms_factory = 0
+			air_base = 6
+			9296 = {
+				naval_base = 10
+			}
+
+		}
+		add_core_of = NOR
+		add_claim_by = SOV
+	}
+
+	provinces={
+		14 53 65 100 122 137 199 3049 3059 3090 3094 3114 3129 3188 3192 6072 6080 6145 6151 6176 6184 6216 9036 9047 9096 9170 9174 9196 9204 9296 11029 11101 11176 11198 11367 
+	}
+	manpower=1117188
+	buildings_max_level_factor=1.000
+	state_category=large_town
+
+	local_supplies=10.0
+}

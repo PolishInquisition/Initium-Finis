@@ -1,0 +1,38 @@
+
+state={
+	id=358
+	name="STATE_358"
+	resources={
+		chromium=3.000
+		steel=3.000
+	}
+
+	history={
+		owner = X36
+		victory_points = {
+			11747 0 
+		}
+		buildings = {
+			infrastructure = 3
+			industrial_complex = 0
+			arms_factory = 0
+			air_base = 1
+			11746 = {
+				naval_base = 2
+			}
+
+		}
+		add_core_of = GRE
+		add_claim_by = PER
+		add_claim_by = X36
+	}
+
+	provinces={
+		804 806 886 919 921 933 961 3807 3862 3870 3889 3921 3964 6813 6888 6908 6925 6956 6977 6978 9806 9830 9861 9893 9900 9901 9915 11746 11747 11784 11826 11839 11844 11897 
+	}
+	manpower=2777724
+	buildings_max_level_factor=1.000
+	state_category=large_town
+
+	local_supplies=10.0
+}

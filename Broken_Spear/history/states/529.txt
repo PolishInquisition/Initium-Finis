@@ -1,0 +1,30 @@
+
+state={
+	id=529
+	name="STATE_529"
+
+	history={
+		owner = X29
+		victory_points = {
+			9548 1 
+		}
+		buildings = {
+			infrastructure = 3
+			industrial_complex = 0
+			arms_factory = 1
+			air_base = 1
+
+		}
+		add_core_of = X71
+		add_core_of = X29
+	}
+
+	provinces={
+		744 3728 6584 6706 6729 6761 9548 9701 11534 11652 11655 11672 11689 
+	}
+	manpower=2173692
+	buildings_max_level_factor=1.000
+	state_category=town
+
+	local_supplies=10.0
+}

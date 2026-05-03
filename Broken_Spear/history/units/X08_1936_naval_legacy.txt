@@ -1,0 +1,33 @@
+units = {
+	fleet = {
+		name = "3rd Fleet"
+		naval_base = 4273
+		task_force = {
+			name = "3rd Fleet"
+			location = 4273
+			ship = { name = "Pendet" definition = destroyer equipment = { destroyer_1 = { amount = 1 owner = X08 } } }
+			ship = { name = "Legong" definition = destroyer equipment = { destroyer_1 = { amount = 1 owner = X08 } } }
+		}
+	}
+}
+
+instant_effect = {
+	add_equipment_production = {
+		equipment = {
+			type = destroyer_1
+			creator = "X08"
+		}
+		requested_factories = 3
+		progress = 0.25
+		amount = 10
+	}
+	add_equipment_production = {
+		equipment = {
+			type = battleship_1
+			creator = "X08"
+		}
+		requested_factories = 8
+		progress = 0.25
+		amount = 3
+	}
+}

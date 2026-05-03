@@ -1,0 +1,33 @@
+
+state={
+	id=135
+	name="STATE_135"
+	resources={
+		tungsten=5.000
+	}
+
+	history={
+		owner = CHL
+		victory_points = {
+			10973 1 
+		}
+		buildings = {
+			infrastructure = 3
+			industrial_complex = 0
+			arms_factory = 0
+			air_base = 1
+
+		}
+		add_core_of = BRA
+		add_core_of = CHL
+	}
+
+	provinces={
+		2195 2209 5165 8203 10973 12922 12943 
+	}
+	manpower=848252
+	buildings_max_level_factor=1.000
+	state_category=pastoral
+
+	local_supplies=10.0
+}

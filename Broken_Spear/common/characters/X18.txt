@@ -1,0 +1,76 @@
+characters={
+	X18_oki_paniloo={
+		name=X18_oki_paniloo
+		portraits={
+			army={
+				large="GFX_Portrait_Japan_Generic_land_5"
+			}
+			army={
+				small="GFX_Portrait_Japan_Generic_land_5"
+			}
+		}
+		corps_commander={
+			skill=2
+			attack_skill=1
+			defense_skill=1
+			planning_skill=3
+			logistics_skill=1
+			legacy_id=0
+		}
+	}
+
+	X18_nirliq_keenainak={
+		name=X18_nirliq_keenainak
+		portraits={
+			army={
+				large="GFX_Portrait_Asia_Generic_land_2"
+			}
+			army={
+				small="GFX_Portrait_Asia_Generic_land_2"
+			}
+		}
+		corps_commander={
+			skill=1
+			attack_skill=1
+			defense_skill=1
+			planning_skill=1
+			logistics_skill=1
+			legacy_id=0
+		}
+	}
+
+	X18_sivoy_maksagak={
+		name=X18_sivoy_maksagak
+		portraits={
+			army={
+				large="GFX_Portrait_Asia_Generic_land_1"
+			}
+			army={
+				small="GFX_Portrait_Asia_Generic_land_1"
+			}
+		}
+		corps_commander={
+			skill=2
+			attack_skill=2
+			defense_skill=1
+			planning_skill=3
+			logistics_skill=1
+			legacy_id=0
+		}
+	}
+
+	X18_king_tanat_ii={
+		name=X18_king_tanat_ii
+		portraits={
+			civilian={
+				large="GFX_Ainu_Generic_Absolutist_2"
+			}
+		}
+		country_leader={
+			ideology=absolute_monarchy
+			expire="1965.1.1.1"
+			id=-1
+		}
+	}
+
+}

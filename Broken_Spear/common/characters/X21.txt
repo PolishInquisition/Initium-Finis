@@ -1,0 +1,76 @@
+characters={
+	X21_quispe_titu_quizo={
+		name=X21_quispe_titu_quizo
+		portraits={
+			army={
+				large="GFX_nat_south_absolutist"
+			}
+			army={
+				small="GFX_nat_south_absolutist"
+			}
+		}
+		corps_commander={
+			skill=3
+			attack_skill=4
+			defense_skill=3
+			planning_skill=1
+			logistics_skill=1
+			legacy_id=0
+		}
+	}
+
+	X21_tomas_katari_yupanqui={
+		name=X21_tomas_katari_yupanqui
+		portraits={
+			army={
+				large="GFX_nat_south_fascist"
+			}
+			army={
+				small="GFX_nat_south_fascist"
+			}
+		}
+		corps_commander={
+			skill=2
+			attack_skill=3
+			defense_skill=1
+			planning_skill=1
+			logistics_skill=1
+			legacy_id=0
+		}
+	}
+
+	X21_coyllas_inquill={
+		name=X21_coyllas_inquill
+		portraits={
+			army={
+				large="GFX_quechua_saturnino"
+			}
+			army={
+				small="GFX_quechua_saturnino"
+			}
+		}
+		corps_commander={
+			skill=1
+			attack_skill=1
+			defense_skill=1
+			planning_skill=1
+			logistics_skill=1
+			legacy_id=0
+		}
+	}
+
+	X21_mario_guaritopa={
+		name=X21_mario_guaritopa
+		portraits={
+			civilian={
+				large="GFX_nat_south_absolutist"
+			}
+		}
+		country_leader={
+			ideology=absolute_monarchy
+			expire="1965.1.1.1"
+			id=-1
+		}
+	}
+
+}

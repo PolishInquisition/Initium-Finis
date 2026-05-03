@@ -1,0 +1,33 @@
+
+state={
+	id=324
+	name="STATE_324"
+
+	history={
+		owner = INS
+		victory_points = {
+			12488 15 
+		}
+		buildings = {
+			infrastructure = 2
+			industrial_complex = 1
+			arms_factory = 0
+			air_base = 5
+			8360 = {
+				naval_base = 1
+			}
+
+		}
+		add_core_of = INS
+		add_core_of = X06
+	}
+
+	provinces={
+		8360 12488 
+	}
+	manpower=185032
+	buildings_max_level_factor=1.000
+	state_category=large_island
+
+	local_supplies=10.0
+}

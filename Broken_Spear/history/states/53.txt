@@ -1,0 +1,32 @@
+
+state={
+	id=53
+	name="STATE_53"
+
+	history={
+		owner = BRU
+		victory_points = {
+			7371 15 
+		}
+		buildings = {
+			infrastructure = 2
+			industrial_complex = 1
+			arms_factory = 0
+			air_base = 5
+			4396 = {
+				naval_base = 4
+			}
+
+		}
+		add_core_of = BRU
+	}
+
+	provinces={
+		1208 1306 1335 2117 4216 4282 4338 4396 7358 7371 7387 7443 8091 10143 10199 10212 10240 10269 10285 12171 12186 12228 12283 12905 13377 13378 
+	}
+	manpower=272608
+	buildings_max_level_factor=1.000
+	state_category=large_island
+
+	local_supplies=10.0
+}

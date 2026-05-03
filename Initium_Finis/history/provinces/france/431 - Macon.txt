@@ -1,8 +1,0 @@
-owner=ORL
-controller=ORL
-add_core=BRG
-add_core=FRA
-add_core=ORL
-trade_goods = coal
-life_rating = 30
-terrain = hills

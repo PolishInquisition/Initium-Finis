@@ -1,8 +1,0 @@
-owner=YUE
-controller=YUE
-add_core=HND
-add_core=YUE
-trade_goods = cattle
-life_rating = 25
-terrain = mountain
-fort = 1

@@ -1,0 +1,34 @@
+
+state={
+	id=620
+	name="STATE_620"
+
+	history={
+		owner = SPR
+		victory_points = {
+			11773 0 
+		}
+		buildings = {
+			infrastructure = 3
+			industrial_complex = 0
+			arms_factory = 0
+			air_base = 1
+			11773 = {
+				naval_base = 4
+			}
+
+		}
+		add_core_of = ITA
+		add_core_of = X62
+		add_claim_by = SPR
+	}
+
+	provinces={
+		902 11773 11874 
+	}
+	manpower=591192
+	buildings_max_level_factor=1.000
+	state_category=pastoral
+
+	local_supplies=10.0
+}

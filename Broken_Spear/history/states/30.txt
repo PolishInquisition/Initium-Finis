@@ -1,0 +1,39 @@
+
+state={
+	id=30
+	name="STATE_30"
+	resources={
+		steel=4.000
+		tungsten=3.000
+	}
+
+	history={
+		owner = BAN
+		victory_points = {
+			12338 4 
+		}
+		buildings = {
+			infrastructure = 4
+			industrial_complex = 3
+			arms_factory = 1
+			dockyard = 2
+			air_base = 2
+			11929 = {
+				naval_base = 1
+			}
+
+		}
+		add_core_of = BAN
+		add_core_of = NEP
+		add_core_of = RAJ
+	}
+
+	provinces={
+		1609 4204 4616 4644 7565 7662 9993 10077 10389 10416 10443 11929 12338 12423 13208 
+	}
+	manpower=11871444
+	buildings_max_level_factor=1.000
+	state_category=megalopolis
+
+	local_supplies=10.0
+}

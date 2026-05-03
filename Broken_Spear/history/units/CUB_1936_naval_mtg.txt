@@ -1,0 +1,33 @@
+units = {
+	fleet = {
+		name = "1st Fleet"
+		naval_base = 7660
+		task_force = {
+			name = "1st Fleet"
+			location = 7660
+			ship = { name = "Habana" definition = destroyer start_experience_factor = 0.25 equipment = { ship_hull_light_1 = { amount = 1 owner = CUB version_name = "Early Destroyer" } } }
+			ship = { name = "6th Santo Domingo Commerce Raider" definition = destroyer start_experience_factor = 0.24506 equipment = { ship_hull_light_1 = { amount = 1 owner = CUB version_name = "Early Destroyer" } } }
+			ship = { name = "7th Santo Domingo Commerce Raider" definition = destroyer start_experience_factor = 0.24506 equipment = { ship_hull_light_1 = { amount = 1 owner = CUB version_name = "Early Destroyer" } } }
+			ship = { name = "Araña" definition = destroyer start_experience_factor = 0.25 equipment = { ship_hull_light_1 = { amount = 1 owner = CUB version_name = "Early Destroyer" } } }
+			ship = { name = "Diez de Octubre" definition = destroyer start_experience_factor = 0.25 equipment = { ship_hull_light_1 = { amount = 1 owner = CUB version_name = "Early Destroyer" } } }
+			ship = { name = "Guaimaro" definition = destroyer start_experience_factor = 0.25 equipment = { ship_hull_light_1 = { amount = 1 owner = CUB version_name = "Early Destroyer" } } }
+			ship = { name = "2nd Santo Domingo Commerce Raider" definition = destroyer start_experience_factor = 0.14269 equipment = { ship_hull_light_1 = { amount = 1 owner = CUB version_name = "Early Destroyer" } } }
+			ship = { name = "3rd Santo Domingo Commerce Raider" definition = destroyer start_experience_factor = 0.19604 equipment = { ship_hull_light_1 = { amount = 1 owner = CUB version_name = "Early Destroyer" } } }
+			ship = { name = "4th Santo Domingo Commerce Raider" definition = destroyer start_experience_factor = 0.19604 equipment = { ship_hull_light_1 = { amount = 1 owner = CUB version_name = "Early Destroyer" } } }
+			ship = { name = "5th Santo Domingo Commerce Raider" definition = destroyer start_experience_factor = 0.24506 equipment = { ship_hull_light_1 = { amount = 1 owner = CUB version_name = "Early Destroyer" } } }
+		}
+	}
+}
+
+instant_effect = {
+	add_equipment_production = {
+		equipment = {
+			type = ship_hull_light_1
+			creator = "CUB"
+			version_name = "Early Destroyer"
+		}
+		requested_factories = 3
+		progress = 0.25
+		amount = 10
+	}
+}

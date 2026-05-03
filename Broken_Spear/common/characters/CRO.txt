@@ -1,0 +1,16 @@
+characters={
+	CRO_king_svetoslav_iii={
+		name=CRO_king_svetoslav_iii
+		portraits={
+			civilian={
+				large="GFX_Bulgaria_Boris_III"
+			}
+		}
+		country_leader={
+			ideology=absolute_monarchy
+			expire="1965.1.1.1"
+			id=-1
+		}
+	}
+
+}

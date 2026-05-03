@@ -1,0 +1,35 @@
+
+state={
+	id=41
+	name="STATE_41"
+	resources={
+		steel=8.000
+	}
+
+	history={
+		owner = W07
+		victory_points = {
+			4543 0 
+		}
+		buildings = {
+			infrastructure = 2
+			industrial_complex = 0
+			arms_factory = 0
+			air_base = 0
+			4543 = {
+				naval_base = 10
+			}
+
+		}
+		add_core_of = W07
+	}
+
+	provinces={
+		1565 1713 1746 1786 1801 1814 4543 4615 4718 4748 4804 7692 7742 7783 7826 7887 10334 10373 10609 10710 12362 12604 12617 12664 
+	}
+	manpower=198368
+	buildings_max_level_factor=1.000
+	state_category=rural
+
+	local_supplies=10.0
+}

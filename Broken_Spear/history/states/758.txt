@@ -1,0 +1,29 @@
+
+state={
+	id=758
+	name="STATE_758"
+
+	history={
+		owner = W24
+		victory_points = {
+			12687 0 
+		}
+		buildings = {
+			infrastructure = 1
+			industrial_complex = 0
+			arms_factory = 0
+			air_base = 0
+
+		}
+		add_core_of = W24
+	}
+
+	provinces={
+		4812 12687 13065 
+	}
+	manpower=3000
+	buildings_max_level_factor=1.000
+	state_category=wasteland
+
+	local_supplies=10.0
+}

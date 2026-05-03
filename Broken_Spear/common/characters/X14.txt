@@ -1,0 +1,16 @@
+characters={
+	X14_king_itzcoatl_ii={
+		name=X14_king_itzcoatl_ii
+		portraits={
+			civilian={
+				large="GFX_native_north_american_absolutist"
+			}
+		}
+		country_leader={
+			ideology=absolute_monarchy
+			expire="1965.1.1.1"
+			id=-1
+		}
+	}
+
+}

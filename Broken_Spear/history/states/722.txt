@@ -1,0 +1,32 @@
+
+state={
+	id=722
+	name="STATE_722"
+
+	history={
+		owner = W02
+		victory_points = {
+			12068 1 
+		}
+		buildings = {
+			infrastructure = 1
+			industrial_complex = 0
+			arms_factory = 0
+			air_base = 0
+			7186 = {
+				naval_base = 4
+			}
+
+		}
+		add_core_of = W02
+	}
+
+	provinces={
+		1091 1175 4096 7186 7214 9955 11914 11959 12027 12068 
+	}
+	manpower=3604324
+	buildings_max_level_factor=1.000
+	state_category=city
+
+	local_supplies=10.0
+}

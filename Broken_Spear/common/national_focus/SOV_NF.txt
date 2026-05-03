@@ -1,0 +1,300 @@
+focus_tree = {
+	id = SOV_focus
+	
+	country = {
+		factor = 0
+		
+		modifier = {
+			add = 10
+			tag = SOV
+		}
+	}
+	
+	default = no
+	
+	shared_focus = army_effort
+	shared_focus = aviation_effort
+	shared_focus = naval_effort
+	shared_focus = industrial_effort
+	shared_focus = political_effort
+
+	focus = {
+		id = WarPropSOV
+		icon = GFX_goal_generic_propaganda
+		text = WarProp
+		x = 29
+		y = 0
+		cost = 10
+		available = {
+		threat > 0.000100
+	}
+		completion_reward = {
+		add_stability = 0.05
+	}
+		ai_will_do = {
+		factor = 10
+	}
+	}
+
+	focus = {
+		id = PrepInterSOV
+		icon = GFX_goal_generic_occupy_states_ongoing_war
+		text = PrepInter
+		prerequisite = { focus = WarPropSOV }
+		x = 0
+		y = 1
+		relative_position_id = WarPropSOV
+		cost = 10
+		available = {
+		threat > 0.000150
+	}
+		completion_reward = {
+		add_political_power = 120
+		set_rule = { can_send_volunteers = yes }
+	}
+		ai_will_do = {
+		factor = 10
+	}
+	}
+
+	focus = {
+		id = LimSOV
+		icon = GFX_goal_generic_more_territorial_claims
+		text = Lim
+		prerequisite = { focus = PrepInterSOV }
+		x = 0
+		y = 1
+		relative_position_id = PrepInterSOV
+		cost = 10
+		available = {
+		threat > 0.000250
+	}
+		completion_reward = {
+		add_ideas = limited_interventionism
+	}
+		ai_will_do = {
+		factor = 10
+	}
+	}
+
+	focus = {
+		id = WarPlanSOVCOL
+		icon = GFX_goal_generic_position_armies
+		text = WarPlanCOL
+		prerequisite = { focus = LimSOV }
+		bypass = {
+		has_war_with = COL
+	}
+		x = -1
+		y = 1
+		relative_position_id = LimSOV
+		cost = 10
+		available = {
+		any_other_country = {
+			original_tag = COL
+			exists = yes
+			NOT = { has_government = democratic }
+			NOT = { is_in_faction_with = ROOT }
+			OR = {
+				has_offensive_war = yes
+				has_added_tension_amount > 30
+			}
+		}
+	}
+		completion_reward = {
+		army_experience = 20
+		add_doctrine_cost_reduction = {
+			name = land_doc_bonus
+			cost_reduction = 0.3
+			uses = 1
+			category = land_doctrine
+		}
+	}
+		ai_will_do = {
+		factor = 10
+	}
+	}
+
+	focus = {
+		id = EmbargoSOVCOL
+		icon = GFX_goal_generic_trade
+		text = EmbargoCOL
+		prerequisite = { focus =  WarPlanSOVCOL }
+		bypass = {
+		has_war_with = COL
+	}
+		x = 0
+		y = 1
+		relative_position_id = WarPlanSOVCOL
+		cost = 10
+		available = {
+		any_other_country = {
+			original_tag = COL
+			exists = yes
+			NOT = { has_government = democratic }
+			NOT = { is_in_faction_with = ROOT }
+			OR = {
+				has_offensive_war = yes
+				has_added_tension_amount > 30
+				threat > 0.6
+			}
+		}
+	}
+		completion_reward = {
+		COL = {
+			add_opinion_modifier = { target = ROOT modifier = embargo }
+		}
+	}
+		ai_will_do = {
+		factor = 10
+	}
+	}
+
+	focus = {
+		id = WARSOVCOL
+		icon = GFX_goal_support_democracy
+		text = WARCOL
+		prerequisite = { focus =  EmbargoSOVCOL }
+		bypass = {
+		has_war_with = COL
+	}
+		x = 0
+		y = 1
+		relative_position_id = EmbargoSOVCOL
+		cost = 10
+		available = {
+		has_war = no
+		any_other_country = {
+			original_tag = COL
+			exists = yes
+			NOT = { has_government = democratic }
+			NOT = { is_in_faction_with = ROOT }
+			OR = {
+				has_offensive_war = yes
+				has_added_tension_amount > 30
+				threat > 0.6
+			}
+		}
+	}
+		completion_reward = {
+		declare_war_on = {
+			type = puppet_wargoal_focus
+			target = COL
+		}
+	}
+		ai_will_do = {
+		factor = 10
+	}
+	}
+
+	focus = {
+		id = WarPlanSOVBAN
+		icon = GFX_goal_generic_position_armies
+		text = WarPlanBAN
+		prerequisite = { focus = LimSOV }
+		bypass = {
+		has_war_with = BAN
+	}
+		x = 1
+		y = 1
+		relative_position_id = LimSOV
+		cost = 10
+		available = {
+		any_other_country = {
+			original_tag = BAN
+			exists = yes
+			NOT = { has_government = democratic }
+			NOT = { is_in_faction_with = ROOT }
+			OR = {
+				has_offensive_war = yes
+				has_added_tension_amount > 30
+			}
+		}
+	}
+		completion_reward = {
+		army_experience = 20
+		add_doctrine_cost_reduction = {
+			name = land_doc_bonus
+			cost_reduction = 0.3
+			uses = 1
+			category = land_doctrine
+		}
+	}
+		ai_will_do = {
+		factor = 10
+	}
+	}
+
+	focus = {
+		id = EmbargoSOVBAN
+		icon = GFX_goal_generic_trade
+		text = EmbargoBAN
+		prerequisite = { focus =  WarPlanSOVBAN }
+		bypass = {
+		has_war_with = BAN
+	}
+		x = 0
+		y = 1
+		relative_position_id = WarPlanSOVBAN
+		cost = 10
+		available = {
+		any_other_country = {
+			original_tag = BAN
+			exists = yes
+			NOT = { has_government = democratic }
+			NOT = { is_in_faction_with = ROOT }
+			OR = {
+				has_offensive_war = yes
+				has_added_tension_amount > 30
+				threat > 0.6
+			}
+		}
+	}
+		completion_reward = {
+		BAN = {
+			add_opinion_modifier = { target = ROOT modifier = embargo }
+		}
+	}
+		ai_will_do = {
+		factor = 10
+	}
+	}
+
+	focus = {
+		id = WARSOVBAN
+		icon = GFX_goal_support_democracy
+		text = WARBAN
+		prerequisite = { focus =  EmbargoSOVBAN }
+		bypass = {
+		has_war_with = BAN
+	}
+		x = 0
+		y = 1
+		relative_position_id = EmbargoSOVBAN
+		cost = 10
+		available = {
+		has_war = no
+		any_other_country = {
+			original_tag = BAN
+			exists = yes
+			NOT = { has_government = democratic }
+			NOT = { is_in_faction_with = ROOT }
+			OR = {
+				has_offensive_war = yes
+				has_added_tension_amount > 30
+				threat > 0.6
+			}
+		}
+	}
+		completion_reward = {
+		declare_war_on = {
+			type = puppet_wargoal_focus
+			target = BAN
+		}
+	}
+		ai_will_do = {
+		factor = 10
+	}
+	}
+
+}

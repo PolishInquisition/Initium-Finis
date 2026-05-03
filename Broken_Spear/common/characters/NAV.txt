@@ -1,0 +1,16 @@
+characters={
+	NAV_king_joan_iii={
+		name=NAV_king_joan_iii
+		portraits={
+			civilian={
+				large="GFX_SPM_Infante_Jaime"
+			}
+		}
+		country_leader={
+			ideology=absolute_monarchy
+			expire="1965.1.1.1"
+			id=-1
+		}
+	}
+
+}

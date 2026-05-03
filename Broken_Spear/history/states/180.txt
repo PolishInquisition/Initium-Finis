@@ -1,0 +1,32 @@
+
+state={
+	id=180
+	name="STATE_180"
+
+	history={
+		owner = CUB
+		victory_points = {
+			4450 2 
+		}
+		buildings = {
+			infrastructure = 3
+			industrial_complex = 2
+			arms_factory = 0
+			air_base = 1
+			13084 = {
+				naval_base = 10
+			}
+
+		}
+		add_core_of = CUB
+	}
+
+	provinces={
+		1440 4155 4450 9377 13084 
+	}
+	manpower=6445964
+	buildings_max_level_factor=1.000
+	state_category=megalopolis
+
+	local_supplies=10.0
+}

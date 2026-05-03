@@ -1,0 +1,16 @@
+characters={
+	W07_alivardi_muhammad={
+		name=W07_alivardi_muhammad
+		portraits={
+			civilian={
+				large="GFX_Madras_Periyar_Ramasavy"
+			}
+		}
+		country_leader={
+			ideology=dictatorship_neutral
+			expire="1965.1.1.1"
+			id=-1
+		}
+	}
+
+}

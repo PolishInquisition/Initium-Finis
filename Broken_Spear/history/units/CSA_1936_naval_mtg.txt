@@ -1,0 +1,50 @@
+units = {
+	fleet = {
+		name = "2nd Fleet"
+		naval_base = 4168
+		task_force = {
+			name = "2nd Fleet"
+			location = 4168
+			ship = { name = "CSS Nashville" definition = destroyer equipment = { ship_hull_light_1 = { amount = 1 owner = CSA version_name = "Early Destroyer" } } }
+			ship = { name = "CSS Georgia" definition = destroyer equipment = { ship_hull_light_1 = { amount = 1 owner = CSA version_name = "Early Destroyer" } } }
+			ship = { name = "CSS Shenandoah" definition = destroyer equipment = { ship_hull_light_1 = { amount = 1 owner = CSA version_name = "Early Destroyer" } } }
+			ship = { name = "CSS Tacony" definition = destroyer equipment = { ship_hull_light_1 = { amount = 1 owner = CSA version_name = "Early Destroyer" } } }
+			ship = { name = "CSS Chickamauga" definition = destroyer equipment = { ship_hull_light_1 = { amount = 1 owner = CSA version_name = "Early Destroyer" } } }
+			ship = { name = "CSS Florida" definition = destroyer equipment = { ship_hull_light_1 = { amount = 1 owner = CSA version_name = "Early Destroyer" } } }
+			ship = { name = "CSS Alexandra" definition = destroyer equipment = { ship_hull_light_1 = { amount = 1 owner = CSA version_name = "Early Destroyer" } } }
+			ship = { name = "CSS Shenandoah 2" definition = destroyer equipment = { ship_hull_light_1 = { amount = 1 owner = CSA version_name = "Early Destroyer" } } }
+			ship = { name = "CSS Alabama" definition = destroyer equipment = { ship_hull_light_1 = { amount = 1 owner = CSA version_name = "Early Destroyer" } } }
+			ship = { name = "2nd Fredericksburg Commerce Raider" definition = destroyer equipment = { ship_hull_light_1 = { amount = 1 owner = CSA version_name = "Early Destroyer" } } }
+			ship = { name = "4th Fredericksburg Commerce Raider" definition = destroyer equipment = { ship_hull_light_1 = { amount = 1 owner = CSA version_name = "Early Destroyer" } } }
+			ship = { name = "5th Fredericksburg Commerce Raider" definition = destroyer equipment = { ship_hull_light_1 = { amount = 1 owner = CSA version_name = "Early Destroyer" } } }
+			ship = { name = "6th Fredericksburg Commerce Raider" definition = destroyer equipment = { ship_hull_light_1 = { amount = 1 owner = CSA version_name = "Early Destroyer" } } }
+			ship = { name = "CSS Tallahassee" definition = destroyer equipment = { ship_hull_light_1 = { amount = 1 owner = CSA version_name = "Early Destroyer" } } }
+			ship = { name = "CSS Georgia 2" definition = destroyer equipment = { ship_hull_light_1 = { amount = 1 owner = CSA version_name = "Early Destroyer" } } }
+			ship = { name = "CSS Nashville 2" definition = destroyer equipment = { ship_hull_light_1 = { amount = 1 owner = CSA version_name = "Early Destroyer" } } }
+			ship = { name = "CSS Rappahanock" definition = destroyer equipment = { ship_hull_light_1 = { amount = 1 owner = CSA version_name = "Early Destroyer" } } }
+			ship = { name = "CSS Sumter" definition = destroyer equipment = { ship_hull_light_1 = { amount = 1 owner = CSA version_name = "Early Destroyer" } } }
+			ship = { name = "1st Tallahassee Commerce Raider" definition = destroyer equipment = { ship_hull_light_1 = { amount = 1 owner = CSA version_name = "Early Destroyer" } } }
+			ship = { name = "1st Fredericksburg Commerce Raider" definition = destroyer equipment = { ship_hull_light_1 = { amount = 1 owner = CSA version_name = "Early Destroyer" } } }
+			ship = { name = "1st Mobile Commerce Raider" definition = destroyer equipment = { ship_hull_light_1 = { amount = 1 owner = CSA version_name = "Early Destroyer" } } }
+			ship = { name = "1st Charleston Commerce Raider" definition = destroyer equipment = { ship_hull_light_1 = { amount = 1 owner = CSA version_name = "Early Destroyer" } } }
+			ship = { name = "3rd Fredericksburg Commerce Raider" definition = destroyer equipment = { ship_hull_light_1 = { amount = 1 owner = CSA version_name = "Early Destroyer" } } }
+			ship = { name = "2nd Mobile Commerce Raider" definition = destroyer equipment = { ship_hull_light_1 = { amount = 1 owner = CSA version_name = "Early Destroyer" } } }
+			ship = { name = "7th Fredericksburg Commerce Raider" definition = destroyer equipment = { ship_hull_light_1 = { amount = 1 owner = CSA version_name = "Early Destroyer" } } }
+			ship = { name = "8th Fredericksburg Commerce Raider" definition = destroyer equipment = { ship_hull_light_1 = { amount = 1 owner = CSA version_name = "Early Destroyer" } } }
+			ship = { name = "9th Fredericksburg Commerce Raider" definition = destroyer equipment = { ship_hull_light_1 = { amount = 1 owner = CSA version_name = "Early Destroyer" } } }
+		}
+	}
+}
+
+instant_effect = {
+	add_equipment_production = {
+		equipment = {
+			type = ship_hull_light_1
+			creator = "CSA"
+			version_name = "Early Destroyer"
+		}
+		requested_factories = 3
+		progress = 0.25
+		amount = 10
+	}
+}

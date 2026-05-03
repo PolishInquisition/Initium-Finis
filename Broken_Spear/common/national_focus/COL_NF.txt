@@ -1,0 +1,810 @@
+focus_tree = {
+	id = COL_focus
+	
+	country = {
+		factor = 0
+		
+		modifier = {
+			add = 10
+			tag = COL
+		}
+	}
+	
+	default = no
+	
+	shared_focus = army_effort
+	shared_focus = aviation_effort
+	shared_focus = naval_effort
+	shared_focus = industrial_effort
+	shared_focus = political_effort
+
+	focus = {
+		id = EmpireGloryCOL
+		icon = GFX_goal_anschluss
+		text = EmpireGlory
+		x = 33
+		y = 0
+		cost = 10
+		completion_reward = {
+		add_stability = 0.05
+	}
+		ai_will_do = {
+		factor = 10
+		modifier = {
+			factor = 0
+			date < 1937.6.6
+		}
+	}
+	}
+
+	focus = {
+		id = StrengthenColoniesCOL
+		icon = GFX_goal_generic_position_armies
+		text = StrengthenColonies
+		prerequisite = { focus = EmpireGloryCOL }
+		mutually_exclusive = { focus = StrengthenHomeCOL }
+		x = -1
+		y = 1
+		relative_position_id = EmpireGloryCOL
+		cost = 10
+		completion_reward = {
+		navy_experience = 25
+	}
+		ai_will_do = { factor = 0 }
+	}
+
+	focus = {
+		id = StrengthenHomeCOL
+		icon = GFX_goal_generic_national_unity
+		text = StrengthenHome
+		prerequisite = { focus = EmpireGloryCOL }
+		mutually_exclusive = { focus = StrengthenColoniesCOL }
+		x = 1
+		y = 1
+		relative_position_id = EmpireGloryCOL
+		cost = 10
+		completion_reward = {
+		army_experience = 25
+	}
+		ai_will_do = {
+		factor = 10
+		modifier = {
+		}
+	}
+	}
+
+	focus = {
+		id = ColonialIndCOL
+		icon = GFX_goal_generic_construct_civ_factory
+		text = ColonialInd
+		prerequisite = { focus = StrengthenColoniesCOL }
+		x = -2
+		y = 1
+		relative_position_id = StrengthenColoniesCOL
+		cost = 10
+		completion_reward = {
+		random_owned_state = {
+			limit = {
+				free_building_slots = {
+					building = arms_factory
+					size > 0
+					include_locked = yes
+				}
+				OR = {
+					is_in_home_area = no
+					NOT = {
+						owner = {
+							any_owned_state = {
+								free_building_slots = {
+									building = industrial_complex
+									size > 0
+									include_locked = yes
+								}
+								is_in_home_area = no
+							}
+						}
+					}
+				}
+			}
+			add_extra_state_shared_building_slots = 1
+			add_building_construction = {
+				type = arms_factory
+				level = 1
+				instant_build = yes
+			}
+		}
+		random_owned_state = {
+			limit = {
+				free_building_slots = {
+					building = arms_factory
+					size > 0
+					include_locked = yes
+				}
+				OR = {
+					is_in_home_area = no
+					NOT = {
+						owner = {
+							any_owned_state = {
+								free_building_slots = {
+									building = industrial_complex
+									size > 0
+									include_locked = yes
+								}
+								is_in_home_area = no
+							}
+						}
+					}
+				}
+			}
+			add_extra_state_shared_building_slots = 1
+			add_building_construction = {
+				type = arms_factory
+				level = 1
+				instant_build = yes
+			}
+		}
+		random_owned_state = {
+			limit = {
+				free_building_slots = {
+					building = arms_factory
+					size > 0
+					include_locked = yes
+				}
+				OR = {
+					is_in_home_area = no
+					NOT = {
+						owner = {
+							any_owned_state = {
+								free_building_slots = {
+									building = industrial_complex
+									size > 0
+									include_locked = yes
+								}
+								is_in_home_area = no
+							}
+						}
+					}
+				}
+			}
+			add_extra_state_shared_building_slots = 1
+			add_building_construction = {
+				type = arms_factory
+				level = 1
+				instant_build = yes
+			}
+		}
+	}
+		ai_will_do = {
+		factor = 10
+		modifier = {
+		}
+	}
+	}
+
+	focus = {
+		id = ColonialHwyCOL
+		icon = GFX_goal_generic_construct_infrastructure
+		text = ColonialHwy
+		prerequisite = { focus = ColonialIndCOL }
+		mutually_exclusive = { focus = ResourceFacCOL }
+		x = -2
+		y = 1
+		relative_position_id = ColonialIndCOL
+		cost = 10
+		completion_reward = {
+		random_owned_state = {
+			limit = {
+				free_building_slots = {
+					building = infrastructure
+					size > 0
+				}
+				OR = {
+					is_in_home_area = no
+					NOT = {
+						owner = {
+							any_owned_state = {
+								free_building_slots = {
+									building = infrastructure
+									size > 0
+								}
+								is_in_home_area = no
+							}
+						}
+					}
+				}
+			}
+			add_extra_state_shared_building_slots = 1
+			add_building_construction = {
+				type = infrastructure
+				level = 1
+				instant_build = yes
+			}
+		}
+		random_owned_state = {
+			limit = {
+				free_building_slots = {
+					building = infrastructure
+					size > 0
+				}
+				OR = {
+					is_in_home_area = no
+					NOT = {
+						owner = {
+							any_owned_state = {
+								free_building_slots = {
+									building = infrastructure
+									size > 0
+								}
+								is_in_home_area = no
+							}
+						}
+					}
+				}
+			}
+			add_extra_state_shared_building_slots = 1
+			add_building_construction = {
+				type = infrastructure
+				level = 1
+				instant_build = yes
+			}
+		}
+		random_owned_state = {
+			limit = {
+				free_building_slots = {
+					building = infrastructure
+					size > 0
+				}
+				OR = {
+					is_in_home_area = no
+					NOT = {
+						owner = {
+							any_owned_state = {
+								free_building_slots = {
+									building = infrastructure
+									size > 0
+								}
+								is_in_home_area = no
+							}
+						}
+					}
+				}
+			}
+			add_extra_state_shared_building_slots = 1
+			add_building_construction = {
+				type = infrastructure
+				level = 1
+				instant_build = yes
+			}
+		}
+	}
+		ai_will_do = {
+		factor = 10
+		modifier = {
+		}
+	}
+	}
+
+	focus = {
+		id = ResourceFacCOL
+		icon = GFX_goal_generic_oil_refinery
+		text = ResourceFac
+		prerequisite = { focus = ColonialIndCOL }
+		mutually_exclusive = { focus = ColonialHwyCOL }
+		x = 0
+		y = 1
+		relative_position_id = ColonialIndCOL
+		cost = 10
+		completion_reward = {
+		add_ideas = improved_resource_industry
+	}
+		ai_will_do = {
+		factor = 10
+		modifier = {
+		}
+	}
+	}
+
+	focus = {
+		id = ColonialArmyCOL
+		icon = GFX_goal_generic_allies_build_infantry
+		text = ColonialArmy
+		prerequisite = { focus = StrengthenColoniesCOL }
+		x = 0
+		y = 1
+		relative_position_id = StrengthenColoniesCOL
+		cost = 10
+		completion_reward = {
+		add_ideas = militarism_focus_absolutist
+	}
+		ai_will_do = {
+		factor = 10
+		modifier = {
+		}
+	}
+	}
+
+	focus = {
+		id = TradeEmpireCOL
+		icon = GFX_goal_anschluss
+		text = TradeEmpire
+		prerequisite = { focus = ColonialHwyCOL focus = ResourceFacCOL }
+		x = -1
+		y = 2
+		relative_position_id = ColonialIndCOL
+		cost = 10
+		completion_reward = {
+		add_ideas = established_traders
+		set_country_flag = established_traders
+		random_owned_state = {
+			limit = {
+				free_building_slots = {
+					building = infrastructure
+					size > 0
+				}
+					is_coastal = yes
+				OR = {
+					is_in_home_area = no
+					NOT = {
+						owner = {
+							any_owned_state = {
+								free_building_slots = {
+									building = infrastructure
+									size > 0
+								}
+								is_in_home_area = no
+							}
+						}
+					}
+				}
+			}
+			add_extra_state_shared_building_slots = 2
+			add_building_construction = {
+				type = dockyard
+				level = 2
+				instant_build = yes
+			}
+		}
+	}
+		ai_will_do = {
+		factor = 10
+		modifier = {
+		}
+	}
+	}
+
+	focus = {
+		id = IndHomeCOL
+		icon = GFX_goal_generic_production
+		text = IndHome
+		prerequisite = { focus = StrengthenHomeCOL }
+		x = 1
+		y = 1
+		relative_position_id = StrengthenHomeCOL
+		cost = 10
+		completion_reward = {
+		add_tech_bonus = {
+			name = industrial_bonus
+			bonus = 0.5
+			uses = 1
+			category = industry
+		}
+	}
+		ai_will_do = {
+		factor = 10
+	}
+	}
+
+	focus = {
+		id = NationalHwyCOL
+		icon = GFX_goal_generic_construct_infrastructure
+		text = NationalHwy
+		prerequisite = { focus = IndHomeCOL }
+		x = -1
+		y = 1
+		relative_position_id = IndHomeCOL
+		cost = 10
+		completion_reward = {
+		random_owned_state = {
+			limit = {
+				free_building_slots = {
+					building = infrastructure
+					size > 0
+				}
+				OR = {
+					is_in_home_area = yes
+					NOT = {
+						owner = {
+							any_owned_state = {
+								free_building_slots = {
+									building = infrastructure
+									size > 0
+								}
+								is_in_home_area = yes
+							}
+						}
+					}
+				}
+			}
+			add_extra_state_shared_building_slots = 1
+			add_building_construction = {
+				type = infrastructure
+				level = 1
+				instant_build = yes
+			}
+		}
+		random_owned_state = {
+			limit = {
+				free_building_slots = {
+					building = infrastructure
+					size > 0
+				}
+				OR = {
+					is_in_home_area = yes
+					NOT = {
+						owner = {
+							any_owned_state = {
+								free_building_slots = {
+									building = infrastructure
+									size > 0
+								}
+								is_in_home_area = yes
+							}
+						}
+					}
+				}
+			}
+			add_extra_state_shared_building_slots = 1
+			add_building_construction = {
+				type = infrastructure
+				level = 1
+				instant_build = yes
+			}
+		}
+		random_owned_state = {
+			limit = {
+				free_building_slots = {
+					building = infrastructure
+					size > 0
+				}
+				OR = {
+					is_in_home_area = yes
+					NOT = {
+						owner = {
+							any_owned_state = {
+								free_building_slots = {
+									building = infrastructure
+									size > 0
+								}
+								is_in_home_area = yes
+							}
+						}
+					}
+				}
+			}
+			add_extra_state_shared_building_slots = 1
+			add_building_construction = {
+				type = infrastructure
+				level = 1
+				instant_build = yes
+			}
+		}
+	}
+		ai_will_do = {
+		factor = 10
+		modifier = {
+		}
+	}
+	}
+
+	focus = {
+		id = NatCollegeCOL
+		icon = GFX_goal_anschluss
+		text = NatCollege
+		prerequisite = { focus = IndHomeCOL }
+		x = 1
+		y = 1
+		relative_position_id = IndHomeCOL
+		cost = 10
+		completion_reward = {
+		add_ideas = national_college
+	}
+		ai_will_do = {
+		factor = 10
+	}
+	}
+
+	focus = {
+		id = MilitaryBuildupCOL
+		icon = GFX_goal_generic_construct_mil_factory
+		text = MilitaryBuildup
+		prerequisite = { focus = NatCollegeCOL }
+		prerequisite = { focus = NationalHwyCOL }
+		x = 2
+		y = 2
+		relative_position_id = IndHomeCOL
+		cost = 10
+		completion_reward = {
+		random_owned_state = {
+			limit = {
+				free_building_slots = {
+					building = arms_factory
+					size > 0
+					include_locked = yes
+				}
+				OR = {
+					is_in_home_area = yes
+					NOT = {
+						owner = {
+							any_owned_state = {
+								free_building_slots = {
+									building = arms_factory
+									size > 0
+									include_locked = yes
+								}
+								is_in_home_area = yes
+							}
+						}
+					}
+				}
+			}
+			add_extra_state_shared_building_slots = 1
+			add_building_construction = {
+				type = arms_factory
+				level = 1
+				instant_build = yes
+			}
+		}
+		random_owned_state = {
+			limit = {
+				free_building_slots = {
+					building = arms_factory
+					size > 0
+					include_locked = yes
+				}
+				OR = {
+					is_in_home_area = yes
+					NOT = {
+						owner = {
+							any_owned_state = {
+								free_building_slots = {
+									building = arms_factory
+									size > 0
+									include_locked = yes
+								}
+								is_in_home_area = yes
+							}
+						}
+					}
+				}
+			}
+			add_extra_state_shared_building_slots = 1
+			add_building_construction = {
+				type = arms_factory
+				level = 1
+				instant_build = yes
+			}
+		}
+		random_owned_state = {
+			limit = {
+				free_building_slots = {
+					building = arms_factory
+					size > 0
+					include_locked = yes
+				}
+				OR = {
+					is_in_home_area = yes
+					NOT = {
+						owner = {
+							any_owned_state = {
+								free_building_slots = {
+									building = arms_factory
+									size > 0
+									include_locked = yes
+								}
+								is_in_home_area = yes
+							}
+						}
+					}
+				}
+			}
+			add_extra_state_shared_building_slots = 1
+			add_building_construction = {
+				type = arms_factory
+				level = 1
+				instant_build = yes
+			}
+		}
+	}
+		ai_will_do = {
+		factor = 10
+		modifier = {
+		}
+	}
+	}
+
+	focus = {
+		id = PrepTheBorderCOL
+		icon = GFX_goal_generic_defence
+		text = PrepTheBorder
+		prerequisite = { focus = StrengthenHomeCOL }
+		x = 4
+		y = 1
+		relative_position_id = StrengthenHomeCOL
+		cost = 10
+		completion_reward = {
+		add_ideas = border_buildup
+	}
+		ai_will_do = {
+		factor = 10
+		modifier = {
+		}
+	}
+	}
+
+	focus = {
+		id = NatSpiritCOL
+		icon = GFX_goal_generic_political_pressure
+		text = NatSpirit
+		prerequisite = { focus = PrepTheBorderCOL }
+		x = 0
+		y = 1
+		relative_position_id = PrepTheBorderCOL
+		cost = 10
+		completion_reward = {
+		add_ideas = paramilitarism_focus
+	}
+		ai_will_do = {
+		factor = 10
+		modifier = {
+		}
+	}
+	}
+
+	focus = {
+		id = AnnexCOLCUB
+		icon = GFX_goal_generic_major_war
+		text = AnnexCUB
+		prerequisite = { focus = PrepTheBorderCOL }
+		bypass = {
+		OR = {
+			ROOT = {
+				is_in_faction_with = CUB
+				has_war_with = CUB
+			}
+			NOT = { country_exists = CUB }
+		}
+	}
+		x = 2
+		y = 1
+		relative_position_id = PrepTheBorderCOL
+		cost = 10
+		available = {
+		date > 1938.9.6
+		CUB = { is_in_faction = no }
+	}
+		completion_reward = {
+		create_wargoal = {
+			type = annex_everything
+			target = CUB
+		}
+	}
+		ai_will_do = {
+		factor = 5
+		modifier = {
+			factor = 0
+			strength_ratio = { tag = CUB ratio < 1 }
+		}
+	}
+	}
+
+	focus = {
+		id = AnnexCOLX21
+		icon = GFX_goal_generic_major_war
+		text = AnnexX21
+		prerequisite = { focus = NatSpiritCOL }
+		bypass = {
+		OR = {
+			ROOT = {
+				is_in_faction_with = X21
+				has_war_with = X21
+			}
+			NOT = { country_exists = X21 }
+		}
+	}
+		x = 1
+		y = 1
+		relative_position_id = NatSpiritCOL
+		cost = 10
+		available = {
+		X21 = { is_in_faction = no }
+	}
+		completion_reward = {
+		create_wargoal = {
+			type = annex_everything
+			target = X21
+		}
+	}
+		ai_will_do = {
+		factor = 5
+		modifier = {
+			factor = 0
+			strength_ratio = { tag = X21 ratio < 1 }
+		}
+	}
+	}
+
+	focus = {
+		id = War_withSPRCOL
+		icon = GFX_goal_generic_major_war
+		text = War_withSPR
+		bypass = {
+ 		has_war_with = SPR
+ 	}
+		x = 31
+		y = 5
+		cost = 10
+		available = {
+			has_war = no
+			date > 1939.1.1
+		}
+		completion_reward = {
+			add_named_threat = { threat = 5 name = "War with Spain" }
+			declare_war_on = {
+				type = annex_everything
+				target = SPR
+			}
+		}
+		ai_will_do = {
+			factor = 10
+			modifier = {
+				factor = 0
+				strength_ratio = { tag = SPR ratio < 0.8 }
+			}
+			modifier = {
+				factor = 0
+				OR = {
+					has_war_with = X65
+					has_war_with = BAN
+				}
+			}
+		}
+	}
+
+	focus = {
+		id = War_withX65COL
+		icon = GFX_goal_generic_major_war
+		text = War_withX65
+		bypass = {
+ 		has_war_with = X65
+ 	}
+		x = 33
+		y = 5
+		cost = 10
+		available = {
+			has_war = no
+			date > 1939.1.1
+		}
+		completion_reward = {
+			add_named_threat = { threat = 5 name = "War with Orleans" }
+			declare_war_on = {
+				type = annex_everything
+				target = X65
+			}
+		}
+		ai_will_do = {
+			factor = 5
+			modifier = {
+				factor = 0
+				strength_ratio = { tag = X65 ratio < 0.8 }
+			}
+			modifier = {
+				factor = 0
+				OR = {
+					has_war_with = SPR
+					has_war_with = BAN
+				}
+			}
+		}
+	}
+
+}

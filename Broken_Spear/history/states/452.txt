@@ -1,0 +1,33 @@
+
+state={
+	id=452
+	name="STATE_452"
+
+	history={
+		owner = X65
+		victory_points = {
+			3552 7 
+		}
+		buildings = {
+			infrastructure = 4
+			industrial_complex = 6
+			arms_factory = 3
+			dockyard = 3
+			air_base = 4
+			3552 = {
+				naval_base = 6
+			}
+
+		}
+		add_core_of = X65
+	}
+
+	provinces={
+		527 542 3552 3758 6536 6548 6572 9495 9510 9525 11465 11508 11616 
+	}
+	manpower=4303504
+	buildings_max_level_factor=1.000
+	state_category=megalopolis
+
+	local_supplies=10.0
+}

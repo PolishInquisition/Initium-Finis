@@ -1,7 +1,0 @@
-owner=YRK
-controller=RAJ
-add_core=NOG
-add_core=YRK
-trade_goods = coal
-life_rating = 25
-terrain = hills

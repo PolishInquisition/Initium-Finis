@@ -1,9 +1,0 @@
-owner=LXA
-controller=LXA
-add_core=CHA
-add_core=IDO
-add_core=LXA
-trade_goods = silk
-life_rating = 30
-terrain = plains
-naval_base = 2

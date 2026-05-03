@@ -1,0 +1,32 @@
+
+state={
+	id=130
+	name="STATE_130"
+	resources={
+		aluminium=6.000
+	}
+
+	history={
+		owner = CHL
+		victory_points = {
+			13309 2 
+		}
+		buildings = {
+			infrastructure = 2
+			industrial_complex = 2
+			arms_factory = 0
+			air_base = 0
+
+		}
+		add_core_of = CHL
+	}
+
+	provinces={
+		2136 2158 2179 8195 8253 10964 11022 12928 12978 13309 
+	}
+	manpower=1290576
+	buildings_max_level_factor=1.000
+	state_category=town
+
+	local_supplies=10.0
+}

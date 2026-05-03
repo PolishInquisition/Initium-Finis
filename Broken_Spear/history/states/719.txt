@@ -1,0 +1,29 @@
+
+state={
+	id=719
+	name="STATE_719"
+
+	history={
+		owner = YEM
+		victory_points = {
+			5041 15 
+		}
+		buildings = {
+			infrastructure = 3
+			industrial_complex = 1
+			arms_factory = 0
+			air_base = 6
+
+		}
+		add_core_of = YEM
+	}
+
+	provinces={
+		1984 2040 2072 4954 5041 5097 7944 13236 13237 13238 13240 13241 13242 
+	}
+	manpower=1356556
+	buildings_max_level_factor=1.000
+	state_category=rural
+
+	local_supplies=10.0
+}

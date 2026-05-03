@@ -1,0 +1,16 @@
+characters={
+	CAT_eduard_borras={
+		name=CAT_eduard_borras
+		portraits={
+			civilian={
+				large="GFX_Ecuador_Alberto_Gallo"
+			}
+		}
+		country_leader={
+			ideology=absolute_monarchy
+			expire="1965.1.1.1"
+			id=-1
+		}
+	}
+
+}

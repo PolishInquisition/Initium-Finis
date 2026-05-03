@@ -1,0 +1,42 @@
+units = {
+	fleet = {
+		name = "3rd Fleet"
+		naval_base = 3783
+		task_force = {
+			name = "3rd Fleet"
+			location = 5439
+			ship = { name = "Gyeon Hwon" definition = destroyer start_experience_factor = 0.15 equipment = { ship_hull_light_1 = { amount = 1 owner = KOR version_name = "Early Destroyer" } } }
+			ship = { name = "Geumgang" definition = destroyer start_experience_factor = 0.15 equipment = { ship_hull_light_1 = { amount = 1 owner = KOR version_name = "Early Destroyer" } } }
+			ship = { name = "Dongmyeongseong" definition = destroyer start_experience_factor = 0.15 equipment = { ship_hull_light_1 = { amount = 1 owner = KOR version_name = "Early Destroyer" } } }
+			ship = { name = "Daedeok" definition = destroyer start_experience_factor = 0.15 equipment = { ship_hull_light_1 = { amount = 1 owner = KOR version_name = "Early Destroyer" } } }
+			ship = { name = "Baekje" definition = destroyer start_experience_factor = 0.1 equipment = { ship_hull_light_1 = { amount = 1 owner = KOR version_name = "Early Destroyer" } } }
+			ship = { name = "Changbai" definition = destroyer start_experience_factor = 0.1 equipment = { ship_hull_light_1 = { amount = 1 owner = KOR version_name = "Early Destroyer" } } }
+		}
+	}
+	fleet = {
+		name = "4th Fleet"
+		naval_base = 11992
+		task_force = {
+			name = "4th Fleet"
+			location = 11992
+			ship = { name = "Jirisan" definition = destroyer start_experience_factor = 0.15 equipment = { ship_hull_light_1 = { amount = 1 owner = KOR version_name = "Early Destroyer" } } }
+			ship = { name = "Duman" definition = destroyer start_experience_factor = 0.15 equipment = { ship_hull_light_1 = { amount = 1 owner = KOR version_name = "Early Destroyer" } } }
+			ship = { name = "Geumho" definition = destroyer start_experience_factor = 0.15 equipment = { ship_hull_light_1 = { amount = 1 owner = KOR version_name = "Early Destroyer" } } }
+			ship = { name = "Baekdu" definition = destroyer start_experience_factor = 0.1 equipment = { ship_hull_light_1 = { amount = 1 owner = KOR version_name = "Early Destroyer" } } }
+			ship = { name = "Gayasan" definition = destroyer start_experience_factor = 0.15 equipment = { ship_hull_light_1 = { amount = 1 owner = KOR version_name = "Early Destroyer" } } }
+		}
+	}
+}
+
+instant_effect = {
+	add_equipment_production = {
+		equipment = {
+			type = ship_hull_light_1
+			creator = "KOR"
+			version_name = "Early Destroyer"
+		}
+		requested_factories = 3
+		progress = 0.25
+		amount = 10
+	}
+}

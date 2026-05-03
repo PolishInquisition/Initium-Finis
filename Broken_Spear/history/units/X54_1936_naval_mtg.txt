@@ -1,0 +1,26 @@
+units = {
+	fleet = {
+		name = "1st Fleet"
+		naval_base = 1386
+		task_force = {
+			name = "1st Fleet"
+			location = 1386
+			ship = { name = "5th Cirebon Commerce Raider" definition = destroyer start_experience_factor = 0.1 equipment = { ship_hull_light_1 = { amount = 1 owner = X54 version_name = "Early Destroyer" } } }
+			ship = { name = "6th Cirebon Commerce Raider" definition = destroyer start_experience_factor = 0.1 equipment = { ship_hull_light_1 = { amount = 1 owner = X54 version_name = "Early Destroyer" } } }
+			ship = { name = "4th Cirebon Commerce Raider" definition = destroyer start_experience_factor = 0.1 equipment = { ship_hull_light_1 = { amount = 1 owner = X54 version_name = "Early Destroyer" } } }
+		}
+	}
+}
+
+instant_effect = {
+	add_equipment_production = {
+		equipment = {
+			type = ship_hull_light_1
+			creator = "X54"
+			version_name = "Early Destroyer"
+		}
+		requested_factories = 3
+		progress = 0.25
+		amount = 10
+	}
+}

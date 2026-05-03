@@ -1,0 +1,32 @@
+
+state={
+	id=645
+	name="STATE_645"
+
+	history={
+		owner = SPR
+		victory_points = {
+			10995 1 
+		}
+		buildings = {
+			infrastructure = 4
+			industrial_complex = 0
+			arms_factory = 1
+			air_base = 1
+			10995 = {
+				naval_base = 1
+			}
+
+		}
+		add_core_of = SPR
+	}
+
+	provinces={
+		10995 
+	}
+	manpower=82468
+	buildings_max_level_factor=1.000
+	state_category=large_island
+
+	local_supplies=10.0
+}

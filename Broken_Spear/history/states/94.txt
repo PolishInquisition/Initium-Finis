@@ -1,0 +1,39 @@
+
+state={
+	id=94
+	name="STATE_94"
+	resources={
+		aluminium=8.000
+		chromium=6.000
+		steel=5.000
+		tungsten=3.000
+	}
+
+	history={
+		owner = BUL
+		victory_points = {
+			3973 0 
+		}
+		buildings = {
+			infrastructure = 4
+			industrial_complex = 0
+			arms_factory = 0
+			air_base = 1
+			9805 = {
+				naval_base = 10
+			}
+
+		}
+		add_core_of = YUG
+		add_claim_by = BUL
+	}
+
+	provinces={
+		863 3914 3973 6930 9805 9916 11786 
+	}
+	manpower=1137064
+	buildings_max_level_factor=1.000
+	state_category=rural
+
+	local_supplies=10.0
+}

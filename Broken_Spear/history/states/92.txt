@@ -1,0 +1,45 @@
+
+state={
+	id=92
+	name="STATE_92"
+	resources={
+		chromium=37.000
+		steel=9.000
+	}
+
+	history={
+		owner = BUL
+		victory_points = {
+			9833 2 
+		}
+		buildings = {
+			infrastructure = 4
+			industrial_complex = 1
+			arms_factory = 1
+			dockyard = 1
+			air_base = 1
+			922 = {
+				naval_base = 10
+			}
+			9833 = {
+				landmark_hagia_sophia = {
+					level = 1
+					allowed = {
+						has_dlc = "Gotterdammerung"
+					}
+				}
+			}
+
+		}
+		add_core_of = BUL
+	}
+
+	provinces={
+		849 922 3879 3893 6895 9833 11829 11842 
+	}
+	manpower=1804628
+	buildings_max_level_factor=1.000
+	state_category=large_town
+
+	local_supplies=10.0
+}

@@ -1,0 +1,33 @@
+
+state={
+	id=420
+	name="STATE_420"
+	resources={
+		oil=2.000
+		steel=1.000
+	}
+
+	history={
+		owner = MEX
+		victory_points = {
+			10830 2 
+		}
+		buildings = {
+			infrastructure = 1
+			industrial_complex = 2
+			arms_factory = 1
+			air_base = 0
+
+		}
+		add_core_of = MEX
+	}
+
+	provinces={
+		2037 2060 2104 4898 5071 7935 8097 10746 10800 10809 10830 10916 12745 12811 12827 12850 12897 13214 
+	}
+	manpower=1251060
+	buildings_max_level_factor=1.000
+	state_category=large_town
+
+	local_supplies=10.0
+}

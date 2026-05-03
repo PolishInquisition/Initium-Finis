@@ -1,0 +1,33 @@
+
+state={
+	id=523
+	name="STATE_523"
+
+	history={
+		owner = X69
+		victory_points = {
+			8012 15 
+		}
+		buildings = {
+			infrastructure = 2
+			industrial_complex = 1
+			arms_factory = 0
+			air_base = 5
+			2069 = {
+				naval_base = 1
+			}
+
+		}
+		add_core_of = X69
+		add_core_of = X77
+	}
+
+	provinces={
+		2069 8012 12833 
+	}
+	manpower=119456
+	buildings_max_level_factor=1.000
+	state_category=large_island
+
+	local_supplies=10.0
+}

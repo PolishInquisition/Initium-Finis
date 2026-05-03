@@ -1,0 +1,32 @@
+
+state={
+	id=696
+	name="STATE_696"
+	resources={
+		aluminium=15.000
+	}
+
+	history={
+		owner = X94
+		victory_points = {
+			663 5 
+		}
+		buildings = {
+			infrastructure = 3
+			industrial_complex = 5
+			arms_factory = 3
+			air_base = 3
+
+		}
+		add_core_of = X94
+	}
+
+	provinces={
+		636 661 663 11601 11604 11623 
+	}
+	manpower=2264612
+	buildings_max_level_factor=1.000
+	state_category=metropolis
+
+	local_supplies=10.0
+}

@@ -1,7 +1,0 @@
-owner=PGS
-controller=KOR
-add_core=PGS
-trade_goods = grain
-life_rating = 30
-terrain = hills
-fort = 1

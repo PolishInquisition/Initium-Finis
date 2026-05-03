@@ -1,0 +1,29 @@
+
+state={
+	id=665
+	name="STATE_665"
+
+	history={
+		owner = W15
+		victory_points = {
+			9137 0 
+		}
+		buildings = {
+			infrastructure = 2
+			industrial_complex = 0
+			arms_factory = 0
+			air_base = 0
+
+		}
+		add_core_of = W15
+	}
+
+	provinces={
+		7963 7978 9137 11194 
+	}
+	manpower=991252
+	buildings_max_level_factor=1.000
+	state_category=rural
+
+	local_supplies=10.0
+}

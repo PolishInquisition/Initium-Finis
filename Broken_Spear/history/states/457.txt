@@ -1,0 +1,32 @@
+
+state={
+	id=457
+	name="STATE_457"
+	resources={
+		coal=1.000
+	}
+
+	history={
+		owner = X65
+		victory_points = {
+			620 4 
+		}
+		buildings = {
+			infrastructure = 3
+			industrial_complex = 5
+			arms_factory = 2
+			air_base = 2
+
+		}
+		add_core_of = X65
+	}
+
+	provinces={
+		620 651 3621 3626 3771 6618 6648 6651 9734 9751 
+	}
+	manpower=2298012
+	buildings_max_level_factor=1.000
+	state_category=large_city
+
+	local_supplies=10.0
+}

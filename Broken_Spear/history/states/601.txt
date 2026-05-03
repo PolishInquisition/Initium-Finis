@@ -1,0 +1,33 @@
+
+state={
+	id=601
+	name="STATE_601"
+
+	history={
+		owner = X76
+		victory_points = {
+			7598 15 
+		}
+		buildings = {
+			infrastructure = 2
+			industrial_complex = 1
+			arms_factory = 0
+			air_base = 5
+			4308 = {
+				naval_base = 1
+			}
+
+		}
+		add_core_of = X56
+		add_core_of = X76
+	}
+
+	provinces={
+		1561 4308 4564 7336 7598 10450 12444 
+	}
+	manpower=87020
+	buildings_max_level_factor=1.000
+	state_category=large_island
+
+	local_supplies=10.0
+}

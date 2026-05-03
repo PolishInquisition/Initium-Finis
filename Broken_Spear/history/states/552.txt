@@ -1,0 +1,34 @@
+
+state={
+	id=552
+	name="STATE_552"
+	resources={
+		aluminium=26.000
+		coal=31.000
+		steel=78.000
+	}
+
+	history={
+		owner = X71
+		victory_points = {
+			9570 2 
+		}
+		buildings = {
+			infrastructure = 3
+			industrial_complex = 1
+			arms_factory = 1
+			air_base = 1
+
+		}
+		add_core_of = X71
+	}
+
+	provinces={
+		479 506 552 3283 3438 3485 3510 3545 6462 6464 6512 6534 6595 9457 9470 9511 9570 11467 11517 13205 
+	}
+	manpower=4412720
+	buildings_max_level_factor=1.000
+	state_category=large_city
+
+	local_supplies=10.0
+}

@@ -1,0 +1,32 @@
+
+state={
+	id=47
+	name="STATE_47"
+
+	history={
+		owner = BAN
+		victory_points = {
+			13047 1 
+		}
+		buildings = {
+			infrastructure = 4
+			industrial_complex = 0
+			arms_factory = 0
+			air_base = 1
+			13047 = {
+				naval_base = 1
+			}
+
+		}
+		add_core_of = BAN
+	}
+
+	provinces={
+		13047 
+	}
+	manpower=79736
+	buildings_max_level_factor=1.000
+	state_category=rural
+
+	local_supplies=10.0
+}

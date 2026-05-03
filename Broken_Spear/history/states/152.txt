@@ -1,0 +1,34 @@
+
+state={
+	id=152
+	name="STATE_152"
+
+	history={
+		owner = COL
+		victory_points = {
+			1981 10 
+		}
+		buildings = {
+			infrastructure = 2
+			industrial_complex = 1
+			arms_factory = 1
+			dockyard = 1
+			air_base = 5
+			10912 = {
+				naval_base = 10
+			}
+
+		}
+		add_core_of = COL
+		add_core_of = X12
+	}
+
+	provinces={
+		1981 5317 7915 8050 10736 10767 10823 10849 10879 10912 13362 
+	}
+	manpower=959064
+	buildings_max_level_factor=1.000
+	state_category=large_town
+
+	local_supplies=10.0
+}

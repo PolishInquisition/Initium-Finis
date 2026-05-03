@@ -1,0 +1,32 @@
+
+state={
+	id=532
+	name="STATE_532"
+	resources={
+		aluminium=7.000
+	}
+
+	history={
+		owner = X71
+		victory_points = {
+			537 1 
+		}
+		buildings = {
+			infrastructure = 1
+			industrial_complex = 0
+			arms_factory = 0
+			air_base = 0
+
+		}
+		add_core_of = X71
+	}
+
+	provinces={
+		444 537 3473 3572 6236 9387 11478 
+	}
+	manpower=587072
+	buildings_max_level_factor=1.000
+	state_category=pastoral
+
+	local_supplies=10.0
+}

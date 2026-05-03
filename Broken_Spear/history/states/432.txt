@@ -1,0 +1,35 @@
+
+state={
+	id=432
+	name="STATE_432"
+
+	history={
+		owner = X54
+		victory_points = {
+			4608 15 
+		}
+		buildings = {
+			infrastructure = 4
+			industrial_complex = 1
+			arms_factory = 0
+			dockyard = 1
+			air_base = 6
+			1386 = {
+				naval_base = 4
+			}
+
+		}
+		add_core_of = INS
+		add_core_of = X08
+		add_core_of = X54
+	}
+
+	provinces={
+		1209 1386 1413 4306 4390 4608 7223 7642 7654 10135 10479 10491 12277 12293 12472 
+	}
+	manpower=3991720
+	buildings_max_level_factor=1.000
+	state_category=large_city
+
+	local_supplies=10.0
+}

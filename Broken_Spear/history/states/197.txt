@@ -1,0 +1,35 @@
+
+state={
+	id=197
+	name="STATE_197"
+	resources={
+		coal=5.000
+		oil=4.000
+		steel=10.000
+	}
+
+	history={
+		owner = ENG
+		victory_points = {
+			10709 1 
+		}
+		buildings = {
+			infrastructure = 2
+			industrial_complex = 0
+			arms_factory = 0
+			air_base = 0
+
+		}
+		add_core_of = ENG
+		add_claim_by = X45
+	}
+
+	provinces={
+		1870 3719 4759 10709 12685 
+	}
+	manpower=261756
+	buildings_max_level_factor=1.000
+	state_category=rural
+
+	local_supplies=10.0
+}

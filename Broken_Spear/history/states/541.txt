@@ -1,0 +1,31 @@
+
+state={
+	id=541
+	name="STATE_541"
+
+	history={
+		owner = X71
+		victory_points = {
+			6354 0 
+		}
+		buildings = {
+			infrastructure = 2
+			industrial_complex = 0
+			arms_factory = 0
+			air_base = 0
+
+		}
+		add_core_of = BLR
+		add_core_of = SOV
+		add_claim_by = X71
+	}
+
+	provinces={
+		289 323 342 358 406 3219 3331 3378 6220 6233 6249 6292 6326 6344 6354 6371 9241 9247 9288 9289 9323 9341 9342 9371 9396 11220 11230 11241 11271 11322 11355 11383 
+	}
+	manpower=3061900
+	buildings_max_level_factor=1.000
+	state_category=city
+
+	local_supplies=10.0
+}

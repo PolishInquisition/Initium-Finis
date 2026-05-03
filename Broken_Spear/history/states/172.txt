@@ -1,0 +1,33 @@
+
+state={
+	id=172
+	name="STATE_172"
+
+	history={
+		owner = CSA
+		victory_points = {
+			6732 1 
+		}
+		buildings = {
+			infrastructure = 2
+			industrial_complex = 0
+			arms_factory = 1
+			air_base = 0
+			9832 = {
+				naval_base = 4
+			}
+
+		}
+		add_core_of = CSA
+		add_core_of = USA
+	}
+
+	provinces={
+		715 718 905 908 3710 3906 6732 6909 9832 9847 9850 11830 
+	}
+	manpower=7453384
+	buildings_max_level_factor=1.000
+	state_category=megalopolis
+
+	local_supplies=10.0
+}

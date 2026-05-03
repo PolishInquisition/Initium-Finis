@@ -1,0 +1,21 @@
+﻿converted_war_strategies_W24 = {
+	allowed = {
+		tag = W24
+	}
+	enable = {
+		always = no
+	}
+	abort_when_not_enabled = yes
+	
+}
+
+converted_diplo_strategies_W24 = {
+	allowed = {
+		tag = W24
+	}
+	enable = {
+		always = no
+	}
+	abort_when_not_enabled = yes
+	
+}

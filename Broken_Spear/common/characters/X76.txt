@@ -1,0 +1,56 @@
+characters={
+	X76_ignacio_mainaky={
+		name=X76_ignacio_mainaky
+		portraits={
+			army={
+				large="GFX_Indonesia_Suharto"
+			}
+			army={
+				small="GFX_Indonesia_Suharto"
+			}
+		}
+		corps_commander={
+			skill=2
+			attack_skill=2
+			defense_skill=3
+			planning_skill=1
+			logistics_skill=1
+			legacy_id=0
+		}
+	}
+
+	X76_mohammad_mainaky={
+		name=X76_mohammad_mainaky
+		portraits={
+			army={
+				large="GFX_Asia_Generic_land_new_2"
+			}
+			army={
+				small="GFX_Asia_Generic_land_new_2"
+			}
+		}
+		corps_commander={
+			skill=1
+			attack_skill=1
+			defense_skill=1
+			planning_skill=1
+			logistics_skill=1
+			legacy_id=0
+		}
+	}
+
+	X76_ellyas_hafiedz={
+		name=X76_ellyas_hafiedz
+		portraits={
+			civilian={
+				large="GFX_Indonesia_Hamengkubuwono_IX"
+			}
+		}
+		country_leader={
+			ideology=prussian_const
+			expire="1965.1.1.1"
+			id=-1
+		}
+	}
+
+}

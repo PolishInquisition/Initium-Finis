@@ -1,0 +1,35 @@
+
+state={
+	id=492
+	name="STATE_492"
+
+	history={
+		owner = PER
+		victory_points = {
+			975 0 
+		}
+		buildings = {
+			infrastructure = 1
+			industrial_complex = 0
+			arms_factory = 0
+			air_base = 0
+			975 = {
+				naval_base = 2
+			}
+			9932 = {
+				naval_base = 2
+			}
+
+		}
+		add_core_of = ARM
+	}
+
+	provinces={
+		652 960 975 3714 3903 3935 3950 3965 3979 6919 6950 6976 6991 9777 9868 9886 9932 9954 11797 11853 11894 
+	}
+	manpower=775192
+	buildings_max_level_factor=1.000
+	state_category=pastoral
+
+	local_supplies=10.0
+}

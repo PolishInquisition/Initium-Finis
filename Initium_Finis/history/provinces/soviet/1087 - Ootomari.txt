@@ -1,7 +1,0 @@
-owner=QIC
-controller=QIC
-add_core=AIN
-add_core=QIC
-trade_goods = coal
-life_rating = 35
-terrain = hills

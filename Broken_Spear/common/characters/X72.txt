@@ -1,0 +1,76 @@
+characters={
+	X72_hendrik_kotli={
+		name=X72_hendrik_kotli
+		portraits={
+			army={
+				large="GFX_Portrait_Europe_Generic_land_4"
+			}
+			army={
+				small="GFX_Portrait_Europe_Generic_land_4"
+			}
+		}
+		corps_commander={
+			skill=2
+			attack_skill=2
+			defense_skill=2
+			planning_skill=1
+			logistics_skill=1
+			legacy_id=0
+		}
+	}
+
+	X72_tarmo_adams={
+		name=X72_tarmo_adams
+		portraits={
+			army={
+				large="GFX_POL_wincenty_kowalski"
+			}
+			army={
+				small="GFX_POL_wincenty_kowalski"
+			}
+		}
+		corps_commander={
+			skill=1
+			attack_skill=1
+			defense_skill=1
+			planning_skill=1
+			logistics_skill=1
+			legacy_id=0
+		}
+	}
+
+	X72_jaan_von_uexkull={
+		name=X72_jaan_von_uexkull
+		portraits={
+			navy={
+				large="GFX_Europe_Generic_navy_new_5"
+			}
+			navy={
+				small="GFX_Europe_Generic_navy_new_5"
+			}
+		}
+		navy_leader={
+			skill=2
+			attack_skill=1
+			defense_skill=1
+			maneuvering_skill=3
+			coordination_skill=1
+			legacy_id=0
+		}
+	}
+
+	X72_villwm_warma={
+		name=X72_villwm_warma
+		portraits={
+			civilian={
+				large="GFX_lat_fricis_menders"
+			}
+		}
+		country_leader={
+			ideology=conservatism
+			expire="1965.1.1.1"
+			id=-1
+		}
+	}
+
+}

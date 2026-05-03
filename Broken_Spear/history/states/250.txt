@@ -1,0 +1,30 @@
+
+state={
+	id=250
+	name="STATE_250"
+
+	history={
+		owner = W21
+		victory_points = {
+			12802 15 
+		}
+		buildings = {
+			infrastructure = 2
+			industrial_complex = 1
+			arms_factory = 0
+			air_base = 5
+
+		}
+		add_core_of = W21
+		add_core_of = X97
+	}
+
+	provinces={
+		12802 
+	}
+	manpower=378236
+	buildings_max_level_factor=1.000
+	state_category=large_island
+
+	local_supplies=10.0
+}

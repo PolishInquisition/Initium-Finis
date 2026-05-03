@@ -1,0 +1,56 @@
+characters={
+	ALG_mustafa_al_rifi={
+		name=ALG_mustafa_al_rifi
+		portraits={
+			army={
+				large="GFX_JOR_Jafar_Askari"
+			}
+			army={
+				small="GFX_JOR_Jafar_Askari"
+			}
+		}
+		corps_commander={
+			skill=3
+			attack_skill=1
+			defense_skill=4
+			planning_skill=3
+			logistics_skill=1
+			legacy_id=0
+		}
+	}
+
+	ALG_muhammad_al_rifi={
+		name=ALG_muhammad_al_rifi
+		portraits={
+			army={
+				large="GFX_Portrait_Arabia_Generic_land_1"
+			}
+			army={
+				small="GFX_Portrait_Arabia_Generic_land_1"
+			}
+		}
+		corps_commander={
+			skill=3
+			attack_skill=2
+			defense_skill=1
+			planning_skill=2
+			logistics_skill=4
+			legacy_id=0
+		}
+	}
+
+	ALG_ahmed_al_sahrawi={
+		name=ALG_ahmed_al_sahrawi
+		portraits={
+			civilian={
+				large="GFX_Arabia_Generic_3"
+			}
+		}
+		country_leader={
+			ideology=fascism_ideology
+			expire="1965.1.1.1"
+			id=-1
+		}
+	}
+
+}

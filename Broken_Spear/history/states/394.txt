@@ -1,0 +1,29 @@
+
+state={
+	id=394
+	name="STATE_394"
+
+	history={
+		owner = X45
+		victory_points = {
+			10595 1 
+		}
+		buildings = {
+			infrastructure = 2
+			industrial_complex = 0
+			arms_factory = 0
+			air_base = 0
+
+		}
+		add_core_of = X45
+	}
+
+	provinces={
+		1747 1875 3750 4839 4880 7745 7771 7862 10569 10595 12620 12667 
+	}
+	manpower=476932
+	buildings_max_level_factor=1.000
+	state_category=rural
+
+	local_supplies=10.0
+}

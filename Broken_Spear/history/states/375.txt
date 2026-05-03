@@ -1,0 +1,33 @@
+
+state={
+	id=375
+	name="STATE_375"
+
+	history={
+		owner = W14
+		victory_points = {
+			1799 0 
+		}
+		buildings = {
+			infrastructure = 1
+			industrial_complex = 0
+			arms_factory = 0
+			air_base = 0
+			1799 = {
+				naval_base = 4
+			}
+
+		}
+		add_core_of = W14
+		add_core_of = X46
+	}
+
+	provinces={
+		1799 1869 10548 
+	}
+	manpower=6276
+	buildings_max_level_factor=1.000
+	state_category=rural
+
+	local_supplies=10.0
+}

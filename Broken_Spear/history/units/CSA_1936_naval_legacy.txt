@@ -1,0 +1,58 @@
+units = {
+	fleet = {
+		name = "2nd Fleet"
+		naval_base = 4168
+		task_force = {
+			name = "2nd Fleet"
+			location = 4168
+			ship = { name = "CSS Nashville" definition = destroyer equipment = { destroyer_1 = { amount = 1 owner = CSA } } }
+			ship = { name = "CSS Georgia" definition = destroyer equipment = { destroyer_1 = { amount = 1 owner = CSA } } }
+			ship = { name = "CSS Shenandoah" definition = destroyer equipment = { destroyer_1 = { amount = 1 owner = CSA } } }
+			ship = { name = "CSS Tacony" definition = destroyer equipment = { destroyer_1 = { amount = 1 owner = CSA } } }
+			ship = { name = "CSS Chickamauga" definition = destroyer equipment = { destroyer_1 = { amount = 1 owner = CSA } } }
+			ship = { name = "CSS Florida" definition = destroyer equipment = { destroyer_1 = { amount = 1 owner = CSA } } }
+			ship = { name = "CSS Alexandra" definition = destroyer equipment = { destroyer_1 = { amount = 1 owner = CSA } } }
+			ship = { name = "CSS Shenandoah 2" definition = destroyer equipment = { destroyer_1 = { amount = 1 owner = CSA } } }
+			ship = { name = "CSS Alabama" definition = destroyer equipment = { destroyer_1 = { amount = 1 owner = CSA } } }
+			ship = { name = "2nd Fredericksburg Commerce Raider" definition = destroyer equipment = { destroyer_1 = { amount = 1 owner = CSA } } }
+			ship = { name = "4th Fredericksburg Commerce Raider" definition = destroyer equipment = { destroyer_1 = { amount = 1 owner = CSA } } }
+			ship = { name = "5th Fredericksburg Commerce Raider" definition = destroyer equipment = { destroyer_1 = { amount = 1 owner = CSA } } }
+			ship = { name = "6th Fredericksburg Commerce Raider" definition = destroyer equipment = { destroyer_1 = { amount = 1 owner = CSA } } }
+			ship = { name = "CSS Tallahassee" definition = destroyer equipment = { destroyer_1 = { amount = 1 owner = CSA } } }
+			ship = { name = "CSS Georgia 2" definition = destroyer equipment = { destroyer_1 = { amount = 1 owner = CSA } } }
+			ship = { name = "CSS Nashville 2" definition = destroyer equipment = { destroyer_1 = { amount = 1 owner = CSA } } }
+			ship = { name = "CSS Rappahanock" definition = destroyer equipment = { destroyer_1 = { amount = 1 owner = CSA } } }
+			ship = { name = "CSS Sumter" definition = destroyer equipment = { destroyer_1 = { amount = 1 owner = CSA } } }
+			ship = { name = "1st Tallahassee Commerce Raider" definition = destroyer equipment = { destroyer_1 = { amount = 1 owner = CSA } } }
+			ship = { name = "1st Fredericksburg Commerce Raider" definition = destroyer equipment = { destroyer_1 = { amount = 1 owner = CSA } } }
+			ship = { name = "1st Mobile Commerce Raider" definition = destroyer equipment = { destroyer_1 = { amount = 1 owner = CSA } } }
+			ship = { name = "1st Charleston Commerce Raider" definition = destroyer equipment = { destroyer_1 = { amount = 1 owner = CSA } } }
+			ship = { name = "3rd Fredericksburg Commerce Raider" definition = destroyer equipment = { destroyer_1 = { amount = 1 owner = CSA } } }
+			ship = { name = "2nd Mobile Commerce Raider" definition = destroyer equipment = { destroyer_1 = { amount = 1 owner = CSA } } }
+			ship = { name = "7th Fredericksburg Commerce Raider" definition = destroyer equipment = { destroyer_1 = { amount = 1 owner = CSA } } }
+			ship = { name = "8th Fredericksburg Commerce Raider" definition = destroyer equipment = { destroyer_1 = { amount = 1 owner = CSA } } }
+			ship = { name = "9th Fredericksburg Commerce Raider" definition = destroyer equipment = { destroyer_1 = { amount = 1 owner = CSA } } }
+		}
+	}
+}
+
+instant_effect = {
+	add_equipment_production = {
+		equipment = {
+			type = destroyer_1
+			creator = "CSA"
+		}
+		requested_factories = 3
+		progress = 0.25
+		amount = 10
+	}
+	add_equipment_production = {
+		equipment = {
+			type = battleship_1
+			creator = "CSA"
+		}
+		requested_factories = 8
+		progress = 0.25
+		amount = 3
+	}
+}

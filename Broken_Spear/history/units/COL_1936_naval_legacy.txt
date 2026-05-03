@@ -1,0 +1,121 @@
+units = {
+	fleet = {
+		name = "1st Fleet"
+		naval_base = 10855
+		task_force = {
+			name = "1st Fleet"
+			location = 10855
+			ship = { name = "1st Huaraz Battleship" definition = heavy_cruiser equipment = { heavy_cruiser_1 = { amount = 1 owner = COL } } }
+			ship = { name = "5th Ica Battleship" definition = heavy_cruiser equipment = { heavy_cruiser_1 = { amount = 1 owner = COL } } }
+			ship = { name = "1st San Felipe Battleship" definition = heavy_cruiser equipment = { heavy_cruiser_1 = { amount = 1 owner = COL } } }
+			ship = { name = "3rd San Felipe Battleship" definition = heavy_cruiser equipment = { heavy_cruiser_1 = { amount = 1 owner = COL } } }
+			ship = { name = "2nd Güiria Battleship" definition = heavy_cruiser equipment = { heavy_cruiser_1 = { amount = 1 owner = COL } } }
+			ship = { name = "4th León Battleship" definition = heavy_cruiser equipment = { heavy_cruiser_1 = { amount = 1 owner = COL } } }
+			ship = { name = "1st San José Battleship" definition = heavy_cruiser equipment = { heavy_cruiser_1 = { amount = 1 owner = COL } } }
+			ship = { name = "5th Paramaribo Battleship" definition = heavy_cruiser equipment = { heavy_cruiser_1 = { amount = 1 owner = COL } } }
+			ship = { name = "4th Paramaribo Battleship" definition = heavy_cruiser equipment = { heavy_cruiser_1 = { amount = 1 owner = COL } } }
+			ship = { name = "2nd Trinidad Battleship" definition = heavy_cruiser equipment = { heavy_cruiser_1 = { amount = 1 owner = COL } } }
+			ship = { name = "2nd San Felipe Battleship" definition = heavy_cruiser equipment = { heavy_cruiser_1 = { amount = 1 owner = COL } } }
+			ship = { name = "4th Güiria Battleship" definition = heavy_cruiser equipment = { heavy_cruiser_1 = { amount = 1 owner = COL } } }
+			ship = { name = "1st Guayaquil Battleship" definition = heavy_cruiser equipment = { heavy_cruiser_1 = { amount = 1 owner = COL } } }
+			ship = { name = "3rd León Battleship" definition = heavy_cruiser equipment = { heavy_cruiser_1 = { amount = 1 owner = COL } } }
+			ship = { name = "2nd San José Battleship" definition = heavy_cruiser equipment = { heavy_cruiser_1 = { amount = 1 owner = COL } } }
+			ship = { name = "3rd Güiria Battleship" definition = heavy_cruiser equipment = { heavy_cruiser_1 = { amount = 1 owner = COL } } }
+			ship = { name = "2nd Huaraz Battleship" definition = heavy_cruiser equipment = { heavy_cruiser_1 = { amount = 1 owner = COL } } }
+			ship = { name = "2nd Piura Battleship" definition = heavy_cruiser equipment = { heavy_cruiser_1 = { amount = 1 owner = COL } } }
+			ship = { name = "2nd Ica Battleship" definition = heavy_cruiser equipment = { heavy_cruiser_1 = { amount = 1 owner = COL } } }
+			ship = { name = "2nd León Battleship" definition = heavy_cruiser equipment = { heavy_cruiser_1 = { amount = 1 owner = COL } } }
+			ship = { name = "5th Güiria Battleship" definition = heavy_cruiser equipment = { heavy_cruiser_1 = { amount = 1 owner = COL } } }
+			ship = { name = "1st Güiria Battleship" definition = heavy_cruiser equipment = { heavy_cruiser_1 = { amount = 1 owner = COL } } }
+			ship = { name = "1st Piura Battleship" definition = heavy_cruiser equipment = { heavy_cruiser_1 = { amount = 1 owner = COL } } }
+			ship = { name = "3rd San Felipe Cruiser" definition = light_cruiser equipment = { light_cruiser_1 = { amount = 1 owner = COL } } }
+			ship = { name = "1st San Felipe Cruiser" definition = light_cruiser equipment = { light_cruiser_1 = { amount = 1 owner = COL } } }
+			ship = { name = "1st Guayaquil Cruiser" definition = light_cruiser equipment = { light_cruiser_1 = { amount = 1 owner = COL } } }
+			ship = { name = "Pasto" definition = light_cruiser equipment = { light_cruiser_1 = { amount = 1 owner = COL } } }
+			ship = { name = "Sucre" definition = light_cruiser equipment = { light_cruiser_1 = { amount = 1 owner = COL } } }
+			ship = { name = "1st León Cruiser" definition = light_cruiser equipment = { light_cruiser_1 = { amount = 1 owner = COL } } }
+			ship = { name = "1st San José Cruiser" definition = light_cruiser equipment = { light_cruiser_1 = { amount = 1 owner = COL } } }
+			ship = { name = "2nd León Cruiser" definition = light_cruiser equipment = { light_cruiser_1 = { amount = 1 owner = COL } } }
+			ship = { name = "Santander" definition = light_cruiser equipment = { light_cruiser_1 = { amount = 1 owner = COL } } }
+			ship = { name = "Bogotá" definition = light_cruiser equipment = { light_cruiser_1 = { amount = 1 owner = COL } } }
+			ship = { name = "Bolívar" definition = light_cruiser equipment = { light_cruiser_1 = { amount = 1 owner = COL } } }
+			ship = { name = "Cúcuta" definition = light_cruiser equipment = { light_cruiser_1 = { amount = 1 owner = COL } } }
+			ship = { name = "Córdoba" definition = light_cruiser equipment = { light_cruiser_1 = { amount = 1 owner = COL } } }
+			ship = { name = "Medellin" definition = light_cruiser equipment = { light_cruiser_1 = { amount = 1 owner = COL } } }
+			ship = { name = "1st Quibdó Cruiser" definition = light_cruiser equipment = { light_cruiser_1 = { amount = 1 owner = COL } } }
+			ship = { name = "2nd Ica Cruiser" definition = light_cruiser equipment = { light_cruiser_1 = { amount = 1 owner = COL } } }
+			ship = { name = "1st Caracas Cruiser" definition = light_cruiser equipment = { light_cruiser_1 = { amount = 1 owner = COL } } }
+			ship = { name = "2nd San Felipe Cruiser" definition = light_cruiser equipment = { light_cruiser_1 = { amount = 1 owner = COL } } }
+			ship = { name = "1st Huaraz Cruiser" definition = light_cruiser equipment = { light_cruiser_1 = { amount = 1 owner = COL } } }
+		}
+	}
+	fleet = {
+		name = "4th Fleet"
+		naval_base = 8252
+		task_force = {
+			name = "4th Fleet"
+			location = 8252
+			ship = { name = "3rd Huaraz Battleship" definition = heavy_cruiser equipment = { heavy_cruiser_1 = { amount = 1 owner = COL } } }
+			ship = { name = "3rd Ica Battleship" definition = heavy_cruiser equipment = { heavy_cruiser_1 = { amount = 1 owner = COL } } }
+			ship = { name = "4th Huaraz Battleship" definition = heavy_cruiser equipment = { heavy_cruiser_1 = { amount = 1 owner = COL } } }
+			ship = { name = "4th Ica Battleship" definition = heavy_cruiser equipment = { heavy_cruiser_1 = { amount = 1 owner = COL } } }
+			ship = { name = "1st León Battleship" definition = heavy_cruiser equipment = { heavy_cruiser_1 = { amount = 1 owner = COL } } }
+			ship = { name = "6th Ica Battleship" definition = heavy_cruiser equipment = { heavy_cruiser_1 = { amount = 1 owner = COL } } }
+			ship = { name = "5th León Battleship" definition = heavy_cruiser equipment = { heavy_cruiser_1 = { amount = 1 owner = COL } } }
+			ship = { name = "1st Trinidad Battleship" definition = heavy_cruiser equipment = { heavy_cruiser_1 = { amount = 1 owner = COL } } }
+			ship = { name = "1st Paramaribo Battleship" definition = heavy_cruiser equipment = { heavy_cruiser_1 = { amount = 1 owner = COL } } }
+			ship = { name = "2nd Paramaribo Battleship" definition = heavy_cruiser equipment = { heavy_cruiser_1 = { amount = 1 owner = COL } } }
+			ship = { name = "7th Huaraz Battleship" definition = heavy_cruiser equipment = { heavy_cruiser_1 = { amount = 1 owner = COL } } }
+			ship = { name = "5th Huaraz Battleship" definition = heavy_cruiser equipment = { heavy_cruiser_1 = { amount = 1 owner = COL } } }
+			ship = { name = "6th Huaraz Battleship" definition = heavy_cruiser equipment = { heavy_cruiser_1 = { amount = 1 owner = COL } } }
+			ship = { name = "3rd Paramaribo Battleship" definition = heavy_cruiser equipment = { heavy_cruiser_1 = { amount = 1 owner = COL } } }
+			ship = { name = "1st Penonomé Battleship" definition = heavy_cruiser equipment = { heavy_cruiser_1 = { amount = 1 owner = COL } } }
+			ship = { name = "Cali" definition = light_cruiser equipment = { light_cruiser_1 = { amount = 1 owner = COL } } }
+			ship = { name = "Cundinamarca" definition = light_cruiser equipment = { light_cruiser_1 = { amount = 1 owner = COL } } }
+			ship = { name = "3rd Huaraz Cruiser" definition = light_cruiser equipment = { light_cruiser_1 = { amount = 1 owner = COL } } }
+			ship = { name = "4th Huaraz Cruiser" definition = light_cruiser equipment = { light_cruiser_1 = { amount = 1 owner = COL } } }
+			ship = { name = "2nd Huaraz Cruiser" definition = light_cruiser equipment = { light_cruiser_1 = { amount = 1 owner = COL } } }
+			ship = { name = "5th Huaraz Cruiser" definition = light_cruiser equipment = { light_cruiser_1 = { amount = 1 owner = COL } } }
+			ship = { name = "6th Huaraz Cruiser" definition = light_cruiser equipment = { light_cruiser_1 = { amount = 1 owner = COL } } }
+			ship = { name = "7th Huaraz Cruiser" definition = light_cruiser equipment = { light_cruiser_1 = { amount = 1 owner = COL } } }
+			ship = { name = "8th Huaraz Cruiser" definition = light_cruiser equipment = { light_cruiser_1 = { amount = 1 owner = COL } } }
+			ship = { name = "9th Huaraz Cruiser" definition = light_cruiser equipment = { light_cruiser_1 = { amount = 1 owner = COL } } }
+			ship = { name = "10th Huaraz Cruiser" definition = light_cruiser equipment = { light_cruiser_1 = { amount = 1 owner = COL } } }
+			ship = { name = "11th Huaraz Cruiser" definition = light_cruiser equipment = { light_cruiser_1 = { amount = 1 owner = COL } } }
+		}
+	}
+	fleet = {
+		name = "2nd Fleet"
+		naval_base = 10494
+		task_force = {
+			name = "2nd Fleet"
+			location = 10494
+			ship = { name = "2nd Guayaquil Battleship" definition = heavy_cruiser equipment = { heavy_cruiser_1 = { amount = 1 owner = COL } } }
+			ship = { name = "1st Ica Battleship" definition = heavy_cruiser equipment = { heavy_cruiser_1 = { amount = 1 owner = COL } } }
+			ship = { name = "1st Buenaventura Battleship" definition = heavy_cruiser equipment = { heavy_cruiser_1 = { amount = 1 owner = COL } } }
+			ship = { name = "1st Ica Cruiser" definition = light_cruiser equipment = { light_cruiser_1 = { amount = 1 owner = COL } } }
+			ship = { name = "1st Piura Cruiser" definition = light_cruiser equipment = { light_cruiser_1 = { amount = 1 owner = COL } } }
+		}
+	}
+}
+
+instant_effect = {
+	add_equipment_production = {
+		equipment = {
+			type = destroyer_1
+			creator = "COL"
+		}
+		requested_factories = 3
+		progress = 0.25
+		amount = 10
+	}
+	add_equipment_production = {
+		equipment = {
+			type = battleship_1
+			creator = "COL"
+		}
+		requested_factories = 8
+		progress = 0.25
+		amount = 3
+	}
+}

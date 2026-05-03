@@ -1,0 +1,33 @@
+
+state={
+	id=15
+	name="STATE_15"
+
+	history={
+		owner = W08
+		victory_points = {
+			4286 10 
+		}
+		buildings = {
+			infrastructure = 4
+			industrial_complex = 1
+			arms_factory = 0
+			air_base = 6
+			4286 = {
+				naval_base = 10
+			}
+
+		}
+		add_core_of = FIJ
+		add_core_of = W08
+	}
+
+	provinces={
+		4286 7302 12159 
+	}
+	manpower=38268
+	buildings_max_level_factor=1.000
+	state_category=town
+
+	local_supplies=10.0
+}

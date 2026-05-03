@@ -1,0 +1,29 @@
+
+state={
+	id=6
+	name="STATE_6"
+
+	history={
+		owner = ALG
+		victory_points = {
+			7154 1 
+		}
+		buildings = {
+			infrastructure = 1
+			industrial_complex = 0
+			arms_factory = 0
+			air_base = 0
+
+		}
+		add_core_of = ALG
+	}
+
+	provinces={
+		7154 10037 10067 
+	}
+	manpower=66404
+	buildings_max_level_factor=1.000
+	state_category=rural
+
+	local_supplies=10.0
+}

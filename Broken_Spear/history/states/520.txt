@@ -1,0 +1,20 @@
+
+state={
+	id=520
+	name="STATE_520"
+	impassable = yes
+
+	history={
+		owner = PER
+		add_core_of = PER
+	}
+
+	provinces={
+		5016 7790 8086 
+	}
+	manpower=104669
+	buildings_max_level_factor=1.000
+	state_category=wasteland
+
+	local_supplies=10.0
+}

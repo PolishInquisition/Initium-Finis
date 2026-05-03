@@ -1,0 +1,32 @@
+
+state={
+	id=738
+	name="STATE_738"
+
+	history={
+		owner = YUG
+		victory_points = {
+			914 2 
+		}
+		buildings = {
+			infrastructure = 2
+			industrial_complex = 1
+			arms_factory = 1
+			air_base = 0
+			9780 = {
+				naval_base = 10
+			}
+
+		}
+		add_core_of = YUG
+	}
+
+	provinces={
+		914 3448 3884 3896 6900 9780 9875 9914 11762 11767 13234 13235 13255 
+	}
+	manpower=1600868
+	buildings_max_level_factor=1.000
+	state_category=rural
+
+	local_supplies=10.0
+}

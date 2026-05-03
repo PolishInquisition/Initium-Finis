@@ -1,0 +1,30 @@
+
+state={
+	id=162
+	name="STATE_162"
+
+	history={
+		owner = X21
+		victory_points = {
+			5179 15 
+		}
+		buildings = {
+			infrastructure = 1
+			industrial_complex = 1
+			arms_factory = 0
+			air_base = 5
+
+		}
+		add_core_of = X21
+		add_claim_by = CHL
+	}
+
+	provinces={
+		2160 5179 10924 10938 10982 10987 12902 12916 12930 12973 
+	}
+	manpower=250964
+	buildings_max_level_factor=1.000
+	state_category=large_island
+
+	local_supplies=10.0
+}

@@ -1,0 +1,32 @@
+
+state={
+	id=637
+	name="STATE_637"
+
+	history={
+		owner = W15
+		victory_points = {
+			13015 10 
+		}
+		buildings = {
+			infrastructure = 3
+			industrial_complex = 0
+			arms_factory = 0
+			air_base = 6
+			13015 = {
+				naval_base = 2
+			}
+
+		}
+		add_core_of = W15
+	}
+
+	provinces={
+		13015 
+	}
+	manpower=52452
+	buildings_max_level_factor=1.000
+	state_category=pastoral
+
+	local_supplies=10.0
+}

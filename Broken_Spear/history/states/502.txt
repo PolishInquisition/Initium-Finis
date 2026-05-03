@@ -1,0 +1,30 @@
+
+state={
+	id=502
+	name="STATE_502"
+
+	history={
+		owner = PER
+		victory_points = {
+			1896 1 
+		}
+		buildings = {
+			infrastructure = 2
+			industrial_complex = 0
+			arms_factory = 0
+			air_base = 0
+
+		}
+		add_core_of = PER
+		add_claim_by = X78
+	}
+
+	provinces={
+		1636 1822 1896 2071 4553 4755 4825 4901 7604 10454 10523 12793 12861 
+	}
+	manpower=1949464
+	buildings_max_level_factor=1.000
+	state_category=town
+
+	local_supplies=10.0
+}

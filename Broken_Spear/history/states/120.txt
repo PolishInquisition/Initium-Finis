@@ -1,0 +1,32 @@
+
+state={
+	id=120
+	name="STATE_120"
+
+	history={
+		owner = CHL
+		victory_points = {
+			12994 1 
+		}
+		buildings = {
+			infrastructure = 3
+			industrial_complex = 0
+			arms_factory = 0
+			air_base = 1
+			12994 = {
+				naval_base = 6
+			}
+
+		}
+		add_core_of = CHL
+	}
+
+	provinces={
+		5146 5171 12994 13304 
+	}
+	manpower=375220
+	buildings_max_level_factor=1.000
+	state_category=rural
+
+	local_supplies=10.0
+}

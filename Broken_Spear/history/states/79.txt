@@ -1,0 +1,34 @@
+
+state={
+	id=79
+	name="STATE_79"
+	resources={
+		steel=2.000
+	}
+
+	history={
+		owner = BUL
+		victory_points = {
+			9668 40 
+		}
+		buildings = {
+			infrastructure = 4
+			industrial_complex = 3
+			arms_factory = 0
+			air_base = 10
+
+		}
+		add_core_of = BUL
+		add_core_of = TRA
+		add_core_by = X29
+	}
+
+	provinces={
+		690 711 3676 3689 6679 6709 9668 9670 9685 11639 
+	}
+	manpower=1027336
+	buildings_max_level_factor=1.000
+	state_category=large_town
+
+	local_supplies=10.0
+}

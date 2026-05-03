@@ -1,0 +1,33 @@
+
+state={
+	id=249
+	name="STATE_249"
+	resources={
+		oil=6.000
+		tungsten=9.000
+	}
+
+	history={
+		owner = ENG
+		victory_points = {
+			7869 1 
+		}
+		buildings = {
+			infrastructure = 4
+			industrial_complex = 1
+			arms_factory = 0
+			air_base = 1
+
+		}
+		add_core_of = ENG
+	}
+
+	provinces={
+		3606 7869 7891 
+	}
+	manpower=716428
+	buildings_max_level_factor=1.000
+	state_category=large_island
+
+	local_supplies=10.0
+}

@@ -1,0 +1,34 @@
+
+state={
+	id=408
+	name="STATE_408"
+
+	history={
+		owner = X47
+		victory_points = {
+			12230 1 
+		}
+		buildings = {
+			infrastructure = 2
+			industrial_complex = 0
+			arms_factory = 0
+			air_base = 0
+			7408 = {
+				naval_base = 2
+			}
+
+		}
+		add_core_of = SIA
+		add_core_of = X47
+		add_claim_by = X07
+	}
+
+	provinces={
+		1366 1427 4319 4348 4388 4392 7367 7408 7587 10156 10158 10193 10221 10250 12122 12220 12230 12286 
+	}
+	manpower=1647432
+	buildings_max_level_factor=1.000
+	state_category=large_island
+
+	local_supplies=10.0
+}

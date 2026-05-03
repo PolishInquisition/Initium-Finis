@@ -1,0 +1,36 @@
+
+state={
+	id=276
+	name="STATE_276"
+	resources={
+		coal=1.000
+		rubber=2.000
+	}
+
+	history={
+		owner = W13
+		victory_points = {
+			4952 1 
+		}
+		buildings = {
+			infrastructure = 4
+			industrial_complex = 0
+			arms_factory = 0
+			air_base = 1
+			4952 = {
+				naval_base = 4
+			}
+
+		}
+		add_core_of = W13
+	}
+
+	provinces={
+		1992 4952 12900 
+	}
+	manpower=2404276
+	buildings_max_level_factor=1.000
+	state_category=large_town
+
+	local_supplies=10.0
+}

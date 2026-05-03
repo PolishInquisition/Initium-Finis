@@ -1,0 +1,40 @@
+
+state={
+	id=29
+	name="STATE_29"
+	resources={
+		aluminium=2.000
+		chromium=7.000
+		steel=9.000
+	}
+
+	history={
+		owner = BAN
+		victory_points = {
+			10088 3 
+		}
+		buildings = {
+			infrastructure = 3
+			industrial_complex = 3
+			arms_factory = 1
+			dockyard = 1
+			air_base = 2
+			10088 = {
+				naval_base = 10
+			}
+
+		}
+		add_core_of = BAN
+		add_core_of = RAJ
+		add_claim_by = X07
+	}
+
+	provinces={
+		1059 1101 1538 4104 4513 9946 10060 10088 10116 10428 12063 
+	}
+	manpower=2375784
+	buildings_max_level_factor=1.000
+	state_category=city
+
+	local_supplies=10.0
+}

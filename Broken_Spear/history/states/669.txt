@@ -1,0 +1,37 @@
+
+state={
+	id=669
+	name="STATE_669"
+	resources={
+		rubber=5.000
+	}
+
+	history={
+		owner = W19
+		victory_points = {
+			10265 10 
+		}
+		buildings = {
+			infrastructure = 2
+			industrial_complex = 2
+			arms_factory = 0
+			air_base = 6
+			10265 = {
+				naval_base = 4
+			}
+
+		}
+		add_core_of = PHI
+		add_core_of = W19
+		add_core_of = X68
+	}
+
+	provinces={
+		1221 1288 1372 1388 1415 4101 4214 4228 4233 4288 4350 4368 4377 4423 7275 7323 7325 7351 7439 10165 10167 10236 10241 10252 10265 10272 10280 10298 10306 12213 12236 12253 12279 
+	}
+	manpower=1493256
+	buildings_max_level_factor=1.000
+	state_category=large_island
+
+	local_supplies=10.0
+}

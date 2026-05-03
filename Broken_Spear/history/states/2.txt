@@ -1,0 +1,32 @@
+
+state={
+	id=2
+	name="STATE_2"
+
+	history={
+		owner = X02
+		victory_points = {
+			1966 15 
+		}
+		buildings = {
+			infrastructure = 2
+			industrial_complex = 1
+			arms_factory = 0
+			air_base = 5
+			12991 = {
+				naval_base = 4
+			}
+
+		}
+		add_core_of = X02
+	}
+
+	provinces={
+		1964 1966 2020 2063 4909 5065 8164 10818 10891 10928 12840 12991 
+	}
+	manpower=348916
+	buildings_max_level_factor=1.000
+	state_category=large_island
+
+	local_supplies=10.0
+}

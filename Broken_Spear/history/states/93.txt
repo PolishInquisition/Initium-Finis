@@ -1,0 +1,32 @@
+
+state={
+	id=93
+	name="STATE_93"
+
+	history={
+		owner = BUL
+		victory_points = {
+			11581 10 
+		}
+		buildings = {
+			infrastructure = 4
+			industrial_complex = 1
+			arms_factory = 1
+			air_base = 6
+
+		}
+		add_core_of = CRO
+		add_core_of = YUG
+		add_claim_by = BUL
+		add_claim_by = X29
+	}
+
+	provinces={
+		624 3592 3596 3627 6647 9595 9608 9611 11577 11581 11594 
+	}
+	manpower=1498024
+	buildings_max_level_factor=1.000
+	state_category=large_town
+
+	local_supplies=10.0
+}

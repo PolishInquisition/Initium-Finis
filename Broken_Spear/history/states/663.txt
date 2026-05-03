@@ -1,0 +1,29 @@
+
+state={
+	id=663
+	name="STATE_663"
+
+	history={
+		owner = W17
+		victory_points = {
+			7161 0 
+		}
+		buildings = {
+			infrastructure = 2
+			industrial_complex = 0
+			arms_factory = 0
+			air_base = 0
+
+		}
+		add_core_of = W17
+	}
+
+	provinces={
+		1181 1950 2034 2073 2154 4941 6027 7161 10766 10858 11934 12783 12808 12847 
+	}
+	manpower=736296
+	buildings_max_level_factor=1.000
+	state_category=pastoral
+
+	local_supplies=10.0
+}

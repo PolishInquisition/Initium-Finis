@@ -1,7 +1,0 @@
-owner=PGS
-controller=PGS
-add_core=PGS
-trade_goods = iron
-life_rating = 30
-terrain = hills
-naval_base = 2

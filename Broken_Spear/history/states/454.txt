@@ -1,0 +1,36 @@
+
+state={
+	id=454
+	name="STATE_454"
+	resources={
+		steel=14.000
+	}
+
+	history={
+		owner = X65
+		victory_points = {
+			3495 3 
+		}
+		buildings = {
+			infrastructure = 3
+			industrial_complex = 3
+			arms_factory = 1
+			dockyard = 1
+			air_base = 2
+			11600 = {
+				naval_base = 6
+			}
+
+		}
+		add_core_of = X65
+	}
+
+	provinces={
+		503 3495 3523 3659 9478 9631 9867 11600 11613 
+	}
+	manpower=1822264
+	buildings_max_level_factor=1.000
+	state_category=city
+
+	local_supplies=10.0
+}

@@ -1,0 +1,44 @@
+units = {
+	fleet = {
+		name = "3rd Fleet"
+		naval_base = 3772
+		task_force = {
+			name = "3rd Fleet"
+			location = 3772
+			ship = { name = "1st Nice Battleship" definition = heavy_cruiser equipment = { heavy_cruiser_1 = { amount = 1 owner = X91 } } }
+			ship = { name = "2nd Nice Battleship" definition = heavy_cruiser equipment = { heavy_cruiser_1 = { amount = 1 owner = X91 } } }
+			ship = { name = "3rd Nice Battleship" definition = heavy_cruiser equipment = { heavy_cruiser_1 = { amount = 1 owner = X91 } } }
+			ship = { name = "4th Nice Battleship" definition = heavy_cruiser equipment = { heavy_cruiser_1 = { amount = 1 owner = X91 } } }
+			ship = { name = "5th Nice Battleship" definition = heavy_cruiser equipment = { heavy_cruiser_1 = { amount = 1 owner = X91 } } }
+			ship = { name = "6th Nice Battleship" definition = heavy_cruiser equipment = { heavy_cruiser_1 = { amount = 1 owner = X91 } } }
+			ship = { name = "7th Nice Battleship" definition = heavy_cruiser equipment = { heavy_cruiser_1 = { amount = 1 owner = X91 } } }
+			ship = { name = "2nd Nice Cruiser" definition = light_cruiser equipment = { light_cruiser_1 = { amount = 1 owner = X91 } } }
+			ship = { name = "1st Nice Cruiser" definition = light_cruiser equipment = { light_cruiser_1 = { amount = 1 owner = X91 } } }
+			ship = { name = "3rd Nice Cruiser" definition = light_cruiser equipment = { light_cruiser_1 = { amount = 1 owner = X91 } } }
+			ship = { name = "4th Nice Cruiser" definition = light_cruiser equipment = { light_cruiser_1 = { amount = 1 owner = X91 } } }
+			ship = { name = "5th Nice Cruiser" definition = light_cruiser equipment = { light_cruiser_1 = { amount = 1 owner = X91 } } }
+			ship = { name = "6th Nice Cruiser" definition = light_cruiser equipment = { light_cruiser_1 = { amount = 1 owner = X91 } } }
+		}
+	}
+}
+
+instant_effect = {
+	add_equipment_production = {
+		equipment = {
+			type = destroyer_1
+			creator = "X91"
+		}
+		requested_factories = 3
+		progress = 0.25
+		amount = 10
+	}
+	add_equipment_production = {
+		equipment = {
+			type = battleship_2
+			creator = "X91"
+		}
+		requested_factories = 8
+		progress = 0.25
+		amount = 3
+	}
+}

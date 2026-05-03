@@ -1,0 +1,29 @@
+
+state={
+	id=688
+	name="STATE_688"
+
+	history={
+		owner = X89
+		victory_points = {
+			4994 15 
+		}
+		buildings = {
+			infrastructure = 2
+			industrial_complex = 1
+			arms_factory = 0
+			air_base = 5
+
+		}
+		add_core_of = X89
+	}
+
+	provinces={
+		1961 1991 2010 2014 2093 4900 4994 5011 5094 8029 8068 8121 10755 10802 12784 12801 12807 
+	}
+	manpower=567172
+	buildings_max_level_factor=1.000
+	state_category=large_island
+
+	local_supplies=10.0
+}

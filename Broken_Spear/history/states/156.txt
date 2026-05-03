@@ -1,0 +1,34 @@
+
+state={
+	id=156
+	name="STATE_156"
+
+	history={
+		owner = COL
+		victory_points = {
+			12997 3 
+		}
+		buildings = {
+			infrastructure = 3
+			industrial_complex = 3
+			arms_factory = 0
+			dockyard = 1
+			air_base = 2
+			12983 = {
+				naval_base = 8
+			}
+
+		}
+		add_core_of = COL
+		add_core_of = X34
+	}
+
+	provinces={
+		2162 2212 2226 5190 12983 12997 13280 13316 
+	}
+	manpower=2338732
+	buildings_max_level_factor=1.000
+	state_category=city
+
+	local_supplies=10.0
+}

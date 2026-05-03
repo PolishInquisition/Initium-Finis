@@ -1,6 +1,0 @@
-owner=PER
-controller=PER
-trade_goods = grain
-life_rating = 35
-terrain = mountain
-fort = 1

@@ -1,0 +1,46 @@
+units = {
+	fleet = {
+		name = "3rd Fleet"
+		naval_base = 3772
+		task_force = {
+			name = "3rd Fleet"
+			location = 3772
+			ship = { name = "1st Nice Battleship" definition = heavy_cruiser start_experience_factor = 0.3 equipment = { ship_hull_cruiser_1 = { amount = 1 owner = X91 version_name = "Early Heavy Cruiser" } } }
+			ship = { name = "2nd Nice Battleship" definition = heavy_cruiser start_experience_factor = 0.3 equipment = { ship_hull_cruiser_1 = { amount = 1 owner = X91 version_name = "Early Heavy Cruiser" } } }
+			ship = { name = "3rd Nice Battleship" definition = heavy_cruiser start_experience_factor = 0.3 equipment = { ship_hull_cruiser_1 = { amount = 1 owner = X91 version_name = "Early Heavy Cruiser" } } }
+			ship = { name = "4th Nice Battleship" definition = heavy_cruiser start_experience_factor = 0.3 equipment = { ship_hull_cruiser_1 = { amount = 1 owner = X91 version_name = "Early Heavy Cruiser" } } }
+			ship = { name = "5th Nice Battleship" definition = heavy_cruiser start_experience_factor = 0.3 equipment = { ship_hull_cruiser_1 = { amount = 1 owner = X91 version_name = "Early Heavy Cruiser" } } }
+			ship = { name = "6th Nice Battleship" definition = heavy_cruiser start_experience_factor = 0.3 equipment = { ship_hull_cruiser_1 = { amount = 1 owner = X91 version_name = "Early Heavy Cruiser" } } }
+			ship = { name = "7th Nice Battleship" definition = heavy_cruiser start_experience_factor = 0.3 equipment = { ship_hull_cruiser_1 = { amount = 1 owner = X91 version_name = "Early Heavy Cruiser" } } }
+			ship = { name = "2nd Nice Cruiser" definition = light_cruiser start_experience_factor = 0.3 equipment = { ship_hull_cruiser_1 = { amount = 1 owner = X91 version_name = "Early Light Cruiser" } } }
+			ship = { name = "1st Nice Cruiser" definition = light_cruiser start_experience_factor = 0.27918 equipment = { ship_hull_cruiser_1 = { amount = 1 owner = X91 version_name = "Early Light Cruiser" } } }
+			ship = { name = "3rd Nice Cruiser" definition = light_cruiser start_experience_factor = 0.3 equipment = { ship_hull_cruiser_1 = { amount = 1 owner = X91 version_name = "Early Light Cruiser" } } }
+			ship = { name = "4th Nice Cruiser" definition = light_cruiser start_experience_factor = 0.3 equipment = { ship_hull_cruiser_1 = { amount = 1 owner = X91 version_name = "Early Light Cruiser" } } }
+			ship = { name = "5th Nice Cruiser" definition = light_cruiser start_experience_factor = 0.3 equipment = { ship_hull_cruiser_1 = { amount = 1 owner = X91 version_name = "Early Light Cruiser" } } }
+			ship = { name = "6th Nice Cruiser" definition = light_cruiser start_experience_factor = 0.3 equipment = { ship_hull_cruiser_1 = { amount = 1 owner = X91 version_name = "Early Light Cruiser" } } }
+		}
+	}
+}
+
+instant_effect = {
+	add_equipment_production = {
+		equipment = {
+			type = ship_hull_light_1
+			creator = "X91"
+			version_name = "Early Destroyer"
+		}
+		requested_factories = 3
+		progress = 0.25
+		amount = 10
+	}
+	add_equipment_production = {
+		equipment = {
+			type = ship_hull_heavy_2
+			creator = "X91"
+			version_name = "1936 Battleship"
+		}
+		requested_factories = 8
+		progress = 0.25
+		amount = 3
+	}
+}

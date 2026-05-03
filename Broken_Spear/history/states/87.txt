@@ -1,0 +1,36 @@
+
+state={
+	id=87
+	name="STATE_87"
+	resources={
+		chromium=7.000
+	}
+
+	history={
+		owner = BUL
+		victory_points = {
+			11818 2 
+		}
+		buildings = {
+			infrastructure = 3
+			industrial_complex = 2
+			arms_factory = 0
+			air_base = 1
+			895 = {
+				naval_base = 10
+			}
+
+		}
+		add_core_of = BUL
+		add_claim_by = X29
+	}
+
+	provinces={
+		895 3526 3936 6990 9791 9930 10163 11774 11818 11905 
+	}
+	manpower=1270692
+	buildings_max_level_factor=1.000
+	state_category=town
+
+	local_supplies=10.0
+}

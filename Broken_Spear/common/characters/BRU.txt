@@ -1,0 +1,76 @@
+characters={
+	BRU_ala'_ad_din_anak_muhammad={
+		name=BRU_ala'_ad_din_anak_muhammad
+		portraits={
+			army={
+				large="GFX_Indonesia_Urip_Sumohardjo"
+			}
+			army={
+				small="GFX_Indonesia_Urip_Sumohardjo"
+			}
+		}
+		corps_commander={
+			skill=2
+			attack_skill=3
+			defense_skill=1
+			planning_skill=1
+			logistics_skill=1
+			legacy_id=0
+		}
+	}
+
+	BRU_ala'_ad_din_anak_sayf_ad_din={
+		name=BRU_ala'_ad_din_anak_sayf_ad_din
+		portraits={
+			army={
+				large="GFX_Indonesia_Suhadi"
+			}
+			army={
+				small="GFX_Indonesia_Suhadi"
+			}
+		}
+		corps_commander={
+			skill=2
+			attack_skill=1
+			defense_skill=3
+			planning_skill=3
+			logistics_skill=1
+			legacy_id=0
+		}
+	}
+
+	BRU_sayf_ar_rijal_anak_sayf_ad_din={
+		name=BRU_sayf_ar_rijal_anak_sayf_ad_din
+		portraits={
+			navy={
+				large="GFX_Portrait_Asia_Generic_navy_3"
+			}
+			navy={
+				small="GFX_Portrait_Asia_Generic_navy_3"
+			}
+		}
+		navy_leader={
+			skill=1
+			attack_skill=1
+			defense_skill=1
+			maneuvering_skill=1
+			coordination_skill=1
+			legacy_id=0
+		}
+	}
+
+	BRU_ala'_ad_din_anak_sayf_ar_rijal={
+		name=BRU_ala'_ad_din_anak_sayf_ar_rijal
+		portraits={
+			civilian={
+				large="GFX_Asia_Generic_3"
+			}
+		}
+		country_leader={
+			ideology=fascism_ideology
+			expire="1965.1.1.1"
+			id=-1
+		}
+	}
+
+}

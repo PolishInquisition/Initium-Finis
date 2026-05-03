@@ -1,0 +1,39 @@
+
+state={
+	id=107
+	name="STATE_107"
+	resources={
+		chromium=1.000
+		steel=5.000
+		tungsten=12.000
+	}
+
+	history={
+		owner = X16
+		victory_points = {
+			12014 10 
+		}
+		buildings = {
+			infrastructure = 3
+			industrial_complex = 2
+			arms_factory = 1
+			air_base = 6
+			9978 = {
+				naval_base = 4
+			}
+
+		}
+		add_core_of = W02
+		add_core_of = X32
+		add_claim_by = X16
+	}
+
+	provinces={
+		1078 1120 1162 1202 4050 4165 4207 7067 7108 7128 7141 7182 7210 9938 9970 9978 9997 10121 12014 
+	}
+	manpower=14456700
+	buildings_max_level_factor=1.000
+	state_category=megalopolis
+
+	local_supplies=10.0
+}

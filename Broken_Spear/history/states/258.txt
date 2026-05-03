@@ -1,0 +1,33 @@
+
+state={
+	id=258
+	name="STATE_258"
+
+	history={
+		owner = GER
+		victory_points = {
+			6377 3 
+		}
+		buildings = {
+			infrastructure = 3
+			industrial_complex = 2
+			arms_factory = 1
+			dockyard = 1
+			air_base = 2
+			241 = {
+				naval_base = 10
+			}
+
+		}
+		add_core_of = GER
+	}
+
+	provinces={
+		241 247 309 336 3234 3395 6377 9281 11233 11264 11360 11388 
+	}
+	manpower=4985724
+	buildings_max_level_factor=1.000
+	state_category=metropolis
+
+	local_supplies=10.0
+}

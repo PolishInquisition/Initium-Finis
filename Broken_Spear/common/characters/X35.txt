@@ -1,0 +1,36 @@
+characters={
+	X35_daughshuttayah_carentouan={
+		name=X35_daughshuttayah_carentouan
+		portraits={
+			army={
+				large="GFX_native_north_american_general"
+			}
+			army={
+				small="GFX_native_north_american_general"
+			}
+		}
+		corps_commander={
+			skill=3
+			attack_skill=5
+			defense_skill=3
+			planning_skill=1
+			logistics_skill=1
+			legacy_id=0
+		}
+	}
+
+	X35_sooshaoowau_diwali={
+		name=X35_sooshaoowau_diwali
+		portraits={
+			civilian={
+				large="GFX_nat_north_democratic"
+			}
+		}
+		country_leader={
+			ideology=liberalism
+			expire="1965.1.1.1"
+			id=-1
+		}
+	}
+
+}

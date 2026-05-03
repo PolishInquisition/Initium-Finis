@@ -1,0 +1,58 @@
+
+state={
+	id=369
+	name="STATE_369"
+
+	history={
+		owner = X37
+		victory_points = {
+			9843 20 
+		}
+		buildings = {
+			infrastructure = 3
+			industrial_complex = 2
+			arms_factory = 1
+			dockyard = 1
+			air_base = 7
+			1052 = {
+				naval_base = 4
+			}
+			1590 = {
+				landmark_great_wall_section = {
+					level = 1
+					allowed = {
+						has_dlc = "No Compromise, No Surrender"
+					}
+				}
+			}
+			3900 = {
+				landmark_great_wall_section = {
+					level = 1
+					allowed = {
+						has_dlc = "No Compromise, No Surrender"
+					}
+				}
+			}
+			9843 = {
+				landmark_forbidden_city = {
+					level = 1
+					allowed = {
+						has_dlc = "No Compromise, No Surrender"
+					}
+				}
+			}
+
+		}
+		add_core_of = X37
+		add_core_of = X73
+	}
+
+	provinces={
+		814 828 881 900 934 952 972 1052 1134 1137 1489 1590 3814 3828 3830 3881 3900 3955 4032 4093 4137 4140 4190 4208 4495 4514 6828 6852 6898 6904 6937 6969 6988 7000 7109 7545 7575 7633 7674 9768 9776 9843 9873 9905 9927 9969 10003 10022 10053 10068 10331 10397 10426 11761 11801 11822 11855 11944 11980 11996 12026 12043 13379 
+	}
+	manpower=39997992
+	buildings_max_level_factor=1.000
+	state_category=megalopolis
+
+	local_supplies=10.0
+}

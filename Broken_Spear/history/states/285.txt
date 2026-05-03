@@ -1,0 +1,35 @@
+
+state={
+	id=285
+	name="STATE_285"
+	resources={
+		aluminium=8.000
+	}
+
+	history={
+		owner = YUG
+		victory_points = {
+			596 2 
+		}
+		buildings = {
+			infrastructure = 2
+			industrial_complex = 2
+			arms_factory = 1
+			air_base = 0
+
+		}
+		add_core_of = BAY
+		add_core_of = GER
+		add_core_of = YUG
+		add_claim_by = X29
+	}
+
+	provinces={
+		596 665 3631 3654 6650 6672 9596 9627 
+	}
+	manpower=1885548
+	buildings_max_level_factor=1.000
+	state_category=large_town
+
+	local_supplies=10.0
+}

@@ -1,0 +1,16 @@
+characters={
+	X70_riayat_al_khairat={
+		name=X70_riayat_al_khairat
+		portraits={
+			civilian={
+				large="GFX_Philippines_Manuel_Luis_Quezon_KR"
+			}
+		}
+		country_leader={
+			ideology=liberalism
+			expire="1965.1.1.1"
+			id=-1
+		}
+	}
+
+}

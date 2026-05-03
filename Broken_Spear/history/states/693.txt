@@ -1,0 +1,33 @@
+
+state={
+	id=693
+	name="STATE_693"
+	resources={
+		aluminium=81.000
+		steel=77.000
+	}
+
+	history={
+		owner = X93
+		victory_points = {
+			6613 3 
+		}
+		buildings = {
+			infrastructure = 3
+			industrial_complex = 3
+			arms_factory = 2
+			air_base = 2
+
+		}
+		add_core_of = X93
+	}
+
+	provinces={
+		762 764 780 3589 3762 3764 3768 6613 6639 6784 6975 9590 9736 
+	}
+	manpower=1959100
+	buildings_max_level_factor=1.000
+	state_category=city
+
+	local_supplies=10.0
+}

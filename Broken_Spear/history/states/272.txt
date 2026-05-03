@@ -1,0 +1,32 @@
+
+state={
+	id=272
+	name="STATE_272"
+
+	history={
+		owner = GER
+		victory_points = {
+			4967 0 
+		}
+		buildings = {
+			infrastructure = 2
+			industrial_complex = 0
+			arms_factory = 0
+			air_base = 0
+			4967 = {
+				naval_base = 10
+			}
+
+		}
+		add_core_of = RAJ
+	}
+
+	provinces={
+		4967 
+	}
+	manpower=170572
+	buildings_max_level_factor=1.000
+	state_category=rural
+
+	local_supplies=10.0
+}

@@ -1,9 +1,0 @@
-owner=ORL
-controller=ORL
-add_core=FRA
-add_core=OCC
-add_core=ORL
-add_core=PRO
-trade_goods = cattle
-life_rating = 31
-terrain = plains

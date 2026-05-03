@@ -1,0 +1,33 @@
+
+state={
+	id=695
+	name="STATE_695"
+	resources={
+		aluminium=7.000
+		coal=1.000
+	}
+
+	history={
+		owner = X93
+		victory_points = {
+			6666 2 
+		}
+		buildings = {
+			infrastructure = 3
+			industrial_complex = 2
+			arms_factory = 1
+			air_base = 1
+
+		}
+		add_core_of = X93
+	}
+
+	provinces={
+		6666 9622 11590 
+	}
+	manpower=1104244
+	buildings_max_level_factor=1.000
+	state_category=large_town
+
+	local_supplies=10.0
+}

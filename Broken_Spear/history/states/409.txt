@@ -1,0 +1,30 @@
+
+state={
+	id=409
+	name="STATE_409"
+
+	history={
+		owner = X47
+		victory_points = {
+			1488 1 
+		}
+		buildings = {
+			infrastructure = 1
+			industrial_complex = 0
+			arms_factory = 0
+			air_base = 0
+
+		}
+		add_core_of = SIA
+		add_core_of = X47
+	}
+
+	provinces={
+		1253 1488 1990 4496 7353 7492 7531 7572 7675 8045 10371 10398 10411 12173 12345 
+	}
+	manpower=659316
+	buildings_max_level_factor=1.000
+	state_category=pastoral
+
+	local_supplies=10.0
+}

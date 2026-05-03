@@ -1,5 +1,0 @@
-owner=GER
-controller=GER
-trade_goods = timber
-life_rating = 15
-terrain = hills

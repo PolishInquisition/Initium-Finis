@@ -1,0 +1,16 @@
+characters={
+	X41_dogsomyn_tserendorj={
+		name=X41_dogsomyn_tserendorj
+		portraits={
+			civilian={
+				large="GFX_Asia_Generic_new_1"
+			}
+		}
+		country_leader={
+			ideology=minarchism
+			expire="1965.1.1.1"
+			id=-1
+		}
+	}
+
+}

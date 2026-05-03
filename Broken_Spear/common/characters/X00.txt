@@ -1,0 +1,16 @@
+characters={
+	X00_a._von_der_k.={
+		name=X00_a._von_der_k.
+		portraits={
+			civilian={
+				large="GFX_Europe_Generic_3"
+			}
+		}
+		country_leader={
+			ideology=dictatorship_neutral
+			expire="1965.1.1.1"
+			id=-1
+		}
+	}
+
+}

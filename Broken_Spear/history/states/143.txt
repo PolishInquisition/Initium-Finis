@@ -1,0 +1,32 @@
+
+state={
+	id=143
+	name="STATE_143"
+
+	history={
+		owner = COL
+		victory_points = {
+			12738 2 
+		}
+		buildings = {
+			infrastructure = 3
+			industrial_complex = 2
+			arms_factory = 0
+			air_base = 1
+			1988 = {
+				naval_base = 1
+			}
+
+		}
+		add_core_of = COL
+	}
+
+	provinces={
+		1988 2075 10728 12738 
+	}
+	manpower=1160088
+	buildings_max_level_factor=1.000
+	state_category=town
+
+	local_supplies=10.0
+}

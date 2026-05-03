@@ -1,0 +1,34 @@
+
+state={
+	id=458
+	name="STATE_458"
+	resources={
+		aluminium=23.000
+		coal=2.000
+		steel=36.000
+	}
+
+	history={
+		owner = X65
+		victory_points = {
+			590 3 
+		}
+		buildings = {
+			infrastructure = 3
+			industrial_complex = 3
+			arms_factory = 2
+			air_base = 2
+
+		}
+		add_core_of = X65
+	}
+
+	provinces={
+		590 752 755 769 3754 6770 6773 6789 9593 9732 9748 11718 
+	}
+	manpower=2445436
+	buildings_max_level_factor=1.000
+	state_category=city
+
+	local_supplies=10.0
+}

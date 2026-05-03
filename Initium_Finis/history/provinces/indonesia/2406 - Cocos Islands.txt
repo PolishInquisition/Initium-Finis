@@ -1,6 +1,0 @@
-owner=SUN
-controller=SUN
-add_core=SUN
-trade_goods = fish
-life_rating = 20
-terrain = plains

@@ -1,0 +1,24 @@
+
+state={
+	id=247
+	name="STATE_247"
+	resources={
+		aluminium=1.000
+		steel=4.000
+	}
+	impassable = yes
+
+	history={
+		owner = W12
+		add_core_of = W12
+	}
+
+	provinces={
+		1897 1962 7943 8035 10771 10779 10838 
+	}
+	manpower=277216
+	buildings_max_level_factor=1.000
+	state_category=wasteland
+
+	local_supplies=10.0
+}

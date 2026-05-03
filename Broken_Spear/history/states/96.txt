@@ -1,0 +1,36 @@
+
+state={
+	id=96
+	name="STATE_96"
+	resources={
+		chromium=70.000
+	}
+
+	history={
+		owner = BUL
+		victory_points = {
+			4112 1 
+		}
+		buildings = {
+			infrastructure = 3
+			industrial_complex = 1
+			arms_factory = 0
+			air_base = 1
+			9799 = {
+				naval_base = 10
+			}
+
+		}
+		add_core_of = BUL
+		add_claim_by = GRE
+	}
+
+	provinces={
+		785 928 1119 3927 4112 6864 6912 6992 7130 9799 9887 9921 9929 9941 10038 10041 10122 11778 11796 11848 11898 11917 12013 12096 
+	}
+	manpower=1947756
+	buildings_max_level_factor=1.000
+	state_category=town
+
+	local_supplies=10.0
+}

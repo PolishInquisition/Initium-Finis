@@ -1,0 +1,44 @@
+units = {
+	fleet = {
+		name = "1st Fleet"
+		naval_base = 1088
+		task_force = {
+			name = "1st Fleet"
+			location = 1088
+			ship = { name = "1st Lengeh Commerce Raider" definition = destroyer equipment = { destroyer_1 = { amount = 1 owner = X36 } } }
+			ship = { name = "1st Adana Commerce Raider" definition = destroyer equipment = { destroyer_1 = { amount = 1 owner = X36 } } }
+			ship = { name = "2nd Latakia Commerce Raider" definition = destroyer equipment = { destroyer_1 = { amount = 1 owner = X36 } } }
+			ship = { name = "1st Askaleh Commerce Raider" definition = destroyer equipment = { destroyer_1 = { amount = 1 owner = X36 } } }
+		}
+	}
+	fleet = {
+		name = "2nd Fleet"
+		naval_base = 1005
+		task_force = {
+			name = "2nd Fleet"
+			location = 1005
+			ship = { name = "2nd Adana Commerce Raider" definition = destroyer equipment = { destroyer_1 = { amount = 1 owner = X36 } } }
+		}
+	}
+}
+
+instant_effect = {
+	add_equipment_production = {
+		equipment = {
+			type = destroyer_1
+			creator = "X36"
+		}
+		requested_factories = 3
+		progress = 0.25
+		amount = 10
+	}
+	add_equipment_production = {
+		equipment = {
+			type = battleship_1
+			creator = "X36"
+		}
+		requested_factories = 8
+		progress = 0.25
+		amount = 3
+	}
+}

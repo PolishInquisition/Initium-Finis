@@ -1,0 +1,32 @@
+
+state={
+	id=147
+	name="STATE_147"
+
+	history={
+		owner = COL
+		victory_points = {
+			12845 2 
+		}
+		buildings = {
+			infrastructure = 2
+			industrial_complex = 2
+			arms_factory = 0
+			air_base = 0
+			10494 = {
+				naval_base = 10
+			}
+
+		}
+		add_core_of = COL
+	}
+
+	provinces={
+		1937 2023 2085 4969 8056 10494 10864 12703 12790 12845 
+	}
+	manpower=1595480
+	buildings_max_level_factor=1.000
+	state_category=rural
+
+	local_supplies=10.0
+}

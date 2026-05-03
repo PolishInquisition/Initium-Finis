@@ -1,0 +1,32 @@
+
+state={
+	id=559
+	name="STATE_559"
+
+	history={
+		owner = X73
+		victory_points = {
+			7321 1 
+		}
+		buildings = {
+			infrastructure = 2
+			industrial_complex = 0
+			arms_factory = 0
+			air_base = 0
+			7321 = {
+				naval_base = 4
+			}
+
+		}
+		add_core_of = X73
+	}
+
+	provinces={
+		1298 4301 7321 10175 10191 10219 12151 12162 
+	}
+	manpower=1091200
+	buildings_max_level_factor=1.000
+	state_category=large_island
+
+	local_supplies=10.0
+}

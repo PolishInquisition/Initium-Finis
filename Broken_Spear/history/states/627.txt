@@ -1,0 +1,36 @@
+
+state={
+	id=627
+	name="STATE_627"
+	resources={
+		coal=1.000
+	}
+
+	history={
+		owner = SPR
+		victory_points = {
+			7173 1 
+		}
+		buildings = {
+			infrastructure = 2
+			industrial_complex = 0
+			arms_factory = 0
+			air_base = 0
+			989 = {
+				naval_base = 6
+			}
+
+		}
+		add_core_of = SPR
+		add_claim_by = ALG
+	}
+
+	provinces={
+		989 1111 4097 4154 7116 7173 7958 
+	}
+	manpower=489100
+	buildings_max_level_factor=1.000
+	state_category=pastoral
+
+	local_supplies=10.0
+}

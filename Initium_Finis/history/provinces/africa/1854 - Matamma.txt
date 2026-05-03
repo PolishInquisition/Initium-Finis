@@ -1,8 +1,0 @@
-owner=YEM
-controller=YEM
-add_core=ETH
-add_core=X02
-add_core=YEM
-trade_goods = grain
-life_rating = 30
-terrain = mountain

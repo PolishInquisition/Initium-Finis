@@ -1,7 +1,0 @@
-owner=YRK
-controller=RAJ
-add_core=CHG
-add_core=YRK
-trade_goods = cotton
-life_rating = 32
-terrain = hills

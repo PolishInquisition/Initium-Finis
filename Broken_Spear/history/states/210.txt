@@ -1,0 +1,37 @@
+
+state={
+	id=210
+	name="STATE_210"
+	resources={
+		aluminium=1.000
+		tungsten=1.000
+	}
+
+	history={
+		owner = ENG
+		victory_points = {
+			6196 3 
+		}
+		buildings = {
+			infrastructure = 3
+			industrial_complex = 2
+			arms_factory = 1
+			dockyard = 1
+			air_base = 2
+			6196 = {
+				naval_base = 1
+			}
+
+		}
+		add_core_of = ENG
+	}
+
+	provinces={
+		6196 
+	}
+	manpower=54467
+	buildings_max_level_factor=1.000
+	state_category=city
+
+	local_supplies=10.0
+}

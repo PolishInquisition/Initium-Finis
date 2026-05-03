@@ -1,6 +1,0 @@
-owner=PER
-controller=PER
-trade_goods = tea
-life_rating = 35
-terrain = mountain
-naval_base = 1

@@ -1,0 +1,1598 @@
+focus_tree = {
+	id = PER_focus
+	
+	country = {
+		factor = 0
+		
+		modifier = {
+			add = 10
+			tag = PER
+		}
+	}
+	
+	default = no
+	
+	shared_focus = army_effort
+	shared_focus = aviation_effort
+	shared_focus = naval_effort
+	shared_focus = industrial_effort
+	shared_focus = political_effort
+
+	focus = {
+		id = reclaim_coresPER
+		icon = GFX_goal_generic_more_territorial_claims
+		text = reclaim_cores
+		x = 31
+		y = 0
+		cost = 10
+		available = {
+			is_subject = no
+		}
+		select_effect = {
+			set_variable = { unowned_cores_@ENG = 6 }
+			set_variable = { unowned_cores_@SOV = 20 }
+			set_variable = { unowned_cores_@X36 = 10 }
+			set_variable = { unowned_cores_@X71 = 10 }
+			set_variable = { revanchism = 0.000460 }
+			set_variable = { revanchism_stab = -0.000046 }
+			add_dynamic_modifier = { modifier = revanchism }
+			add_dynamic_modifier = { modifier = revanchism_fasc }
+		}
+
+		completion_reward = {
+			custom_effect_tooltip = revanchism_reduction
+			divide_variable = { revanchism = 2 }
+			divide_variable = { revanchism_stab = 2 }
+			add_political_power = 150
+			add_ideas = reclaim_cores_idea
+		}
+		ai_will_do = {
+			factor = 10
+			modifier = {
+				factor = 0
+				date < 1939.1.1
+			}
+		}
+	}
+
+	focus = {
+		id = raise_matterPERENG
+		icon = GFX_focus_generic_self_management
+		text = raise_matterENG
+		prerequisite = { focus = reclaim_coresPER }
+		bypass = {
+			OR = {
+				is_subject = yes
+				has_war_with = ENG
+				is_in_faction_with = ENG
+				NOT = { ENG = { any_owned_state = { is_core_of = ROOT } } }
+			}
+		}
+		x = 28
+		y = 1
+		cost = 10
+		available = {
+			NOT = { is_in_faction_with = ENG }
+			NOT = { has_war_with = ENG }
+		}
+		completion_reward = {
+			if = {
+				limit = { has_government = fascism }
+				add_popularity = { ideology = fascism popularity = 0.000006 }
+			}
+			else = {
+				add_popularity = { ideology = fascism popularity = -0.000006 }
+			}
+			add_political_power = 150
+			add_timed_idea = { idea = generic_military_industry days = 180 }
+		}
+		ai_will_do = {
+			factor = 1
+			modifier = {
+				factor = 0
+				NOT = { has_government = fascism }
+				NOT = { fascism > 0.35 }
+			}
+			modifier = {
+				factor = 0
+				ENG = { in_weak_faction = no }
+			}
+			modifier = {
+				factor = 0
+				any_country = {
+					has_subject = ENG
+					in_weak_faction = no
+				}
+			}
+			modifier = {
+				factor = 0
+				has_opinion = { target = ENG value > 0 }
+			}
+			modifier = {
+				factor = 5
+				has_government = fascism
+			}
+			modifier = {
+				factor = 2
+				has_opinion = { target = ENG value < -25 }
+			}
+			modifier = {
+				factor = 2
+				has_opinion = { target = ENG value < -50 }
+			}
+		}
+	}
+
+	focus = {
+		id = build_public_supportPERENG
+		icon = GFX_goal_generic_propaganda
+		text = build_public_supportENG
+		prerequisite = { focus = raise_matterPERENG }
+		bypass = {
+			OR = {
+				is_subject = yes
+				has_war_with = ENG
+				is_in_faction_with = ENG
+				NOT = { ENG = { any_owned_state = { is_core_of = ROOT } } }
+			}
+		}
+		x = 0
+		y = 1
+		relative_position_id = raise_matterPERENG
+		cost = 10
+		available = {
+			NOT = { is_in_faction_with = ENG }
+			NOT = { has_war_with = ENG }
+		}
+		completion_reward = {
+			if = {
+				limit = { has_government = fascism }
+				add_popularity = { ideology = fascism popularity = 0.000006 }
+			}
+			else = {
+				add_popularity = { ideology = fascism popularity = -0.000006 }
+			}
+			add_war_support = 0.000060
+			add_political_power = 150
+			add_timed_idea = { idea = generic_recruit_centers days = 180 }
+		}
+		ai_will_do = {
+			factor = 1
+			modifier = {
+				factor = 0
+				NOT = { has_government = fascism }
+				NOT = { fascism > 0.4 }
+			}
+			modifier = {
+				factor = 0
+				ENG = { in_weak_faction = no }
+			}
+			modifier = {
+				factor = 0
+				any_country = {
+					has_subject = ENG
+					in_weak_faction = no
+				}
+			}
+			modifier = {
+				factor = 0
+				has_opinion = { target = ENG value > 0 }
+			}
+			modifier = {
+				factor = 1.5
+				has_completed_focus = raise_matterPERENG
+			}
+			modifier = {
+				factor = 5
+				has_government = fascism
+			}
+			modifier = {
+				factor = 2
+				has_opinion = { target = ENG value < -25 }
+			}
+			modifier = {
+				factor = 2
+				has_opinion = { target = ENG value < -50 }
+			}
+		}
+	}
+
+	focus = {
+		id = territory_or_warPERENG
+		icon = GFX_goal_generic_territory_or_war
+		text = territory_or_warENG
+		prerequisite = { focus = build_public_supportPERENG }
+		bypass = {
+			OR = {
+				is_subject = yes
+				has_war_with = ENG
+				is_in_faction_with = ENG
+				NOT = { ENG = { any_owned_state = { is_core_of = ROOT } } }
+				NOT = { ENG = { any_owned_state = { is_capital = no } } }
+			}
+		}
+		x = 0
+		y = 1
+		relative_position_id = build_public_supportPERENG
+		cost = 3
+		available = {
+			NOT = { is_in_faction_with = ENG }
+			custom_trigger_tooltip = { tooltip = full_controll_of_our_cores }
+			hidden_trigger = {
+				ENG = {
+					all_owned_state = {
+						OR = {
+							NOT = { is_core_of = ROOT }
+							is_fully_controlled_by = ENG
+						}
+					}
+				}
+			}
+			has_war = no
+		}
+		completion_reward = {
+			ENG = {
+				country_event = { id = reconquest_wars.1 }
+				custom_effect_tooltip = needs_approval
+				hidden_effect = {
+					country_event = { id = reconquest_news.1 }
+				}
+			}
+			add_timed_idea = { idea = generic_rapid_mobilization days = 180 }
+			add_named_threat = { threat = 1 name = territory_or_war_NF_threat }
+		}
+		ai_will_do = {
+			factor = 1
+			modifier = {
+				factor = 0
+				ENG = { in_weak_faction = no }
+			}
+			modifier = {
+				factor = 0
+				any_country = {
+					has_subject = ENG
+					in_weak_faction = no
+				}
+			}
+			modifier = {
+				factor = 0
+				has_opinion = { target = ENG value > 0 }
+			}
+			modifier = {
+				factor = 1.5
+				has_completed_focus = build_public_supportPERENG
+			}
+			modifier = {
+				factor = 5
+				has_government = fascism
+			}
+			modifier = {
+				factor = 2
+				has_opinion = { target = ENG value < -25 }
+			}
+			modifier = {
+				factor = 2
+				has_opinion = { target = ENG value < -50 }
+			}
+		}
+	}
+
+	focus = {
+		id = war_planPERENG
+		icon = GFX_goal_generic_position_armies
+		text = war_planENG
+		prerequisite = { focus = territory_or_warPERENG }
+		bypass = {
+			OR = {
+				is_subject = yes
+				has_war_with = ENG
+				is_in_faction_with = ENG
+				NOT = { ENG = { any_owned_state = { is_core_of = ROOT } } }
+			}
+		}
+		x = 0
+		y = 1
+		relative_position_id = territory_or_warPERENG
+		cost = 4
+		available = {
+			NOT = { is_in_faction_with = ENG }
+			has_war = no
+		}
+		completion_reward = {
+			add_ai_strategy = { type = prepare_for_war id = ENG value = 1000 }
+			ENG = { add_ai_strategy = { type = prepare_for_war id = ROOT value = 1000 } }
+			random_list = {
+			    25 = { add_command_power = 25 }
+			    25 = { add_manpower = 10000 }
+			    25 = { add_war_support = 0.25 }
+			    25 = { army_experience = 10 }
+			}
+			add_timed_idea = { idea = generic_war_of_national_liberation days = 180 }
+			add_named_threat = { threat = 1 name = war_plan_NF_threat }
+		}
+		ai_will_do = {
+			factor = 1
+			modifier = {
+				factor = 0
+				ENG = { in_weak_faction = no }
+			}
+			modifier = {
+				factor = 0
+				any_country = {
+					has_subject = ENG
+					in_weak_faction = no
+				}
+			}
+			modifier = {
+				factor = 0
+				has_opinion = { target = ENG value > 0 }
+			}
+			modifier = {
+				factor = 2
+				has_completed_focus = territory_or_warPERENG
+			}
+			modifier = {
+				factor = 5
+				has_government = fascism
+			}
+			modifier = {
+				factor = 2
+				has_opinion = { target = ENG value < -25 }
+			}
+			modifier = {
+				factor = 2
+				has_opinion = { target = ENG value < -50 }
+			}
+		}
+	}
+
+	focus = {
+		id = declare_warPERENG
+		icon = GFX_goal_generic_army_tanks
+		text = declare_warENG
+		prerequisite = { focus = war_planPERENG }
+		bypass = {
+			OR = {
+				is_subject = yes
+				has_war_with = ENG
+				is_in_faction_with = ENG
+				NOT = { ENG = { any_owned_state = { is_core_of = ROOT } } }
+			}
+		}
+		x = 0
+		y = 1
+		relative_position_id = war_planPERENG
+		cost = 3
+		available = {
+			NOT = { is_in_faction_with = ENG }
+			has_war = no
+		}
+		completion_reward = {
+			declare_war_on = {
+				target = ENG
+				type = take_core_state
+				generator = { 219 }
+			}
+			add_named_threat = { threat = 1 name = declare_war_NF_threat }
+		}
+		ai_will_do = {
+			factor = 6
+			modifier = {
+				factor = 0
+				ENG = { in_weak_faction = no }
+			}
+			modifier = {
+				factor = 0
+				any_country = {
+					has_subject = ENG
+					in_weak_faction = no
+				}
+			}
+			modifier = {
+				factor = 0
+				has_opinion = { target = ENG value > 0 }
+			}
+			modifier = {
+				factor = 2
+				has_completed_focus = war_planPERENG
+			}
+			modifier = {
+				factor = 5
+				has_government = fascism
+			}
+			modifier = {
+				factor = 2
+				has_opinion = { target = ENG value < -25 }
+			}
+			modifier = {
+				factor = 2
+				has_opinion = { target = ENG value < -50 }
+			}
+		}
+	}
+
+	focus = {
+		id = cleanup_revanchismPERENG
+		icon = GFX_focus_generic_treaty
+		text = cleanup_revanchismENG
+		prerequisite = { focus = declare_warPERENG }
+		x = 0
+		y = 1
+		relative_position_id = declare_warPERENG
+		cost = 0
+		available = {
+			OR = {
+				is_in_faction_with = ENG
+				NOT = { ENG = { any_owned_state = { is_core_of = ROOT } } }
+			}
+			NOT = { has_war_with = ENG }
+		}
+		completion_reward = {
+			add_ai_strategy = { type = prepare_for_war id = ENG value = -1000 }
+			ENG = { add_ai_strategy = { type = prepare_for_war id = ROOT value = -1000 } }
+			custom_effect_tooltip = decrease_revanchism
+			subtract_from_variable = { revanchism = 0.000030 }
+			add_to_variable = { revanchism_stab = 0.000003 }
+			add_ideas = generic_national_unification
+		}
+		ai_will_do = {
+			factor = 100
+		}
+	}
+
+	focus = {
+		id = raise_matterPERSOV
+		icon = GFX_focus_generic_self_management
+		text = raise_matterSOV
+		prerequisite = { focus = reclaim_coresPER }
+		bypass = {
+			OR = {
+				is_subject = yes
+				has_war_with = SOV
+				is_in_faction_with = SOV
+				NOT = { SOV = { any_owned_state = { is_core_of = ROOT } } }
+			}
+		}
+		x = 30
+		y = 1
+		cost = 10
+		available = {
+			NOT = { is_in_faction_with = SOV }
+			NOT = { has_war_with = SOV }
+		}
+		completion_reward = {
+			if = {
+				limit = { has_government = fascism }
+				add_popularity = { ideology = fascism popularity = 0.000020 }
+			}
+			else = {
+				add_popularity = { ideology = fascism popularity = -0.000020 }
+			}
+			add_political_power = 150
+			add_timed_idea = { idea = generic_military_industry days = 180 }
+		}
+		ai_will_do = {
+			factor = 2
+			modifier = {
+				factor = 0
+				NOT = { has_government = fascism }
+				NOT = { fascism > 0.35 }
+			}
+			modifier = {
+				factor = 0
+				SOV = { in_weak_faction = no }
+			}
+			modifier = {
+				factor = 0
+				any_country = {
+					has_subject = SOV
+					in_weak_faction = no
+				}
+			}
+			modifier = {
+				factor = 0
+				has_opinion = { target = SOV value > 0 }
+			}
+			modifier = {
+				factor = 5
+				has_government = fascism
+			}
+			modifier = {
+				factor = 2
+				has_opinion = { target = SOV value < -25 }
+			}
+			modifier = {
+				factor = 2
+				has_opinion = { target = SOV value < -50 }
+			}
+		}
+	}
+
+	focus = {
+		id = build_public_supportPERSOV
+		icon = GFX_goal_generic_propaganda
+		text = build_public_supportSOV
+		prerequisite = { focus = raise_matterPERSOV }
+		bypass = {
+			OR = {
+				is_subject = yes
+				has_war_with = SOV
+				is_in_faction_with = SOV
+				NOT = { SOV = { any_owned_state = { is_core_of = ROOT } } }
+			}
+		}
+		x = 0
+		y = 1
+		relative_position_id = raise_matterPERSOV
+		cost = 10
+		available = {
+			NOT = { is_in_faction_with = SOV }
+			NOT = { has_war_with = SOV }
+		}
+		completion_reward = {
+			if = {
+				limit = { has_government = fascism }
+				add_popularity = { ideology = fascism popularity = 0.000020 }
+			}
+			else = {
+				add_popularity = { ideology = fascism popularity = -0.000020 }
+			}
+			add_war_support = 0.000200
+			add_political_power = 150
+			add_timed_idea = { idea = generic_recruit_centers days = 180 }
+		}
+		ai_will_do = {
+			factor = 2
+			modifier = {
+				factor = 0
+				NOT = { has_government = fascism }
+				NOT = { fascism > 0.4 }
+			}
+			modifier = {
+				factor = 0
+				SOV = { in_weak_faction = no }
+			}
+			modifier = {
+				factor = 0
+				any_country = {
+					has_subject = SOV
+					in_weak_faction = no
+				}
+			}
+			modifier = {
+				factor = 0
+				has_opinion = { target = SOV value > 0 }
+			}
+			modifier = {
+				factor = 1.5
+				has_completed_focus = raise_matterPERSOV
+			}
+			modifier = {
+				factor = 5
+				has_government = fascism
+			}
+			modifier = {
+				factor = 2
+				has_opinion = { target = SOV value < -25 }
+			}
+			modifier = {
+				factor = 2
+				has_opinion = { target = SOV value < -50 }
+			}
+		}
+	}
+
+	focus = {
+		id = territory_or_warPERSOV
+		icon = GFX_goal_generic_territory_or_war
+		text = territory_or_warSOV
+		prerequisite = { focus = build_public_supportPERSOV }
+		bypass = {
+			OR = {
+				is_subject = yes
+				has_war_with = SOV
+				is_in_faction_with = SOV
+				NOT = { SOV = { any_owned_state = { is_core_of = ROOT } } }
+				NOT = { SOV = { any_owned_state = { is_capital = no } } }
+			}
+		}
+		x = 0
+		y = 1
+		relative_position_id = build_public_supportPERSOV
+		cost = 3
+		available = {
+			NOT = { is_in_faction_with = SOV }
+			custom_trigger_tooltip = { tooltip = full_controll_of_our_cores }
+			hidden_trigger = {
+				SOV = {
+					all_owned_state = {
+						OR = {
+							NOT = { is_core_of = ROOT }
+							is_fully_controlled_by = SOV
+						}
+					}
+				}
+			}
+			has_war = no
+		}
+		completion_reward = {
+			SOV = {
+				country_event = { id = reconquest_wars.1 }
+				custom_effect_tooltip = needs_approval
+				hidden_effect = {
+					country_event = { id = reconquest_news.1 }
+				}
+			}
+			add_timed_idea = { idea = generic_rapid_mobilization days = 180 }
+			add_named_threat = { threat = 1 name = territory_or_war_NF_threat }
+		}
+		ai_will_do = {
+			factor = 2
+			modifier = {
+				factor = 0
+				SOV = { in_weak_faction = no }
+			}
+			modifier = {
+				factor = 0
+				any_country = {
+					has_subject = SOV
+					in_weak_faction = no
+				}
+			}
+			modifier = {
+				factor = 0
+				has_opinion = { target = SOV value > 0 }
+			}
+			modifier = {
+				factor = 1.5
+				has_completed_focus = build_public_supportPERSOV
+			}
+			modifier = {
+				factor = 5
+				has_government = fascism
+			}
+			modifier = {
+				factor = 2
+				has_opinion = { target = SOV value < -25 }
+			}
+			modifier = {
+				factor = 2
+				has_opinion = { target = SOV value < -50 }
+			}
+		}
+	}
+
+	focus = {
+		id = war_planPERSOV
+		icon = GFX_goal_generic_position_armies
+		text = war_planSOV
+		prerequisite = { focus = territory_or_warPERSOV }
+		bypass = {
+			OR = {
+				is_subject = yes
+				has_war_with = SOV
+				is_in_faction_with = SOV
+				NOT = { SOV = { any_owned_state = { is_core_of = ROOT } } }
+			}
+		}
+		x = 0
+		y = 1
+		relative_position_id = territory_or_warPERSOV
+		cost = 4
+		available = {
+			NOT = { is_in_faction_with = SOV }
+			has_war = no
+		}
+		completion_reward = {
+			add_ai_strategy = { type = prepare_for_war id = SOV value = 1000 }
+			SOV = { add_ai_strategy = { type = prepare_for_war id = ROOT value = 1000 } }
+			random_list = {
+			    25 = { add_command_power = 25 }
+			    25 = { add_manpower = 10000 }
+			    25 = { add_war_support = 0.25 }
+			    25 = { army_experience = 10 }
+			}
+			add_timed_idea = { idea = generic_war_of_national_liberation days = 180 }
+			add_named_threat = { threat = 1 name = war_plan_NF_threat }
+		}
+		ai_will_do = {
+			factor = 2
+			modifier = {
+				factor = 0
+				SOV = { in_weak_faction = no }
+			}
+			modifier = {
+				factor = 0
+				any_country = {
+					has_subject = SOV
+					in_weak_faction = no
+				}
+			}
+			modifier = {
+				factor = 0
+				has_opinion = { target = SOV value > 0 }
+			}
+			modifier = {
+				factor = 2
+				has_completed_focus = territory_or_warPERSOV
+			}
+			modifier = {
+				factor = 5
+				has_government = fascism
+			}
+			modifier = {
+				factor = 2
+				has_opinion = { target = SOV value < -25 }
+			}
+			modifier = {
+				factor = 2
+				has_opinion = { target = SOV value < -50 }
+			}
+		}
+	}
+
+	focus = {
+		id = declare_warPERSOV
+		icon = GFX_goal_generic_army_tanks
+		text = declare_warSOV
+		prerequisite = { focus = war_planPERSOV }
+		bypass = {
+			OR = {
+				is_subject = yes
+				has_war_with = SOV
+				is_in_faction_with = SOV
+				NOT = { SOV = { any_owned_state = { is_core_of = ROOT } } }
+			}
+		}
+		x = 0
+		y = 1
+		relative_position_id = war_planPERSOV
+		cost = 3
+		available = {
+			NOT = { is_in_faction_with = SOV }
+			has_war = no
+		}
+		completion_reward = {
+			declare_war_on = {
+				target = SOV
+				type = take_core_state
+				generator = { 592 594 }
+			}
+			add_named_threat = { threat = 1 name = declare_war_NF_threat }
+		}
+		ai_will_do = {
+			factor = 20
+			modifier = {
+				factor = 0
+				SOV = { in_weak_faction = no }
+			}
+			modifier = {
+				factor = 0
+				any_country = {
+					has_subject = SOV
+					in_weak_faction = no
+				}
+			}
+			modifier = {
+				factor = 0
+				has_opinion = { target = SOV value > 0 }
+			}
+			modifier = {
+				factor = 2
+				has_completed_focus = war_planPERSOV
+			}
+			modifier = {
+				factor = 5
+				has_government = fascism
+			}
+			modifier = {
+				factor = 2
+				has_opinion = { target = SOV value < -25 }
+			}
+			modifier = {
+				factor = 2
+				has_opinion = { target = SOV value < -50 }
+			}
+		}
+	}
+
+	focus = {
+		id = cleanup_revanchismPERSOV
+		icon = GFX_focus_generic_treaty
+		text = cleanup_revanchismSOV
+		prerequisite = { focus = declare_warPERSOV }
+		x = 0
+		y = 1
+		relative_position_id = declare_warPERSOV
+		cost = 0
+		available = {
+			OR = {
+				is_in_faction_with = SOV
+				NOT = { SOV = { any_owned_state = { is_core_of = ROOT } } }
+			}
+			NOT = { has_war_with = SOV }
+		}
+		completion_reward = {
+			add_ai_strategy = { type = prepare_for_war id = SOV value = -1000 }
+			SOV = { add_ai_strategy = { type = prepare_for_war id = ROOT value = -1000 } }
+			custom_effect_tooltip = decrease_revanchism
+			subtract_from_variable = { revanchism = 0.000100 }
+			add_to_variable = { revanchism_stab = 0.000010 }
+			add_ideas = generic_national_unification
+		}
+		ai_will_do = {
+			factor = 100
+		}
+	}
+
+	focus = {
+		id = raise_matterPERX36
+		icon = GFX_focus_generic_self_management
+		text = raise_matterX36
+		prerequisite = { focus = reclaim_coresPER }
+		bypass = {
+			OR = {
+				is_subject = yes
+				has_war_with = X36
+				is_in_faction_with = X36
+				NOT = { X36 = { any_owned_state = { is_core_of = ROOT } } }
+			}
+		}
+		x = 32
+		y = 1
+		cost = 10
+		available = {
+			NOT = { is_in_faction_with = X36 }
+			NOT = { has_war_with = X36 }
+		}
+		completion_reward = {
+			if = {
+				limit = { has_government = fascism }
+				add_popularity = { ideology = fascism popularity = 0.000010 }
+			}
+			else = {
+				add_popularity = { ideology = fascism popularity = -0.000010 }
+			}
+			add_political_power = 150
+			add_timed_idea = { idea = generic_military_industry days = 180 }
+		}
+		ai_will_do = {
+			factor = 1
+			modifier = {
+				factor = 0
+				NOT = { has_government = fascism }
+				NOT = { fascism > 0.35 }
+			}
+			modifier = {
+				factor = 0
+				X36 = { in_weak_faction = no }
+			}
+			modifier = {
+				factor = 0
+				any_country = {
+					has_subject = X36
+					in_weak_faction = no
+				}
+			}
+			modifier = {
+				factor = 0
+				has_opinion = { target = X36 value > 0 }
+			}
+			modifier = {
+				factor = 5
+				has_government = fascism
+			}
+			modifier = {
+				factor = 2
+				has_opinion = { target = X36 value < -25 }
+			}
+			modifier = {
+				factor = 2
+				has_opinion = { target = X36 value < -50 }
+			}
+		}
+	}
+
+	focus = {
+		id = build_public_supportPERX36
+		icon = GFX_goal_generic_propaganda
+		text = build_public_supportX36
+		prerequisite = { focus = raise_matterPERX36 }
+		bypass = {
+			OR = {
+				is_subject = yes
+				has_war_with = X36
+				is_in_faction_with = X36
+				NOT = { X36 = { any_owned_state = { is_core_of = ROOT } } }
+			}
+		}
+		x = 0
+		y = 1
+		relative_position_id = raise_matterPERX36
+		cost = 10
+		available = {
+			NOT = { is_in_faction_with = X36 }
+			NOT = { has_war_with = X36 }
+		}
+		completion_reward = {
+			if = {
+				limit = { has_government = fascism }
+				add_popularity = { ideology = fascism popularity = 0.000010 }
+			}
+			else = {
+				add_popularity = { ideology = fascism popularity = -0.000010 }
+			}
+			add_war_support = 0.000100
+			add_political_power = 150
+			add_timed_idea = { idea = generic_recruit_centers days = 180 }
+		}
+		ai_will_do = {
+			factor = 1
+			modifier = {
+				factor = 0
+				NOT = { has_government = fascism }
+				NOT = { fascism > 0.4 }
+			}
+			modifier = {
+				factor = 0
+				X36 = { in_weak_faction = no }
+			}
+			modifier = {
+				factor = 0
+				any_country = {
+					has_subject = X36
+					in_weak_faction = no
+				}
+			}
+			modifier = {
+				factor = 0
+				has_opinion = { target = X36 value > 0 }
+			}
+			modifier = {
+				factor = 1.5
+				has_completed_focus = raise_matterPERX36
+			}
+			modifier = {
+				factor = 5
+				has_government = fascism
+			}
+			modifier = {
+				factor = 2
+				has_opinion = { target = X36 value < -25 }
+			}
+			modifier = {
+				factor = 2
+				has_opinion = { target = X36 value < -50 }
+			}
+		}
+	}
+
+	focus = {
+		id = territory_or_warPERX36
+		icon = GFX_goal_generic_territory_or_war
+		text = territory_or_warX36
+		prerequisite = { focus = build_public_supportPERX36 }
+		bypass = {
+			OR = {
+				is_subject = yes
+				has_war_with = X36
+				is_in_faction_with = X36
+				NOT = { X36 = { any_owned_state = { is_core_of = ROOT } } }
+				NOT = { X36 = { any_owned_state = { is_capital = no } } }
+			}
+		}
+		x = 0
+		y = 1
+		relative_position_id = build_public_supportPERX36
+		cost = 3
+		available = {
+			NOT = { is_in_faction_with = X36 }
+			custom_trigger_tooltip = { tooltip = full_controll_of_our_cores }
+			hidden_trigger = {
+				X36 = {
+					all_owned_state = {
+						OR = {
+							NOT = { is_core_of = ROOT }
+							is_fully_controlled_by = X36
+						}
+					}
+				}
+			}
+			has_war = no
+		}
+		completion_reward = {
+			X36 = {
+				country_event = { id = reconquest_wars.1 }
+				custom_effect_tooltip = needs_approval
+				hidden_effect = {
+					country_event = { id = reconquest_news.1 }
+				}
+			}
+			add_timed_idea = { idea = generic_rapid_mobilization days = 180 }
+			add_named_threat = { threat = 1 name = territory_or_war_NF_threat }
+		}
+		ai_will_do = {
+			factor = 1
+			modifier = {
+				factor = 0
+				X36 = { in_weak_faction = no }
+			}
+			modifier = {
+				factor = 0
+				any_country = {
+					has_subject = X36
+					in_weak_faction = no
+				}
+			}
+			modifier = {
+				factor = 0
+				has_opinion = { target = X36 value > 0 }
+			}
+			modifier = {
+				factor = 1.5
+				has_completed_focus = build_public_supportPERX36
+			}
+			modifier = {
+				factor = 5
+				has_government = fascism
+			}
+			modifier = {
+				factor = 2
+				has_opinion = { target = X36 value < -25 }
+			}
+			modifier = {
+				factor = 2
+				has_opinion = { target = X36 value < -50 }
+			}
+		}
+	}
+
+	focus = {
+		id = war_planPERX36
+		icon = GFX_goal_generic_position_armies
+		text = war_planX36
+		prerequisite = { focus = territory_or_warPERX36 }
+		bypass = {
+			OR = {
+				is_subject = yes
+				has_war_with = X36
+				is_in_faction_with = X36
+				NOT = { X36 = { any_owned_state = { is_core_of = ROOT } } }
+			}
+		}
+		x = 0
+		y = 1
+		relative_position_id = territory_or_warPERX36
+		cost = 4
+		available = {
+			NOT = { is_in_faction_with = X36 }
+			has_war = no
+		}
+		completion_reward = {
+			add_ai_strategy = { type = prepare_for_war id = X36 value = 1000 }
+			X36 = { add_ai_strategy = { type = prepare_for_war id = ROOT value = 1000 } }
+			random_list = {
+			    25 = { add_command_power = 25 }
+			    25 = { add_manpower = 10000 }
+			    25 = { add_war_support = 0.25 }
+			    25 = { army_experience = 10 }
+			}
+			add_timed_idea = { idea = generic_war_of_national_liberation days = 180 }
+			add_named_threat = { threat = 1 name = war_plan_NF_threat }
+		}
+		ai_will_do = {
+			factor = 1
+			modifier = {
+				factor = 0
+				X36 = { in_weak_faction = no }
+			}
+			modifier = {
+				factor = 0
+				any_country = {
+					has_subject = X36
+					in_weak_faction = no
+				}
+			}
+			modifier = {
+				factor = 0
+				has_opinion = { target = X36 value > 0 }
+			}
+			modifier = {
+				factor = 2
+				has_completed_focus = territory_or_warPERX36
+			}
+			modifier = {
+				factor = 5
+				has_government = fascism
+			}
+			modifier = {
+				factor = 2
+				has_opinion = { target = X36 value < -25 }
+			}
+			modifier = {
+				factor = 2
+				has_opinion = { target = X36 value < -50 }
+			}
+		}
+	}
+
+	focus = {
+		id = declare_warPERX36
+		icon = GFX_goal_generic_army_tanks
+		text = declare_warX36
+		prerequisite = { focus = war_planPERX36 }
+		bypass = {
+			OR = {
+				is_subject = yes
+				has_war_with = X36
+				is_in_faction_with = X36
+				NOT = { X36 = { any_owned_state = { is_core_of = ROOT } } }
+			}
+		}
+		x = 0
+		y = 1
+		relative_position_id = war_planPERX36
+		cost = 3
+		available = {
+			NOT = { is_in_faction_with = X36 }
+			has_war = no
+		}
+		completion_reward = {
+			declare_war_on = {
+				target = X36
+				type = take_core_state
+				generator = { 361 }
+			}
+			add_named_threat = { threat = 1 name = declare_war_NF_threat }
+		}
+		ai_will_do = {
+			factor = 10
+			modifier = {
+				factor = 0
+				X36 = { in_weak_faction = no }
+			}
+			modifier = {
+				factor = 0
+				any_country = {
+					has_subject = X36
+					in_weak_faction = no
+				}
+			}
+			modifier = {
+				factor = 0
+				has_opinion = { target = X36 value > 0 }
+			}
+			modifier = {
+				factor = 2
+				has_completed_focus = war_planPERX36
+			}
+			modifier = {
+				factor = 5
+				has_government = fascism
+			}
+			modifier = {
+				factor = 2
+				has_opinion = { target = X36 value < -25 }
+			}
+			modifier = {
+				factor = 2
+				has_opinion = { target = X36 value < -50 }
+			}
+		}
+	}
+
+	focus = {
+		id = cleanup_revanchismPERX36
+		icon = GFX_focus_generic_treaty
+		text = cleanup_revanchismX36
+		prerequisite = { focus = declare_warPERX36 }
+		x = 0
+		y = 1
+		relative_position_id = declare_warPERX36
+		cost = 0
+		available = {
+			OR = {
+				is_in_faction_with = X36
+				NOT = { X36 = { any_owned_state = { is_core_of = ROOT } } }
+			}
+			NOT = { has_war_with = X36 }
+		}
+		completion_reward = {
+			add_ai_strategy = { type = prepare_for_war id = X36 value = -1000 }
+			X36 = { add_ai_strategy = { type = prepare_for_war id = ROOT value = -1000 } }
+			custom_effect_tooltip = decrease_revanchism
+			subtract_from_variable = { revanchism = 0.000050 }
+			add_to_variable = { revanchism_stab = 0.000005 }
+			add_ideas = generic_national_unification
+		}
+		ai_will_do = {
+			factor = 100
+		}
+	}
+
+	focus = {
+		id = raise_matterPERX71
+		icon = GFX_focus_generic_self_management
+		text = raise_matterX71
+		prerequisite = { focus = reclaim_coresPER }
+		bypass = {
+			OR = {
+				is_subject = yes
+				has_war_with = X71
+				is_in_faction_with = X71
+				NOT = { X71 = { any_owned_state = { is_core_of = ROOT } } }
+			}
+		}
+		x = 34
+		y = 1
+		cost = 10
+		available = {
+			NOT = { is_in_faction_with = X71 }
+			NOT = { has_war_with = X71 }
+		}
+		completion_reward = {
+			if = {
+				limit = { has_government = fascism }
+				add_popularity = { ideology = fascism popularity = 0.000010 }
+			}
+			else = {
+				add_popularity = { ideology = fascism popularity = -0.000010 }
+			}
+			add_political_power = 150
+			add_timed_idea = { idea = generic_military_industry days = 180 }
+		}
+		ai_will_do = {
+			factor = 1
+			modifier = {
+				factor = 0
+				NOT = { has_government = fascism }
+				NOT = { fascism > 0.35 }
+			}
+			modifier = {
+				factor = 0
+				X71 = { in_weak_faction = no }
+			}
+			modifier = {
+				factor = 0
+				any_country = {
+					has_subject = X71
+					in_weak_faction = no
+				}
+			}
+			modifier = {
+				factor = 0
+				has_opinion = { target = X71 value > 0 }
+			}
+			modifier = {
+				factor = 5
+				has_government = fascism
+			}
+			modifier = {
+				factor = 2
+				has_opinion = { target = X71 value < -25 }
+			}
+			modifier = {
+				factor = 2
+				has_opinion = { target = X71 value < -50 }
+			}
+		}
+	}
+
+	focus = {
+		id = build_public_supportPERX71
+		icon = GFX_goal_generic_propaganda
+		text = build_public_supportX71
+		prerequisite = { focus = raise_matterPERX71 }
+		bypass = {
+			OR = {
+				is_subject = yes
+				has_war_with = X71
+				is_in_faction_with = X71
+				NOT = { X71 = { any_owned_state = { is_core_of = ROOT } } }
+			}
+		}
+		x = 0
+		y = 1
+		relative_position_id = raise_matterPERX71
+		cost = 10
+		available = {
+			NOT = { is_in_faction_with = X71 }
+			NOT = { has_war_with = X71 }
+		}
+		completion_reward = {
+			if = {
+				limit = { has_government = fascism }
+				add_popularity = { ideology = fascism popularity = 0.000010 }
+			}
+			else = {
+				add_popularity = { ideology = fascism popularity = -0.000010 }
+			}
+			add_war_support = 0.000100
+			add_political_power = 150
+			add_timed_idea = { idea = generic_recruit_centers days = 180 }
+		}
+		ai_will_do = {
+			factor = 1
+			modifier = {
+				factor = 0
+				NOT = { has_government = fascism }
+				NOT = { fascism > 0.4 }
+			}
+			modifier = {
+				factor = 0
+				X71 = { in_weak_faction = no }
+			}
+			modifier = {
+				factor = 0
+				any_country = {
+					has_subject = X71
+					in_weak_faction = no
+				}
+			}
+			modifier = {
+				factor = 0
+				has_opinion = { target = X71 value > 0 }
+			}
+			modifier = {
+				factor = 1.5
+				has_completed_focus = raise_matterPERX71
+			}
+			modifier = {
+				factor = 5
+				has_government = fascism
+			}
+			modifier = {
+				factor = 2
+				has_opinion = { target = X71 value < -25 }
+			}
+			modifier = {
+				factor = 2
+				has_opinion = { target = X71 value < -50 }
+			}
+		}
+	}
+
+	focus = {
+		id = territory_or_warPERX71
+		icon = GFX_goal_generic_territory_or_war
+		text = territory_or_warX71
+		prerequisite = { focus = build_public_supportPERX71 }
+		bypass = {
+			OR = {
+				is_subject = yes
+				has_war_with = X71
+				is_in_faction_with = X71
+				NOT = { X71 = { any_owned_state = { is_core_of = ROOT } } }
+				NOT = { X71 = { any_owned_state = { is_capital = no } } }
+			}
+		}
+		x = 0
+		y = 1
+		relative_position_id = build_public_supportPERX71
+		cost = 3
+		available = {
+			NOT = { is_in_faction_with = X71 }
+			custom_trigger_tooltip = { tooltip = full_controll_of_our_cores }
+			hidden_trigger = {
+				X71 = {
+					all_owned_state = {
+						OR = {
+							NOT = { is_core_of = ROOT }
+							is_fully_controlled_by = X71
+						}
+					}
+				}
+			}
+			has_war = no
+		}
+		completion_reward = {
+			X71 = {
+				country_event = { id = reconquest_wars.1 }
+				custom_effect_tooltip = needs_approval
+				hidden_effect = {
+					country_event = { id = reconquest_news.1 }
+				}
+			}
+			add_timed_idea = { idea = generic_rapid_mobilization days = 180 }
+			add_named_threat = { threat = 1 name = territory_or_war_NF_threat }
+		}
+		ai_will_do = {
+			factor = 1
+			modifier = {
+				factor = 0
+				X71 = { in_weak_faction = no }
+			}
+			modifier = {
+				factor = 0
+				any_country = {
+					has_subject = X71
+					in_weak_faction = no
+				}
+			}
+			modifier = {
+				factor = 0
+				has_opinion = { target = X71 value > 0 }
+			}
+			modifier = {
+				factor = 1.5
+				has_completed_focus = build_public_supportPERX71
+			}
+			modifier = {
+				factor = 5
+				has_government = fascism
+			}
+			modifier = {
+				factor = 2
+				has_opinion = { target = X71 value < -25 }
+			}
+			modifier = {
+				factor = 2
+				has_opinion = { target = X71 value < -50 }
+			}
+		}
+	}
+
+	focus = {
+		id = war_planPERX71
+		icon = GFX_goal_generic_position_armies
+		text = war_planX71
+		prerequisite = { focus = territory_or_warPERX71 }
+		bypass = {
+			OR = {
+				is_subject = yes
+				has_war_with = X71
+				is_in_faction_with = X71
+				NOT = { X71 = { any_owned_state = { is_core_of = ROOT } } }
+			}
+		}
+		x = 0
+		y = 1
+		relative_position_id = territory_or_warPERX71
+		cost = 4
+		available = {
+			NOT = { is_in_faction_with = X71 }
+			has_war = no
+		}
+		completion_reward = {
+			add_ai_strategy = { type = prepare_for_war id = X71 value = 1000 }
+			X71 = { add_ai_strategy = { type = prepare_for_war id = ROOT value = 1000 } }
+			random_list = {
+			    25 = { add_command_power = 25 }
+			    25 = { add_manpower = 10000 }
+			    25 = { add_war_support = 0.25 }
+			    25 = { army_experience = 10 }
+			}
+			add_timed_idea = { idea = generic_war_of_national_liberation days = 180 }
+			add_named_threat = { threat = 1 name = war_plan_NF_threat }
+		}
+		ai_will_do = {
+			factor = 1
+			modifier = {
+				factor = 0
+				X71 = { in_weak_faction = no }
+			}
+			modifier = {
+				factor = 0
+				any_country = {
+					has_subject = X71
+					in_weak_faction = no
+				}
+			}
+			modifier = {
+				factor = 0
+				has_opinion = { target = X71 value > 0 }
+			}
+			modifier = {
+				factor = 2
+				has_completed_focus = territory_or_warPERX71
+			}
+			modifier = {
+				factor = 5
+				has_government = fascism
+			}
+			modifier = {
+				factor = 2
+				has_opinion = { target = X71 value < -25 }
+			}
+			modifier = {
+				factor = 2
+				has_opinion = { target = X71 value < -50 }
+			}
+		}
+	}
+
+	focus = {
+		id = declare_warPERX71
+		icon = GFX_goal_generic_army_tanks
+		text = declare_warX71
+		prerequisite = { focus = war_planPERX71 }
+		bypass = {
+			OR = {
+				is_subject = yes
+				has_war_with = X71
+				is_in_faction_with = X71
+				NOT = { X71 = { any_owned_state = { is_core_of = ROOT } } }
+			}
+		}
+		x = 0
+		y = 1
+		relative_position_id = war_planPERX71
+		cost = 3
+		available = {
+			NOT = { is_in_faction_with = X71 }
+			has_war = no
+		}
+		completion_reward = {
+			declare_war_on = {
+				target = X71
+				type = take_core_state
+				generator = { 550 }
+			}
+			add_named_threat = { threat = 1 name = declare_war_NF_threat }
+		}
+		ai_will_do = {
+			factor = 10
+			modifier = {
+				factor = 0
+				X71 = { in_weak_faction = no }
+			}
+			modifier = {
+				factor = 0
+				any_country = {
+					has_subject = X71
+					in_weak_faction = no
+				}
+			}
+			modifier = {
+				factor = 0
+				has_opinion = { target = X71 value > 0 }
+			}
+			modifier = {
+				factor = 2
+				has_completed_focus = war_planPERX71
+			}
+			modifier = {
+				factor = 5
+				has_government = fascism
+			}
+			modifier = {
+				factor = 2
+				has_opinion = { target = X71 value < -25 }
+			}
+			modifier = {
+				factor = 2
+				has_opinion = { target = X71 value < -50 }
+			}
+		}
+	}
+
+	focus = {
+		id = cleanup_revanchismPERX71
+		icon = GFX_focus_generic_treaty
+		text = cleanup_revanchismX71
+		prerequisite = { focus = declare_warPERX71 }
+		x = 0
+		y = 1
+		relative_position_id = declare_warPERX71
+		cost = 0
+		available = {
+			OR = {
+				is_in_faction_with = X71
+				NOT = { X71 = { any_owned_state = { is_core_of = ROOT } } }
+			}
+			NOT = { has_war_with = X71 }
+		}
+		completion_reward = {
+			add_ai_strategy = { type = prepare_for_war id = X71 value = -1000 }
+			X71 = { add_ai_strategy = { type = prepare_for_war id = ROOT value = -1000 } }
+			custom_effect_tooltip = decrease_revanchism
+			subtract_from_variable = { revanchism = 0.000050 }
+			add_to_variable = { revanchism_stab = 0.000005 }
+			add_ideas = generic_national_unification
+		}
+		ai_will_do = {
+			factor = 100
+		}
+	}
+
+}

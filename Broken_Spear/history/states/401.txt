@@ -1,0 +1,33 @@
+
+state={
+	id=401
+	name="STATE_401"
+	resources={
+		aluminium=8.000
+		coal=2.000
+	}
+
+	history={
+		owner = X45
+		victory_points = {
+			4540 1 
+		}
+		buildings = {
+			infrastructure = 2
+			industrial_complex = 0
+			arms_factory = 0
+			air_base = 0
+
+		}
+		add_core_of = X45
+	}
+
+	provinces={
+		1441 1523 1534 1564 1621 4449 4540 4569 7449 7607 10333 10370 10391 10516 10717 12346 12361 12463 
+	}
+	manpower=1009720
+	buildings_max_level_factor=1.000
+	state_category=rural
+
+	local_supplies=10.0
+}

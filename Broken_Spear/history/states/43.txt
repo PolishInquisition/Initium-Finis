@@ -1,0 +1,38 @@
+
+state={
+	id=43
+	name="STATE_43"
+	resources={
+		steel=1.000
+		tungsten=1.000
+	}
+
+	history={
+		owner = BAN
+		victory_points = {
+			1403 0 
+		}
+		buildings = {
+			infrastructure = 1
+			industrial_complex = 0
+			arms_factory = 0
+			air_base = 0
+			1403 = {
+				naval_base = 10
+			}
+
+		}
+		add_core_of = X07
+		add_core_of = X67
+		add_claim_by = RAJ
+	}
+
+	provinces={
+		1296 1315 1385 1403 4275 4408 7295 10217 12125 12238 12292 
+	}
+	manpower=611712
+	buildings_max_level_factor=1.000
+	state_category=pastoral
+
+	local_supplies=10.0
+}

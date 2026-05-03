@@ -1,7 +1,0 @@
-owner=X06
-controller=X06
-add_core=FRA
-add_core=X06
-trade_goods = grain
-life_rating = 31
-terrain = plains

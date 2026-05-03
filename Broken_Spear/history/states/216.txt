@@ -1,0 +1,33 @@
+
+state={
+	id=216
+	name="STATE_216"
+
+	history={
+		owner = ENG
+		victory_points = {
+			11221 6 
+		}
+		buildings = {
+			infrastructure = 4
+			industrial_complex = 6
+			arms_factory = 3
+			dockyard = 2
+			air_base = 3
+			221 = {
+				naval_base = 10
+			}
+
+		}
+		add_core_of = ENG
+	}
+
+	provinces={
+		221 271 296 322 3287 11221 11253 11374 
+	}
+	manpower=3235344
+	buildings_max_level_factor=1.000
+	state_category=megalopolis
+
+	local_supplies=10.0
+}

@@ -1,0 +1,16 @@
+characters={
+	W13_amaury_von_lunen={
+		name=W13_amaury_von_lunen
+		portraits={
+			civilian={
+				large="GFX_portrait_ISR_david_ben_gurion"
+			}
+		}
+		country_leader={
+			ideology=liberalism
+			expire="1965.1.1.1"
+			id=-1
+		}
+	}
+
+}

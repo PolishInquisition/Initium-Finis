@@ -1,0 +1,16 @@
+characters={
+	MAL_al_mukammal_riayat_shah={
+		name=MAL_al_mukammal_riayat_shah
+		portraits={
+			civilian={
+				large="GFX_Malaya_Iskander_I_Perak"
+			}
+		}
+		country_leader={
+			ideology=absolute_monarchy
+			expire="1965.1.1.1"
+			id=-1
+		}
+	}
+
+}

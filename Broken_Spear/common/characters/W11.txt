@@ -1,0 +1,16 @@
+characters={
+	W11_hubert_fisher={
+		name=W11_hubert_fisher
+		portraits={
+			civilian={
+				large="GFX_Britain_Stanley_Baldwin"
+			}
+		}
+		country_leader={
+			ideology=liberalism
+			expire="1965.1.1.1"
+			id=-1
+		}
+	}
+
+}

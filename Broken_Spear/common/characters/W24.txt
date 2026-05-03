@@ -1,0 +1,16 @@
+characters={
+	W24_manchaary_okhlopkov={
+		name=W24_manchaary_okhlopkov
+		portraits={
+			civilian={
+				large="GFX_kaz_ilyas_zhansugurov"
+			}
+		}
+		country_leader={
+			ideology=dictatorship_neutral
+			expire="1965.1.1.1"
+			id=-1
+		}
+	}
+
+}

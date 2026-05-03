@@ -1,0 +1,33 @@
+
+state={
+	id=282
+	name="STATE_282"
+	resources={
+		coal=6.000
+	}
+
+	history={
+		owner = GER
+		victory_points = {
+			494 2 
+		}
+		buildings = {
+			infrastructure = 3
+			industrial_complex = 2
+			arms_factory = 0
+			air_base = 1
+
+		}
+		add_core_of = X71
+		add_claim_by = GER
+	}
+
+	provinces={
+		424 445 469 494 543 583 3418 3462 3585 5283 6418 6440 6470 6592 7857 9414 9429 9541 9555 9569 11401 11414 11432 11525 11556 
+	}
+	manpower=6328428
+	buildings_max_level_factor=1.000
+	state_category=megalopolis
+
+	local_supplies=10.0
+}

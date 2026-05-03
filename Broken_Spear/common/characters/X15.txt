@@ -1,0 +1,16 @@
+characters={
+	X15_king_dang_ii={
+		name=X15_king_dang_ii
+		portraits={
+			civilian={
+				large="GFX_China_Chiang_Kai_Shek"
+			}
+		}
+		country_leader={
+			ideology=absolute_monarchy
+			expire="1965.1.1.1"
+			id=-1
+		}
+	}
+
+}

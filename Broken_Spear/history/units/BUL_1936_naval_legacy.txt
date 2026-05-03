@@ -1,0 +1,47 @@
+units = {
+	fleet = {
+		name = "1st Fleet"
+		naval_base = 657
+		task_force = {
+			name = "1st Fleet"
+			location = 657
+			ship = { name = "1st Burgas Dreadnought" definition = battleship equipment = { battleship_2 = { amount = 1 owner = BUL } } }
+			ship = { name = "1st Constanta Dreadnought" definition = battleship equipment = { battleship_2 = { amount = 1 owner = BUL } } }
+			ship = { name = "Sofia" definition = battleship equipment = { battleship_2 = { amount = 1 owner = BUL } } }
+			ship = { name = "Varna" definition = battleship equipment = { battleship_2 = { amount = 1 owner = BUL } } }
+			ship = { name = "Plovdiv" definition = battleship equipment = { battleship_2 = { amount = 1 owner = BUL } } }
+			ship = { name = "Burgas" definition = battleship equipment = { battleship_2 = { amount = 1 owner = BUL } } }
+			ship = { name = "Stara Zagora" definition = battleship equipment = { battleship_2 = { amount = 1 owner = BUL } } }
+			ship = { name = "1st Kirklareli Dreadnought" definition = battleship equipment = { battleship_2 = { amount = 1 owner = BUL } } }
+			ship = { name = "2nd Kirklareli Battleship" definition = heavy_cruiser equipment = { heavy_cruiser_2 = { amount = 1 owner = BUL } } }
+			ship = { name = "1st Kirklareli Battleship" definition = heavy_cruiser equipment = { heavy_cruiser_2 = { amount = 1 owner = BUL } } }
+			ship = { name = "1st Edessa Battleship" definition = heavy_cruiser equipment = { heavy_cruiser_2 = { amount = 1 owner = BUL } } }
+			ship = { name = "Maritsa" definition = light_cruiser equipment = { light_cruiser_1 = { amount = 1 owner = BUL } } }
+			ship = { name = "Vit" definition = light_cruiser equipment = { light_cruiser_1 = { amount = 1 owner = BUL } } }
+			ship = { name = "Iskar" definition = light_cruiser equipment = { light_cruiser_1 = { amount = 1 owner = BUL } } }
+			ship = { name = "Osam" definition = light_cruiser equipment = { light_cruiser_1 = { amount = 1 owner = BUL } } }
+			ship = { name = "Osam 2" definition = light_cruiser equipment = { light_cruiser_1 = { amount = 1 owner = BUL } } }
+		}
+	}
+}
+
+instant_effect = {
+	add_equipment_production = {
+		equipment = {
+			type = destroyer_1
+			creator = "BUL"
+		}
+		requested_factories = 3
+		progress = 0.25
+		amount = 10
+	}
+	add_equipment_production = {
+		equipment = {
+			type = battleship_2
+			creator = "BUL"
+		}
+		requested_factories = 8
+		progress = 0.25
+		amount = 3
+	}
+}

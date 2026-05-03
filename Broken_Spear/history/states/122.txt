@@ -1,0 +1,36 @@
+
+state={
+	id=122
+	name="STATE_122"
+	resources={
+		aluminium=1.000
+		steel=4.000
+	}
+
+	history={
+		owner = CHL
+		victory_points = {
+			8229 1 
+		}
+		buildings = {
+			infrastructure = 3
+			industrial_complex = 1
+			arms_factory = 0
+			air_base = 1
+			5121 = {
+				naval_base = 6
+			}
+
+		}
+		add_core_of = CHL
+	}
+
+	provinces={
+		5121 8229 8251 12920 12984 
+	}
+	manpower=1398312
+	buildings_max_level_factor=1.000
+	state_category=rural
+
+	local_supplies=10.0
+}

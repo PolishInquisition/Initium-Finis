@@ -1,0 +1,20 @@
+
+state={
+	id=704
+	name="STATE_704"
+	impassable = yes
+
+	history={
+		owner = SPR
+		add_core_of = SPR
+	}
+
+	provinces={
+		1095 1958 7041 8088 
+	}
+	manpower=4448
+	buildings_max_level_factor=1.000
+	state_category=wasteland
+
+	local_supplies=10.0
+}

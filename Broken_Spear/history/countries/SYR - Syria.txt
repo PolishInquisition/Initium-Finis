@@ -1,0 +1,124 @@
+﻿capital = 327
+set_research_slots = 3
+
+oob = "SYR_OOB"
+
+# Starting tech
+# Research Bonuses
+
+set_country_flag = conv_levant
+set_convoys = 0
+
+set_politics = {
+    ruling_party = absolutist
+    last_election = "1836.1.1"
+    election_frequency = 48
+    elections_allowed = no
+}
+
+set_popularities = {
+	absolutist = 90
+	democratic = 7
+	neutrality = 3
+}
+
+add_opinion_modifier = { target = ALG modifier = positive_55 }
+add_opinion_modifier = { target = CHL modifier = negative_30 }
+add_opinion_modifier = { target = COL modifier = negative_20 }
+add_opinion_modifier = { target = GER modifier = negative_10 }
+add_opinion_modifier = { target = MEX modifier = negative_20 }
+add_opinion_modifier = { target = MOR modifier = positive_55 }
+add_opinion_modifier = { target = SPR modifier = negative_10 }
+add_opinion_modifier = { target = W00 modifier = negative_10 }
+add_opinion_modifier = { target = X02 modifier = positive_30 }
+add_opinion_modifier = { target = X06 modifier = positive_30 }
+add_opinion_modifier = { target = X27 modifier = negative_10 }
+add_opinion_modifier = { target = X36 modifier = negative_20 }
+add_opinion_modifier = { target = X39 modifier = positive_20 }
+add_opinion_modifier = { target = X41 modifier = negative_10 }
+add_opinion_modifier = { target = X54 modifier = positive_30 }
+add_opinion_modifier = { target = X57 modifier = positive_30 }
+add_opinion_modifier = { target = X65 modifier = negative_10 }
+add_opinion_modifier = { target = X66 modifier = positive_30 }
+add_opinion_modifier = { target = X79 modifier = positive_30 }
+add_opinion_modifier = { target = X95 modifier = negative_10 }
+
+
+add_ideas = {
+	volunteer_only
+	civilian_economy
+	export_focus
+	culture_mashriqi
+}
+
+recruit_character = SYR_king_sa'd_al_din
+
+if = {
+	limit = {
+		has_dlc = "La Resistance"
+	}
+	create_operative_leader = {
+		name = "Paymaneh al-Ghazzawi"
+		GFX = "gfx/leaders/Arabia/portrait_arabia_generic_operative_female_1.dds"
+		traits = {}
+		bypass_recruitment = no
+		available_to_spy_master = yes
+		female = yes
+		nationalities = { SYR }
+	}
+
+	create_operative_leader = {
+		name = "Maryam ibn Ishaq"
+		GFX = "gfx/leaders/Arabia/portrait_arabia_generic_operative_female_2.dds"
+		traits = {}
+		bypass_recruitment = no
+		available_to_spy_master = yes
+		female = yes
+		nationalities = { SYR }
+	}
+
+	create_operative_leader = {
+		name = "Adila al-Ghazzawi"
+		GFX = "gfx/leaders/Arabia/portrait_arabia_generic_operative_female_3.dds"
+		traits = {}
+		bypass_recruitment = no
+		available_to_spy_master = yes
+		female = yes
+		nationalities = { SYR }
+	}
+
+	create_operative_leader = {
+		name = "Muhammad ibn Ja'far"
+		GFX = "gfx/leaders/Arabia/portrait_arabia_generic_operative_male_1.dds"
+		traits = {}
+		bypass_recruitment = no
+		available_to_spy_master = yes
+		nationalities = { SYR }
+	}
+
+	create_operative_leader = {
+		name = "Abd Allah ibn Ahmad"
+		GFX = "gfx/leaders/Arabia/portrait_arabia_generic_operative_male_2.dds"
+		traits = {}
+		bypass_recruitment = no
+		available_to_spy_master = yes
+		nationalities = { SYR }
+	}
+
+}
+### VARIANTS ###
+if = {
+	limit = { not = { has_dlc = "Man the Guns" } }
+}
+if = {
+	limit = { has_dlc = "Man the Guns" }
+}
+### PLANE DESIGNS ###
+if = {
+	limit = { has_dlc = "By Blood Alone" }
+}
+### TANK DESIGNS ###
+if = {
+	limit = { has_dlc = "No Step Back" }
+}
+

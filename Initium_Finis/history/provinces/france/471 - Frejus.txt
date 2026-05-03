@@ -1,9 +1,0 @@
-owner=X03
-controller=X03
-add_core=FRA
-add_core=OCC
-add_core=PRO
-add_core=X03
-trade_goods = silk
-life_rating = 32
-terrain = farmlands

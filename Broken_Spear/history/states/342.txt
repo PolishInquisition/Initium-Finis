@@ -1,0 +1,34 @@
+
+state={
+	id=342
+	name="STATE_342"
+
+	history={
+		owner = X36
+		victory_points = {
+			1130 1 
+		}
+		buildings = {
+			infrastructure = 2
+			industrial_complex = 1
+			arms_factory = 0
+			air_base = 0
+			1130 = {
+				naval_base = 2
+			}
+
+		}
+		add_core_of = X36
+		add_core_of = X63
+		add_claim_by = SAU
+	}
+
+	provinces={
+		1041 1062 1118 1127 1130 1186 1198 1204 4047 4057 4060 4063 4120 4136 4151 4194 7063 7082 7139 7206 7209 9980 9992 10046 10049 10117 10120 10123 11954 12025 12079 12088 12094 13078 
+	}
+	manpower=725849
+	buildings_max_level_factor=1.000
+	state_category=large_island
+
+	local_supplies=10.0
+}

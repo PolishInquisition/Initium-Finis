@@ -1,0 +1,83 @@
+units = {
+	fleet = {
+		name = "3rd Fleet"
+		naval_base = 12921
+		task_force = {
+			name = "3rd Fleet"
+			location = 4885
+			ship = { name = "Orion" definition = battleship start_experience_factor = 0.2 equipment = { ship_hull_heavy_1 = { amount = 1 owner = ENG version_name = "Early Battleship" } } }
+			ship = { name = "Collingwood" definition = battleship start_experience_factor = 0.15 equipment = { ship_hull_heavy_1 = { amount = 1 owner = ENG version_name = "Early Battleship" } } }
+			ship = { name = "Nelson" definition = light_cruiser start_experience_factor = 0.2 equipment = { ship_hull_cruiser_1 = { amount = 1 owner = ENG version_name = "Early Light Cruiser" } } }
+			ship = { name = "Shannon" definition = light_cruiser start_experience_factor = 0.14588 equipment = { ship_hull_cruiser_1 = { amount = 1 owner = ENG version_name = "Early Light Cruiser" } } }
+		}
+	}
+	fleet = {
+		name = "1st Fleet"
+		naval_base = 221
+		task_force = {
+			name = "1st Fleet"
+			location = 221
+			ship = { name = "Dreadnought" definition = battleship start_experience_factor = 0.14473 equipment = { ship_hull_heavy_1 = { amount = 1 owner = ENG version_name = "Early Battleship" } } }
+			ship = { name = "Superb" definition = battleship start_experience_factor = 0.15 equipment = { ship_hull_heavy_1 = { amount = 1 owner = ENG version_name = "Early Battleship" } } }
+			ship = { name = "Hercules" definition = battleship start_experience_factor = 0.2 equipment = { ship_hull_heavy_1 = { amount = 1 owner = ENG version_name = "Early Battleship" } } }
+			ship = { name = "Colossus" definition = battleship start_experience_factor = 0.2 equipment = { ship_hull_heavy_1 = { amount = 1 owner = ENG version_name = "Early Battleship" } } }
+			ship = { name = "Hercules 2" definition = battleship start_experience_factor = 0.2 equipment = { ship_hull_heavy_1 = { amount = 1 owner = ENG version_name = "Early Battleship" } } }
+			ship = { name = "Bellerophon" definition = battleship start_experience_factor = 0.15 equipment = { ship_hull_heavy_1 = { amount = 1 owner = ENG version_name = "Early Battleship" } } }
+			ship = { name = "Neptune" definition = battleship start_experience_factor = 0.2 equipment = { ship_hull_heavy_1 = { amount = 1 owner = ENG version_name = "Early Battleship" } } }
+			ship = { name = "Temeraire" definition = battleship start_experience_factor = 0.15 equipment = { ship_hull_heavy_1 = { amount = 1 owner = ENG version_name = "Early Battleship" } } }
+			ship = { name = "St Vincent" definition = battleship start_experience_factor = 0.15 equipment = { ship_hull_heavy_1 = { amount = 1 owner = ENG version_name = "Early Battleship" } } }
+			ship = { name = "Monarch" definition = battleship start_experience_factor = 0.25 equipment = { ship_hull_heavy_1 = { amount = 1 owner = ENG version_name = "Early Battleship" } } }
+			ship = { name = "Conqueror" definition = battleship start_experience_factor = 0.25 equipment = { ship_hull_heavy_1 = { amount = 1 owner = ENG version_name = "Early Battleship" } } }
+			ship = { name = "Thunderer" definition = battleship start_experience_factor = 0.25 equipment = { ship_hull_heavy_1 = { amount = 1 owner = ENG version_name = "Early Battleship" } } }
+			ship = { name = "King George V" definition = battleship start_experience_factor = 0.25 equipment = { ship_hull_heavy_1 = { amount = 1 owner = ENG version_name = "Early Battleship" } } }
+			ship = { name = "Revenge" definition = heavy_cruiser start_experience_factor = 0.07658 equipment = { ship_hull_cruiser_1 = { amount = 1 owner = ENG version_name = "Early Heavy Cruiser" } } }
+			ship = { name = "Caesar" definition = heavy_cruiser start_experience_factor = 0.14531 equipment = { ship_hull_cruiser_1 = { amount = 1 owner = ENG version_name = "Early Heavy Cruiser" } } }
+			ship = { name = "Galatea" definition = light_cruiser start_experience_factor = 0.14499 equipment = { ship_hull_cruiser_1 = { amount = 1 owner = ENG version_name = "Early Light Cruiser" } } }
+			ship = { name = "Theseus" definition = light_cruiser start_experience_factor = 0.2 equipment = { ship_hull_cruiser_1 = { amount = 1 owner = ENG version_name = "Early Light Cruiser" } } }
+			ship = { name = "Northampton" definition = light_cruiser start_experience_factor = 0.2 equipment = { ship_hull_cruiser_1 = { amount = 1 owner = ENG version_name = "Early Light Cruiser" } } }
+			ship = { name = "Cresent" definition = light_cruiser start_experience_factor = 0.2 equipment = { ship_hull_cruiser_1 = { amount = 1 owner = ENG version_name = "Early Light Cruiser" } } }
+			ship = { name = "Powerful" definition = light_cruiser start_experience_factor = 0.2 equipment = { ship_hull_cruiser_1 = { amount = 1 owner = ENG version_name = "Early Light Cruiser" } } }
+			ship = { name = "Aurora" definition = light_cruiser start_experience_factor = 0.15 equipment = { ship_hull_cruiser_1 = { amount = 1 owner = ENG version_name = "Early Light Cruiser" } } }
+			ship = { name = "Blake" definition = light_cruiser start_experience_factor = 0.15 equipment = { ship_hull_cruiser_1 = { amount = 1 owner = ENG version_name = "Early Light Cruiser" } } }
+			ship = { name = "Blenheim" definition = light_cruiser start_experience_factor = 0.15 equipment = { ship_hull_cruiser_1 = { amount = 1 owner = ENG version_name = "Early Light Cruiser" } } }
+			ship = { name = "Warspite" definition = light_cruiser start_experience_factor = 0.14547 equipment = { ship_hull_cruiser_1 = { amount = 1 owner = ENG version_name = "Early Light Cruiser" } } }
+			ship = { name = "Imperieuse" definition = light_cruiser start_experience_factor = 0.10286 equipment = { ship_hull_cruiser_1 = { amount = 1 owner = ENG version_name = "Early Light Cruiser" } } }
+			ship = { name = "Narcissus" definition = light_cruiser start_experience_factor = 0.1374 equipment = { ship_hull_cruiser_1 = { amount = 1 owner = ENG version_name = "Early Light Cruiser" } } }
+			ship = { name = "Australia" definition = light_cruiser start_experience_factor = 0.25 equipment = { ship_hull_cruiser_1 = { amount = 1 owner = ENG version_name = "Early Light Cruiser" } } }
+			ship = { name = "Undaunted" definition = light_cruiser start_experience_factor = 0.25 equipment = { ship_hull_cruiser_1 = { amount = 1 owner = ENG version_name = "Early Light Cruiser" } } }
+		}
+	}
+	fleet = {
+		name = "2nd Fleet"
+		naval_base = 12921
+		task_force = {
+			name = "2nd Fleet"
+			location = 2776
+			ship = { name = "Vanguard" definition = battleship start_experience_factor = 0.2 equipment = { ship_hull_heavy_1 = { amount = 1 owner = ENG version_name = "Early Battleship" } } }
+			ship = { name = "Orlando" definition = light_cruiser start_experience_factor = 0.12902 equipment = { ship_hull_cruiser_1 = { amount = 1 owner = ENG version_name = "Early Light Cruiser" } } }
+		}
+	}
+}
+
+instant_effect = {
+	add_equipment_production = {
+		equipment = {
+			type = ship_hull_light_1
+			creator = "ENG"
+			version_name = "Early Destroyer"
+		}
+		requested_factories = 3
+		progress = 0.25
+		amount = 10
+	}
+	add_equipment_production = {
+		equipment = {
+			type = ship_hull_heavy_1
+			creator = "ENG"
+			version_name = "Early Battleship"
+		}
+		requested_factories = 8
+		progress = 0.25
+		amount = 3
+	}
+}

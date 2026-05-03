@@ -1,0 +1,34 @@
+
+state={
+	id=20
+	name="STATE_20"
+
+	history={
+		owner = BAN
+		victory_points = {
+			12251 4 
+		}
+		buildings = {
+			infrastructure = 4
+			industrial_complex = 4
+			arms_factory = 2
+			dockyard = 1
+			air_base = 2
+			10321 = {
+				naval_base = 1
+			}
+
+		}
+		add_core_of = BAN
+		add_core_of = RAJ
+	}
+
+	provinces={
+		10321 12251 
+	}
+	manpower=295832
+	buildings_max_level_factor=1.000
+	state_category=large_city
+
+	local_supplies=10.0
+}

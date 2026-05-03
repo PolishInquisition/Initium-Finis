@@ -1,0 +1,33 @@
+
+state={
+	id=372
+	name="STATE_372"
+
+	history={
+		owner = X42
+		victory_points = {
+			7296 15 
+		}
+		buildings = {
+			infrastructure = 1
+			industrial_complex = 1
+			arms_factory = 0
+			air_base = 5
+			12252 = {
+				naval_base = 4
+			}
+
+		}
+		add_core_of = BRU
+		add_core_of = X42
+	}
+
+	provinces={
+		1225 1416 4409 7227 7296 10138 10178 10282 10310 12110 12252 12280 12955 
+	}
+	manpower=120474
+	buildings_max_level_factor=1.000
+	state_category=large_island
+
+	local_supplies=10.0
+}

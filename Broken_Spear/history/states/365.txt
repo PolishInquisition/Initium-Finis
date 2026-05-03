@@ -1,0 +1,41 @@
+
+state={
+	id=365
+	name="STATE_365"
+
+	history={
+		owner = X37
+		victory_points = {
+			4525 10 
+		}
+		buildings = {
+			infrastructure = 1
+			industrial_complex = 2
+			arms_factory = 0
+			air_base = 10
+			8127 = {
+				landmark_great_wall_section = {
+					level = 1
+					allowed = {
+						has_dlc = "No Compromise, No Surrender"
+					}
+				}
+			}
+
+		}
+		add_core_of = X17
+		add_core_of = X33
+		add_core_of = X37
+		add_core_of = X41
+		add_core_of = X73
+	}
+
+	provinces={
+		1551 1608 1796 1811 1871 1959 2087 3427 3978 4222 4525 4555 4612 4655 4783 4960 4986 5031 7048 7511 7578 7631 7648 7727 7803 8055 8102 8127 10363 10372 10424 10451 10499 10629 10724 10770 10854 10899 11752 12331 12348 12448 12554 12609 12706 12750 12776 12880 
+	}
+	manpower=2668100
+	buildings_max_level_factor=1.000
+	state_category=large_town
+
+	local_supplies=10.0
+}

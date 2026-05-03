@@ -1,0 +1,38 @@
+
+state={
+	id=732
+	name="STATE_732"
+	resources={
+		aluminium=2.000
+	}
+
+	history={
+		owner = YUG
+		victory_points = {
+			3924 2 
+		}
+		buildings = {
+			infrastructure = 2
+			industrial_complex = 1
+			arms_factory = 0
+			dockyard = 1
+			air_base = 0
+			3924 = {
+				naval_base = 10
+			}
+
+		}
+		add_core_of = ITA
+		add_core_of = YUG
+		add_claim_by = X29
+	}
+
+	provinces={
+		3868 3924 6889 9821 11816 
+	}
+	manpower=807824
+	buildings_max_level_factor=1.000
+	state_category=town
+
+	local_supplies=10.0
+}

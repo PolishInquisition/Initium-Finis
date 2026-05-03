@@ -1,0 +1,35 @@
+
+state={
+	id=471
+	name="STATE_471"
+	resources={
+		steel=2.000
+	}
+
+	history={
+		owner = W20
+		victory_points = {
+			1939 0 
+		}
+		buildings = {
+			infrastructure = 1
+			industrial_complex = 0
+			arms_factory = 0
+			air_base = 0
+			10976 = {
+				naval_base = 6
+			}
+
+		}
+		add_core_of = W20
+	}
+
+	provinces={
+		1939 2066 5079 6020 8133 10761 10962 10976 12927 
+	}
+	manpower=923528
+	buildings_max_level_factor=1.000
+	state_category=pastoral
+
+	local_supplies=10.0
+}

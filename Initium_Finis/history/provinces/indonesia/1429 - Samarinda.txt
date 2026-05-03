@@ -1,9 +1,0 @@
-owner=KTI
-controller=BRU
-add_core=BRU
-add_core=KTI
-add_core=MLY
-trade_goods = sulphur
-life_rating = 15
-terrain = jungle
-fort = 1

@@ -1,8 +1,0 @@
-owner=ENG
-controller=ENG
-add_core=MAD
-add_core=MFY
-trade_goods = coal
-life_rating = 35
-terrain = mountain
-colonial=2

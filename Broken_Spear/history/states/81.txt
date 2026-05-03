@@ -1,0 +1,35 @@
+
+state={
+	id=81
+	name="STATE_81"
+	resources={
+		aluminium=2.000
+		chromium=2.000
+	}
+
+	history={
+		owner = BUL
+		victory_points = {
+			646 1 
+		}
+		buildings = {
+			infrastructure = 4
+			industrial_complex = 0
+			arms_factory = 1
+			air_base = 1
+
+		}
+		add_core_of = TRA
+		add_claim_by = BUL
+		add_claim_by = X29
+	}
+
+	provinces={
+		646 662 3649 9606 11592 11608 
+	}
+	manpower=1538852
+	buildings_max_level_factor=1.000
+	state_category=large_island
+
+	local_supplies=10.0
+}

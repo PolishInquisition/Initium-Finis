@@ -1,0 +1,36 @@
+
+state={
+	id=385
+	name="STATE_385"
+	resources={
+		rubber=4.000
+	}
+
+	history={
+		owner = X44
+		victory_points = {
+			1252 15 
+		}
+		buildings = {
+			infrastructure = 3
+			industrial_complex = 1
+			arms_factory = 0
+			air_base = 6
+			7415 = {
+				naval_base = 4
+			}
+
+		}
+		add_core_of = BRU
+		add_core_of = X44
+	}
+
+	provinces={
+		1252 1404 4236 4323 7231 7299 7355 7415 10181 10237 10266 10325 12196 12225 12243 
+	}
+	manpower=72228
+	buildings_max_level_factor=1.000
+	state_category=large_island
+
+	local_supplies=10.0
+}

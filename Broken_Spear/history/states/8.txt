@@ -1,0 +1,36 @@
+
+state={
+	id=8
+	name="STATE_8"
+
+	history={
+		owner = SAU
+		victory_points = {
+			12455 10 
+		}
+		buildings = {
+			infrastructure = 4
+			industrial_complex = 2
+			arms_factory = 0
+			dockyard = 1
+			air_base = 10
+			12101 = {
+				naval_base = 2
+			}
+
+		}
+		add_core_of = SAU
+		add_core_of = X01
+		add_core_of = X30
+		add_core_of = X36
+	}
+
+	provinces={
+		1033 1923 2027 2033 2090 2095 4981 5006 5037 7934 8073 8092 10748 10786 10835 12101 12455 12758 12883 
+	}
+	manpower=820364
+	buildings_max_level_factor=1.000
+	state_category=town
+
+	local_supplies=10.0
+}

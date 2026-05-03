@@ -1,0 +1,16 @@
+characters={
+	X19_hamza_bek={
+		name=X19_hamza_bek
+		portraits={
+			civilian={
+				large="GFX_KUR_Mahmud_Barzanji"
+			}
+		}
+		country_leader={
+			ideology=dictatorship
+			expire="1965.1.1.1"
+			id=-1
+		}
+	}
+
+}

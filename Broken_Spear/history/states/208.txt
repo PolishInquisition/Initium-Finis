@@ -1,0 +1,36 @@
+
+state={
+	id=208
+	name="STATE_208"
+	resources={
+		coal=1.000
+	}
+
+	history={
+		owner = ENG
+		victory_points = {
+			7394 4 
+		}
+		buildings = {
+			infrastructure = 4
+			industrial_complex = 3
+			arms_factory = 2
+			dockyard = 1
+			air_base = 2
+			7394 = {
+				naval_base = 10
+			}
+
+		}
+		add_core_of = ENG
+	}
+
+	provinces={
+		6289 6313 6405 7394 9284 9310 9405 11237 11267 11334 
+	}
+	manpower=2736476
+	buildings_max_level_factor=1.000
+	state_category=large_city
+
+	local_supplies=10.0
+}

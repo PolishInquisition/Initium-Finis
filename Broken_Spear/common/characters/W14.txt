@@ -1,0 +1,16 @@
+characters={
+	W14_mok_woojin={
+		name=W14_mok_woojin
+		portraits={
+			civilian={
+				large="GFX_KOR_Syngman_Rhee"
+			}
+		}
+		country_leader={
+			ideology=liberalism
+			expire="1965.1.1.1"
+			id=-1
+		}
+	}
+
+}

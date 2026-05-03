@@ -1,0 +1,30 @@
+
+state={
+	id=473
+	name="STATE_473"
+
+	history={
+		owner = W20
+		victory_points = {
+			9962 0 
+		}
+		buildings = {
+			infrastructure = 2
+			industrial_complex = 0
+			arms_factory = 0
+			air_base = 0
+
+		}
+		add_core_of = W20
+		add_claim_by = X02
+	}
+
+	provinces={
+		2176 2206 2220 4171 5180 5224 8144 9962 10932 10988 11017 13363 13364 
+	}
+	manpower=2196192
+	buildings_max_level_factor=1.000
+	state_category=town
+
+	local_supplies=10.0
+}

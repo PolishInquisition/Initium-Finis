@@ -1,0 +1,33 @@
+
+state={
+	id=140
+	name="STATE_140"
+
+	history={
+		owner = X18
+		victory_points = {
+			4744 15 
+		}
+		buildings = {
+			infrastructure = 1
+			industrial_complex = 1
+			arms_factory = 0
+			air_base = 5
+			4744 = {
+				naval_base = 2
+			}
+
+		}
+		add_core_of = CKK
+		add_core_of = X18
+	}
+
+	provinces={
+		4744 13063 13204 13254 
+	}
+	manpower=104
+	buildings_max_level_factor=1.000
+	state_category=large_island
+
+	local_supplies=10.0
+}

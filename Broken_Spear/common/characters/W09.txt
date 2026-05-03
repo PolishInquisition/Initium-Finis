@@ -1,0 +1,16 @@
+characters={
+	W09_colbert_madden={
+		name=W09_colbert_madden
+		portraits={
+			civilian={
+				large="GFX_Canada_Mackenzie_King"
+			}
+		}
+		country_leader={
+			ideology=liberalism
+			expire="1965.1.1.1"
+			id=-1
+		}
+	}
+
+}

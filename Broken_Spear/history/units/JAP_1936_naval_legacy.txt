@@ -1,0 +1,39 @@
+units = {
+	fleet = {
+		name = "3rd Fleet"
+		naval_base = 12031
+		task_force = {
+			name = "3rd Fleet"
+			location = 12031
+			ship = { name = "Fuji" definition = heavy_cruiser equipment = { heavy_cruiser_1 = { amount = 1 owner = JAP } } }
+			ship = { name = "Yashima" definition = heavy_cruiser equipment = { heavy_cruiser_1 = { amount = 1 owner = JAP } } }
+			ship = { name = "Naniwa" definition = light_cruiser equipment = { light_cruiser_1 = { amount = 1 owner = JAP } } }
+			ship = { name = "Takachiho" definition = light_cruiser equipment = { light_cruiser_1 = { amount = 1 owner = JAP } } }
+			ship = { name = "Matsushima" definition = light_cruiser equipment = { light_cruiser_1 = { amount = 1 owner = JAP } } }
+			ship = { name = "Itsukushima" definition = light_cruiser equipment = { light_cruiser_1 = { amount = 1 owner = JAP } } }
+			ship = { name = "Hashidate" definition = light_cruiser equipment = { light_cruiser_1 = { amount = 1 owner = JAP } } }
+			ship = { name = "Chiyoda" definition = light_cruiser equipment = { light_cruiser_1 = { amount = 1 owner = JAP } } }
+		}
+	}
+}
+
+instant_effect = {
+	add_equipment_production = {
+		equipment = {
+			type = destroyer_1
+			creator = "JAP"
+		}
+		requested_factories = 3
+		progress = 0.25
+		amount = 10
+	}
+	add_equipment_production = {
+		equipment = {
+			type = battleship_1
+			creator = "JAP"
+		}
+		requested_factories = 8
+		progress = 0.25
+		amount = 3
+	}
+}

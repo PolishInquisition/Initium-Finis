@@ -1,0 +1,16 @@
+characters={
+	W01_king_yaxum_balam_iii={
+		name=W01_king_yaxum_balam_iii
+		portraits={
+			civilian={
+				large="GFX_nat_carib_absolutist"
+			}
+		}
+		country_leader={
+			ideology=absolute_monarchy
+			expire="1965.1.1.1"
+			id=-1
+		}
+	}
+
+}

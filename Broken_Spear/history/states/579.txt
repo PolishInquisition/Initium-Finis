@@ -1,0 +1,33 @@
+
+state={
+	id=579
+	name="STATE_579"
+
+	history={
+		owner = SOV
+		victory_points = {
+			6361 1 
+		}
+		buildings = {
+			infrastructure = 4
+			industrial_complex = 0
+			arms_factory = 0
+			air_base = 1
+			6361 = {
+				naval_base = 10
+			}
+
+		}
+		add_core_of = SOV
+		add_claim_by = DEN
+	}
+
+	provinces={
+		6361 
+	}
+	manpower=168560
+	buildings_max_level_factor=1.000
+	state_category=rural
+
+	local_supplies=10.0
+}

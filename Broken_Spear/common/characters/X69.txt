@@ -1,0 +1,76 @@
+characters={
+	X69_quilala_kina={
+		name=X69_quilala_kina
+		portraits={
+			army={
+				large="GFX_native_north_american_general"
+			}
+			army={
+				small="GFX_native_north_american_general"
+			}
+		}
+		corps_commander={
+			skill=1
+			attack_skill=1
+			defense_skill=1
+			planning_skill=1
+			logistics_skill=1
+			legacy_id=0
+		}
+	}
+
+	X69_yonaguska_hopi={
+		name=X69_yonaguska_hopi
+		portraits={
+			army={
+				large="GFX_native_north_american_general"
+			}
+			army={
+				small="GFX_native_north_american_general"
+			}
+		}
+		corps_commander={
+			skill=2
+			attack_skill=1
+			defense_skill=1
+			planning_skill=5
+			logistics_skill=1
+			legacy_id=0
+		}
+	}
+
+	X69_yackatee_laguna={
+		name=X69_yackatee_laguna
+		portraits={
+			army={
+				large="GFX_native_north_american_general"
+			}
+			army={
+				small="GFX_native_north_american_general"
+			}
+		}
+		corps_commander={
+			skill=2
+			attack_skill=3
+			defense_skill=1
+			planning_skill=2
+			logistics_skill=1
+			legacy_id=0
+		}
+	}
+
+	X69_sequoyah_huirivis={
+		name=X69_sequoyah_huirivis
+		portraits={
+			civilian={
+				large="GFX_south_america_generic_leader_1"
+			}
+		}
+		country_leader={
+			ideology=fascism_ideology
+			expire="1965.1.1.1"
+			id=-1
+		}
+	}
+
+}

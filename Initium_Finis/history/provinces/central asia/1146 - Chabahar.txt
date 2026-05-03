@@ -1,8 +1,0 @@
-owner=ENG
-controller=ENG
-add_core=BLC
-trade_goods = fish
-life_rating = 35
-terrain = mountain
-colonial=2
-naval_base = 1

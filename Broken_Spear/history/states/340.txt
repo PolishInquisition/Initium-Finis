@@ -1,0 +1,33 @@
+
+state={
+	id=340
+	name="STATE_340"
+
+	history={
+		owner = X36
+		victory_points = {
+			1149 0 
+		}
+		buildings = {
+			infrastructure = 3
+			industrial_complex = 0
+			arms_factory = 0
+			air_base = 1
+			1149 = {
+				naval_base = 2
+			}
+
+		}
+		add_core_of = ALG
+		add_core_of = MOR
+	}
+
+	provinces={
+		1149 1174 1189 4051 4117 4176 7066 11940 12009 12039 
+	}
+	manpower=1061224
+	buildings_max_level_factor=1.000
+	state_category=rural
+
+	local_supplies=10.0
+}

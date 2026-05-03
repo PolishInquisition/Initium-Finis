@@ -1,0 +1,50 @@
+units = {
+	fleet = {
+		name = "3rd Fleet"
+		naval_base = 3783
+		task_force = {
+			name = "3rd Fleet"
+			location = 5439
+			ship = { name = "Gyeon Hwon" definition = destroyer equipment = { destroyer_1 = { amount = 1 owner = KOR } } }
+			ship = { name = "Geumgang" definition = destroyer equipment = { destroyer_1 = { amount = 1 owner = KOR } } }
+			ship = { name = "Dongmyeongseong" definition = destroyer equipment = { destroyer_1 = { amount = 1 owner = KOR } } }
+			ship = { name = "Daedeok" definition = destroyer equipment = { destroyer_1 = { amount = 1 owner = KOR } } }
+			ship = { name = "Baekje" definition = destroyer equipment = { destroyer_1 = { amount = 1 owner = KOR } } }
+			ship = { name = "Changbai" definition = destroyer equipment = { destroyer_1 = { amount = 1 owner = KOR } } }
+		}
+	}
+	fleet = {
+		name = "4th Fleet"
+		naval_base = 11992
+		task_force = {
+			name = "4th Fleet"
+			location = 11992
+			ship = { name = "Jirisan" definition = destroyer equipment = { destroyer_1 = { amount = 1 owner = KOR } } }
+			ship = { name = "Duman" definition = destroyer equipment = { destroyer_1 = { amount = 1 owner = KOR } } }
+			ship = { name = "Geumho" definition = destroyer equipment = { destroyer_1 = { amount = 1 owner = KOR } } }
+			ship = { name = "Baekdu" definition = destroyer equipment = { destroyer_1 = { amount = 1 owner = KOR } } }
+			ship = { name = "Gayasan" definition = destroyer equipment = { destroyer_1 = { amount = 1 owner = KOR } } }
+		}
+	}
+}
+
+instant_effect = {
+	add_equipment_production = {
+		equipment = {
+			type = destroyer_1
+			creator = "KOR"
+		}
+		requested_factories = 3
+		progress = 0.25
+		amount = 10
+	}
+	add_equipment_production = {
+		equipment = {
+			type = battleship_1
+			creator = "KOR"
+		}
+		requested_factories = 8
+		progress = 0.25
+		amount = 3
+	}
+}

@@ -1,0 +1,28 @@
+
+state={
+	id=498
+	name="STATE_498"
+
+	history={
+		owner = PER
+		victory_points = {
+			499 0 
+		}
+		buildings = {
+			infrastructure = 1
+			industrial_complex = 0
+			arms_factory = 0
+			air_base = 0
+
+		}
+	}
+
+	provinces={
+		499 3406 3490 3517 3551 6430 6479 6539 6574 6601 9432 9447 9473 9475 9487 9577 11395 11421 11460 11523 11538 
+	}
+	manpower=191572
+	buildings_max_level_factor=1.000
+	state_category=rural
+
+	local_supplies=10.0
+}

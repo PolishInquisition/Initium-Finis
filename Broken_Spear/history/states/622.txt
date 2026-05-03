@@ -1,0 +1,41 @@
+
+state={
+	id=622
+	name="STATE_622"
+	resources={
+		rubber=475.000
+		steel=18.000
+		tungsten=172.000
+	}
+
+	history={
+		owner = W16
+		victory_points = {
+			7329 10 
+		}
+		buildings = {
+			infrastructure = 2
+			industrial_complex = 2
+			arms_factory = 0
+			air_base = 6
+			7329 = {
+				naval_base = 4
+			}
+
+		}
+		add_core_of = MAL
+		add_core_of = W16
+		add_core_of = X40
+		add_core_of = X57
+		add_core_of = X66
+	}
+
+	provinces={
+		1348 1364 1376 1392 4310 4355 4367 4384 4412 4424 7329 7399 7427 10227 10297 10313 12199 12215 12255 12271 13376 
+	}
+	manpower=756616
+	buildings_max_level_factor=1.000
+	state_category=large_island
+
+	local_supplies=10.0
+}

@@ -1,6 +1,0 @@
-owner=RUS
-controller=PER
-trade_goods = timber
-life_rating = 35
-terrain = forest
-fort = 1

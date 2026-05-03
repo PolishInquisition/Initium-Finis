@@ -1,9 +1,0 @@
-owner=X26
-controller=X26
-add_core=MLT
-add_core=X26
-trade_goods = fish
-life_rating = 35
-terrain = hills
-naval_base = 1
-fort = 1

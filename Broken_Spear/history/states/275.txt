@@ -1,0 +1,35 @@
+
+state={
+	id=275
+	name="STATE_275"
+	resources={
+		rubber=1.000
+	}
+
+	history={
+		owner = W13
+		victory_points = {
+			2050 10 
+		}
+		buildings = {
+			infrastructure = 3
+			industrial_complex = 0
+			arms_factory = 0
+			air_base = 6
+			2050 = {
+				naval_base = 4
+			}
+
+		}
+		add_core_of = W13
+	}
+
+	provinces={
+		2050 12731 
+	}
+	manpower=2226496
+	buildings_max_level_factor=1.000
+	state_category=town
+
+	local_supplies=10.0
+}

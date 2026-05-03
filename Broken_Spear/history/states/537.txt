@@ -1,0 +1,33 @@
+
+state={
+	id=537
+	name="STATE_537"
+	resources={
+		steel=7.000
+	}
+
+	history={
+		owner = X71
+		victory_points = {
+			3544 30 
+		}
+		buildings = {
+			infrastructure = 4
+			industrial_complex = 3
+			arms_factory = 0
+			air_base = 6
+
+		}
+		add_core_of = X71
+		add_claim_by = BLR
+	}
+
+	provinces={
+		400 402 467 524 3230 3254 3521 3544 3559 6259 6321 6484 6511 6567 6580 9290 9316 9400 9452 9521 9544 11274 11329 11357 11385 11399 11466 11492 12562 
+	}
+	manpower=2964764
+	buildings_max_level_factor=1.000
+	state_category=city
+
+	local_supplies=10.0
+}

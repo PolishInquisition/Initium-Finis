@@ -1,0 +1,36 @@
+
+state={
+	id=90
+	name="STATE_90"
+	resources={
+		oil=1.000
+		steel=1.000
+	}
+
+	history={
+		owner = BUL
+		victory_points = {
+			9771 1 
+		}
+		buildings = {
+			infrastructure = 3
+			industrial_complex = 1
+			arms_factory = 0
+			air_base = 1
+			9783 = {
+				naval_base = 10
+			}
+
+		}
+		add_core_of = BUL
+	}
+
+	provinces={
+		649 793 3796 3819 3952 6842 9610 9612 9769 9771 9783 11754 
+	}
+	manpower=1717528
+	buildings_max_level_factor=1.000
+	state_category=rural
+
+	local_supplies=10.0
+}

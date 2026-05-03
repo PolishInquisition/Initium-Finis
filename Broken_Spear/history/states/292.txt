@@ -1,0 +1,33 @@
+
+state={
+	id=292
+	name="STATE_292"
+	resources={
+		coal=1.000
+	}
+
+	history={
+		owner = X29
+		victory_points = {
+			9716 1 
+		}
+		buildings = {
+			infrastructure = 1
+			industrial_complex = 0
+			arms_factory = 0
+			air_base = 0
+
+		}
+		add_core_of = X29
+		add_core_of = X71
+	}
+
+	provinces={
+		723 3741 6747 9716 
+	}
+	manpower=481484
+	buildings_max_level_factor=1.000
+	state_category=pastoral
+
+	local_supplies=10.0
+}

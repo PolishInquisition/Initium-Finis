@@ -1,5 +1,0 @@
-owner=PER
-controller=PER
-trade_goods = fruit
-life_rating = 35
-terrain = hills

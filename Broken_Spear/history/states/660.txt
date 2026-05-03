@@ -1,0 +1,31 @@
+
+state={
+	id=660
+	name="STATE_660"
+
+	history={
+		owner = SPR
+		victory_points = {
+			4421 0 
+		}
+		buildings = {
+			infrastructure = 1
+			industrial_complex = 0
+			arms_factory = 0
+			air_base = 0
+			4421 = {
+				naval_base = 4
+			}
+
+		}
+	}
+
+	provinces={
+		1286 1301 1329 1361 4304 4332 4352 4421 7251 7324 7339 7352 7412 10166 10206 12222 
+	}
+	manpower=386920
+	buildings_max_level_factor=1.000
+	state_category=rural
+
+	local_supplies=10.0
+}

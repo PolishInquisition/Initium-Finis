@@ -1,0 +1,37 @@
+
+state={
+	id=215
+	name="STATE_215"
+	resources={
+		coal=21.000
+		steel=68.000
+	}
+
+	history={
+		owner = ENG
+		victory_points = {
+			9297 7 
+		}
+		buildings = {
+			infrastructure = 4
+			industrial_complex = 6
+			arms_factory = 3
+			dockyard = 3
+			air_base = 4
+			3353 = {
+				naval_base = 10
+			}
+
+		}
+		add_core_of = ENG
+	}
+
+	provinces={
+		364 3241 3301 3353 6237 6270 6301 7239 9250 9268 9297 9322 11279 11345 
+	}
+	manpower=4895088
+	buildings_max_level_factor=1.000
+	state_category=megalopolis
+
+	local_supplies=10.0
+}

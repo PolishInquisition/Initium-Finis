@@ -1,0 +1,34 @@
+
+state={
+	id=490
+	name="STATE_490"
+	resources={
+		aluminium=2.000
+		steel=43.000
+	}
+
+	history={
+		owner = X65
+		victory_points = {
+			11516 2 
+		}
+		buildings = {
+			infrastructure = 3
+			industrial_complex = 3
+			arms_factory = 0
+			air_base = 1
+
+		}
+		add_core_of = GER
+		add_core_of = X65
+	}
+
+	provinces={
+		521 680 698 3533 3546 3560 3666 5291 6531 6698 9505 9642 9658 11488 11516 11642 
+	}
+	manpower=3117268
+	buildings_max_level_factor=1.000
+	state_category=city
+
+	local_supplies=10.0
+}

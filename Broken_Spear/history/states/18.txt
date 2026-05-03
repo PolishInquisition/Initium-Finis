@@ -1,0 +1,33 @@
+
+state={
+	id=18
+	name="STATE_18"
+	resources={
+		chromium=1.000
+	}
+
+	history={
+		owner = BAN
+		victory_points = {
+			12114 2 
+		}
+		buildings = {
+			infrastructure = 4
+			industrial_complex = 2
+			arms_factory = 1
+			air_base = 1
+
+		}
+		add_core_of = BAN
+		add_core_of = RAJ
+	}
+
+	provinces={
+		1275 4280 4472 12114 
+	}
+	manpower=1975740
+	buildings_max_level_factor=1.000
+	state_category=town
+
+	local_supplies=10.0
+}

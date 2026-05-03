@@ -1,0 +1,32 @@
+
+state={
+	id=112
+	name="STATE_112"
+	resources={
+		tungsten=1.000
+	}
+
+	history={
+		owner = X16
+		victory_points = {
+			12350 2 
+		}
+		buildings = {
+			infrastructure = 1
+			industrial_complex = 2
+			arms_factory = 0
+			air_base = 0
+
+		}
+		add_core_of = X16
+	}
+
+	provinces={
+		1023 1448 4125 7159 7502 9982 10377 11918 12350 12378 12407 
+	}
+	manpower=10732908
+	buildings_max_level_factor=1.000
+	state_category=megalopolis
+
+	local_supplies=10.0
+}

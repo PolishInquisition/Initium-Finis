@@ -1,0 +1,16 @@
+characters={
+	X78_ihsan_speda={
+		name=X78_ihsan_speda
+		portraits={
+			civilian={
+				large="GFX_JOR_Salih_Jabr"
+			}
+		}
+		country_leader={
+			ideology=conservatism
+			expire="1965.1.1.1"
+			id=-1
+		}
+	}
+
+}

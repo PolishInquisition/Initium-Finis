@@ -1,0 +1,21 @@
+﻿converted_war_strategies_W05 = {
+	allowed = {
+		tag = W05
+	}
+	enable = {
+		always = no
+	}
+	abort_when_not_enabled = yes
+	
+}
+
+converted_diplo_strategies_W05 = {
+	allowed = {
+		tag = W05
+	}
+	enable = {
+		always = no
+	}
+	abort_when_not_enabled = yes
+	
+}

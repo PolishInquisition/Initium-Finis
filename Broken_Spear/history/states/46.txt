@@ -1,0 +1,32 @@
+
+state={
+	id=46
+	name="STATE_46"
+
+	history={
+		owner = W08
+		victory_points = {
+			4180 0 
+		}
+		buildings = {
+			infrastructure = 2
+			industrial_complex = 0
+			arms_factory = 0
+			air_base = 0
+			4180 = {
+				naval_base = 1
+			}
+
+		}
+		add_core_of = W08
+	}
+
+	provinces={
+		4180 7112 7195 10048 12021 
+	}
+	manpower=150096
+	buildings_max_level_factor=1.000
+	state_category=rural
+
+	local_supplies=10.0
+}

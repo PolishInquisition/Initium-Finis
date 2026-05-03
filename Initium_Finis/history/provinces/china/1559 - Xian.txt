@@ -1,8 +1,0 @@
-owner=CHC
-controller=CHC
-add_core=CHC
-add_core=CHI
-trade_goods = coal
-life_rating = 32
-terrain = woods
-fort = 1

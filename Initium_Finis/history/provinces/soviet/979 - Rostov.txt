@@ -1,7 +1,0 @@
-owner=PER
-controller=PER
-add_core=UKR
-trade_goods = coal
-life_rating = 35
-terrain = steppe
-fort = 1

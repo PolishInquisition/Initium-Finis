@@ -1,0 +1,32 @@
+
+state={
+	id=743
+	name="STATE_743"
+
+	history={
+		owner = W23
+		victory_points = {
+			7798 0 
+		}
+		buildings = {
+			infrastructure = 1
+			industrial_complex = 0
+			arms_factory = 0
+			air_base = 0
+			1759 = {
+				naval_base = 0
+			}
+
+		}
+		add_core_of = W23
+	}
+
+	provinces={
+		1759 2130 2155 2183 2189 4776 4791 5181 5187 7755 7798 7811 10553 10581 10622 10637 10665 12576 12645 12932 
+	}
+	manpower=79400
+	buildings_max_level_factor=1.000
+	state_category=wasteland
+
+	local_supplies=10.0
+}

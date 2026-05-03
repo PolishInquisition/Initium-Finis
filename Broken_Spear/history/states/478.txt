@@ -1,0 +1,36 @@
+
+state={
+	id=478
+	name="STATE_478"
+	resources={
+		aluminium=2.000
+		rubber=1.000
+	}
+
+	history={
+		owner = W21
+		victory_points = {
+			10803 0 
+		}
+		buildings = {
+			infrastructure = 2
+			industrial_complex = 0
+			arms_factory = 0
+			air_base = 0
+			10803 = {
+				naval_base = 6
+			}
+
+		}
+		add_core_of = W21
+	}
+
+	provinces={
+		5013 10803 
+	}
+	manpower=509576
+	buildings_max_level_factor=1.000
+	state_category=pastoral
+
+	local_supplies=10.0
+}

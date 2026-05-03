@@ -1,0 +1,35 @@
+
+state={
+	id=350
+	name="STATE_350"
+	resources={
+		steel=3.000
+	}
+
+	history={
+		owner = X36
+		victory_points = {
+			11974 2 
+		}
+		buildings = {
+			infrastructure = 4
+			industrial_complex = 2
+			arms_factory = 0
+			air_base = 1
+			9957 = {
+				naval_base = 2
+			}
+
+		}
+		add_core_of = X36
+	}
+
+	provinces={
+		1068 1080 4143 7030 7117 7144 7188 9957 10028 10031 10126 11974 12044 
+	}
+	manpower=2372024
+	buildings_max_level_factor=1.000
+	state_category=town
+
+	local_supplies=10.0
+}

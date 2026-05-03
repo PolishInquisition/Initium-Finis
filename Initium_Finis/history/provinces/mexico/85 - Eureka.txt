@@ -1,8 +1,0 @@
-owner=LOU
-controller=LOU
-add_core=LOU
-add_core=CAL
-trade_goods = fish
-life_rating = 40
-terrain = woods
-fort = 1

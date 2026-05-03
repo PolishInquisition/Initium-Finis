@@ -1,0 +1,35 @@
+
+state={
+	id=85
+	name="STATE_85"
+	resources={
+		coal=1.000
+	}
+
+	history={
+		owner = BUL
+		victory_points = {
+			11586 0 
+		}
+		buildings = {
+			infrastructure = 3
+			industrial_complex = 0
+			arms_factory = 0
+			air_base = 1
+
+		}
+		add_core_of = YUG
+		add_claim_by = BUL
+		add_claim_by = MAC
+		add_claim_by = X29
+	}
+
+	provinces={
+		630 797 3609 3984 6634 6998 9599 9602 9756 11583 11586 
+	}
+	manpower=1385280
+	buildings_max_level_factor=1.000
+	state_category=rural
+
+	local_supplies=10.0
+}

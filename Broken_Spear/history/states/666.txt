@@ -1,0 +1,32 @@
+
+state={
+	id=666
+	name="STATE_666"
+	resources={
+		rubber=1.000
+	}
+
+	history={
+		owner = W15
+		victory_points = {
+			4997 0 
+		}
+		buildings = {
+			infrastructure = 3
+			industrial_complex = 0
+			arms_factory = 0
+			air_base = 1
+
+		}
+		add_core_of = W15
+	}
+
+	provinces={
+		4997 5028 
+	}
+	manpower=798320
+	buildings_max_level_factor=1.000
+	state_category=pastoral
+
+	local_supplies=10.0
+}

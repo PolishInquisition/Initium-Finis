@@ -1,0 +1,76 @@
+characters={
+	X42_'abd_al_qahhar_anak_muhammad_taj_ad_din={
+		name=X42_'abd_al_qahhar_anak_muhammad_taj_ad_din
+		portraits={
+			army={
+				large="GFX_Indonesia_Rachmat"
+			}
+			army={
+				small="GFX_Indonesia_Rachmat"
+			}
+		}
+		corps_commander={
+			skill=3
+			attack_skill=1
+			defense_skill=3
+			planning_skill=5
+			logistics_skill=1
+			legacy_id=0
+		}
+	}
+
+	X42_muhammad_jamal_ad_din_anak_'abd_al_qahhar={
+		name=X42_muhammad_jamal_ad_din_anak_'abd_al_qahhar
+		portraits={
+			army={
+				large="GFX_Asia_Generic_land_new_2"
+			}
+			army={
+				small="GFX_Asia_Generic_land_new_2"
+			}
+		}
+		corps_commander={
+			skill=2
+			attack_skill=1
+			defense_skill=4
+			planning_skill=1
+			logistics_skill=1
+			legacy_id=0
+		}
+	}
+
+	X42_sulayman_anak_muhammad_'ali={
+		name=X42_sulayman_anak_muhammad_'ali
+		portraits={
+			navy={
+				large="GFX_Portrait_Asia_Generic_navy_1"
+			}
+			navy={
+				small="GFX_Portrait_Asia_Generic_navy_1"
+			}
+		}
+		navy_leader={
+			skill=2
+			attack_skill=3
+			defense_skill=1
+			maneuvering_skill=1
+			coordination_skill=1
+			legacy_id=0
+		}
+	}
+
+	X42_muhammad_taj_ad_din_sibu={
+		name=X42_muhammad_taj_ad_din_sibu
+		portraits={
+			civilian={
+				large="GFX_Asia_Generic_fascism"
+			}
+		}
+		country_leader={
+			ideology=dictatorship_neutral
+			expire="1965.1.1.1"
+			id=-1
+		}
+	}
+
+}

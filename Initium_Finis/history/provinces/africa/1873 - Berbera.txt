@@ -1,9 +1,0 @@
-owner=YEM
-controller=AJU
-add_core=ADA
-add_core=AJU
-add_core=YEM
-trade_goods = cotton
-life_rating = 15
-terrain = mountain
-naval_base = 1

@@ -1,0 +1,32 @@
+
+state={
+	id=388
+	name="STATE_388"
+
+	history={
+		owner = X45
+		victory_points = {
+			3513 1 
+		}
+		buildings = {
+			infrastructure = 1
+			industrial_complex = 0
+			arms_factory = 0
+			air_base = 0
+			12281 = {
+				naval_base = 2
+			}
+
+		}
+		add_core_of = X45
+	}
+
+	provinces={
+		505 528 1414 3471 3513 4274 4328 4347 4380 4826 7398 7721 7865 10151 10183 10305 10625 11495 11733 12183 12211 12281 12553 
+	}
+	manpower=402944
+	buildings_max_level_factor=1.000
+	state_category=rural
+
+	local_supplies=10.0
+}

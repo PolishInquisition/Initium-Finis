@@ -1,6 +1,0 @@
-owner=SON
-controller=MEX
-add_core=SON
-trade_goods = cattle
-life_rating = 35
-terrain = desert

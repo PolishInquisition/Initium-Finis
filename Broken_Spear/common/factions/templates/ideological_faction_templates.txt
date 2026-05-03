@@ -1,0 +1,515 @@
+faction_template_absolutist = {
+	name = Axis
+	icon = GFX_faction_logo_axis
+	manifest = faction_manifest_suppress_regional_communism
+	goals = {
+		faction_goal_a_military_base
+		faction_goal_defeat_of_anti_absolutists
+	}
+	default_rules = {
+		call_to_war_rule_independent_only
+		joining_rule_non_communist
+		faction_peace_rule_liberation_focus
+		government_in_exile_allowed
+		change_leader_rule_manpower
+		change_leader_rule_manifest_below_35
+		dismissal_rule_offensive_war
+	}
+}
+
+faction_template_anti_absolutist = {
+	name = bulwark_pact_faction
+	icon = GFX_faction_logo_generic_11
+	manifest = faction_manifest_suppress_regional_absolutist
+	can_leader_join_other_factions = yes
+	visible = {
+		always = yes 
+		any_other_country = {
+			has_government = absolutist
+			is_on_same_continent_as = ROOT
+		}
+	}
+	available = {
+		NOT = { has_government = absolutist }
+		any_other_country = {
+			has_government = absolutist
+			is_on_same_continent_as = ROOT
+		}
+	}
+	goals = {
+		faction_goal_aggressive_defense
+		faction_goal_defeat_of_absolutist
+	}
+	default_rules = {
+		joining_rule_non_absolutist
+		generate_wargoal_threat_reduction_20
+		change_leader_rule_manpower
+		change_leader_rule_industry
+	}
+}
+
+faction_template_european_dominance_absolutist = {
+	name = european_dominance_faction
+	icon = GFX_faction_logo_generic_fascist
+	manifest = faction_manifest_european_dominance
+	can_leader_join_other_factions = yes
+	visible = {
+		capital_scope = {
+			is_on_continent = europe
+		}
+		has_government = absolutist
+	}
+	goals = {
+		faction_goal_defeat_of_anti_absolutists
+	}
+	default_rules = {
+		joining_rule_neighbors_only
+		faction_peace_take_claimed_focus
+		change_leader_rule_manpower
+	}
+}
+
+faction_template_communism = {
+	name = Comintern
+	icon = GFX_faction_logo_comintern
+	manifest = faction_manifest_spread_of_communism
+	goals = {
+		faction_goal_indifference_is_a_threat
+		faction_goal_the_red_tide
+	}
+	default_rules = {
+		joining_rule_communist_only
+		faction_peace_rule_puppeting_focus
+		change_leader_rule_manpower
+		change_leader_rule_industry
+		war_declaration_rule_major_only
+	}
+}
+
+faction_template_anti_communist = {
+	name = coalition_of_liberty_faction
+	icon = GFX_faction_logo_generic_10
+	manifest = faction_manifest_containment_of_communism
+	can_leader_join_other_factions = yes
+	visible = {
+		always = yes 
+		any_other_country = {
+			has_government = communism
+			is_on_same_continent_as = ROOT
+		}
+	}
+	available = {
+		NOT = { has_government = communism }
+		any_other_country = {
+			has_government = communism
+			is_on_same_continent_as = ROOT
+		}
+	}
+	goals = {
+		faction_goal_a_military_base
+		faction_goal_defeat_of_communism
+	}
+	default_rules = {
+		faction_peace_rule_ideology_focus
+		dismissal_rule_ideology_communist
+		joining_rule_non_communist
+		guarantee_threat_reduction_15
+		change_leader_rule_industry
+	}
+}
+
+faction_template_regional_anti_communist = {
+	name = regional_anti_communist_faction
+	icon = GFX_faction_logo_generic_11
+	manifest = faction_manifest_suppress_regional_communism
+	can_leader_join_other_factions = yes
+	visible = {
+		always = yes 
+		any_other_country = {
+			has_government = communism
+			is_on_same_continent_as = ROOT
+		}
+	}
+	available = {
+		NOT = { has_government = communism }
+		any_other_country = {
+			has_government = communism
+			is_on_same_continent_as = ROOT
+		}
+	}
+	goals = {
+		faction_goal_aggressive_defense
+		faction_goal_defeating_our_enemies
+	}
+	default_rules = {
+		joining_rule_non_communist
+		generate_wargoal_threat_reduction_20
+		change_leader_rule_manpower
+		change_leader_rule_industry
+	}
+}
+
+faction_template_world_revolution = {
+	name = world_revolution_faction
+	icon = GFX_faction_logo_generic_14
+	manifest = faction_manifest_spread_of_communism
+	can_leader_join_other_factions = yes
+	visible = {
+		always = yes 
+	}
+	available = {
+		has_government = communism 
+	}
+	goals = {
+		faction_goal_a_large_faction
+		faction_goal_defeat_of_anti_communists
+	}
+	default_rules = {
+		faction_peace_rule_ideology_focus
+		joining_rule_communist_only
+		dismissal_rule_ideology_not_communism
+		change_leader_rule_manpower
+		war_declaration_threat_25
+	}
+}
+
+faction_template_democratic = {
+	name = Allies
+	icon = GFX_faction_icon_allies
+	manifest = faction_manifest_defense_of_democracy_allies
+	goals = {
+		faction_goal_air_superiority
+		faction_goal_the_atomic_race
+		faction_goal_rule_the_waves
+	}
+	default_rules = {
+		joining_rule_non_fascist
+		joining_rule_has_no_offensive_war
+		faction_peace_rule_liberation_focus
+		government_in_exile_allowed
+		change_leader_rule_manifest_below_35
+		dismissal_rule_ideology_not_democratic
+		change_leader_rule_industry
+	}
+}
+
+faction_template_generic = {
+	name = default_template_name
+	icon = GFX_faction_logo_generic
+	manifest = faction_manifest_strength_in_unity
+	can_leader_join_other_factions = yes
+	visible = {
+		always = no # Fallback template, should not be selectable 
+	}
+	available = {
+		has_government = democratic
+	}
+	goals = {
+		faction_goal_a_military_base
+		faction_goal_the_atomic_race
+	}
+	default_rules = {
+		joining_rule_neighbors_only
+		joining_rule_has_no_offensive_war
+		dismissal_rule_offensive_war
+		change_leader_rule_manpower
+	}
+}
+
+faction_template_defensive_democratic = {
+	name = defensive_democratic_faction
+	icon = GFX_faction_logo_generic_democratic
+	manifest = faction_manifest_defense_of_democracy
+	can_leader_join_other_factions = yes
+	visible = {
+		always = yes 
+	}
+	available = {
+		has_government = democratic
+	}
+	goals = {
+		faction_goal_secure_the_oil_supply
+		faction_goal_rule_the_waves
+	}
+	default_rules = {
+		joining_rule_democratic_non_aligned
+		joining_rule_same_continent_only
+		joining_rule_has_no_offensive_war
+		war_declaration_threat_75
+		change_leader_rule_industry
+		dismissal_rule_offensive_war
+		government_in_exile_allowed
+	}
+}
+
+faction_template_regional_anti_democratic = {
+	name = regional_anti_democratic_faction
+	icon = GFX_faction_logo_generic_11
+	manifest = faction_manifest_suppress_regional_democracy
+	can_leader_join_other_factions = yes
+	visible = {
+		always = yes 
+		any_other_country = {
+			has_government = democratic
+			is_on_same_continent_as = ROOT
+		}
+	}
+	available = {
+		NOT = { has_government = democratic }
+		any_other_country = {
+			has_government = democratic
+			is_on_same_continent_as = ROOT
+		}
+	}
+	goals = {
+		faction_goal_air_superiority
+		faction_goal_strategic_bombing_campaign
+	}
+	default_rules = {
+		joining_rule_non_democratic
+		change_leader_rule_manpower
+		change_leader_rule_industry
+	}
+}
+
+faction_template_fascism = {
+	name = Axis
+	icon = GFX_faction_logo_axis
+	manifest = faction_manifest_conquest_of_territory
+	goals = {
+		faction_goal_an_armored_fist
+		faction_goal_secure_the_oil_supply
+		faction_goal_resource_control
+	}
+	default_rules = {
+		call_to_war_rule_independent_only
+		joining_rule_non_communist
+		faction_peace_rule_conquest_focus
+		change_leader_rule_manpower
+		change_leader_rule_manifest_below_35
+		dismissal_rule_offensive_war
+	}
+}
+
+faction_template_anti_fascist = {
+	name = bulwark_pact_faction
+	icon = GFX_faction_logo_generic_11
+	manifest = faction_manifest_suppress_regional_fascism
+	can_leader_join_other_factions = yes
+	visible = {
+		always = yes 
+		any_other_country = {
+			has_government = fascism
+			is_on_same_continent_as = ROOT
+		}
+	}
+	available = {
+		NOT = { has_government = fascism }
+		any_other_country = {
+			has_government = fascism
+			is_on_same_continent_as = ROOT
+		}
+	}
+	goals = {
+		faction_goal_aggressive_defense
+		faction_goal_defeat_of_fascism
+	}
+	default_rules = {
+		joining_rule_non_fascist
+		generate_wargoal_threat_reduction_20
+		change_leader_rule_manpower
+		change_leader_rule_industry
+	}
+}
+
+faction_template_european_dominance = {
+	name = european_dominance_faction
+	icon = GFX_faction_logo_generic_fascist
+	manifest = faction_manifest_european_dominance
+	can_leader_join_other_factions = yes
+	visible = {
+		capital_scope = {
+			is_on_continent = europe
+		}
+		has_government = fascism
+	}
+	goals = {
+		faction_goal_defeat_of_anti_fascists
+	}
+	default_rules = {
+		joining_rule_neighbors_only
+		faction_peace_take_claimed_focus
+		change_leader_rule_manpower
+	}
+}
+
+faction_template_neutrality = {
+	name = Allies
+	icon = GFX_faction_icon_allies
+	manifest = faction_manifest_protector_of_peace
+	goals = {
+		faction_goal_guardians_of_peace
+		faction_goal_industrial_domination
+	}
+	default_rules = {
+		joining_rule_democratic_non_aligned
+		joining_rule_has_no_offensive_war
+		faction_peace_rule_liberation_focus
+		government_in_exile_allowed
+		change_leader_rule_manifest_below_35
+		dismissal_rule_world_tension
+		change_leader_rule_industry
+	}
+}
+
+faction_template_regional = {
+	name = regional_faction
+	icon = GFX_faction_logo_generic
+	manifest = faction_manifest_strength_in_unity
+	can_leader_join_other_factions = yes
+	visible = {
+		NOT = { has_government = absolutist }
+		NOT = { has_government = communism }
+		NOT = { has_government = fascism }
+		NOT = { has_government = radical }
+		NOT = { capital_scope = { is_on_continent = europe } }
+	}
+
+	goals = {
+		faction_goal_industrial_expansion
+		faction_goal_defeating_our_enemies
+	}
+	default_rules = {
+		joining_rule_has_no_war
+		joining_rule_same_ideology
+		joining_rule_neighbors_only
+		faction_peace_take_claimed_focus
+		change_leader_rule_manpower
+		war_declaration_threat_25
+	}
+}
+
+faction_template_european_unity = {
+	name = european_unity_faction
+	icon = GFX_faction_logo_generic_13
+	manifest = faction_manifest_strength_in_unity
+	can_leader_join_other_factions = yes
+	visible = {
+		capital_scope = {
+			is_on_continent = europe
+		}
+		NOT = {
+			has_government = fascism 
+		}
+	}
+
+	available = {
+		NOT = {
+			has_government = fascism 
+		}
+	}
+
+	goals = {
+		faction_goal_convoy_escort_force
+		faction_goal_rule_the_waves
+	}
+	default_rules = {
+		joining_rule_same_continent_only
+		faction_peace_rule_liberation_focus
+		guarantee_threat_reduction_15
+		change_leader_rule_manpower
+	}
+}
+
+faction_template_european_dominance_monarchist = {
+	name = european_dominance_faction
+	icon = GFX_faction_logo_generic_7
+	manifest = faction_manifest_european_dominance
+	can_leader_join_other_factions = yes
+	visible = {
+		capital_scope = {
+			is_on_continent = europe
+		}
+		has_government = neutrality
+	}
+	goals = {
+		faction_goal_defeat_of_communism
+	}
+	default_rules = {
+		joining_rule_neighbors_only
+		faction_peace_take_claimed_focus
+		change_leader_rule_manpower
+	}
+}
+
+faction_template_radical = {
+	name = Axis
+	icon = GFX_faction_logo_axis
+	manifest = faction_manifest_regional_expansionism
+	goals = {
+		faction_goal_war_on_democracy
+		faction_goal_aggressive_defense
+		faction_goal_defeat_of_anti_radicals
+	}
+	default_rules = {
+		call_to_war_rule_independent_only
+		joining_rule_non_democratic
+		faction_peace_rule_conquest_focus
+		change_leader_rule_manpower
+		change_leader_rule_manifest_below_35
+		dismissal_rule_offensive_war
+	}
+}
+
+faction_template_anti_radical = {
+	name = bulwark_pact_faction
+	icon = GFX_faction_logo_generic_11
+	manifest = faction_manifest_suppress_regional_radical
+	can_leader_join_other_factions = yes
+	visible = {
+		always = yes 
+		any_other_country = {
+			has_government = radical
+			is_on_same_continent_as = ROOT
+		}
+	}
+	available = {
+		NOT = { has_government = radical }
+		any_other_country = {
+			has_government = radical
+			is_on_same_continent_as = ROOT
+		}
+	}
+	goals = {
+		faction_goal_aggressive_defense
+		faction_goal_defeat_of_radical
+	}
+	default_rules = {
+		joining_rule_non_radical
+		generate_wargoal_threat_reduction_20
+		change_leader_rule_manpower
+		change_leader_rule_industry
+	}
+}
+
+faction_template_european_dominance_radical = {
+	name = european_dominance_faction
+	icon = GFX_faction_logo_generic_fascist
+	manifest = faction_manifest_european_dominance
+	can_leader_join_other_factions = yes
+	visible = {
+		capital_scope = {
+			is_on_continent = europe
+		}
+		has_government = radical
+	}
+	goals = {
+		faction_goal_defeat_of_anti_radicals
+	}
+	default_rules = {
+		joining_rule_neighbors_only
+		faction_peace_take_claimed_focus
+		change_leader_rule_manpower
+	}
+}
+

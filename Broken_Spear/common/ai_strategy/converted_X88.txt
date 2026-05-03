@@ -1,0 +1,21 @@
+﻿converted_war_strategies_X88 = {
+	allowed = {
+		tag = X88
+	}
+	enable = {
+		always = no
+	}
+	abort_when_not_enabled = yes
+	
+}
+
+converted_diplo_strategies_X88 = {
+	allowed = {
+		tag = X88
+	}
+	enable = {
+		always = no
+	}
+	abort_when_not_enabled = yes
+	
+}

@@ -1,0 +1,35 @@
+
+state={
+	id=14
+	name="STATE_14"
+	resources={
+		chromium=53.000
+	}
+
+	history={
+		owner = W08
+		victory_points = {
+			4268 10 
+		}
+		buildings = {
+			infrastructure = 2
+			industrial_complex = 0
+			arms_factory = 0
+			air_base = 5
+			1263 = {
+				naval_base = 1
+			}
+
+		}
+		add_core_of = W08
+	}
+
+	provinces={
+		1263 4231 4268 7264 10160 12132 
+	}
+	manpower=59160
+	buildings_max_level_factor=1.000
+	state_category=large_island
+
+	local_supplies=10.0
+}

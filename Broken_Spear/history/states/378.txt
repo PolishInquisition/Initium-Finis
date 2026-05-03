@@ -1,0 +1,34 @@
+
+state={
+	id=378
+	name="STATE_378"
+
+	history={
+		owner = KOR
+		victory_points = {
+			4579 1 
+		}
+		buildings = {
+			infrastructure = 2
+			industrial_complex = 0
+			arms_factory = 0
+			air_base = 0
+			4579 = {
+				naval_base = 1
+			}
+
+		}
+		add_core_of = KOR
+		add_core_of = X48
+		add_core_of = X87
+	}
+
+	provinces={
+		4579 
+	}
+	manpower=11312
+	buildings_max_level_factor=1.000
+	state_category=rural
+
+	local_supplies=10.0
+}

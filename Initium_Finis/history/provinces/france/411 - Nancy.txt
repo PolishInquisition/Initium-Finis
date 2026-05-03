@@ -1,8 +1,0 @@
-owner=GER
-controller=GER
-add_core=FRA
-add_core=GER
-trade_goods = dye
-life_rating = 30
-terrain = plains
-fort = 1

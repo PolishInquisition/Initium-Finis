@@ -1,0 +1,34 @@
+
+state={
+	id=224
+	name="STATE_224"
+	resources={
+		aluminium=2.000
+	}
+
+	history={
+		owner = W11
+		victory_points = {
+			2180 0 
+		}
+		buildings = {
+			infrastructure = 3
+			industrial_complex = 0
+			arms_factory = 0
+			air_base = 1
+
+		}
+		add_core_of = W04
+		add_core_of = W11
+		add_core_of = X75
+	}
+
+	provinces={
+		2180 5155 12950 
+	}
+	manpower=1484388
+	buildings_max_level_factor=1.000
+	state_category=large_island
+
+	local_supplies=10.0
+}

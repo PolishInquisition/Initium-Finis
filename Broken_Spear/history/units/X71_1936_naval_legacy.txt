@@ -1,0 +1,35 @@
+units = {
+	fleet = {
+		name = "3rd Fleet"
+		naval_base = 362
+		task_force = {
+			name = "3rd Fleet"
+			location = 362
+			ship = { name = "Prypec" definition = destroyer equipment = { destroyer_1 = { amount = 1 owner = X71 } } }
+			ship = { name = "Wisla" definition = destroyer equipment = { destroyer_1 = { amount = 1 owner = X71 } } }
+			ship = { name = "Windawa" definition = destroyer equipment = { destroyer_1 = { amount = 1 owner = X71 } } }
+			ship = { name = "Neman" definition = destroyer equipment = { destroyer_1 = { amount = 1 owner = X71 } } }
+		}
+	}
+}
+
+instant_effect = {
+	add_equipment_production = {
+		equipment = {
+			type = destroyer_1
+			creator = "X71"
+		}
+		requested_factories = 3
+		progress = 0.25
+		amount = 10
+	}
+	add_equipment_production = {
+		equipment = {
+			type = battleship_1
+			creator = "X71"
+		}
+		requested_factories = 8
+		progress = 0.25
+		amount = 3
+	}
+}

@@ -1,0 +1,35 @@
+
+state={
+	id=332
+	name="STATE_332"
+	resources={
+		oil=5.000
+	}
+
+	history={
+		owner = X36
+		victory_points = {
+			8085 1 
+		}
+		buildings = {
+			infrastructure = 3
+			industrial_complex = 0
+			arms_factory = 1
+			air_base = 1
+			8085 = {
+				naval_base = 2
+			}
+
+		}
+		add_core_of = X36
+	}
+
+	provinces={
+		78 2004 2089 7977 8085 12726 12855 13366 13367 
+	}
+	manpower=768324
+	buildings_max_level_factor=1.000
+	state_category=large_island
+
+	local_supplies=10.0
+}

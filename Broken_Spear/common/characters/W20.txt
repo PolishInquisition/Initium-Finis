@@ -1,0 +1,16 @@
+characters={
+	W20_alphonse_de_courtenay={
+		name=W20_alphonse_de_courtenay
+		portraits={
+			civilian={
+				large="GFX_fra_leon_blum"
+			}
+		}
+		country_leader={
+			ideology=liberalism
+			expire="1965.1.1.1"
+			id=-1
+		}
+	}
+
+}

@@ -1,0 +1,76 @@
+characters={
+	X10_jordao_hafiedz={
+		name=X10_jordao_hafiedz
+		portraits={
+			army={
+				large="GFX_Philippines_Manuel_F_Cabal"
+			}
+			army={
+				small="GFX_Philippines_Manuel_F_Cabal"
+			}
+		}
+		corps_commander={
+			skill=3
+			attack_skill=1
+			defense_skill=4
+			planning_skill=3
+			logistics_skill=1
+			legacy_id=0
+		}
+	}
+
+	X10_sonny_mainaky={
+		name=X10_sonny_mainaky
+		portraits={
+			army={
+				large="GFX_Indonesia_Rachmat"
+			}
+			army={
+				small="GFX_Indonesia_Rachmat"
+			}
+		}
+		corps_commander={
+			skill=2
+			attack_skill=2
+			defense_skill=1
+			planning_skill=3
+			logistics_skill=1
+			legacy_id=0
+		}
+	}
+
+	X10_denny_leiwakabessy={
+		name=X10_denny_leiwakabessy
+		portraits={
+			navy={
+				large="GFX_Asia_Generic_navy_new_1"
+			}
+			navy={
+				small="GFX_Asia_Generic_navy_new_1"
+			}
+		}
+		navy_leader={
+			skill=2
+			attack_skill=3
+			defense_skill=3
+			maneuvering_skill=1
+			coordination_skill=1
+			legacy_id=0
+		}
+	}
+
+	X10_ellyas_lilipaly={
+		name=X10_ellyas_lilipaly
+		portraits={
+			civilian={
+				large="GFX_r56_generic_politician_asia_1_democracy"
+			}
+		}
+		country_leader={
+			ideology=liberalism
+			expire="1965.1.1.1"
+			id=-1
+		}
+	}
+
+}

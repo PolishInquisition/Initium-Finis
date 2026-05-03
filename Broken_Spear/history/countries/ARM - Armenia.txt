@@ -1,0 +1,123 @@
+﻿capital = 500
+set_research_slots = 3
+
+oob = "ARM_OOB"
+
+# Starting tech
+# Research Bonuses
+
+set_country_flag = conv_transcaucasia
+set_convoys = 0
+
+set_politics = {
+    ruling_party = absolutist
+    last_election = "1836.1.1"
+    election_frequency = 48
+    elections_allowed = no
+}
+
+set_popularities = {
+	absolutist = 73
+	democratic = 25
+	neutrality = 2
+}
+
+add_opinion_modifier = { target = CHL modifier = negative_15 }
+add_opinion_modifier = { target = COL modifier = negative_5 }
+add_opinion_modifier = { target = DEN modifier = positive_15 }
+add_opinion_modifier = { target = GER modifier = positive_5 }
+add_opinion_modifier = { target = MEX modifier = negative_5 }
+add_opinion_modifier = { target = SPR modifier = positive_5 }
+add_opinion_modifier = { target = TRA modifier = positive_15 }
+add_opinion_modifier = { target = W00 modifier = positive_5 }
+add_opinion_modifier = { target = X27 modifier = negative_10 }
+add_opinion_modifier = { target = X36 modifier = negative_5 }
+add_opinion_modifier = { target = X39 modifier = negative_10 }
+add_opinion_modifier = { target = X41 modifier = negative_10 }
+add_opinion_modifier = { target = X65 modifier = positive_5 }
+add_opinion_modifier = { target = X91 modifier = positive_15 }
+add_opinion_modifier = { target = X92 modifier = positive_15 }
+add_opinion_modifier = { target = X93 modifier = positive_15 }
+add_opinion_modifier = { target = X94 modifier = positive_15 }
+add_opinion_modifier = { target = X95 modifier = positive_5 }
+add_opinion_modifier = { target = YUG modifier = positive_15 }
+
+
+add_ideas = {
+	limited_conscription
+	civilian_economy
+	export_focus
+	culture_armenian
+}
+
+recruit_character = ARM_souren_mardvian
+
+if = {
+	limit = {
+		has_dlc = "La Resistance"
+	}
+	create_operative_leader = {
+		name = "Arda Ghakarian"
+		GFX = "gfx/leaders/Europe/portrait_europe_generic_operative_female_1.dds"
+		traits = {}
+		bypass_recruitment = no
+		available_to_spy_master = yes
+		female = yes
+		nationalities = { ARM }
+	}
+
+	create_operative_leader = {
+		name = "Vartanoush Tigranov"
+		GFX = "gfx/leaders/Europe/portrait_europe_generic_operative_female_2.dds"
+		traits = {}
+		bypass_recruitment = no
+		available_to_spy_master = yes
+		female = yes
+		nationalities = { ARM }
+	}
+
+	create_operative_leader = {
+		name = "Meghranoush Erznvian"
+		GFX = "gfx/leaders/Europe/portrait_europe_generic_operative_female_3.dds"
+		traits = {}
+		bypass_recruitment = no
+		available_to_spy_master = yes
+		female = yes
+		nationalities = { ARM }
+	}
+
+	create_operative_leader = {
+		name = "Alexander Mussiniants"
+		GFX = "gfx/leaders/Europe/portrait_europe_generic_operative_male_1.dds"
+		traits = {}
+		bypass_recruitment = no
+		available_to_spy_master = yes
+		nationalities = { ARM }
+	}
+
+	create_operative_leader = {
+		name = "Aramais Bogosian"
+		GFX = "gfx/leaders/Europe/portrait_europe_generic_operative_male_2.dds"
+		traits = {}
+		bypass_recruitment = no
+		available_to_spy_master = yes
+		nationalities = { ARM }
+	}
+
+}
+### VARIANTS ###
+if = {
+	limit = { not = { has_dlc = "Man the Guns" } }
+}
+if = {
+	limit = { has_dlc = "Man the Guns" }
+}
+### PLANE DESIGNS ###
+if = {
+	limit = { has_dlc = "By Blood Alone" }
+}
+### TANK DESIGNS ###
+if = {
+	limit = { has_dlc = "No Step Back" }
+}
+

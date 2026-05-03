@@ -1,0 +1,16 @@
+characters={
+	W16_bartolomeu_da={
+		name=W16_bartolomeu_da
+		portraits={
+			civilian={
+				large="GFX_hai_stenio_vincent"
+			}
+		}
+		country_leader={
+			ideology=liberalism
+			expire="1965.1.1.1"
+			id=-1
+		}
+	}
+
+}

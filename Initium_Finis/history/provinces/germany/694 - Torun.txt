@@ -1,8 +1,0 @@
-owner=PLC
-controller=PLC
-add_core=PLC
-add_core=PRT
-add_core=UBD
-trade_goods = grain
-life_rating = 40
-terrain = farmlands

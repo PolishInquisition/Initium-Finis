@@ -1,0 +1,16 @@
+characters={
+	W12_arthur_madden={
+		name=W12_arthur_madden
+		portraits={
+			civilian={
+				large="GFX_Britain_Winston_Churchill"
+			}
+		}
+		country_leader={
+			ideology=liberalism
+			expire="1965.1.1.1"
+			id=-1
+		}
+	}
+
+}

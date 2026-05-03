@@ -1,0 +1,16 @@
+characters={
+	W08_quli_qasim_ali={
+		name=W08_quli_qasim_ali
+		portraits={
+			civilian={
+				large="GFX_DEH_Muhammad_Ali_Jinnah"
+			}
+		}
+		country_leader={
+			ideology=dictatorship_neutral
+			expire="1965.1.1.1"
+			id=-1
+		}
+	}
+
+}

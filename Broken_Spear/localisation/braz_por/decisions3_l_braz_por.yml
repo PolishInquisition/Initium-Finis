@@ -1,0 +1,3 @@
+﻿l_braz_por:
+ COL_Naval_treaty_nation:0 "@COL [COL.GetName]"
+ ENG_Naval_treaty_nation:0 "@ENG [ENG.GetName]"

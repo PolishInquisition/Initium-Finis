@@ -1,0 +1,151 @@
+﻿converted_war_strategies_MEX = {
+	allowed = {
+		tag = MEX
+	}
+	enable = {
+		always = no
+	}
+	abort_when_not_enabled = yes
+	
+	ai_strategy = {
+		type = conquer
+		id = "X45"
+		value = 441
+	}
+	ai_strategy = {
+		type = conquer
+		id = "COL"
+		value = 130
+	}
+	ai_strategy = {
+		type = conquer
+		id = "X77"
+		value = 77
+	}
+	ai_strategy = {
+		type = conquer
+		id = "X69"
+		value = 62
+	}
+}
+
+converted_diplo_strategies_MEX = {
+	allowed = {
+		tag = MEX
+	}
+	enable = {
+		always = no
+	}
+	abort_when_not_enabled = yes
+	
+	ai_strategy = {
+		type = contain
+		id = "COL"
+		value = 316
+	}
+	ai_strategy = {
+		type = contain
+		id = "CUB"
+		value = 175
+	}
+	ai_strategy = {
+		type = contain
+		id = "X45"
+		value = 175
+	}
+	ai_strategy = {
+		type = contain
+		id = "CHL"
+		value = 56
+	}
+	ai_strategy = {
+		type = contain
+		id = "BRA"
+		value = 42
+	}
+	ai_strategy = {
+		type = contain
+		id = "USA"
+		value = 15
+	}
+	ai_strategy = {
+		type = antagonize
+		id = "X45"
+		value = 400
+	}
+	ai_strategy = {
+		type = antagonize
+		id = "X69"
+		value = 342
+	}
+	ai_strategy = {
+		type = antagonize
+		id = "COL"
+		value = 192
+	}
+	ai_strategy = {
+		type = antagonize
+		id = "X77"
+		value = 163
+	}
+	ai_strategy = {
+		type = antagonize
+		id = "CUB"
+		value = 83
+	}
+	ai_strategy = {
+		type = antagonize
+		id = "X59"
+		value = 69
+	}
+	ai_strategy = {
+		type = antagonize
+		id = "X21"
+		value = 62
+	}
+	ai_strategy = {
+		type = alliance
+		id = "CSA"
+		value = 200
+	}
+	ai_strategy = {
+		type = alliance
+		id = "BRA"
+		value = 87
+	}
+	ai_strategy = {
+		type = alliance
+		id = "X46"
+		value = 46
+	}
+	ai_strategy = {
+		type = protect
+		id = "X77"
+		value = 65
+	}
+	ai_strategy = {
+		type = protect
+		id = "X69"
+		value = 5
+	}
+	ai_strategy = {
+		type = declare_war
+		id = "COL"
+		value = 131
+	}
+	ai_strategy = {
+		type = declare_war
+		id = "JAP"
+		value = 90
+	}
+	ai_strategy = {
+		type = declare_war
+		id = "BRA"
+		value = 84
+	}
+	ai_strategy = {
+		type = declare_war
+		id = "CUB"
+		value = 62
+	}
+}

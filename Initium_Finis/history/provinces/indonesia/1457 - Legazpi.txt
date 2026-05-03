@@ -1,6 +1,0 @@
-owner=PGS
-controller=PGS
-add_core=PGS
-trade_goods = fruit
-life_rating = 30
-terrain = plains

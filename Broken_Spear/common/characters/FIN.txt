@@ -1,0 +1,16 @@
+characters={
+	FIN_georg_ignatius={
+		name=FIN_georg_ignatius
+		portraits={
+			civilian={
+				large="GFX_Finland_Risto_Heikki_Ryti"
+			}
+		}
+		country_leader={
+			ideology=conservatism
+			expire="1965.1.1.1"
+			id=-1
+		}
+	}
+
+}

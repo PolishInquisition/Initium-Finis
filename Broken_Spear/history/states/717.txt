@@ -1,0 +1,32 @@
+
+state={
+	id=717
+	name="STATE_717"
+
+	history={
+		owner = YEM
+		victory_points = {
+			10760 0 
+		}
+		buildings = {
+			infrastructure = 1
+			industrial_complex = 0
+			arms_factory = 0
+			air_base = 0
+			10760 = {
+				naval_base = 4
+			}
+
+		}
+		add_core_of = SAU
+	}
+
+	provinces={
+		1947 2018 2059 2103 5049 8002 8020 10760 
+	}
+	manpower=685304
+	buildings_max_level_factor=1.000
+	state_category=pastoral
+
+	local_supplies=10.0
+}

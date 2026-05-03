@@ -1,0 +1,21 @@
+﻿converted_war_strategies_NOR = {
+	allowed = {
+		tag = NOR
+	}
+	enable = {
+		always = no
+	}
+	abort_when_not_enabled = yes
+	
+}
+
+converted_diplo_strategies_NOR = {
+	allowed = {
+		tag = NOR
+	}
+	enable = {
+		always = no
+	}
+	abort_when_not_enabled = yes
+	
+}

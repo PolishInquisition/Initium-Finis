@@ -1,0 +1,37 @@
+
+state={
+	id=362
+	name="STATE_362"
+	resources={
+		aluminium=4.000
+		chromium=8.000
+		steel=2.000
+	}
+
+	history={
+		owner = X36
+		victory_points = {
+			940 0 
+		}
+		buildings = {
+			infrastructure = 2
+			industrial_complex = 0
+			arms_factory = 0
+			air_base = 0
+			1005 = {
+				naval_base = 4
+			}
+
+		}
+		add_core_of = GRE
+	}
+
+	provinces={
+		784 869 940 1005 1122 3788 3876 4008 4124 4127 6807 6894 7026 7143 9755 9763 9811 10056 11792 11810 11860 11907 12016 
+	}
+	manpower=1497958
+	buildings_max_level_factor=1.000
+	state_category=large_island
+
+	local_supplies=10.0
+}

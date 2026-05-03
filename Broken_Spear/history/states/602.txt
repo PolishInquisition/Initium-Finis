@@ -1,0 +1,36 @@
+
+state={
+	id=602
+	name="STATE_602"
+	resources={
+		aluminium=2.000
+		oil=31.000
+	}
+
+	history={
+		owner = X77
+		victory_points = {
+			1562 1 
+		}
+		buildings = {
+			infrastructure = 1
+			industrial_complex = 0
+			arms_factory = 0
+			air_base = 0
+			1562 = {
+				naval_base = 1
+			}
+
+		}
+		add_core_of = X77
+	}
+
+	provinces={
+		823 1562 7517 7986 12374 
+	}
+	manpower=29824
+	buildings_max_level_factor=1.000
+	state_category=rural
+
+	local_supplies=10.0
+}

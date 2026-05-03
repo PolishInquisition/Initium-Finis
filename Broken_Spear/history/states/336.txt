@@ -1,0 +1,39 @@
+
+state={
+	id=336
+	name="STATE_336"
+	resources={
+		aluminium=1.000
+		oil=1.000
+		steel=2.000
+	}
+
+	history={
+		owner = X36
+		victory_points = {
+			12727 10 
+		}
+		buildings = {
+			infrastructure = 3
+			industrial_complex = 1
+			arms_factory = 0
+			air_base = 6
+			10791 = {
+				naval_base = 2
+			}
+
+		}
+		add_core_of = X63
+		add_claim_by = SAU
+		add_claim_by = X36
+	}
+
+	provinces={
+		4932 5024 5081 5093 8004 8030 8060 8118 10791 10870 12727 12740 12768 12813 12870 
+	}
+	manpower=571472
+	buildings_max_level_factor=1.000
+	state_category=town
+
+	local_supplies=10.0
+}

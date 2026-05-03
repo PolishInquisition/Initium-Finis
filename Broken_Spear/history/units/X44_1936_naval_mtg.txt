@@ -1,0 +1,26 @@
+units = {
+	fleet = {
+		name = "1st Fleet"
+		naval_base = 7415
+		task_force = {
+			name = "1st Fleet"
+			location = 7415
+			ship = { name = "1st Tarakan Commerce Raider" definition = destroyer start_experience_factor = 0.1988 equipment = { ship_hull_light_1 = { amount = 1 owner = X44 version_name = "Early Destroyer" } } }
+			ship = { name = "2nd Tarakan Commerce Raider" definition = destroyer start_experience_factor = 0.19741 equipment = { ship_hull_light_1 = { amount = 1 owner = X44 version_name = "Early Destroyer" } } }
+			ship = { name = "3rd Tarakan Commerce Raider" definition = destroyer start_experience_factor = 0.1986 equipment = { ship_hull_light_1 = { amount = 1 owner = X44 version_name = "Early Destroyer" } } }
+		}
+	}
+}
+
+instant_effect = {
+	add_equipment_production = {
+		equipment = {
+			type = ship_hull_light_1
+			creator = "X44"
+			version_name = "Early Destroyer"
+		}
+		requested_factories = 3
+		progress = 0.25
+		amount = 10
+	}
+}

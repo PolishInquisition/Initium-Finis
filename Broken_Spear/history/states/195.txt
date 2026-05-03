@@ -1,0 +1,33 @@
+
+state={
+	id=195
+	name="STATE_195"
+
+	history={
+		owner = ENG
+		victory_points = {
+			12505 1 
+		}
+		buildings = {
+			infrastructure = 2
+			industrial_complex = 1
+			arms_factory = 0
+			air_base = 0
+			12505 = {
+				naval_base = 10
+			}
+
+		}
+		add_core_of = ENG
+		add_claim_by = USA
+	}
+
+	provinces={
+		1426 1785 4720 4787 7758 7788 12503 12505 12680 12698 
+	}
+	manpower=765277
+	buildings_max_level_factor=1.000
+	state_category=rural
+
+	local_supplies=10.0
+}

@@ -1,0 +1,70 @@
+units = {
+	fleet = {
+		name = "1st Fleet"
+		naval_base = 3957
+		task_force = {
+			name = "1st Fleet"
+			location = 3957
+			ship = { name = "Atlanta" definition = destroyer start_experience_factor = 0.19782 equipment = { ship_hull_light_1 = { amount = 1 owner = USA version_name = "Early Destroyer" } } }
+			ship = { name = "Harvard" definition = destroyer start_experience_factor = 0.1994 equipment = { ship_hull_light_1 = { amount = 1 owner = USA version_name = "Early Destroyer" } } }
+			ship = { name = "Chicago" definition = destroyer start_experience_factor = 0.24727 equipment = { ship_hull_light_1 = { amount = 1 owner = USA version_name = "Early Destroyer" } } }
+			ship = { name = "Vesuvius" definition = destroyer start_experience_factor = 0.24925 equipment = { ship_hull_light_1 = { amount = 1 owner = USA version_name = "Early Destroyer" } } }
+			ship = { name = "Boston" definition = destroyer start_experience_factor = 0.19782 equipment = { ship_hull_light_1 = { amount = 1 owner = USA version_name = "Early Destroyer" } } }
+			ship = { name = "Chicago 2" definition = destroyer start_experience_factor = 0.1994 equipment = { ship_hull_light_1 = { amount = 1 owner = USA version_name = "Early Destroyer" } } }
+			ship = { name = "Harvard 2" definition = destroyer start_experience_factor = 0.24727 equipment = { ship_hull_light_1 = { amount = 1 owner = USA version_name = "Early Destroyer" } } }
+			ship = { name = "Badger" definition = destroyer start_experience_factor = 0.24925 equipment = { ship_hull_light_1 = { amount = 1 owner = USA version_name = "Early Destroyer" } } }
+			ship = { name = "Panther" definition = destroyer start_experience_factor = 0.24727 equipment = { ship_hull_light_1 = { amount = 1 owner = USA version_name = "Early Destroyer" } } }
+			ship = { name = "Yale" definition = destroyer start_experience_factor = 0.24925 equipment = { ship_hull_light_1 = { amount = 1 owner = USA version_name = "Early Destroyer" } } }
+			ship = { name = "Yale 2" definition = destroyer start_experience_factor = 0.24727 equipment = { ship_hull_light_1 = { amount = 1 owner = USA version_name = "Early Destroyer" } } }
+			ship = { name = "Prairie" definition = destroyer start_experience_factor = 0.24925 equipment = { ship_hull_light_1 = { amount = 1 owner = USA version_name = "Early Destroyer" } } }
+			ship = { name = "Prairie 2" definition = destroyer start_experience_factor = 0.24727 equipment = { ship_hull_light_1 = { amount = 1 owner = USA version_name = "Early Destroyer" } } }
+			ship = { name = "Yankee" definition = destroyer start_experience_factor = 0.24925 equipment = { ship_hull_light_1 = { amount = 1 owner = USA version_name = "Early Destroyer" } } }
+			ship = { name = "Buffalo" definition = destroyer start_experience_factor = 0.29673 equipment = { ship_hull_light_1 = { amount = 1 owner = USA version_name = "Early Destroyer" } } }
+			ship = { name = "Yosemite" definition = destroyer start_experience_factor = 0.2991 equipment = { ship_hull_light_1 = { amount = 1 owner = USA version_name = "Early Destroyer" } } }
+			ship = { name = "Dixie" definition = destroyer start_experience_factor = 0.3 equipment = { ship_hull_light_1 = { amount = 1 owner = USA version_name = "Early Destroyer" } } }
+			ship = { name = "Vesuvius 2" definition = destroyer start_experience_factor = 0.3 equipment = { ship_hull_light_1 = { amount = 1 owner = USA version_name = "Early Destroyer" } } }
+			ship = { name = "Badger 2" definition = destroyer start_experience_factor = 0.3 equipment = { ship_hull_light_1 = { amount = 1 owner = USA version_name = "Early Destroyer" } } }
+			ship = { name = "St. Louis" definition = destroyer start_experience_factor = 0.3 equipment = { ship_hull_light_1 = { amount = 1 owner = USA version_name = "Early Destroyer" } } }
+			ship = { name = "St. Paul" definition = destroyer start_experience_factor = 0.3 equipment = { ship_hull_light_1 = { amount = 1 owner = USA version_name = "Early Destroyer" } } }
+			ship = { name = "Albany" definition = destroyer start_experience_factor = 0.3 equipment = { ship_hull_light_1 = { amount = 1 owner = USA version_name = "Early Destroyer" } } }
+			ship = { name = "Badger 3" definition = destroyer start_experience_factor = 0.3 equipment = { ship_hull_light_1 = { amount = 1 owner = USA version_name = "Early Destroyer" } } }
+			ship = { name = "Panther 2" definition = destroyer start_experience_factor = 0.3 equipment = { ship_hull_light_1 = { amount = 1 owner = USA version_name = "Early Destroyer" } } }
+			ship = { name = "1st Bangor Commerce Raider" definition = destroyer start_experience_factor = 0.3 equipment = { ship_hull_light_1 = { amount = 1 owner = USA version_name = "Early Destroyer" } } }
+			ship = { name = "2nd Bangor Commerce Raider" definition = destroyer start_experience_factor = 0.3 equipment = { ship_hull_light_1 = { amount = 1 owner = USA version_name = "Early Destroyer" } } }
+			ship = { name = "3rd Bangor Commerce Raider" definition = destroyer start_experience_factor = 0.3 equipment = { ship_hull_light_1 = { amount = 1 owner = USA version_name = "Early Destroyer" } } }
+			ship = { name = "Buffalo 2" definition = destroyer start_experience_factor = 0.3 equipment = { ship_hull_light_1 = { amount = 1 owner = USA version_name = "Early Destroyer" } } }
+			ship = { name = "1st Long Island Commerce Raider" definition = destroyer start_experience_factor = 0.3 equipment = { ship_hull_light_1 = { amount = 1 owner = USA version_name = "Early Destroyer" } } }
+			ship = { name = "1st Washington Commerce Raider" definition = destroyer start_experience_factor = 0.3 equipment = { ship_hull_light_1 = { amount = 1 owner = USA version_name = "Early Destroyer" } } }
+			ship = { name = "2nd Long Island Commerce Raider" definition = destroyer start_experience_factor = 0.3 equipment = { ship_hull_light_1 = { amount = 1 owner = USA version_name = "Early Destroyer" } } }
+			ship = { name = "2nd Washington Commerce Raider" definition = destroyer start_experience_factor = 0.3 equipment = { ship_hull_light_1 = { amount = 1 owner = USA version_name = "Early Destroyer" } } }
+			ship = { name = "3rd Long Island Commerce Raider" definition = destroyer start_experience_factor = 0.3 equipment = { ship_hull_light_1 = { amount = 1 owner = USA version_name = "Early Destroyer" } } }
+			ship = { name = "4th Long Island Commerce Raider" definition = destroyer start_experience_factor = 0.3 equipment = { ship_hull_light_1 = { amount = 1 owner = USA version_name = "Early Destroyer" } } }
+			ship = { name = "4th Bangor Commerce Raider" definition = destroyer start_experience_factor = 0.3 equipment = { ship_hull_light_1 = { amount = 1 owner = USA version_name = "Early Destroyer" } } }
+			ship = { name = "5th Long Island Commerce Raider" definition = destroyer start_experience_factor = 0.3 equipment = { ship_hull_light_1 = { amount = 1 owner = USA version_name = "Early Destroyer" } } }
+		}
+	}
+	fleet = {
+		name = "2nd Fleet"
+		naval_base = 12459
+		task_force = {
+			name = "2nd Fleet"
+			location = 12459
+			ship = { name = "7th Bangor Commerce Raider" definition = destroyer start_experience_factor = 0.3 equipment = { ship_hull_light_1 = { amount = 1 owner = USA version_name = "Early Destroyer" } } }
+			ship = { name = "5th Bangor Commerce Raider" definition = destroyer start_experience_factor = 0.3 equipment = { ship_hull_light_1 = { amount = 1 owner = USA version_name = "Early Destroyer" } } }
+			ship = { name = "6th Bangor Commerce Raider" definition = destroyer start_experience_factor = 0.3 equipment = { ship_hull_light_1 = { amount = 1 owner = USA version_name = "Early Destroyer" } } }
+		}
+	}
+}
+
+instant_effect = {
+	add_equipment_production = {
+		equipment = {
+			type = ship_hull_light_1
+			creator = "USA"
+			version_name = "Early Destroyer"
+		}
+		requested_factories = 3
+		progress = 0.25
+		amount = 10
+	}
+}

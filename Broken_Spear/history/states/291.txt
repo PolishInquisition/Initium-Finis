@@ -1,0 +1,38 @@
+
+state={
+	id=291
+	name="STATE_291"
+
+	history={
+		owner = GER
+		victory_points = {
+			11542 15 
+		}
+		buildings = {
+			infrastructure = 5
+			industrial_complex = 3
+			arms_factory = 1
+			air_base = 7
+			11542 = {
+				landmark_prague_castle = {
+					level = 1
+					allowed = {
+						
+					}
+				}
+			}
+
+		}
+		add_core_of = X71
+		add_core_of = GER
+	}
+
+	provinces={
+		9421 11542 
+	}
+	manpower=3230580
+	buildings_max_level_factor=1.000
+	state_category=city
+
+	local_supplies=10.0
+}

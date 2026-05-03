@@ -1,0 +1,32 @@
+
+state={
+	id=290
+	name="STATE_290"
+	resources={
+		chromium=7.000
+	}
+
+	history={
+		owner = GRE
+		victory_points = {
+			3983 15 
+		}
+		buildings = {
+			infrastructure = 3
+			industrial_complex = 1
+			arms_factory = 1
+			air_base = 6
+
+		}
+		add_core_of = GRE
+	}
+
+	provinces={
+		856 909 981 3856 3907 3951 3983 6808 6877 6945 9878 11831 
+	}
+	manpower=867924
+	buildings_max_level_factor=1.000
+	state_category=town
+
+	local_supplies=10.0
+}

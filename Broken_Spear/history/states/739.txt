@@ -1,0 +1,34 @@
+
+state={
+	id=739
+	name="STATE_739"
+	resources={
+		chromium=2.000
+	}
+
+	history={
+		owner = YUG
+		victory_points = {
+			6550 0 
+		}
+		buildings = {
+			infrastructure = 2
+			industrial_complex = 0
+			arms_factory = 0
+			air_base = 0
+			6550 = {
+				naval_base = 10
+			}
+
+		}
+	}
+
+	provinces={
+		1164 3401 4170 6550 7003 8435 9940 10007 12058 
+	}
+	manpower=1150640
+	buildings_max_level_factor=1.000
+	state_category=rural
+
+	local_supplies=10.0
+}

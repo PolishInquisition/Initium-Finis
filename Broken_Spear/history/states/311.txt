@@ -1,0 +1,32 @@
+
+state={
+	id=311
+	name="STATE_311"
+	resources={
+		aluminium=3.000
+	}
+
+	history={
+		owner = ITA
+		victory_points = {
+			3660 1 
+		}
+		buildings = {
+			infrastructure = 1
+			industrial_complex = 0
+			arms_factory = 0
+			air_base = 0
+
+		}
+		add_core_of = ITA
+	}
+
+	provinces={
+		658 3641 3660 3662 9600 
+	}
+	manpower=539020
+	buildings_max_level_factor=1.000
+	state_category=pastoral
+
+	local_supplies=10.0
+}

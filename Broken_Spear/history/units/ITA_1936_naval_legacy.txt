@@ -1,0 +1,41 @@
+units = {
+	fleet = {
+		name = "1st Fleet"
+		naval_base = 6788
+		task_force = {
+			name = "1st Fleet"
+			location = 6788
+			ship = { name = "19th Genoa Commerce Raider" definition = destroyer equipment = { destroyer_1 = { amount = 1 owner = ITA } } }
+			ship = { name = "Pilade Bronzetti" definition = destroyer equipment = { destroyer_1 = { amount = 1 owner = ITA } } }
+			ship = { name = "Antonio Mosto" definition = destroyer equipment = { destroyer_1 = { amount = 1 owner = ITA } } }
+			ship = { name = "Ippolito Nievo" definition = destroyer equipment = { destroyer_1 = { amount = 1 owner = ITA } } }
+			ship = { name = "Francesco Nullo" definition = destroyer equipment = { destroyer_1 = { amount = 1 owner = ITA } } }
+			ship = { name = "Giuseppe Sirtori" definition = destroyer equipment = { destroyer_1 = { amount = 1 owner = ITA } } }
+			ship = { name = "Giovanni Acerbi" definition = destroyer equipment = { destroyer_1 = { amount = 1 owner = ITA } } }
+			ship = { name = "Vincenzo Giordano Orsini" definition = destroyer equipment = { destroyer_1 = { amount = 1 owner = ITA } } }
+			ship = { name = "Francesco Stucco" definition = destroyer equipment = { destroyer_1 = { amount = 1 owner = ITA } } }
+			ship = { name = "Rosolino Pilo" definition = destroyer equipment = { destroyer_1 = { amount = 1 owner = ITA } } }
+		}
+	}
+}
+
+instant_effect = {
+	add_equipment_production = {
+		equipment = {
+			type = destroyer_1
+			creator = "ITA"
+		}
+		requested_factories = 3
+		progress = 0.25
+		amount = 10
+	}
+	add_equipment_production = {
+		equipment = {
+			type = battleship_1
+			creator = "ITA"
+		}
+		requested_factories = 8
+		progress = 0.25
+		amount = 3
+	}
+}

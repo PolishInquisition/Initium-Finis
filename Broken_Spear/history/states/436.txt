@@ -1,0 +1,32 @@
+
+state={
+	id=436
+	name="STATE_436"
+
+	history={
+		owner = X57
+		victory_points = {
+			1242 15 
+		}
+		buildings = {
+			infrastructure = 2
+			industrial_complex = 1
+			arms_factory = 0
+			air_base = 5
+			1242 = {
+				naval_base = 4
+			}
+
+		}
+		add_core_of = X57
+	}
+
+	provinces={
+		1222 1242 1283 1310 4635 10147 12107 12123 12135 12484 
+	}
+	manpower=81208
+	buildings_max_level_factor=1.000
+	state_category=large_island
+
+	local_supplies=10.0
+}

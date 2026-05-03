@@ -1,0 +1,16 @@
+characters={
+	W23_billibellary_lanne={
+		name=W23_billibellary_lanne
+		portraits={
+			civilian={
+				large="GFX_Africa_Generic_new_1"
+			}
+		}
+		country_leader={
+			ideology=dictatorship_neutral
+			expire="1965.1.1.1"
+			id=-1
+		}
+	}
+
+}

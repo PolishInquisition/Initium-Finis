@@ -1,0 +1,56 @@
+characters={
+	SAU_abd_al_qadir_ibn_khalid={
+		name=SAU_abd_al_qadir_ibn_khalid
+		portraits={
+			army={
+				large="GFX_EGY_Mohammed_Naguib"
+			}
+			army={
+				small="GFX_EGY_Mohammed_Naguib"
+			}
+		}
+		corps_commander={
+			skill=2
+			attack_skill=3
+			defense_skill=2
+			planning_skill=1
+			logistics_skill=1
+			legacy_id=0
+		}
+	}
+
+	SAU_abd_al_qadir_ibn_fuad={
+		name=SAU_abd_al_qadir_ibn_fuad
+		portraits={
+			navy={
+				large="GFX_EGY_Hussein_Refki"
+			}
+			navy={
+				small="GFX_EGY_Hussein_Refki"
+			}
+		}
+		navy_leader={
+			skill=2
+			attack_skill=4
+			defense_skill=1
+			maneuvering_skill=2
+			coordination_skill=1
+			legacy_id=0
+		}
+	}
+
+	SAU_abd_al_qadir_ibn_mustafa={
+		name=SAU_abd_al_qadir_ibn_mustafa
+		portraits={
+			civilian={
+				large="GFX_IRQ_maktoum"
+			}
+		}
+		country_leader={
+			ideology=conservatism
+			expire="1965.1.1.1"
+			id=-1
+		}
+	}
+
+}

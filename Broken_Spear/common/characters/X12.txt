@@ -1,0 +1,16 @@
+characters={
+	X12_ilumani_heliya={
+		name=X12_ilumani_heliya
+		portraits={
+			civilian={
+				large="GFX_nat_carib_democratic"
+			}
+		}
+		country_leader={
+			ideology=absolute_monarchy
+			expire="1965.1.1.1"
+			id=-1
+		}
+	}
+
+}

@@ -1,0 +1,142 @@
+﻿capital = 539
+set_research_slots = 3
+
+oob = "BLR_OOB"
+
+# Starting tech
+# Research Bonuses
+
+set_country_flag = conv_belarus
+set_convoys = 0
+
+set_politics = {
+    ruling_party = democratic
+    last_election = "1836.1.1"
+    election_frequency = 48
+    elections_allowed = yes
+}
+
+set_popularities = {
+	absolutist = 9
+	democratic = 89
+	neutrality = 2
+}
+
+add_opinion_modifier = { target = ALG modifier = negative_10 }
+add_opinion_modifier = { target = CHL modifier = negative_5 }
+add_opinion_modifier = { target = CKK modifier = negative_10 }
+add_opinion_modifier = { target = COL modifier = negative_15 }
+add_opinion_modifier = { target = DEN modifier = positive_5 }
+add_opinion_modifier = { target = GER modifier = positive_5 }
+add_opinion_modifier = { target = KOR modifier = negative_10 }
+add_opinion_modifier = { target = MEX modifier = negative_15 }
+add_opinion_modifier = { target = MOR modifier = negative_10 }
+add_opinion_modifier = { target = SPR modifier = positive_5 }
+add_opinion_modifier = { target = TRA modifier = positive_5 }
+add_opinion_modifier = { target = W00 modifier = positive_15 }
+add_opinion_modifier = { target = X02 modifier = negative_10 }
+add_opinion_modifier = { target = X06 modifier = negative_10 }
+add_opinion_modifier = { target = X08 modifier = negative_10 }
+add_opinion_modifier = { target = X11 modifier = negative_10 }
+add_opinion_modifier = { target = X16 modifier = negative_10 }
+add_opinion_modifier = { target = X18 modifier = negative_10 }
+add_opinion_modifier = { target = X27 modifier = negative_10 }
+add_opinion_modifier = { target = X36 modifier = negative_15 }
+add_opinion_modifier = { target = X37 modifier = negative_10 }
+add_opinion_modifier = { target = X41 modifier = negative_10 }
+add_opinion_modifier = { target = X54 modifier = negative_10 }
+add_opinion_modifier = { target = X56 modifier = negative_10 }
+add_opinion_modifier = { target = X57 modifier = negative_10 }
+add_opinion_modifier = { target = X59 modifier = negative_10 }
+add_opinion_modifier = { target = X65 modifier = positive_5 }
+add_opinion_modifier = { target = X66 modifier = negative_10 }
+add_opinion_modifier = { target = X79 modifier = negative_10 }
+add_opinion_modifier = { target = X83 modifier = negative_10 }
+add_opinion_modifier = { target = X87 modifier = negative_10 }
+add_opinion_modifier = { target = X89 modifier = negative_10 }
+add_opinion_modifier = { target = X91 modifier = positive_5 }
+add_opinion_modifier = { target = X92 modifier = positive_5 }
+add_opinion_modifier = { target = X93 modifier = positive_5 }
+add_opinion_modifier = { target = X94 modifier = positive_5 }
+add_opinion_modifier = { target = X95 modifier = positive_15 }
+add_opinion_modifier = { target = YUG modifier = positive_5 }
+
+
+add_ideas = {
+	volunteer_only
+	civilian_economy
+	export_focus
+	culture_byelorussian
+}
+
+recruit_character = BLR_piotr_suchoj
+
+if = {
+	limit = {
+		has_dlc = "La Resistance"
+	}
+	create_operative_leader = {
+		name = "Jelena Pavlova"
+		GFX = "gfx/leaders/Europe/portrait_europe_generic_operative_female_1.dds"
+		traits = {}
+		bypass_recruitment = no
+		available_to_spy_master = yes
+		female = yes
+		nationalities = { BLR }
+	}
+
+	create_operative_leader = {
+		name = "Jelena Putiatina"
+		GFX = "gfx/leaders/Europe/portrait_europe_generic_operative_female_2.dds"
+		traits = {}
+		bypass_recruitment = no
+		available_to_spy_master = yes
+		female = yes
+		nationalities = { BLR }
+	}
+
+	create_operative_leader = {
+		name = "Ludmila Suchoja"
+		GFX = "gfx/leaders/Europe/portrait_europe_generic_operative_female_3.dds"
+		traits = {}
+		bypass_recruitment = no
+		available_to_spy_master = yes
+		female = yes
+		nationalities = { BLR }
+	}
+
+	create_operative_leader = {
+		name = "Roman Niebohatov"
+		GFX = "gfx/leaders/Europe/portrait_europe_generic_operative_male_1.dds"
+		traits = {}
+		bypass_recruitment = no
+		available_to_spy_master = yes
+		nationalities = { BLR }
+	}
+
+	create_operative_leader = {
+		name = "Valiery Alexseyev"
+		GFX = "gfx/leaders/Europe/portrait_europe_generic_operative_male_2.dds"
+		traits = {}
+		bypass_recruitment = no
+		available_to_spy_master = yes
+		nationalities = { BLR }
+	}
+
+}
+### VARIANTS ###
+if = {
+	limit = { not = { has_dlc = "Man the Guns" } }
+}
+if = {
+	limit = { has_dlc = "Man the Guns" }
+}
+### PLANE DESIGNS ###
+if = {
+	limit = { has_dlc = "By Blood Alone" }
+}
+### TANK DESIGNS ###
+if = {
+	limit = { has_dlc = "No Step Back" }
+}
+

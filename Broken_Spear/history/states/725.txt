@@ -1,0 +1,29 @@
+
+state={
+	id=725
+	name="STATE_725"
+
+	history={
+		owner = W02
+		victory_points = {
+			7137 1 
+		}
+		buildings = {
+			infrastructure = 1
+			industrial_complex = 1
+			arms_factory = 0
+			air_base = 0
+
+		}
+		add_core_of = W02
+	}
+
+	provinces={
+		1172 1469 1597 1625 4028 4077 4085 4121 4134 4152 4177 4628 4656 7095 7137 7168 7650 10039 10050 10404 10431 10459 12436 
+	}
+	manpower=7753184
+	buildings_max_level_factor=1.000
+	state_category=megalopolis
+
+	local_supplies=10.0
+}

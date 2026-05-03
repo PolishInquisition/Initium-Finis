@@ -1,5 +1,0 @@
-owner=YRK
-controller=PER
-trade_goods = sulphur
-life_rating = 32
-terrain = mountain

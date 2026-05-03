@@ -1,0 +1,21 @@
+﻿converted_war_strategies_GEO = {
+	allowed = {
+		tag = GEO
+	}
+	enable = {
+		always = no
+	}
+	abort_when_not_enabled = yes
+	
+}
+
+converted_diplo_strategies_GEO = {
+	allowed = {
+		tag = GEO
+	}
+	enable = {
+		always = no
+	}
+	abort_when_not_enabled = yes
+	
+}

@@ -1,0 +1,35 @@
+
+state={
+	id=425
+	name="STATE_425"
+
+	history={
+		owner = MEX
+		victory_points = {
+			10773 10 
+		}
+		buildings = {
+			infrastructure = 4
+			industrial_complex = 5
+			arms_factory = 2
+			dockyard = 2
+			air_base = 8
+			12810 = {
+				naval_base = 10
+			}
+
+		}
+		add_core_of = MEX
+		add_core_of = W03
+		add_claim_by = X53
+	}
+
+	provinces={
+		1965 7913 8089 10732 10773 10889 12810 
+	}
+	manpower=3774592
+	buildings_max_level_factor=1.000
+	state_category=metropolis
+
+	local_supplies=10.0
+}

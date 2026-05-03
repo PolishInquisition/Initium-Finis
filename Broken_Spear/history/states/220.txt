@@ -1,0 +1,35 @@
+
+state={
+	id=220
+	name="STATE_220"
+	resources={
+		rubber=116.000
+	}
+
+	history={
+		owner = W10
+		victory_points = {
+			7344 10 
+		}
+		buildings = {
+			infrastructure = 3
+			industrial_complex = 0
+			arms_factory = 0
+			air_base = 6
+			7344 = {
+				naval_base = 4
+			}
+
+		}
+		add_core_of = W10
+	}
+
+	provinces={
+		1213 4219 7260 7344 10201 10229 10287 12258 
+	}
+	manpower=2334472
+	buildings_max_level_factor=1.000
+	state_category=large_town
+
+	local_supplies=10.0
+}

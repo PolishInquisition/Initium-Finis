@@ -1,0 +1,176 @@
+﻿CKK_BB_HISTORICAL = {
+	name = NAME_THEME_HISTORICAL_BB
+
+	for_countries = { CKK }
+
+	type = ship
+	ship_types = { ship_hull_heavy battleship }
+
+	prefix = ""
+	fallback_name = "Battleship BB-%d"
+
+	unique = {
+		
+	}
+}
+
+CKK_BC_HISTORICAL = {
+	name = NAME_THEME_HISTORICAL_BC
+
+	for_countries = { CKK }
+
+	type = ship
+	ship_types = { ship_hull_heavy battle_cruiser }
+
+	prefix = ""
+	fallback_name = "Battlecruiser BC-%d"
+
+	unique = {
+		
+	}
+}
+
+CKK_CA_HISTORICAL = {
+	name = NAME_THEME_HISTORICAL_CA
+
+	for_countries = { CKK }
+
+	type = ship
+	ship_types = { ship_hull_cruiser heavy_cruiser }
+
+	prefix = ""
+	fallback_name = "Heavy Cruiser CA-%d"
+
+	unique = {
+		
+	}
+}
+
+CKK_CLAA_HISTORICAL = {
+	name = NAME_THEME_HISTORICAL_CLAA
+
+	for_countries = { CKK }
+
+	type = ship
+	ship_types = { ship_hull_cruiser light_cruiser }
+
+	prefix = ""
+	fallback_name = "Light Cruiser CLAA-%d"
+
+	unique = {
+		
+	}
+}
+
+CKK_CL_HISTORICAL = {
+	name = NAME_THEME_HISTORICAL_CL
+
+	for_countries = { CKK }
+
+	type = ship
+	ship_types = { ship_hull_cruiser light_cruiser }
+
+	prefix = ""
+	fallback_name = "Light Cruiser CL-%d"
+
+	unique = {
+		
+	}
+}
+
+CKK_CVL_HISTORICAL = {
+	name = NAME_THEME_HISTORICAL_CVL
+
+	for_countries = { CKK }
+
+	type = ship
+	ship_types = { ship_hull_carrier carrier }
+
+	prefix = ""
+	fallback_name = "Carrier CVL-%d"
+
+	unique = {
+		
+	}
+}
+
+CKK_CV_HISTORICAL = {
+	name = NAME_THEME_HISTORICAL_CARRIERS
+
+	for_countries = { CKK }
+
+	type = ship
+	ship_types = { ship_hull_carrier carrier }
+
+	prefix = ""
+	fallback_name = "Carrier CV-%d"
+
+	unique = {
+		
+	}
+}
+
+CKK_DD_HISTORICAL = {
+	name = NAME_THEME_HISTORICAL_DESTROYERS
+
+	for_countries = { CKK }
+
+	type = ship
+	ship_types = { ship_hull_light destroyer }
+
+	prefix = ""
+	fallback_name = "Destroyer DD-%d"
+
+	unique = {
+		
+	}
+}
+
+CKK_DE_HISTORICAL = {
+	name = NAME_THEME_HISTORICAL_DE
+
+	for_countries = { CKK }
+
+	type = ship
+	ship_types = { ship_hull_light destroyer }
+
+	prefix = ""
+	fallback_name = "Destroyer Escort DE-%d"
+
+	unique = {
+		
+	}
+}
+
+CKK_MINELAYERS_HISTORICAL = {
+	name = NAME_THEME_HISTORICAL_MINELAYERS
+
+	for_countries = { CKK }
+
+	type = ship
+	ship_types = { ship_hull_cruiser light_cruiser ship_hull_light destroyer }
+
+	prefix = ""
+	fallback_name = "Minelayer CM-%d"
+
+	unique = {
+		
+	}
+}
+
+CKK_SS_HISTORICAL = {
+	name = NAME_THEME_HISTORICAL_SUBMARINES
+
+	for_countries = { CKK }
+
+	type = ship
+	ship_types = { ship_hull_submarine submarine }
+
+	prefix = ""
+	fallback_name = "Submarine SS-%d"
+
+	unique = {
+		
+	}
+}
+

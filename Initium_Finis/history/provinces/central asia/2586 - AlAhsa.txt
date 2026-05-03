@@ -1,9 +1,0 @@
-owner=JER
-controller=JER
-add_core=ALH
-add_core=ARA
-add_core=JER
-add_core=NEJ
-trade_goods = grain
-life_rating = 10
-terrain = desert

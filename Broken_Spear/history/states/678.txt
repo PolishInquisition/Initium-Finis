@@ -1,0 +1,32 @@
+
+state={
+	id=678
+	name="STATE_678"
+
+	history={
+		owner = X79
+		victory_points = {
+			10184 15 
+		}
+		buildings = {
+			infrastructure = 2
+			industrial_complex = 1
+			arms_factory = 0
+			air_base = 5
+			10184 = {
+				naval_base = 4
+			}
+
+		}
+		add_core_of = X79
+	}
+
+	provinces={
+		10184 
+	}
+	manpower=28404
+	buildings_max_level_factor=1.000
+	state_category=large_island
+
+	local_supplies=10.0
+}

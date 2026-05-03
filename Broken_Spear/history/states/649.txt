@@ -1,0 +1,36 @@
+
+state={
+	id=649
+	name="STATE_649"
+	resources={
+		aluminium=1.000
+	}
+
+	history={
+		owner = SPR
+		victory_points = {
+			8193 1 
+		}
+		buildings = {
+			infrastructure = 3
+			industrial_complex = 0
+			arms_factory = 0
+			air_base = 1
+			12975 = {
+				naval_base = 4
+			}
+
+		}
+		add_core_of = SPR
+		add_claim_by = X43
+	}
+
+	provinces={
+		2192 3109 6008 8193 12975 
+	}
+	manpower=717664
+	buildings_max_level_factor=1.000
+	state_category=pastoral
+
+	local_supplies=10.0
+}

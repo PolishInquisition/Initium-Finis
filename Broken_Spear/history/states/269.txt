@@ -1,0 +1,33 @@
+
+state={
+	id=269
+	name="STATE_269"
+	resources={
+		aluminium=4.000
+	}
+
+	history={
+		owner = GER
+		victory_points = {
+			9517 2 
+		}
+		buildings = {
+			infrastructure = 4
+			industrial_complex = 1
+			arms_factory = 1
+			air_base = 1
+
+		}
+		add_core_of = BAY
+		add_core_of = GER
+	}
+
+	provinces={
+		519 694 3690 6555 9517 9545 9655 11486 11499 
+	}
+	manpower=5237992
+	buildings_max_level_factor=1.000
+	state_category=metropolis
+
+	local_supplies=10.0
+}

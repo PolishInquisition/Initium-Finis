@@ -1,0 +1,35 @@
+
+state={
+	id=652
+	name="STATE_652"
+	resources={
+		steel=3.000
+	}
+
+	history={
+		owner = W17
+		victory_points = {
+			2126 0 
+		}
+		buildings = {
+			infrastructure = 2
+			industrial_complex = 0
+			arms_factory = 0
+			air_base = 0
+			5158 = {
+				naval_base = 1
+			}
+
+		}
+		add_core_of = W17
+	}
+
+	provinces={
+		1552 2126 4735 5158 7548 8054 12981 13371 13372 13373 
+	}
+	manpower=738288
+	buildings_max_level_factor=1.000
+	state_category=pastoral
+
+	local_supplies=10.0
+}

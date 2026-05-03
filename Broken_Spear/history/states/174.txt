@@ -1,0 +1,34 @@
+
+state={
+	id=174
+	name="STATE_174"
+
+	history={
+		owner = CSA
+		victory_points = {
+			6984 2 
+		}
+		buildings = {
+			infrastructure = 3
+			industrial_complex = 0
+			arms_factory = 1
+			dockyard = 1
+			air_base = 1
+			6984 = {
+				naval_base = 6
+			}
+
+		}
+		add_core_of = CSA
+		add_core_of = USA
+	}
+
+	provinces={
+		3917 6823 6892 6929 6984 9758 9786 
+	}
+	manpower=3589984
+	buildings_max_level_factor=1.000
+	state_category=city
+
+	local_supplies=10.0
+}

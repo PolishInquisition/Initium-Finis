@@ -1,0 +1,33 @@
+
+state={
+	id=629
+	name="STATE_629"
+
+	history={
+		owner = SPR
+		victory_points = {
+			4108 1 
+		}
+		buildings = {
+			infrastructure = 3
+			industrial_complex = 1
+			arms_factory = 0
+			air_base = 1
+			7069 = {
+				naval_base = 4
+			}
+
+		}
+		add_core_of = MOR
+		add_core_of = SPR
+	}
+
+	provinces={
+		1207 4108 4139 7069 10023 10107 
+	}
+	manpower=607752
+	buildings_max_level_factor=1.000
+	state_category=large_island
+
+	local_supplies=10.0
+}

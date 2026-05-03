@@ -1,0 +1,32 @@
+
+state={
+	id=137
+	name="STATE_137"
+
+	history={
+		owner = CKK
+		victory_points = {
+			10540 15 
+		}
+		buildings = {
+			infrastructure = 2
+			industrial_complex = 1
+			arms_factory = 0
+			air_base = 5
+			10540 = {
+				naval_base = 2
+			}
+
+		}
+		add_core_of = CKK
+	}
+
+	provinces={
+		1823 1839 1863 10540 
+	}
+	manpower=804
+	buildings_max_level_factor=1.000
+	state_category=wasteland
+
+	local_supplies=10.0
+}

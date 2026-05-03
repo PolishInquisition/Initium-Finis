@@ -1,0 +1,151 @@
+﻿converted_war_strategies_X10 = {
+	allowed = {
+		tag = X10
+	}
+	enable = {
+		always = no
+	}
+	abort_when_not_enabled = yes
+	
+}
+
+converted_diplo_strategies_X10 = {
+	allowed = {
+		tag = X10
+	}
+	enable = {
+		always = no
+	}
+	abort_when_not_enabled = yes
+	
+	ai_strategy = {
+		type = contain
+		id = "X48"
+		value = 175
+	}
+	ai_strategy = {
+		type = contain
+		id = "X56"
+		value = 175
+	}
+	ai_strategy = {
+		type = contain
+		id = "X76"
+		value = 175
+	}
+	ai_strategy = {
+		type = contain
+		id = "X87"
+		value = 175
+	}
+	ai_strategy = {
+		type = contain
+		id = "X79"
+		value = 102
+	}
+	ai_strategy = {
+		type = contain
+		id = "BRU"
+		value = 81
+	}
+	ai_strategy = {
+		type = contain
+		id = "X83"
+		value = 75
+	}
+	ai_strategy = {
+		type = contain
+		id = "X08"
+		value = 25
+	}
+	ai_strategy = {
+		type = antagonize
+		id = "X48"
+		value = 73
+	}
+	ai_strategy = {
+		type = antagonize
+		id = "X76"
+		value = 73
+	}
+	ai_strategy = {
+		type = antagonize
+		id = "X56"
+		value = 48
+	}
+	ai_strategy = {
+		type = antagonize
+		id = "X83"
+		value = 48
+	}
+	ai_strategy = {
+		type = antagonize
+		id = "X87"
+		value = 48
+	}
+	ai_strategy = {
+		type = antagonize
+		id = "KOR"
+		value = 27
+	}
+	ai_strategy = {
+		type = antagonize
+		id = "CSA"
+		value = 15
+	}
+	ai_strategy = {
+		type = antagonize
+		id = "BAN"
+		value = 8
+	}
+	ai_strategy = {
+		type = antagonize
+		id = "BRA"
+		value = 5
+	}
+	ai_strategy = {
+		type = antagonize
+		id = "MEX"
+		value = 4
+	}
+	ai_strategy = {
+		type = alliance
+		id = "X76"
+		value = 200
+	}
+	ai_strategy = {
+		type = alliance
+		id = "X44"
+		value = 46
+	}
+	ai_strategy = {
+		type = alliance
+		id = "X48"
+		value = 31
+	}
+	ai_strategy = {
+		type = alliance
+		id = "X56"
+		value = 31
+	}
+	ai_strategy = {
+		type = declare_war
+		id = "X56"
+		value = 115
+	}
+	ai_strategy = {
+		type = declare_war
+		id = "X87"
+		value = 115
+	}
+	ai_strategy = {
+		type = declare_war
+		id = "X79"
+		value = 90
+	}
+	ai_strategy = {
+		type = declare_war
+		id = "X48"
+		value = 75
+	}
+}

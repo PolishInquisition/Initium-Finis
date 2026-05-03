@@ -1,0 +1,33 @@
+
+state={
+	id=534
+	name="STATE_534"
+
+	history={
+		owner = X71
+		victory_points = {
+			362 1 
+		}
+		buildings = {
+			infrastructure = 3
+			industrial_complex = 0
+			arms_factory = 1
+			air_base = 1
+			362 = {
+				naval_base = 10
+			}
+
+		}
+		add_core_of = X71
+		add_core_of = X72
+	}
+
+	provinces={
+		266 362 3295 3351 3380 6347 6375 6402 9327 9346 9372 9398 11245 11386 
+	}
+	manpower=1739268
+	buildings_max_level_factor=1.000
+	state_category=rural
+
+	local_supplies=10.0
+}

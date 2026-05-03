@@ -1,0 +1,35 @@
+
+state={
+	id=226
+	name="STATE_226"
+	resources={
+		steel=25.000
+	}
+
+	history={
+		owner = W11
+		victory_points = {
+			12589 2 
+		}
+		buildings = {
+			infrastructure = 3
+			industrial_complex = 2
+			arms_factory = 0
+			air_base = 1
+			12589 = {
+				naval_base = 10
+			}
+
+		}
+		add_core_of = W11
+	}
+
+	provinces={
+		4528 10415 10442 12547 12589 12692 
+	}
+	manpower=1394312
+	buildings_max_level_factor=1.000
+	state_category=town
+
+	local_supplies=10.0
+}

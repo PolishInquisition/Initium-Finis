@@ -1,0 +1,45 @@
+
+state={
+	id=104
+	name="STATE_104"
+	resources={
+		aluminium=3.000
+	}
+
+	history={
+		owner = X16
+		victory_points = {
+			1001 4 
+		}
+		buildings = {
+			infrastructure = 3
+			industrial_complex = 2
+			arms_factory = 2
+			dockyard = 2
+			air_base = 2
+			9953 = {
+				naval_base = 4
+			}
+			11913 = {
+				landmark_nanjing_presidential_palace = {
+					level = 1
+					allowed = {
+						has_dlc = "No Compromise, No Surrender"
+					}
+				}
+			}
+
+		}
+		add_core_of = X16
+		add_claim_by = X73
+	}
+
+	provinces={
+		1001 1029 1076 1121 1146 1161 4001 4005 4031 4082 4123 4148 7025 7142 7181 7200 9953 9956 10008 10095 11913 12055 12067 
+	}
+	manpower=29816576
+	buildings_max_level_factor=1.000
+	state_category=megalopolis
+
+	local_supplies=10.0
+}

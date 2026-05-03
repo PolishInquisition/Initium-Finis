@@ -1,0 +1,33 @@
+
+state={
+	id=720
+	name="STATE_720"
+
+	history={
+		owner = YEM
+		victory_points = {
+			10833 1 
+		}
+		buildings = {
+			infrastructure = 1
+			industrial_complex = 0
+			arms_factory = 0
+			air_base = 0
+			10833 = {
+				naval_base = 2
+			}
+
+		}
+		add_core_of = X02
+		add_core_of = YEM
+	}
+
+	provinces={
+		1905 5068 8094 10777 10833 10921 12759 12814 
+	}
+	manpower=339548
+	buildings_max_level_factor=1.000
+	state_category=rural
+
+	local_supplies=10.0
+}

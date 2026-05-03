@@ -1,0 +1,76 @@
+characters={
+	GRE_staikos_pan'galos={
+		name=GRE_staikos_pan'galos
+		portraits={
+			army={
+				large="GFX_Portrait_Europe_Generic_land_5"
+			}
+			army={
+				small="GFX_Portrait_Europe_Generic_land_5"
+			}
+		}
+		corps_commander={
+			skill=1
+			attack_skill=1
+			defense_skill=1
+			planning_skill=1
+			logistics_skill=1
+			legacy_id=0
+		}
+	}
+
+	GRE_alexandros_palaskas={
+		name=GRE_alexandros_palaskas
+		portraits={
+			army={
+				large="GFX_Portrait_Europe_Generic_land_2"
+			}
+			army={
+				small="GFX_Portrait_Europe_Generic_land_2"
+			}
+		}
+		corps_commander={
+			skill=3
+			attack_skill=2
+			defense_skill=1
+			planning_skill=2
+			logistics_skill=4
+			legacy_id=0
+		}
+	}
+
+	GRE_andreas_metaxas={
+		name=GRE_andreas_metaxas
+		portraits={
+			army={
+				large="GFX_portrait_europe_generic_land_13"
+			}
+			army={
+				small="GFX_portrait_europe_generic_land_13"
+			}
+		}
+		corps_commander={
+			skill=1
+			attack_skill=1
+			defense_skill=1
+			planning_skill=1
+			logistics_skill=1
+			legacy_id=0
+		}
+	}
+
+	GRE_eleftherios_zaimis={
+		name=GRE_eleftherios_zaimis
+		portraits={
+			civilian={
+				large="GFX_Italy_Benito_Mussolini"
+			}
+		}
+		country_leader={
+			ideology=fascism_ideology
+			expire="1965.1.1.1"
+			id=-1
+		}
+	}
+
+}

@@ -1,0 +1,16 @@
+characters={
+	W04_sundai_lobengula={
+		name=W04_sundai_lobengula
+		portraits={
+			civilian={
+				large="GFX_LIB_edwin_barclay"
+			}
+		}
+		country_leader={
+			ideology=liberalism
+			expire="1965.1.1.1"
+			id=-1
+		}
+	}
+
+}

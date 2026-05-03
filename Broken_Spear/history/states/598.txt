@@ -1,0 +1,34 @@
+
+state={
+	id=598
+	name="STATE_598"
+	resources={
+		aluminium=5.000
+		steel=1.000
+	}
+
+	history={
+		owner = TRA
+		victory_points = {
+			3696 4 
+		}
+		buildings = {
+			infrastructure = 3
+			industrial_complex = 4
+			arms_factory = 2
+			air_base = 2
+
+		}
+		add_core_of = TRA
+		add_claim_by = X29
+	}
+
+	provinces={
+		696 713 746 3696 6682 6697 9640 9687 
+	}
+	manpower=1746772
+	buildings_max_level_factor=1.000
+	state_category=large_city
+
+	local_supplies=10.0
+}

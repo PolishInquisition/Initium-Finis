@@ -1,9 +1,0 @@
-owner=PLC
-controller=PLC
-add_core=CZE
-add_core=PLC
-add_core=WSF
-trade_goods = coal
-life_rating = 35
-terrain = hills
-fort = 1

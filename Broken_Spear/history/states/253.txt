@@ -1,0 +1,33 @@
+
+state={
+	id=253
+	name="STATE_253"
+	resources={
+		coal=8.000
+	}
+
+	history={
+		owner = GER
+		victory_points = {
+			11562 2 
+		}
+		buildings = {
+			infrastructure = 3
+			industrial_complex = 2
+			arms_factory = 1
+			air_base = 1
+
+		}
+		add_core_of = GER
+		add_core_of = LOT
+	}
+
+	provinces={
+		3262 6496 6500 9363 11456 11562 
+	}
+	manpower=2376632
+	buildings_max_level_factor=1.000
+	state_category=town
+
+	local_supplies=10.0
+}

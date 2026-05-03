@@ -1,0 +1,29 @@
+
+state={
+	id=371
+	name="STATE_371"
+
+	history={
+		owner = X41
+		victory_points = {
+			12592 15 
+		}
+		buildings = {
+			infrastructure = 2
+			industrial_complex = 1
+			arms_factory = 0
+			air_base = 5
+
+		}
+		add_core_of = X41
+	}
+
+	provinces={
+		4455 12592 
+	}
+	manpower=52
+	buildings_max_level_factor=1.000
+	state_category=large_island
+
+	local_supplies=10.0
+}

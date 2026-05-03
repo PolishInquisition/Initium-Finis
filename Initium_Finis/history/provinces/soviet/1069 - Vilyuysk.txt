@@ -1,6 +1,0 @@
-owner=QIC
-controller=PER
-add_core=QIC
-trade_goods = cattle
-life_rating = 15
-terrain = forest

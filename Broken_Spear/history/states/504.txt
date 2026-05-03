@@ -1,0 +1,30 @@
+
+state={
+	id=504
+	name="STATE_504"
+
+	history={
+		owner = PER
+		victory_points = {
+			5098 1 
+		}
+		buildings = {
+			infrastructure = 2
+			industrial_complex = 0
+			arms_factory = 0
+			air_base = 0
+
+		}
+		add_core_of = PER
+		add_claim_by = X78
+	}
+
+	provinces={
+		829 2065 4943 5050 5098 8040 8125 9816 10774 12773 
+	}
+	manpower=612796
+	buildings_max_level_factor=1.000
+	state_category=pastoral
+
+	local_supplies=10.0
+}

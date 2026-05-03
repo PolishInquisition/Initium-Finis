@@ -1,0 +1,32 @@
+
+state={
+	id=293
+	name="STATE_293"
+	resources={
+		coal=1.000
+	}
+
+	history={
+		owner = X71
+		victory_points = {
+			6600 1 
+		}
+		buildings = {
+			infrastructure = 2
+			industrial_complex = 0
+			arms_factory = 0
+			air_base = 0
+
+		}
+		add_core_of = X71
+	}
+
+	provinces={
+		414 577 3407 3577 6600 11705 
+	}
+	manpower=362216
+	buildings_max_level_factor=1.000
+	state_category=rural
+
+	local_supplies=10.0
+}

@@ -1,0 +1,32 @@
+
+state={
+	id=115
+	name="STATE_115"
+	resources={
+		aluminium=1.000
+	}
+
+	history={
+		owner = X16
+		victory_points = {
+			5092 2 
+		}
+		buildings = {
+			infrastructure = 1
+			industrial_complex = 1
+			arms_factory = 1
+			air_base = 0
+
+		}
+		add_core_of = X16
+	}
+
+	provinces={
+		1976 2006 4256 5007 5092 7208 7301 7406 8049 10257 10733 12156 12408 12713 
+	}
+	manpower=13676668
+	buildings_max_level_factor=1.000
+	state_category=megalopolis
+
+	local_supplies=10.0
+}

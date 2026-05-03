@@ -1,0 +1,16 @@
+characters={
+	W21_alphonse_de_courtenay={
+		name=W21_alphonse_de_courtenay
+		portraits={
+			civilian={
+				large="GFX_France_Paul_Reynaud"
+			}
+		}
+		country_leader={
+			ideology=liberalism
+			expire="1965.1.1.1"
+			id=-1
+		}
+	}
+
+}

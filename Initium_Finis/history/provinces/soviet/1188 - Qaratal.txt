@@ -1,6 +1,0 @@
-owner=YRK
-controller=PER
-add_core=KAZ
-trade_goods = fish
-life_rating = 25
-terrain = steppe

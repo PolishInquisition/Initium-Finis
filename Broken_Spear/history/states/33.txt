@@ -1,0 +1,38 @@
+
+state={
+	id=33
+	name="STATE_33"
+	resources={
+		steel=1.000
+		tungsten=2.000
+	}
+
+	history={
+		owner = BAN
+		victory_points = {
+			10154 10 
+		}
+		buildings = {
+			infrastructure = 2
+			industrial_complex = 2
+			arms_factory = 0
+			air_base = 10
+			1330 = {
+				naval_base = 10
+			}
+
+		}
+		add_core_of = X05
+		add_core_of = X07
+		add_core_of = X67
+	}
+
+	provinces={
+		1014 1142 1330 1417 3651 4147 4293 4336 7122 7254 7382 7441 10154 10182 10223 10267 12090 12127 12197 12256 12267 
+	}
+	manpower=2181612
+	buildings_max_level_factor=1.000
+	state_category=town
+
+	local_supplies=10.0
+}

@@ -1,0 +1,30 @@
+
+state={
+	id=12
+	name="STATE_12"
+
+	history={
+		owner = X07
+		victory_points = {
+			7965 10 
+		}
+		buildings = {
+			infrastructure = 3
+			industrial_complex = 1
+			arms_factory = 0
+			air_base = 6
+
+		}
+		add_core_of = W02
+		add_core_of = X15
+	}
+
+	provinces={
+		1010 1114 1196 1319 1383 1474 1522 1653 1884 4192 4325 4501 4504 4532 4559 5009 5072 7446 7521 7549 7577 7606 7965 7976 8023 8095 9939 10346 10413 10616 10763 10776 10819 10863 12262 12282 12789 12841 12898 
+	}
+	manpower=12182852
+	buildings_max_level_factor=1.000
+	state_category=megalopolis
+
+	local_supplies=10.0
+}

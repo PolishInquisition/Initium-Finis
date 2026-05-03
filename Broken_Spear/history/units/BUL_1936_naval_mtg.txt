@@ -1,0 +1,49 @@
+units = {
+	fleet = {
+		name = "1st Fleet"
+		naval_base = 657
+		task_force = {
+			name = "1st Fleet"
+			location = 657
+			ship = { name = "1st Burgas Dreadnought" definition = battleship start_experience_factor = 0.2 equipment = { ship_hull_heavy_2 = { amount = 1 owner = BUL version_name = "1936 Battleship" } } }
+			ship = { name = "1st Constanta Dreadnought" definition = battleship start_experience_factor = 0.2 equipment = { ship_hull_heavy_2 = { amount = 1 owner = BUL version_name = "1936 Battleship" } } }
+			ship = { name = "Sofia" definition = battleship start_experience_factor = 0.2 equipment = { ship_hull_heavy_2 = { amount = 1 owner = BUL version_name = "1936 Battleship" } } }
+			ship = { name = "Varna" definition = battleship start_experience_factor = 0.19219 equipment = { ship_hull_heavy_2 = { amount = 1 owner = BUL version_name = "1936 Battleship" } } }
+			ship = { name = "Plovdiv" definition = battleship start_experience_factor = 0.2 equipment = { ship_hull_heavy_2 = { amount = 1 owner = BUL version_name = "1936 Battleship" } } }
+			ship = { name = "Burgas" definition = battleship start_experience_factor = 0.19801 equipment = { ship_hull_heavy_2 = { amount = 1 owner = BUL version_name = "1936 Battleship" } } }
+			ship = { name = "Stara Zagora" definition = battleship start_experience_factor = 0.2 equipment = { ship_hull_heavy_2 = { amount = 1 owner = BUL version_name = "1936 Battleship" } } }
+			ship = { name = "1st Kirklareli Dreadnought" definition = battleship start_experience_factor = 0.2 equipment = { ship_hull_heavy_2 = { amount = 1 owner = BUL version_name = "1936 Battleship" } } }
+			ship = { name = "2nd Kirklareli Battleship" definition = heavy_cruiser start_experience_factor = 0.2 equipment = { ship_hull_cruiser_1 = { amount = 1 owner = BUL version_name = "Early Heavy Cruiser" } } }
+			ship = { name = "1st Kirklareli Battleship" definition = heavy_cruiser start_experience_factor = 0.2 equipment = { ship_hull_cruiser_1 = { amount = 1 owner = BUL version_name = "Early Heavy Cruiser" } } }
+			ship = { name = "1st Edessa Battleship" definition = heavy_cruiser start_experience_factor = 0.18729 equipment = { ship_hull_cruiser_1 = { amount = 1 owner = BUL version_name = "Early Heavy Cruiser" } } }
+			ship = { name = "Maritsa" definition = light_cruiser start_experience_factor = 0.19311 equipment = { ship_hull_cruiser_1 = { amount = 1 owner = BUL version_name = "Early Light Cruiser" } } }
+			ship = { name = "Vit" definition = light_cruiser start_experience_factor = 0.2 equipment = { ship_hull_cruiser_1 = { amount = 1 owner = BUL version_name = "Early Light Cruiser" } } }
+			ship = { name = "Iskar" definition = light_cruiser start_experience_factor = 0.18155 equipment = { ship_hull_cruiser_1 = { amount = 1 owner = BUL version_name = "Early Light Cruiser" } } }
+			ship = { name = "Osam" definition = light_cruiser start_experience_factor = 0.2 equipment = { ship_hull_cruiser_1 = { amount = 1 owner = BUL version_name = "Early Light Cruiser" } } }
+			ship = { name = "Osam 2" definition = light_cruiser start_experience_factor = 0.2 equipment = { ship_hull_cruiser_1 = { amount = 1 owner = BUL version_name = "Early Light Cruiser" } } }
+		}
+	}
+}
+
+instant_effect = {
+	add_equipment_production = {
+		equipment = {
+			type = ship_hull_light_1
+			creator = "BUL"
+			version_name = "Early Destroyer"
+		}
+		requested_factories = 3
+		progress = 0.25
+		amount = 10
+	}
+	add_equipment_production = {
+		equipment = {
+			type = ship_hull_heavy_2
+			creator = "BUL"
+			version_name = "1936 Battleship"
+		}
+		requested_factories = 8
+		progress = 0.25
+		amount = 3
+	}
+}

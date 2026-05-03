@@ -1,0 +1,32 @@
+
+state={
+	id=127
+	name="STATE_127"
+	resources={
+		oil=2.000
+	}
+
+	history={
+		owner = CHL
+		victory_points = {
+			8187 1 
+		}
+		buildings = {
+			infrastructure = 4
+			industrial_complex = 1
+			arms_factory = 0
+			air_base = 1
+
+		}
+		add_core_of = CHL
+	}
+
+	provinces={
+		8187 8238 12964 
+	}
+	manpower=554224
+	buildings_max_level_factor=1.000
+	state_category=large_island
+
+	local_supplies=10.0
+}

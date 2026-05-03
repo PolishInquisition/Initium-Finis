@@ -1,7 +1,0 @@
-owner=PER
-controller=PER
-add_core=NOG
-add_core=PER
-trade_goods = coal
-life_rating = 25
-terrain = steppe

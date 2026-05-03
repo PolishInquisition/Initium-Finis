@@ -1,0 +1,32 @@
+
+state={
+	id=667
+	name="STATE_667"
+	resources={
+		steel=1.000
+	}
+
+	history={
+		owner = W15
+		victory_points = {
+			9152 1 
+		}
+		buildings = {
+			infrastructure = 3
+			industrial_complex = 0
+			arms_factory = 0
+			air_base = 1
+
+		}
+		add_core_of = W15
+	}
+
+	provinces={
+		1993 2081 3181 9152 13211 
+	}
+	manpower=521484
+	buildings_max_level_factor=1.000
+	state_category=pastoral
+
+	local_supplies=10.0
+}

@@ -1,0 +1,21 @@
+
+state={
+	id=55
+	name="STATE_55"
+	impassable = yes
+
+	history={
+		owner = BRU
+		add_core_of = BRU
+		add_core_of = X42
+	}
+
+	provinces={
+		1230 2170 2222 4335 7424 
+	}
+	manpower=61572
+	buildings_max_level_factor=1.000
+	state_category=wasteland
+
+	local_supplies=10.0
+}

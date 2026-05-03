@@ -1,0 +1,76 @@
+characters={
+	X87_sonny_pelmelay={
+		name=X87_sonny_pelmelay
+		portraits={
+			army={
+				large="GFX_Portrait_Asia_Generic_land_3"
+			}
+			army={
+				small="GFX_Portrait_Asia_Generic_land_3"
+			}
+		}
+		corps_commander={
+			skill=1
+			attack_skill=2
+			defense_skill=1
+			planning_skill=1
+			logistics_skill=1
+			legacy_id=0
+		}
+	}
+
+	X87_ellyas_pattinama={
+		name=X87_ellyas_pattinama
+		portraits={
+			army={
+				large="GFX_Philippines_Mateo_Capinpin"
+			}
+			army={
+				small="GFX_Philippines_Mateo_Capinpin"
+			}
+		}
+		corps_commander={
+			skill=2
+			attack_skill=1
+			defense_skill=2
+			planning_skill=1
+			logistics_skill=2
+			legacy_id=0
+		}
+	}
+
+	X87_denny_mainaky={
+		name=X87_denny_mainaky
+		portraits={
+			navy={
+				large="GFX_Asia_Generic_navy_new_2"
+			}
+			navy={
+				small="GFX_Asia_Generic_navy_new_2"
+			}
+		}
+		navy_leader={
+			skill=2
+			attack_skill=3
+			defense_skill=1
+			maneuvering_skill=2
+			coordination_skill=1
+			legacy_id=0
+		}
+	}
+
+	X87_jordao_lilipaly={
+		name=X87_jordao_lilipaly
+		portraits={
+			civilian={
+				large="GFX_Indonesia_Sutomo"
+			}
+		}
+		country_leader={
+			ideology=fascism_ideology
+			expire="1965.1.1.1"
+			id=-1
+		}
+	}
+
+}

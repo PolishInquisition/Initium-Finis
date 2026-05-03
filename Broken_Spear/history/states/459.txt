@@ -1,0 +1,33 @@
+
+state={
+	id=459
+	name="STATE_459"
+	resources={
+		aluminium=22.000
+		steel=39.000
+	}
+
+	history={
+		owner = X65
+		victory_points = {
+			3770 2 
+		}
+		buildings = {
+			infrastructure = 4
+			industrial_complex = 1
+			arms_factory = 1
+			air_base = 1
+
+		}
+		add_core_of = X65
+	}
+
+	provinces={
+		3594 3770 6786 11593 11716 
+	}
+	manpower=1492864
+	buildings_max_level_factor=1.000
+	state_category=large_island
+
+	local_supplies=10.0
+}

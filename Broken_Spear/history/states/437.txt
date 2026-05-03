@@ -1,0 +1,32 @@
+
+state={
+	id=437
+	name="STATE_437"
+
+	history={
+		owner = X59
+		victory_points = {
+			5023 15 
+		}
+		buildings = {
+			infrastructure = 2
+			industrial_complex = 1
+			arms_factory = 0
+			air_base = 5
+			5023 = {
+				naval_base = 1
+			}
+
+		}
+		add_core_of = X59
+	}
+
+	provinces={
+		5023 
+	}
+	manpower=36
+	buildings_max_level_factor=1.000
+	state_category=wasteland
+
+	local_supplies=10.0
+}

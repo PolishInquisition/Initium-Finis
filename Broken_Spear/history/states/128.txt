@@ -1,0 +1,36 @@
+
+state={
+	id=128
+	name="STATE_128"
+	resources={
+		oil=5.000
+		tungsten=3.000
+	}
+
+	history={
+		owner = CHL
+		victory_points = {
+			7500 2 
+		}
+		buildings = {
+			infrastructure = 3
+			industrial_complex = 1
+			arms_factory = 1
+			air_base = 1
+			10515 = {
+				naval_base = 6
+			}
+
+		}
+		add_core_of = CHL
+	}
+
+	provinces={
+		1449 2172 5163 5213 7500 8169 10515 10943 12453 13000 
+	}
+	manpower=991012
+	buildings_max_level_factor=1.000
+	state_category=town
+
+	local_supplies=10.0
+}

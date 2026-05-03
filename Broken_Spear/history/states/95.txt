@@ -1,0 +1,36 @@
+
+state={
+	id=95
+	name="STATE_95"
+	resources={
+		chromium=11.000
+	}
+
+	history={
+		owner = BUL
+		victory_points = {
+			947 1 
+		}
+		buildings = {
+			infrastructure = 3
+			industrial_complex = 0
+			arms_factory = 0
+			dockyard = 1
+			air_base = 1
+			11811 = {
+				naval_base = 10
+			}
+
+		}
+		add_core_of = BUL
+	}
+
+	provinces={
+		947 3786 3851 11811 11867 
+	}
+	manpower=846692
+	buildings_max_level_factor=1.000
+	state_category=rural
+
+	local_supplies=10.0
+}

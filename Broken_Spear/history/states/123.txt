@@ -1,0 +1,37 @@
+
+state={
+	id=123
+	name="STATE_123"
+	resources={
+		aluminium=4.000
+		coal=1.000
+		steel=1.000
+	}
+
+	history={
+		owner = CHL
+		victory_points = {
+			12954 1 
+		}
+		buildings = {
+			infrastructure = 1
+			industrial_complex = 1
+			arms_factory = 0
+			air_base = 0
+			12954 = {
+				naval_base = 6
+			}
+
+		}
+		add_core_of = CHL
+	}
+
+	provinces={
+		2161 5118 5159 5169 5201 5209 5215 8198 8218 10961 12954 13295 13297 13300 
+	}
+	manpower=660116
+	buildings_max_level_factor=1.000
+	state_category=large_island
+
+	local_supplies=10.0
+}

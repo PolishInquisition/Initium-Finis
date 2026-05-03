@@ -1,0 +1,36 @@
+
+state={
+	id=339
+	name="STATE_339"
+
+	history={
+		owner = X36
+		victory_points = {
+			13079 10 
+		}
+		buildings = {
+			infrastructure = 4
+			industrial_complex = 2
+			arms_factory = 0
+			air_base = 10
+			10752 = {
+				naval_base = 4
+			}
+
+		}
+		add_core_of = X01
+		add_core_of = X52
+		add_claim_by = SAU
+		add_claim_by = X36
+		add_claim_by = YEM
+	}
+
+	provinces={
+		1920 1973 2029 4924 4976 5074 8000 10752 10840 12821 12894 13079 13374 
+	}
+	manpower=1332240
+	buildings_max_level_factor=1.000
+	state_category=town
+
+	local_supplies=10.0
+}

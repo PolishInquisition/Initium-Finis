@@ -1,0 +1,56 @@
+characters={
+	X06_abul_natadiningrat={
+		name=X06_abul_natadiningrat
+		portraits={
+			army={
+				large="GFX_Portrait_Asia_Generic_land_1"
+			}
+			army={
+				small="GFX_Portrait_Asia_Generic_land_1"
+			}
+		}
+		corps_commander={
+			skill=2
+			attack_skill=3
+			defense_skill=1
+			planning_skill=1
+			logistics_skill=1
+			legacy_id=0
+		}
+	}
+
+	X06_arifin_khairuddin={
+		name=X06_arifin_khairuddin
+		portraits={
+			army={
+				large="GFX_Sarawak_Ye_Jianying"
+			}
+			army={
+				small="GFX_Sarawak_Ye_Jianying"
+			}
+		}
+		corps_commander={
+			skill=2
+			attack_skill=3
+			defense_skill=1
+			planning_skill=3
+			logistics_skill=1
+			legacy_id=0
+		}
+	}
+
+	X06_muhieddin_sepuh={
+		name=X06_muhieddin_sepuh
+		portraits={
+			civilian={
+				large="GFX_r56_generic_politician_asia_1_fascism"
+			}
+		}
+		country_leader={
+			ideology=fascism_ideology
+			expire="1965.1.1.1"
+			id=-1
+		}
+	}
+
+}

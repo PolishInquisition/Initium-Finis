@@ -1,0 +1,33 @@
+
+state={
+	id=185
+	name="STATE_185"
+
+	history={
+		owner = DEN
+		victory_points = {
+			6287 15 
+		}
+		buildings = {
+			infrastructure = 5
+			industrial_complex = 1
+			arms_factory = 1
+			dockyard = 1
+			air_base = 6
+			6287 = {
+				naval_base = 8
+			}
+
+		}
+		add_core_of = DEN
+	}
+
+	provinces={
+		3260 3305 3325 3374 6287 6393 13260 13261 
+	}
+	manpower=1141704
+	buildings_max_level_factor=1.000
+	state_category=large_town
+
+	local_supplies=10.0
+}

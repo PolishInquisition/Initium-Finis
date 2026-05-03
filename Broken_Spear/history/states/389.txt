@@ -1,0 +1,37 @@
+
+state={
+	id=389
+	name="STATE_389"
+	resources={
+		aluminium=5.000
+		oil=143.000
+	}
+
+	history={
+		owner = X45
+		victory_points = {
+			9671 1 
+		}
+		buildings = {
+			infrastructure = 2
+			industrial_complex = 0
+			arms_factory = 0
+			dockyard = 1
+			air_base = 0
+			610 = {
+				naval_base = 1
+			}
+
+		}
+		add_core_of = X45
+	}
+
+	provinces={
+		610 677 710 766 768 781 941 986 1432 1601 1651 3588 3644 3677 3678 3784 3840 4331 4518 4657 4727 6482 6665 6681 6694 6699 6745 6757 6772 6861 6876 6881 7667 9637 9671 9697 9713 9730 9814 9855 9911 10159 10387 10483 11658 11698 11757 11763 11795 11859 11876 12303 
+	}
+	manpower=1287804
+	buildings_max_level_factor=1.000
+	state_category=rural
+
+	local_supplies=10.0
+}

@@ -1,0 +1,45 @@
+
+state={
+	id=686
+	name="STATE_686"
+	resources={
+		steel=2.000
+	}
+
+	history={
+		owner = USA
+		victory_points = {
+			11654 10 
+		}
+		buildings = {
+			infrastructure = 1
+			industrial_complex = 1
+			arms_factory = 0
+			air_base = 5
+			859 = {
+				naval_base = 8
+			}
+			3878 = {
+				landmark_statue_of_liberty = {
+					level = 1
+					allowed = {
+						has_dlc = "Gotterdammerung"
+					}
+				}
+			}
+
+		}
+		add_core_of = USA
+		add_core_of = X90
+		add_claim_by = X35
+	}
+
+	provinces={
+		598 706 734 859 1436 3602 3702 3733 3747 3806 3878 3894 6707 6717 6778 6795 6911 6916 9664 9673 9693 9708 9721 9754 9774 10381 11650 11654 11660 11662 11665 11680 11722 
+	}
+	manpower=2806100
+	buildings_max_level_factor=1.000
+	state_category=large_town
+
+	local_supplies=10.0
+}

@@ -1,0 +1,16 @@
+characters={
+	BLR_piotr_suchoj={
+		name=BLR_piotr_suchoj
+		portraits={
+			civilian={
+				large="GFX_europe_generic_5"
+			}
+		}
+		country_leader={
+			ideology=conservatism
+			expire="1965.1.1.1"
+			id=-1
+		}
+	}
+
+}

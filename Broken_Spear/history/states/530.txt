@@ -1,0 +1,32 @@
+
+state={
+	id=530
+	name="STATE_530"
+
+	history={
+		owner = X71
+		victory_points = {
+			3707 1 
+		}
+		buildings = {
+			infrastructure = 2
+			industrial_complex = 0
+			arms_factory = 1
+			air_base = 0
+			3701 = {
+				naval_base = 10
+			}
+
+		}
+		add_core_of = X71
+	}
+
+	provinces={
+		565 3701 3704 3707 3724 6727 6743 9683 11686 
+	}
+	manpower=924968
+	buildings_max_level_factor=1.000
+	state_category=rural
+
+	local_supplies=10.0
+}

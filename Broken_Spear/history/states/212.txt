@@ -1,0 +1,37 @@
+
+state={
+	id=212
+	name="STATE_212"
+	resources={
+		aluminium=4.000
+		coal=55.000
+		steel=16.000
+	}
+
+	history={
+		owner = ENG
+		victory_points = {
+			377 2 
+		}
+		buildings = {
+			infrastructure = 4
+			industrial_complex = 2
+			arms_factory = 1
+			air_base = 1
+			377 = {
+				naval_base = 10
+			}
+
+		}
+		add_core_of = ENG
+	}
+
+	provinces={
+		253 311 377 407 3274 6363 9364 11361 
+	}
+	manpower=2426824
+	buildings_max_level_factor=1.000
+	state_category=large_town
+
+	local_supplies=10.0
+}

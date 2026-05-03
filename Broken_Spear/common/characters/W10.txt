@@ -1,0 +1,16 @@
+characters={
+	W10_hubert_fisher={
+		name=W10_hubert_fisher
+		portraits={
+			civilian={
+				large="GFX_Denmark_Erik_Scavenius"
+			}
+		}
+		country_leader={
+			ideology=liberalism
+			expire="1965.1.1.1"
+			id=-1
+		}
+	}
+
+}

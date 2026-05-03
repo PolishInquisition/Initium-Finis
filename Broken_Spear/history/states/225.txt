@@ -1,0 +1,36 @@
+
+state={
+	id=225
+	name="STATE_225"
+	resources={
+		chromium=20.000
+		steel=4.000
+		tungsten=6.000
+	}
+
+	history={
+		owner = W11
+		victory_points = {
+			7842 10 
+		}
+		buildings = {
+			infrastructure = 4
+			industrial_complex = 2
+			arms_factory = 1
+			air_base = 10
+
+		}
+		add_core_of = W11
+		add_core_of = W04
+		add_core_of = X75
+	}
+
+	provinces={
+		1874 2151 2216 4851 7842 10929 
+	}
+	manpower=1400888
+	buildings_max_level_factor=1.000
+	state_category=town
+
+	local_supplies=10.0
+}

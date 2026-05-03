@@ -1,0 +1,33 @@
+
+state={
+	id=728
+	name="STATE_728"
+	resources={
+		steel=1.000
+		tungsten=2.000
+	}
+
+	history={
+		owner = YUG
+		victory_points = {
+			9648 1 
+		}
+		buildings = {
+			infrastructure = 1
+			industrial_complex = 1
+			arms_factory = 0
+			air_base = 0
+
+		}
+		add_core_of = YUG
+	}
+
+	provinces={
+		653 668 3673 3674 6673 6687 6691 9646 9648 9650 9679 11612 
+	}
+	manpower=1131612
+	buildings_max_level_factor=1.000
+	state_category=rural
+
+	local_supplies=10.0
+}

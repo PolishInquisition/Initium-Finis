@@ -1,0 +1,36 @@
+characters={
+	X59_liao_ye={
+		name=X59_liao_ye
+		portraits={
+			navy={
+				large="GFX_Portrait_Asia_Generic_navy_2"
+			}
+			navy={
+				small="GFX_Portrait_Asia_Generic_navy_2"
+			}
+		}
+		navy_leader={
+			skill=2
+			attack_skill=2
+			defense_skill=1
+			maneuvering_skill=3
+			coordination_skill=1
+			legacy_id=0
+		}
+	}
+
+	X59_king_changxun_ii={
+		name=X59_king_changxun_ii
+		portraits={
+			civilian={
+				large="GFX_portrait_RNG_sun_dianying"
+			}
+		}
+		country_leader={
+			ideology=absolute_monarchy
+			expire="1965.1.1.1"
+			id=-1
+		}
+	}
+
+}

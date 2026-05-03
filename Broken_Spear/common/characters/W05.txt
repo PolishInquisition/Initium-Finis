@@ -1,0 +1,16 @@
+characters={
+	W05_mahengu_farhenga={
+		name=W05_mahengu_farhenga
+		portraits={
+			civilian={
+				large="GFX_South_Africa_Political_Leader_Generic"
+			}
+		}
+		country_leader={
+			ideology=conservatism
+			expire="1965.1.1.1"
+			id=-1
+		}
+	}
+
+}

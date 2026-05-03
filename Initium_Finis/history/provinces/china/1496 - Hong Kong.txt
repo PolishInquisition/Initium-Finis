@@ -1,8 +1,0 @@
-owner=YUE
-controller=YUE
-add_core=YUE
-trade_goods = tea
-life_rating = 32
-terrain = plains
-naval_base = 2
-fort = 1

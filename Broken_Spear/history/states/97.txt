@@ -1,0 +1,30 @@
+
+state={
+	id=97
+	name="STATE_97"
+
+	history={
+		owner = X11
+		victory_points = {
+			4045 1 
+		}
+		buildings = {
+			infrastructure = 4
+			industrial_complex = 1
+			arms_factory = 0
+			air_base = 1
+
+		}
+		add_core_of = RAJ
+		add_core_of = X11
+	}
+
+	provinces={
+		4045 
+	}
+	manpower=985780
+	buildings_max_level_factor=1.000
+	state_category=rural
+
+	local_supplies=10.0
+}

@@ -1,0 +1,15 @@
+focus_tree = {
+	id = W24_focus
+	
+	country = {
+		factor = 0
+		
+		modifier = {
+			add = 10
+			tag = W24
+		}
+	}
+	
+	default = no
+	
+}
